@@ -164,7 +164,7 @@
     "termsAndCondition": "Syarat dan ketentuan",
     "exit": "Exit",
     "playeronline": "Pengguna online",
-	"cockfight": "Sabungan"
+    "cockfight": "Sabungan"
   },
   "affiliate": {
     "title": "Afiliasi",
@@ -1119,7 +1119,8 @@
     "live": "VENUS"
   },
   "AWC_COCKFIGHT": {
-    "sports": "SV388"
+    "sports": "SV388",
+    "cockfight": "SV388"
   },
   "AWC_SPADE": {
     "electron": "SPADE",
@@ -1159,7 +1160,7 @@
     "sports": "TF Gaming",
     "esports": "TF"
   },
-   "SM01": {
+  "SM01": {
     "sports": "SM01",
     "cockfight": "SM01"
   },

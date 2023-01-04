@@ -164,7 +164,7 @@
     "termsAndCondition": "Các điều khoản và điều kiện",
     "exit": "Thoát",
     "playeronline": "người dùng trực tuyến",
-	"cockfight": "Đá gà"
+    "cockfight": "Đá gà"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -1123,7 +1123,8 @@
     "live": "VENUS"
   },
   "AWC_COCKFIGHT": {
-    "sports": "SV388"
+    "sports": "SV388",
+    "cockfight": "SV388"
   },
   "AWC_SPADE": {
     "electron": "SPADE",
@@ -1142,7 +1143,7 @@
     "sports": "TF",
     "esports": "TF"
   },
-   "SM01": {
+  "SM01": {
     "sports": "SM01",
     "cockfight": "SM01"
   },

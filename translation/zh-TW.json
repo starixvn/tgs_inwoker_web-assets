@@ -163,7 +163,7 @@
     "termsAndCondition": "條款和條件",
     "exit": "登出",
     "playeronline": "在線人數",
-	"cockfight": "鬥雞"
+    "cockfight": "鬥雞"
   },
   "affiliate": {
     "title": "推廣賺錢",
@@ -1133,7 +1133,8 @@
     "live": "VENUS真人"
   },
   "AWC_COCKFIGHT": {
-    "sports": "SV388鬥鷄"
+    "sports": "SV388鬥鷄",
+    "cockfight": "SV388"
   },
   "AWC_SPADE": {
     "electron": "SPADE電子",
@@ -1157,7 +1158,7 @@
     "sports": "TF體育",
     "esports": "TF電競"
   },
-   "SM01": {
+  "SM01": {
     "sports": "SM01",
     "cockfight": "SM01"
   },

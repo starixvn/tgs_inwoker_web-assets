@@ -164,7 +164,7 @@
     "termsAndCondition": "Terms and conditions",
     "exit": "Exit",
     "playeronline": "Online users",
-	"cockfight": "Cockfight"
+    "cockfight": "Cockfight"
   },
   "affiliate": {
     "title": "Affiliate",
@@ -1139,7 +1139,8 @@
     "live": "VENUS"
   },
   "AWC_COCKFIGHT": {
-    "sports": "SV388"
+    "sports": "SV388",
+    "cockfight": "SV388"
   },
   "AWC_SPADE": {
     "electron": "SPADE",
@@ -1158,7 +1159,7 @@
     "sports": "TF Gaming",
     "esports": "TF"
   },
-   "SM01": {
+  "SM01": {
     "sports": "SM01",
     "cockfight": "SM01"
   },

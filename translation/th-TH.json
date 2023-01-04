@@ -161,7 +161,7 @@
     "termsAndCondition": "ข้อกำหนดและเงื่อนไข",
     "exit": "ออกจากระบบ",
     "playeronline": "ผู้ใช้ออนไลน์",
-	"cockfight": "การชนไก่"
+    "cockfight": "การชนไก่"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
@@ -1125,7 +1125,8 @@
     "live": "VENUS"
   },
   "AWC_COCKFIGHT": {
-    "sports": "SV388"
+    "sports": "SV388",
+    "cockfight": "SV388"
   },
   "AWC_SPADE": {
     "electron": "SPADE",
@@ -1144,7 +1145,7 @@
     "sports": "TF Gaming",
     "esports": "TF"
   },
-   "SM01": {
+  "SM01": {
     "sports": "SM01",
     "cockfight": "SM01"
   },
