@@ -1106,7 +1106,8 @@
     "fish": "LEGaming"
   },
   "BC": {
-    "sports": "BetConstruct"
+    "sports": "BetConstruct",
+	"customsports": "BetConstruct"
   },
   "AVIA": {
     "sports": "AVIA Gaming",

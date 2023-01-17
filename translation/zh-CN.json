@@ -1126,7 +1126,8 @@
     "fish": "乐游捕鱼"
   },
   "BC": {
-    "sports": "Bet体育"
+    "sports": "Bet体育",
+	"customsports": "BC体育"
   },
   "AVIA": {
     "sports": "AVIA体育",
