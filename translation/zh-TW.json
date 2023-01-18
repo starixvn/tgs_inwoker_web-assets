@@ -598,10 +598,10 @@
       "title": "活動紀錄",
       "promoName": "活動名稱"
     },
-	"balanceChanges": {
+    "balanceChanges": {
       "title": "賬變記錄",
       "type": "交易類型",
-	  "amount": "交易金額"
+      "amount": "交易金額"
     },
     "dateTime": "時間",
 
@@ -1104,6 +1104,9 @@
   "DG": {
     "live": "DG真人"
   },
+  "DGTF": {
+    "live": "DG真人"
+  },
   "IDNLIVE": {
     "live": "IDN真人"
   },
@@ -1125,7 +1128,7 @@
   },
   "BC": {
     "sports": "Bet體育",
-	"customsports": "BC體育"
+    "customsports": "BC體育"
   },
   "AVIA": {
     "sports": "AVIA體育",

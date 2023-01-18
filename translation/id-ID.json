@@ -600,10 +600,10 @@
         "to": "Ke"
       }
     },
-	"balanceChanges": {
+    "balanceChanges": {
       "title": "Catatan Perubahan Akun",
       "type": "Tipe Transaksi",
-	  "amount": "Jumlah"
+      "amount": "Jumlah"
     },
     "dateTime": "Waktu",
     "betid": "ID",
@@ -1094,6 +1094,9 @@
   "DG": {
     "live": "DG Casino"
   },
+  "DGTF": {
+    "live": "DG Casino"
+  },
   "IDNLIVE": {
     "live": "IDN Casino"
   },
@@ -1112,7 +1115,7 @@
   },
   "BC": {
     "sports": "BetConstruct",
-	"customsports": "BetConstruct"
+    "customsports": "BetConstruct"
   },
   "AVIA": {
     "sports": "AVIA Gaming",

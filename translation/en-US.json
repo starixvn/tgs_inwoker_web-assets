@@ -606,10 +606,10 @@
         "to": "To"
       }
     },
-	"balanceChanges": {
+    "balanceChanges": {
       "title": "Balance Change Records",
       "type": "Transaction Type",
-	  "amount": "Amount"
+      "amount": "Amount"
     },
     "dateTime": "Time",
     "betid": "ID",
@@ -1111,6 +1111,9 @@
   "DG": {
     "live": "DG Casino"
   },
+  "DGTF": {
+    "live": "DG Casino"
+  },
   "IDNLIVE": {
     "live": "IDN Casino"
   },
@@ -1132,7 +1135,7 @@
   },
   "BC": {
     "sports": "BetConstruct",
-	"customsports": "BetConstruct"
+    "customsports": "BetConstruct"
   },
   "AVIA": {
     "sports": "AVIA Gaming",

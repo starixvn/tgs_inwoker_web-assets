@@ -605,10 +605,10 @@
         "to": "至"
       }
     },
-	"balanceChanges": {
+    "balanceChanges": {
       "title": "账变记录",
       "type": "交易类型",
-	  "amount": "交易金额"
+      "amount": "交易金额"
     },
     "dateTime": "时间",
 
@@ -1111,6 +1111,9 @@
   "DG": {
     "live": "DG真人"
   },
+  "DGTF": {
+    "live": "DG真人"
+  },
   "IDNLIVE": {
     "live": "IDN真人"
   },
@@ -1132,7 +1135,7 @@
   },
   "BC": {
     "sports": "Bet体育",
-	"customsports": "BC体育"
+    "customsports": "BC体育"
   },
   "AVIA": {
     "sports": "AVIA体育",

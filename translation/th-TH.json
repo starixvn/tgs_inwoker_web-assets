@@ -599,10 +599,10 @@
         "to": "ถึง"
       }
     },
-	"balanceChanges": {
+    "balanceChanges": {
       "title": "บันทึกการเปลี่ยนแปลงบัญชี",
       "type": "ประเภทธุรกรรม",
-	  "amount": "จำนวน"
+      "amount": "จำนวน"
     },
     "dateTime": "เวลา",
     "betDateTime": "เวลาเดิมพัน",
@@ -1097,6 +1097,9 @@
   "DG": {
     "live": "DG Casino"
   },
+  "DGTF": {
+    "live": "DG Casino"
+  },
   "IDNLIVE": {
     "live": "IDN Casino"
   },
@@ -1118,7 +1121,7 @@
   },
   "BC": {
     "sports": "BetConstruct",
-	"customsports": "BetConstruct"
+    "customsports": "BetConstruct"
   },
   "AVIA": {
     "sports": "AVIA Gaming",
