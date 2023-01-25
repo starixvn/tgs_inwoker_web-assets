@@ -1431,6 +1431,9 @@
     "slots": "เกมส์ตัวเลข"
   },
   "T13": {
+    "dialog": {
+      "confirm": "รับทราบ!"
+    },
     "winner": "ผู้ชนะ",
     "proceedLogin": "มีบัญชีอยู่แล้ว?",
     "proceedRegister": "ไม่มีบัญชี?",

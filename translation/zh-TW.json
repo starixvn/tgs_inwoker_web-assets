@@ -1447,6 +1447,9 @@
     "lottery": "彩球"
   },
   "T13": {
+    "dialog": {
+      "confirm": "知道了！"
+    },
     "winner": "贏家",
     "proceedLogin": "已有帳號？",
     "proceedRegister": "沒有賬號？",

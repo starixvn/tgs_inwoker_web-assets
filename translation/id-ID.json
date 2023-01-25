@@ -1463,6 +1463,9 @@
     "lottery": "Nomor"
   },
   "T13": {
+    "dialog": {
+      "confirm": "Mengerti!"
+    },
     "winner": "Pemenang",
     "proceedLogin": "Sudah punya akun?",
     "proceedRegister": "Belum punya akun?",

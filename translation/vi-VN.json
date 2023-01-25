@@ -1419,6 +1419,9 @@
     "lottery": "Bóng màu"
   },
   "T13": {
+    "dialog": {
+      "confirm": "Hiểu rồi!"
+    },
     "winner": "người chiến thắng",
     "proceedLogin": "Đã có tài khoản chưa?",
     "proceedRegister": "Chưa có tài khoản?",

@@ -1452,6 +1452,9 @@
     "lottery": "Number"
   },
   "T13": {
+    "dialog": {
+      "confirm": "Got it!"
+    },
     "winner": "Winners",
     "proceedLogin": "Already have an acocunt?",
     "proceedRegister": "Don't have an account?",
