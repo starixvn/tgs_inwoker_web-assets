@@ -1481,9 +1481,13 @@
       "reponsible": "Permainan yang Bertanggung Jawab",
       "follow": "Ikuti Kami"
     },
+
     "partners": "Mitra",
     "brandTag": "{brandName}: kasino pemenang!",
     "brandDescription": "{brandName} adalah tujuan utama untuk semua pemain kasino online yang mencari sentuhan kelas dan keanggunan dalam lingkungan permainan mereka. Kasino kami menyediakan lebih dari 400 permainan kasino online – beberapa tradisional dengan sentuhan modern, dan beberapa benar-benar baru, inovatif, dan eksotis. Dengan promosi bonus mingguan yang menarik dan program loyalitas dan VIP yang menarik, kami yakin Anda akan bertahan untuk sementara waktu. Semua perangkat lunak kami dikembangkan dan dikelola oleh industri online terkemuka perusahaan perangkat lunak game, Pegasus. Oleh karena itu, kami dapat menawarkan kepada Anda game-game mutakhir terbaru, dengan kualitas tertinggi dan keamanan tertinggi dalam suasana yang canggih namun menarik.",
-    "belongTo": "Situs web ini milik（PAGCOR）Philippine Amusement and Gaming Corporation Otorisasi dan pengawasan PGG Hak Cipta© 2020 PGG Casino Co.Group Versi Hak Cipta Dilindungi Undang-Undang {version}"
+    "belongTo": "Situs web ini milik（PAGCOR）Philippine Amusement and Gaming Corporation Otorisasi dan pengawasan PGG Hak Cipta© 2020 PGG Casino Co.Group Versi Hak Cipta Dilindungi Undang-Undang {version}",
+    "promo": {
+      "join": "Klaim Bonus"
+    }
   }
 }

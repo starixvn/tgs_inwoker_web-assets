@@ -1468,6 +1468,9 @@
     "partners": "合作夥伴",
     "brandTag": "{brandName}：一個成功的賭場！",
     "brandDescription": "{brandName} 是所有在線賭場玩家的首選目的地，他們希望在他們的遊戲環境中尋找一流和優雅的感覺。我們的賭場為您提供超過 400 種在線賭場遊戲 - 一些傳統與現代曲折，和 一些全新的、創新的和異國情調的。憑藉不可抗拒的每週獎金促銷和有吸引力的忠誠度和 VIP 計劃，我們相信您會在未來一段時間內堅持使用。我們所有的軟件都是由業界最重要的在線開發和維護的 遊戲軟件公司 Pegasus。因此，我們能夠在精緻而引人入勝的氛圍中為您提供最高質量和終極安全性的最新尖端遊戲。",
-    "belongTo": "本網站屬於（PAGCOR）菲律賓娛樂博彩公司授權和監管 PGG Copyright© 2020 PGG Casino Co.Group All Rights Reserved Version {version}"
+    "belongTo": "本網站屬於（PAGCOR）菲律賓娛樂博彩公司授權和監管 PGG Copyright© 2020 PGG Casino Co.Group All Rights Reserved Version {version}",
+    "promo": {
+      "join": "領取獎金"
+    }
   }
 }
