@@ -1458,6 +1458,10 @@
     "belongTo": "เว็บไซต์นี้เป็นของ（PAGCOR）Philippine Amusement and Gaming Corporation การอนุญาตและการกำกับดูแล PGG Copyright © 2020 PGG Casino Co.Group All Rights Reserved Version {version}",
     "promo": {
       "join": "รับโบนัส"
+    },
+    "slot": {
+      "search": "ค้นหา",
+      "provider": "ผู้ให้บริการ"
     }
   }
 }

@@ -1491,6 +1491,10 @@
     "belongTo": "Situs web ini milik（PAGCOR）Philippine Amusement and Gaming Corporation Otorisasi dan pengawasan PGG Hak Cipta© 2020 PGG Casino Co.Group Versi Hak Cipta Dilindungi Undang-Undang {version}",
     "promo": {
       "join": "Klaim Bonus"
+    },
+    "slot": {
+      "search": "Pencarian",
+      "provider": "Penyedia"
     }
   }
 }

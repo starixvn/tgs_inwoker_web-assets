@@ -1474,6 +1474,10 @@
     "belongTo": "本網站屬於（PAGCOR）菲律賓娛樂博彩公司授權和監管 PGG Copyright© 2020 PGG Casino Co.Group All Rights Reserved Version {version}",
     "promo": {
       "join": "領取獎金"
+    },
+    "slot": {
+      "search": "搜索",
+      "provider": "供應商"
     }
   }
 }

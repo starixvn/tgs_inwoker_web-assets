@@ -1446,6 +1446,10 @@
     "belongTo": "Trang web này thuộc về（PAGCOR）Philippine Entertainment and Gaming Corporation Ủy quyền và giám sát PGG Bản quyền © 2020 PGG Casino Co.Group Phiên bản bảo lưu mọi quyền {version}",
     "promo": {
       "join": "Yêu cầu tiền thưởng"
+    },
+    "slot": {
+      "search": "Tìm",
+      "provider": "nhà cung cấp"
     }
   }
 }
