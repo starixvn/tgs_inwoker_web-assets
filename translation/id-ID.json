@@ -43,6 +43,7 @@
     "pleaseEnterAccountName": "Silakan masukkan nama asli Anda",
     "noReachMin": "Nomor ponsel disetel ke 8 hingga {maxlength} digit",
     "upload": "Upload document",
+    "upload2": "Klik untuk memilih berkas",
     "title": "{brand}",
     "register": "Daftar",
     "login": "Masuk",
