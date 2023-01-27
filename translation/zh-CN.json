@@ -1460,6 +1460,11 @@
       "fb_label": "脸书账号",
       "fb_placeholder": "请输入您的脸书账号"
     },
+    "telegram": {
+      "tg_title": "电报",
+      "tg_label": "电报账号",
+      "tg_placeholder": "请输入您的电报账号"
+    },
     "help_footer": {
       "break1": "有问题吗？",
       "break2": "联系我们",

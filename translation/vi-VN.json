@@ -1425,6 +1425,11 @@
       "fb_label": "Tài khoản Facebook",
       "fb_placeholder": "Vui lòng nhập tài khoản facebook của bạn"
     },
+    "telegram": {
+      "tg_title": "Telegram",
+      "tg_label": "Tài khoản Telegram",
+      "tg_placeholder": "Vui lòng nhập tài khoản Telegram của bạn"
+    },
     "help_footer": {
       "break1": "Có câu hỏi?",
       "break2": "LIÊN HỆ VỚI CHÚNG TÔI",

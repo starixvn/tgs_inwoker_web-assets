@@ -1458,6 +1458,11 @@
       "fb_label": "Facebook Account",
       "fb_placeholder": "Please enter your facebook account"
     },
+    "telegram": {
+      "tg_title": "Telegram",
+      "tg_label": "Telegram Account",
+      "tg_placeholder": "Please enter your telegram account"
+    },
     "help_footer": {
       "break1": "Having questions?",
       "break2": "CONTACT US",

@@ -1469,6 +1469,11 @@
       "fb_label": "Akun Facebook",
       "fb_placeholder": "Masukkan akun facebook Anda"
     },
+    "telegram": {
+      "tg_title": "Telegram",
+      "tg_label": "Akun Telegram",
+      "tg_placeholder": "Masukkan akun telegram Anda"
+    },
     "help_footer": {
       "break1": "Ada pertanyaan?",
       "break2": "HUBUNGI KAMI",

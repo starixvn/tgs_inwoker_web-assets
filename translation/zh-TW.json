@@ -1453,6 +1453,11 @@
       "fb_label": "臉書賬號",
       "fb_placeholder": "請輸入您的臉書賬號"
     },
+    "telegram": {
+      "tg_title": "電報",
+      "tg_label": "電報賬號",
+      "tg_placeholder": "請輸入您的電報賬號"
+    },
     "help_footer": {
       "break1": "有問題嗎？",
       "break2": "聯繫我們",

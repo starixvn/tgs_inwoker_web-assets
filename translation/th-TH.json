@@ -1437,6 +1437,11 @@
       "fb_label": "บัญชีเฟสบุ๊ค",
       "fb_placeholder": "โปรดป้อนบัญชี Facebook ของคุณ"
     },
+    "telegram": {
+      "tg_title": "โทรเลข",
+      "tg_label": "โทรเลข",
+      "tg_placeholder": "โปรดป้อนหมายเลขโทรศัพท์ของคุณ"
+    },
     "help_footer": {
       "break1": "มีคำถาม?",
       "break2": "ติดต่อเรา",
