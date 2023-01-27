@@ -1453,6 +1453,14 @@
     "lottery": "Number"
   },
   "T13": {
+    "password": {
+      "title": "Login Password",
+      "cp": "Current Password",
+      "cp_label": "Current Password",
+      "cp_placeholder": "Enter current password",
+      "np": "New Password",
+      "re_np": "Re-enter New Password"
+    },
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Facebook Account",

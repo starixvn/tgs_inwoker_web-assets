@@ -1455,6 +1455,14 @@
     "lottery": "彩球"
   },
   "T13": {
+    "password": {
+      "title": "登录密码",
+      "cp": "当前密码",
+      "cp_label": "当前密码",
+      "cp_placeholder": "输入当前密码",
+      "np": "新密码",
+      "re_np": "重新输入新密码"
+    },
     "facebook": {
       "fb_title": "脸书",
       "fb_label": "脸书账号",

@@ -1420,6 +1420,14 @@
     "lottery": "Bóng màu"
   },
   "T13": {
+    "password": {
+      "title": "Mật khẩu đăng nhập",
+      "cp": "Mật khẩu hiện tại",
+      "cp_label": "Mật khẩu hiện tại",
+      "cp_placeholder": "Nhập mật khẩu hiện tại",
+      "np": "Mật khẩu mới",
+      "re_np": "Nhập lại mật khẩu mới"
+    },
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Tài khoản Facebook",

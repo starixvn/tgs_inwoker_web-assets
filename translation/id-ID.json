@@ -1464,6 +1464,14 @@
     "lottery": "Nomor"
   },
   "T13": {
+    "password": {
+      "title": "Masuk Kata Sandi",
+      "cp": "Kata Sandi Saat Ini",
+      "cp_label": "Kata Sandi Saat Ini",
+      "cp_placeholder": "Masukkan kata sandi saat ini",
+      "np": "Kata Sandi Baru",
+      "re_np": "Masukkan kembali Kata Sandi Baru"
+    },
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Akun Facebook",

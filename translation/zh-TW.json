@@ -1448,6 +1448,14 @@
     "lottery": "彩球"
   },
   "T13": {
+    "password": {
+      "title": "登錄密碼",
+      "cp": "當前密碼",
+      "cp_label": "當前密碼",
+      "cp_placeholder": "輸入當前密碼",
+      "np": "新密碼",
+      "re_np": "重新輸入新密碼"
+    },
     "facebook": {
       "fb_title": "臉書",
       "fb_label": "臉書賬號",
