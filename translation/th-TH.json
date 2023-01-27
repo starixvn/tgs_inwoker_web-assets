@@ -1432,6 +1432,11 @@
     "slots": "เกมส์ตัวเลข"
   },
   "T13": {
+    "facebook": {
+      "fb_title": "เฟสบุ๊ค",
+      "fb_label": "บัญชีเฟสบุ๊ค",
+      "fb_placeholder": "โปรดป้อนบัญชี Facebook ของคุณ"
+    },
     "help_footer": {
       "break1": "มีคำถาม?",
       "break2": "ติดต่อเรา",

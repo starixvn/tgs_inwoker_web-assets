@@ -1464,6 +1464,11 @@
     "lottery": "Nomor"
   },
   "T13": {
+    "facebook": {
+      "fb_title": "Facebook",
+      "fb_label": "Akun Facebook",
+      "fb_placeholder": "Masukkan akun facebook Anda"
+    },
     "help_footer": {
       "break1": "Ada pertanyaan?",
       "break2": "HUBUNGI KAMI",

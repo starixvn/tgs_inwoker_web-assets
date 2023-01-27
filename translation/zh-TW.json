@@ -1448,6 +1448,11 @@
     "lottery": "彩球"
   },
   "T13": {
+    "facebook": {
+      "fb_title": "臉書",
+      "fb_label": "臉書賬號",
+      "fb_placeholder": "請輸入您的臉書賬號"
+    },
     "help_footer": {
       "break1": "有問題嗎？",
       "break2": "聯繫我們",

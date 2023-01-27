@@ -1455,6 +1455,11 @@
     "lottery": "彩球"
   },
   "T13": {
+    "facebook": {
+      "fb_title": "脸书",
+      "fb_label": "脸书账号",
+      "fb_placeholder": "请输入您的脸书账号"
+    },
     "help_footer": {
       "break1": "有问题吗？",
       "break2": "联系我们",

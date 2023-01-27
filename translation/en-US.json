@@ -1453,6 +1453,11 @@
     "lottery": "Number"
   },
   "T13": {
+    "facebook": {
+      "fb_title": "Facebook",
+      "fb_label": "Facebook Account",
+      "fb_placeholder": "Please enter your facebook account"
+    },
     "help_footer": {
       "break1": "Having questions?",
       "break2": "CONTACT US",
