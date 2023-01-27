@@ -1465,6 +1465,11 @@
       "tg_label": "电报账号",
       "tg_placeholder": "请输入您的电报账号"
     },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Viber账号",
+      "vb_placeholder": "请输入您的Viber账号"
+    },
     "help_footer": {
       "break1": "有问题吗？",
       "break2": "联系我们",

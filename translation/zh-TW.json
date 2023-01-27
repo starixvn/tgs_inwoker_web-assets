@@ -1458,6 +1458,11 @@
       "tg_label": "電報賬號",
       "tg_placeholder": "請輸入您的電報賬號"
     },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Viber 賬號",
+      "vb_placeholder": "請輸入您的 Viber 賬號"
+    },
     "help_footer": {
       "break1": "有問題嗎？",
       "break2": "聯繫我們",

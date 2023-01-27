@@ -1430,6 +1430,11 @@
       "tg_label": "Tài khoản Telegram",
       "tg_placeholder": "Vui lòng nhập tài khoản Telegram của bạn"
     },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Tài khoản Viber",
+      "vb_placeholder": "Vui lòng nhập tài khoản Viber của bạn"
+    },
     "help_footer": {
       "break1": "Có câu hỏi?",
       "break2": "LIÊN HỆ VỚI CHÚNG TÔI",

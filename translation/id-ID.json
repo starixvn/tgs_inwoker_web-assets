@@ -1474,6 +1474,11 @@
       "tg_label": "Akun Telegram",
       "tg_placeholder": "Masukkan akun telegram Anda"
     },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Akun Viber",
+      "vb_placeholder": "Masukkan akun viber Anda"
+    },
     "help_footer": {
       "break1": "Ada pertanyaan?",
       "break2": "HUBUNGI KAMI",

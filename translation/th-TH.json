@@ -1442,6 +1442,11 @@
       "tg_label": "โทรเลข",
       "tg_placeholder": "โปรดป้อนหมายเลขโทรศัพท์ของคุณ"
     },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "บัญชี Viber",
+      "vb_placeholder": "โปรดป้อนบัญชี Viber ของคุณ"
+    },
     "help_footer": {
       "break1": "มีคำถาม?",
       "break2": "ติดต่อเรา",

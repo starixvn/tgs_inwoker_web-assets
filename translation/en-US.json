@@ -1463,6 +1463,11 @@
       "tg_label": "Telegram Account",
       "tg_placeholder": "Please enter your telegram account"
     },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Viber Account",
+      "vb_placeholder": "Please enter your viber account"
+    },
     "help_footer": {
       "break1": "Having questions?",
       "break2": "CONTACT US",
