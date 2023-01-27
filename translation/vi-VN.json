@@ -1420,6 +1420,11 @@
     "lottery": "Bóng màu"
   },
   "T13": {
+    "help_footer": {
+      "break1": "Có câu hỏi?",
+      "break2": "LIÊN HỆ VỚI CHÚNG TÔI",
+      "break3": "để được trợ giúp thêm"
+    },
     "dialog": {
       "confirm": "Hiểu rồi!"
     },

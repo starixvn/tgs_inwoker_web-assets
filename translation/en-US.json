@@ -1453,6 +1453,11 @@
     "lottery": "Number"
   },
   "T13": {
+    "help_footer": {
+      "break1": "Having questions?",
+      "break2": "CONTACT US",
+      "break3": "for more help"
+    },
     "dialog": {
       "confirm": "Got it!"
     },

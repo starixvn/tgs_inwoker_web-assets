@@ -1464,6 +1464,11 @@
     "lottery": "Nomor"
   },
   "T13": {
+    "help_footer": {
+      "break1": "Ada pertanyaan?",
+      "break2": "HUBUNGI KAMI",
+      "break3": "untuk bantuan lebih lanjut"
+    },
     "dialog": {
       "confirm": "Mengerti!"
     },
