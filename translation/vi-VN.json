@@ -1483,6 +1483,17 @@
     "slot": {
       "search": "Tìm",
       "provider": "nhà cung cấp"
+    },
+    "deposit": {
+      "upload": "Tải lên"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "Hồ sơ hoạt động"
+      },
+      "transfer": {
+        "title": "Bản ghi chuyển"
+      }
     }
   }
 }

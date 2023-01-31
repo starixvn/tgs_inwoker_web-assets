@@ -1495,6 +1495,17 @@
     "slot": {
       "search": "ค้นหา",
       "provider": "ผู้ให้บริการ"
+    },
+    "deposit": {
+      "upload": "อัปโหลด"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "บันทึกกิจกรรม"
+      },
+      "transfer": {
+        "title": "บันทึกการโอน"
+      }
     }
   }
 }

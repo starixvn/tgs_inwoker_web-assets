@@ -1448,10 +1448,10 @@
     "lottery": "彩球"
   },
   "T13": {
-	"register": {
-		"confirmPassword":"重複密碼",
-		"btn":"立即註冊"
-	},
+    "register": {
+      "confirmPassword": "重複密碼",
+      "btn": "立即註冊"
+    },
     "password": {
       "title": "登錄密碼",
       "cp": "當前密碼",
@@ -1511,6 +1511,17 @@
     "slot": {
       "search": "搜索",
       "provider": "供應商"
+    },
+    "deposit": {
+      "upload": "上傳"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "活動紀錄"
+      },
+      "transfer": {
+        "title": "轉賬記錄"
+      }
     }
   }
 }

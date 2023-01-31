@@ -1518,6 +1518,17 @@
     "slot": {
       "search": "Search",
       "provider": "提供商"
+    },
+    "deposit": {
+      "upload": "上传"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "活动纪录"
+      },
+      "transfer": {
+        "title": "转账记录"
+      }
     }
   }
 }

@@ -1453,10 +1453,10 @@
     "lottery": "Number"
   },
   "T13": {
-	 "register": {
-		"confirmPassword": "Re-enter Password",
-		"btn": "Join Now"
-	},
+    "register": {
+      "confirmPassword": "Re-enter Password",
+      "btn": "Join Now"
+    },
     "password": {
       "title": "Login Password",
       "cp": "Current Password",
@@ -1516,6 +1516,17 @@
     "slot": {
       "search": "Search",
       "provider": "Providers"
+    },
+    "deposit": {
+      "upload": "Choose file"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "Activity"
+      },
+      "transfer": {
+        "title": "Transfer"
+      }
     }
   }
 }

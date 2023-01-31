@@ -1464,10 +1464,10 @@
     "lottery": "Nomor"
   },
   "T13": {
-	 "register": {
-		"confirmPassword": "Konfirmasi Kata Sandi",
-		"btn": "Daftar Sekarang"
-	},
+    "register": {
+      "confirmPassword": "Konfirmasi Kata Sandi",
+      "btn": "Daftar Sekarang"
+    },
     "password": {
       "title": "Masuk Kata Sandi",
       "cp": "Kata Sandi Saat Ini",
@@ -1528,6 +1528,17 @@
     "slot": {
       "search": "Pencarian",
       "provider": "Penyedia"
+    },
+    "deposit": {
+      "upload": "Kirim"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "Laporan Kegiatan"
+      },
+      "transfer": {
+        "title": "Catatan Transfer"
+      }
     }
   }
 }
