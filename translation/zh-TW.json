@@ -1448,6 +1448,10 @@
     "lottery": "彩球"
   },
   "T13": {
+	"register": {
+		"confirmPassword":"重複密碼",
+		"btn":"立即註冊"
+	},
     "password": {
       "title": "登錄密碼",
       "cp": "當前密碼",

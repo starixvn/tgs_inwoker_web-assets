@@ -1464,6 +1464,10 @@
     "lottery": "Nomor"
   },
   "T13": {
+	 "register": {
+		"confirmPassword": "Konfirmasi Kata Sandi",
+		"btn": "Daftar Sekarang"
+	},
     "password": {
       "title": "Masuk Kata Sandi",
       "cp": "Kata Sandi Saat Ini",

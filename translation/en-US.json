@@ -1453,6 +1453,10 @@
     "lottery": "Number"
   },
   "T13": {
+	 "register": {
+		"confirmPassword": "Re-enter Password",
+		"btn": "Join Now"
+	},
     "password": {
       "title": "Login Password",
       "cp": "Current Password",

@@ -1420,6 +1420,10 @@
     "lottery": "Bóng màu"
   },
   "T13": {
+    "register": {
+      "confirmPassword": "Xác nhận mật khẩu",
+      "btn": "Đăng ký ngay"
+    },
     "password": {
       "title": "Mật khẩu đăng nhập",
       "cp": "Mật khẩu hiện tại",
