@@ -1421,7 +1421,9 @@
   },
   "T13": {
     "misc": {
-      "msgEnterCode": "Vui lòng nhập mã xác nhận"
+      "msgEnterCode": "Vui lòng nhập mã xác nhận",
+      "addBankCard": "Thêm thẻ ngân hàng",
+      "msgAddCardDesc": "Thêm một thẻ ngân hàng tại đây để rút tiền của bạn, tối đa {maxCardCount} thẻ."
     },
     "register": {
       "confirmPassword": "Xác nhận mật khẩu",

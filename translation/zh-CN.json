@@ -1456,7 +1456,9 @@
   },
   "T13": {
     "misc": {
-      "msgEnterCode": "请输入验证码"
+      "msgEnterCode": "请输入验证码",
+      "addBankCard": "添加银行卡",
+      "msgAddCardDesc": "在此处添加一张银行卡以提款，最多 {maxCardCount} 张卡。"
     },
     "register": {
       "confirmPassword": "重复密码",

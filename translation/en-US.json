@@ -1454,7 +1454,9 @@
   },
   "T13": {
     "misc": {
-      "msgEnterCode": "Please enter the verification code"
+      "msgEnterCode": "Please enter the verification code",
+      "addBankCard": "Add Bank Card",
+      "msgAddCardDesc": "Add a bank card here tyo withdraw your money, up to {maxCardCount} cards."
     },
     "register": {
       "confirmPassword": "Re-enter Password",

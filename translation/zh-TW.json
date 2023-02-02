@@ -1449,7 +1449,9 @@
   },
   "T13": {
     "misc": {
-      "msgEnterCode": "請輸入驗證碼"
+      "msgEnterCode": "請輸入驗證碼",
+      "addBankCard": "添加銀行卡",
+      "msgAddCardDesc": "在此處添加一張銀行卡以提款，最多 {maxCardCount} 張卡。"
     },
     "register": {
       "confirmPassword": "重複密碼",

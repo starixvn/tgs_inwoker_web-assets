@@ -1465,7 +1465,9 @@
   },
   "T13": {
     "misc": {
-      "msgEnterCode": "Masukkan kode verifikasi"
+      "msgEnterCode": "Masukkan kode verifikasi",
+      "addBankCard": "Tambahkan Kartu Bank",
+      "msgAddCardDesc": "Tambahkan kartu bank di sini untuk menarik uang Anda, hingga {maxCardCount} kartu."
     },
     "register": {
       "confirmPassword": "Konfirmasi Kata Sandi",
