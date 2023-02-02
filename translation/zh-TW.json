@@ -1448,6 +1448,9 @@
     "lottery": "彩球"
   },
   "T13": {
+    "misc": {
+      "msgEnterCode": "請輸入驗證碼"
+    },
     "register": {
       "confirmPassword": "重複密碼",
       "btn": "立即註冊"

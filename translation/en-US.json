@@ -1453,6 +1453,9 @@
     "lottery": "Number"
   },
   "T13": {
+    "misc": {
+      "msgEnterCode": "Please enter the verification code"
+    },
     "register": {
       "confirmPassword": "Re-enter Password",
       "btn": "Join Now"

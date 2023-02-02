@@ -1464,6 +1464,9 @@
     "lottery": "Nomor"
   },
   "T13": {
+    "misc": {
+      "msgEnterCode": "Masukkan kode verifikasi"
+    },
     "register": {
       "confirmPassword": "Konfirmasi Kata Sandi",
       "btn": "Daftar Sekarang"

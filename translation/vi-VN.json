@@ -1420,6 +1420,9 @@
     "lottery": "Bóng màu"
   },
   "T13": {
+    "misc": {
+      "msgEnterCode": "Vui lòng nhập mã xác nhận"
+    },
     "register": {
       "confirmPassword": "Xác nhận mật khẩu",
       "btn": "Đăng ký ngay"
