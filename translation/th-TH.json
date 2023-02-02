@@ -1450,6 +1450,11 @@
       "np": "รหัสผ่านใหม่",
       "re_np": "ป้อนรหัสผ่านใหม่อีกครั้ง"
     },
+    "line": {
+      "line_title": "LINE",
+      "line_label": "บัญชี LINE",
+      "line_placeholder": "โปรดป้อนบัญชี LINE ของคุณ"
+    },
     "qq": {
       "qq_title": "QQ",
       "qq_label": "QQ",

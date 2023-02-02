@@ -1471,6 +1471,11 @@
       "np": "New Password",
       "re_np": "Re-enter New Password"
     },
+    "line": {
+      "line_title": "LINE",
+      "line_label": "LINE account",
+      "line_placeholder": "Please enter your LINE account"
+    },
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Facebook Account",

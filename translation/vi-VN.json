@@ -1438,6 +1438,11 @@
       "np": "Mật khẩu mới",
       "re_np": "Nhập lại mật khẩu mới"
     },
+    "line": {
+      "line_title": "Line",
+      "line_label": "Tài khoản Line",
+      "line_placeholder": "Vui lòng nhập tài khoản Line của bạn"
+    },
     "qq": {
       "qq_title": "QQ",
       "qq_label": "Tài khoản QQ",

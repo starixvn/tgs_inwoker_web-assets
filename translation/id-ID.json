@@ -1482,6 +1482,11 @@
       "np": "Kata Sandi Baru",
       "re_np": "Masukkan kembali Kata Sandi Baru"
     },
+    "line": {
+      "line title": "LINE",
+      "line label": "LINE account",
+      "line placeholder": "Masukkan akun LINE Anda"
+    },
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Akun Facebook",

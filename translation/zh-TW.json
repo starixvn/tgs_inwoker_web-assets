@@ -1466,6 +1466,11 @@
       "np": "新密碼",
       "re_np": "重新輸入新密碼"
     },
+    "line": {
+      "line_title": "LINE",
+      "line_label": "LINE 賬號",
+      "line_placeholder": "請輸入您的 LINE 賬號"
+    },
     "facebook": {
       "fb_title": "臉書",
       "fb_label": "臉書賬號",

@@ -1473,6 +1473,11 @@
       "np": "新密码",
       "re_np": "重新输入新密码"
     },
+    "line": {
+      "line_title": "LINE",
+      "line_label": "LINE账号",
+      "line_placeholder": "请输入您的LINE账号"
+    },
     "qq": {
       "qq_title": "QQ",
       "qq_label": "QQ账号",
