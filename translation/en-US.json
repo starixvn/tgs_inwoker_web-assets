@@ -1476,6 +1476,16 @@
       "fb_label": "Facebook Account",
       "fb_placeholder": "Please enter your facebook account"
     },
+    "qq": {
+      "qq_title": "QQ",
+      "qq_label": "QQ Account",
+      "qq_placeholder": "Please enter your QQ account"
+    },
+    "wechat": {
+      "wc_title": "WeChat",
+      "wc_label": "WeChat Account",
+      "wc_placeholder": "Please enter your WeChat account"
+    },
     "telegram": {
       "tg_title": "Telegram",
       "tg_label": "Telegram Account",

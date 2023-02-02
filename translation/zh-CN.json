@@ -1473,6 +1473,16 @@
       "np": "新密码",
       "re_np": "重新输入新密码"
     },
+    "qq": {
+      "qq_title": "QQ",
+      "qq_label": "QQ账号",
+      "qq_placeholder": "请输入您的QQ账号"
+    },
+    "wechat": {
+      "wc_title": "微信",
+      "wc_label": "微信账号",
+      "wc_placeholder": "请输入您的微信账号"
+    },
     "facebook": {
       "fb_title": "脸书",
       "fb_label": "脸书账号",

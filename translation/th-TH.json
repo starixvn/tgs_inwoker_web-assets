@@ -1450,6 +1450,16 @@
       "np": "รหัสผ่านใหม่",
       "re_np": "ป้อนรหัสผ่านใหม่อีกครั้ง"
     },
+    "qq": {
+      "qq_title": "QQ",
+      "qq_label": "QQ",
+      "qq_placeholder": "โปรดป้อนหมายเลข QQ ของคุณ"
+    },
+    "wechat": {
+      "wc_title": "เวชชั่น",
+      "wc_label": "เวชชั่น",
+      "wc_placeholder": "โปรดป้อนหมายเลข WeChat ของคุณ"
+    },
     "facebook": {
       "fb_title": "เฟสบุ๊ค",
       "fb_label": "บัญชีเฟสบุ๊ค",

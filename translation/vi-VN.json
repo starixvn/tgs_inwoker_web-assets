@@ -1438,6 +1438,16 @@
       "np": "Mật khẩu mới",
       "re_np": "Nhập lại mật khẩu mới"
     },
+    "qq": {
+      "qq_title": "QQ",
+      "qq_label": "Tài khoản QQ",
+      "qq_placeholder": "Vui lòng nhập tài khoản QQ của bạn"
+    },
+    "wechat": {
+      "wc_title": "WeChat",
+      "wc_label": "Tài khoản WeChat",
+      "wc_placeholder": "Vui lòng nhập tài khoản WeChat của bạn"
+    },
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Tài khoản Facebook",
