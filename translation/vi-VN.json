@@ -38,6 +38,7 @@
     "join": "Tham gia"
   },
   "common": {
+    "currentEmail": "Email hiện tại",
     "nodata": "hông có thông tin",
     "maintenance": "Thời gian bảo trì",
     "pleaseEnterAccountName": "Vui lòng nhập tên tài khoản của bạn",

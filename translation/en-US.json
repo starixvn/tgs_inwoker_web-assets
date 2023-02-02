@@ -38,6 +38,7 @@
   },
 
   "common": {
+    "currentEmail": "Current Email Address",
     "nodata": "No data",
     "maintenance": "Maintenance Time",
     "pleaseEnterAccountName": "Please enter your real name",

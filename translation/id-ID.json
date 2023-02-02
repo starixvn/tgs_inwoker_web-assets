@@ -38,6 +38,7 @@
     "join": "Bergabung"
   },
   "common": {
+    "currentEmail": "Email Saat Ini",
     "nodata": "Tidak ada informasi",
     "maintenance": "Waktu Pemeliharaan",
     "pleaseEnterAccountName": "Silakan masukkan nama asli Anda",

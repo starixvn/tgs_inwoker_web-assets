@@ -37,6 +37,7 @@
   },
 
   "common": {
+    "currentEmail": "当前邮箱",
     "nodata": "查无资料",
     "maintenance": "维护时间",
     "pleaseEnterAccountName": "请输入银行名称",
