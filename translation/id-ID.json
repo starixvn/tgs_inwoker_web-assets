@@ -1561,6 +1561,12 @@
       "transfer": {
         "title": "Catatan Transfer"
       }
+    },
+    "vip": {
+      "level": "Ketentuan Promosi"
+    },
+    "panel": {
+      "im": "Hubungi Kami"
     }
   }
 }

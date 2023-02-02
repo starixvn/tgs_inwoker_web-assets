@@ -1549,6 +1549,12 @@
       "transfer": {
         "title": "Transfer"
       }
+    },
+    "vip": {
+      "level": "VIP \nLevel"
+    },
+    "panel": {
+      "im": "Contact Us !"
     }
   }
 }
