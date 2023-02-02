@@ -1423,7 +1423,8 @@
     "misc": {
       "msgEnterCode": "Vui lòng nhập mã xác nhận",
       "addBankCard": "Thêm thẻ ngân hàng",
-      "msgAddCardDesc": "Thêm một thẻ ngân hàng tại đây để rút tiền của bạn, tối đa {maxCardCount} thẻ."
+      "msgAddCardDesc": "Thêm một thẻ ngân hàng tại đây để rút tiền của bạn, tối đa {maxCardCount} thẻ.",
+      "chi nhánh": "Tên chi nhánh ngân hàng"
     },
     "register": {
       "confirmPassword": "Xác nhận mật khẩu",

@@ -1467,7 +1467,8 @@
     "misc": {
       "msgEnterCode": "Masukkan kode verifikasi",
       "addBankCard": "Tambahkan Kartu Bank",
-      "msgAddCardDesc": "Tambahkan kartu bank di sini untuk menarik uang Anda, hingga {maxCardCount} kartu."
+      "msgAddCardDesc": "Tambahkan kartu bank di sini untuk menarik uang Anda, hingga {maxCardCount} kartu.",
+      "branch": "Nama cabang bank"
     },
     "register": {
       "confirmPassword": "Konfirmasi Kata Sandi",

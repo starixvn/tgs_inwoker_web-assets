@@ -1435,7 +1435,8 @@
     "misc": {
       "msgEnterCode": "กรุณาใส่รหัสยืนยัน",
       "addBankCard": "เพิ่มบัตรธนาคาร",
-      "msgAddCardDesc": "เพิ่มบัตรธนาคารที่นี่เพื่อถอนเงินของคุณ สูงสุด {maxCardCount} ใบ"
+      "msgAddCardDesc": "เพิ่มบัตรธนาคารที่นี่เพื่อถอนเงินของคุณ สูงสุด {maxCardCount} ใบ",
+      "สาขา": "ชื่อสาขาของธนาคาร"
     },
     "register": {
       "confirmPassword": "รหัสผ่านซ้ำ",

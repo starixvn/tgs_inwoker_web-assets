@@ -1458,7 +1458,8 @@
     "misc": {
       "msgEnterCode": "请输入验证码",
       "addBankCard": "添加银行卡",
-      "msgAddCardDesc": "在此处添加一张银行卡以提款，最多 {maxCardCount} 张卡。"
+      "msgAddCardDesc": "在此处添加一张银行卡以提款，最多 {maxCardCount} 张卡。",
+      "branch": "银行分行名称"
     },
     "register": {
       "confirmPassword": "重复密码",

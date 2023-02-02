@@ -1456,7 +1456,8 @@
     "misc": {
       "msgEnterCode": "Please enter the verification code",
       "addBankCard": "Add Bank Card",
-      "msgAddCardDesc": "Add a bank card here tyo withdraw your money, up to {maxCardCount} cards."
+      "msgAddCardDesc": "Add a bank card here tyo withdraw your money, up to {maxCardCount} cards.",
+      "branch": "Bank branch name"
     },
     "register": {
       "confirmPassword": "Re-enter Password",
