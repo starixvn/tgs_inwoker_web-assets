@@ -1515,6 +1515,12 @@
       "transfer": {
         "title": "Bản ghi chuyển"
       }
+    },
+    "vip": {
+      "level": "Điều kiện khuyến mãi"
+    },
+    "panel": {
+      "im": "LH chúng tôi"
     }
   }
 }

@@ -1533,6 +1533,12 @@
       "transfer": {
         "title": "轉賬記錄"
       }
+    },
+    "vip": {
+      "level":"VIP計劃"
+    },
+    "panel": {
+      "im":"即時通訊"
     }
   }
 }

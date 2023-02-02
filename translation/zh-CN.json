@@ -1550,6 +1550,12 @@
       "transfer": {
         "title": "转账记录"
       }
+    },
+    "vip": {
+      "level": "VIP计划"
+    },
+    "panel": {
+      "im": "即时通讯"
     }
   }
 }
