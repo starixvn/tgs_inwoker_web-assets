@@ -1421,6 +1421,12 @@
     "lottery": "Bóng màu"
   },
   "T13": {
+    "socials": {
+      "fb_title": "Facebook",
+      "viber_title": "Viber",
+      "line_title": "LINE",
+      "telegram.title": "Telegram"
+    },
     "misc": {
       "msgEnterCode": "Vui lòng nhập mã xác nhận",
       "addBankCard": "Thêm thẻ ngân hàng",

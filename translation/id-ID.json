@@ -1465,6 +1465,12 @@
     "lottery": "Nomor"
   },
   "T13": {
+    "socials": {
+      "fb_title": "Facebook",
+      "viber_title": "Viber",
+      "line_title": "LINE",
+      "telegram.title": "Telegram"
+    },
     "misc": {
       "msgEnterCode": "Masukkan kode verifikasi",
       "addBankCard": "Tambahkan Kartu Bank",

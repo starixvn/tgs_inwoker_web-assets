@@ -1454,6 +1454,12 @@
     "lottery": "Number"
   },
   "T13": {
+    "socials": {
+      "fb_title": "Facebook",
+      "viber_title": "Viber",
+      "line_title": "LINE",
+      "telegram.title": "Telegram"
+    },
     "misc": {
       "msgEnterCode": "Please enter the verification code",
       "addBankCard": "Add Bank Card",
@@ -1473,10 +1479,12 @@
       "re_np": "Re-enter New Password"
     },
     "line": {
+      "title": "LINE",
       "line_title": "LINE",
       "line_label": "LINE account",
       "line_placeholder": "Please enter your LINE account"
     },
+
     "facebook": {
       "fb_title": "Facebook",
       "fb_label": "Facebook Account",

@@ -1449,6 +1449,12 @@
     "lottery": "彩球"
   },
   "T13": {
+    "socials": {
+      "fb_title": "臉書",
+      "viber_title": "Viber",
+      "line_title": "LINE",
+      "telegram.title": "電報"
+    },
     "misc": {
       "msgEnterCode": "請輸入驗證碼",
       "addBankCard": "添加銀行卡",
@@ -1536,10 +1542,10 @@
       }
     },
     "vip": {
-      "level":"VIP計劃"
+      "level": "VIP計劃"
     },
     "panel": {
-      "im":"即時通訊"
+      "im": "即時通訊"
     }
   }
 }
