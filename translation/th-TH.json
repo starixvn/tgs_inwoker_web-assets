@@ -1437,7 +1437,7 @@
       "fb_title": "Facebook",
       "viber_title": "Viber",
       "line_title": "LINE",
-      "telegram.title": "โทรเลข"
+      "telegram_title": "โทรเลข"
     },
     "misc": {
       "msgEnterCode": "กรุณาใส่รหัสยืนยัน",

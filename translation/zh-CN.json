@@ -1460,7 +1460,7 @@
       "fb_title": "脸书",
       "viber_title": "Viber",
       "line_title": "LINE",
-      "telegram.title": "电报"
+      "telegram_title": "电报"
     },
     "misc": {
       "msgEnterCode": "请输入验证码",

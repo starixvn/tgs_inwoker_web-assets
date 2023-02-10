@@ -1469,7 +1469,7 @@
       "fb_title": "Facebook",
       "viber_title": "Viber",
       "line_title": "LINE",
-      "telegram.title": "Telegram"
+      "telegram_title": "Telegram"
     },
     "misc": {
       "msgEnterCode": "Masukkan kode verifikasi",

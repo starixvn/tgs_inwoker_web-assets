@@ -1453,7 +1453,7 @@
       "fb_title": "臉書",
       "viber_title": "Viber",
       "line_title": "LINE",
-      "telegram.title": "電報"
+      "telegram_title": "電報"
     },
     "misc": {
       "msgEnterCode": "請輸入驗證碼",
