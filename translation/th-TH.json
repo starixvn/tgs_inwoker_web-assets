@@ -1433,6 +1433,10 @@
     "slots": "เกมส์ตัวเลข"
   },
   "T13": {
+    "footer": {
+      "copyright": "{brand} ลิขสิทธิ์© 2020 {brand} Casino Co.Group",
+      "rights": "สงวนลิขสิทธิ์"
+    },
     "socials": {
       "fb_title": "Facebook",
       "viber_title": "Viber",

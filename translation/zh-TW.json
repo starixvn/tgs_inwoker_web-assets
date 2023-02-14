@@ -1449,6 +1449,10 @@
     "lottery": "彩球"
   },
   "T13": {
+    "footer": {
+      "copyright": "{brand} Copyright© 2020 {brand} Casino Co.Group. ",
+      "rights": "All Rights Reserved."
+    },
     "socials": {
       "fb_title": "臉書",
       "viber_title": "Viber",

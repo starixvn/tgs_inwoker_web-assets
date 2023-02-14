@@ -1465,6 +1465,10 @@
     "lottery": "Nomor"
   },
   "T13": {
+    "footer": {
+      "copyright": "{brand} Hak Cipta© 2020 {brand} Casino Co.Group ",
+      "rights": "Semua hak dilindungi undang-undang."
+    },
     "socials": {
       "fb_title": "Facebook",
       "viber_title": "Viber",

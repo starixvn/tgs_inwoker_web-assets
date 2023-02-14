@@ -843,7 +843,7 @@
       "contactEmail": "Contact Email:cs@{brand}.com",
 
       "copyright": "This website belongs to（PAGCOR）Philippine Amusement and Gaming Corporation Authorization and supervision",
-      "copyrightLine2": "{brand} Copyright© 2020 {brand} Casino Co.Group All Rights Reserved"
+      "copyrightLine2": "{brand} Copyright© 2020 {brand} Casino Co.Group /n All Rights Reserved"
     },
     "login": {
       "login": "Login",
@@ -1454,6 +1454,10 @@
     "lottery": "Number"
   },
   "T13": {
+    "footer": {
+      "copyright": "{brand} Copyright© 2020 {brand} Casino Co.Group. ",
+      "rights": "All Rights Reserved."
+    },
     "socials": {
       "fb_title": "Facebook",
       "viber_title": "Viber",
