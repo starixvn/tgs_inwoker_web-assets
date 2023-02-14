@@ -1563,6 +1563,10 @@
     },
     "panel": {
       "im": "即时通讯"
-    }
+    },
+    "header": {
+      "news": "新闻"
+    },
+    "gamingLicense": "游戏许可证"
   }
 }

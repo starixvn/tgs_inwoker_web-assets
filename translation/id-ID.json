@@ -1573,6 +1573,10 @@
     },
     "panel": {
       "im": "Hubungi Kami"
-    }
+    },
+    "header": {
+      "news": "Berita"
+    },
+    "gamingLicense": "Lisensi Gaming"
   }
 }

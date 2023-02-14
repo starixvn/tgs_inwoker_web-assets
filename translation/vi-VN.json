@@ -1528,6 +1528,10 @@
     },
     "panel": {
       "im": "LH chúng tôi"
-    }
+    },
+    "header": {
+      "news": "Tin tức"
+    },
+    "gamingLicense": "Giấy phép chơi game"
   }
 }

@@ -1546,6 +1546,10 @@
     },
     "panel": {
       "im": "即時通訊"
-    }
+    },
+    "header": {
+      "news": "新聞"
+    },
+    "gamingLicense": "遊戲許可證"
   }
 }
