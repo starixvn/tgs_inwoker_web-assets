@@ -166,7 +166,8 @@
     "termsAndCondition": "Syarat dan ketentuan",
     "exit": "Exit",
     "playeronline": "Pengguna online",
-    "cockfight": "Sabungan"
+    "cockfight": "Sabungan",
+    "virtualsports": "Bintik maya"
   },
   "affiliate": {
     "title": "Afiliasi",
@@ -1584,5 +1585,11 @@
       "news": "Berita"
     },
     "gamingLicense": "Lisensi Gaming"
+  },
+  "rebateRate": {
+    "title": "Tingkat Rebate",
+    "players": "Pemain",
+    "turnover": "Pengeluaran",
+    "rebates": "Rebate"
   }
 }

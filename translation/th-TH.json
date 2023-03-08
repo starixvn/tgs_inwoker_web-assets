@@ -163,7 +163,8 @@
     "termsAndCondition": "ข้อกำหนดและเงื่อนไข",
     "exit": "ออกจากระบบ",
     "playeronline": "ผู้ใช้ออนไลน์",
-    "cockfight": "การชนไก่"
+    "cockfight": "การชนไก่",
+    "virtualsports": "กีฬาเสมือน"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
@@ -1551,5 +1552,11 @@
       "news": "ข่าว"
     },
     "gamingLicense": "ใบอนุญาตเล่นเกม"
+  },
+  "rebateRate": {
+    "title": "อัตราการคืนเงิน",
+    "players": "ผู้เล่น",
+    "turnover": "ยอดเงินเดิมพัน",
+    "rebates": "คืนเงิน"
   }
 }

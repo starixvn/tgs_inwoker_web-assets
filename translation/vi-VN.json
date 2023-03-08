@@ -166,7 +166,8 @@
     "termsAndCondition": "Các điều khoản và điều kiện",
     "exit": "Thoát",
     "playeronline": "người dùng trực tuyến",
-    "cockfight": "Đá gà"
+    "cockfight": "Đá gà",
+    "virtualsports": "Thể thao ảo"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -1539,5 +1540,11 @@
       "news": "Tin tức"
     },
     "gamingLicense": "Giấy phép chơi game"
+  },
+  "rebateRate": {
+    "title": "Tỷ lệ hoàn trả",
+    "players": "Người chơi",
+    "turnover": "Tổng số tiền cược",
+    "rebates": "Tiền hoàn trả"
   }
 }

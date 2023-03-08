@@ -165,7 +165,8 @@
     "termsAndCondition": "條款和條件",
     "exit": "登出",
     "playeronline": "在線人數",
-    "cockfight": "鬥雞"
+    "cockfight": "鬥雞",
+    "virtualsports": "虛擬體育"
   },
   "affiliate": {
     "title": "推廣賺錢",
@@ -1557,5 +1558,11 @@
       "news": "新聞"
     },
     "gamingLicense": "遊戲許可證"
+  },
+  "rebateRate": {
+    "title": "回扣率",
+    "players": "玩家",
+    "turnover": "分水",
+    "rebates": "回扣"
   }
 }

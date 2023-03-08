@@ -166,7 +166,8 @@
     "termsAndCondition": "Terms and conditions",
     "exit": "Exit",
     "playeronline": "Online users",
-    "cockfight": "Cockfight"
+    "cockfight": "Cockfight",
+    "virtualsports": "Virtual Sports"
   },
   "affiliate": {
     "title": "Affiliate",
@@ -1574,5 +1575,11 @@
       "news": "News"
     },
     "gamingLicense": "Gaming License"
+  },
+  "rebateRate": {
+    "title": "Rebate Rates",
+    "players": "Players",
+    "turnover": "Turnover",
+    "rebates": "Rebates"
   }
 }

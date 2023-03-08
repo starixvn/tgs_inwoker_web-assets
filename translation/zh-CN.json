@@ -165,7 +165,8 @@
     "termsAndCondition": "条款和条件",
     "exit": "登出",
     "playeronline": "在线人数",
-    "cockfight": "斗鸡"
+    "cockfight": "斗鸡",
+    "virtualsports": "虚拟体育"
   },
   "affiliate": {
     "title": "推广赚钱",
@@ -1574,5 +1575,11 @@
       "news": "新闻"
     },
     "gamingLicense": "游戏许可证"
+  },
+  "rebateRate": {
+    "title": "回扣率",
+    "players": "玩家",
+    "turnover": "分水",
+    "rebates": "回扣"
   }
 }
