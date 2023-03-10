@@ -1193,6 +1193,9 @@
   "NLC": {
     "slots": "NLC老虎机"
   },
+  "ENDOR": {
+    "slots": "Endorphina老虎机"
+  },
   "idr": {
     "withdrawalNumber": "银行卡号码",
     "msgEnterWithdrawalNumber": "请输入银行卡号码"

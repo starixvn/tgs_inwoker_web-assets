@@ -1188,6 +1188,9 @@
   "NLC": {
     "slots": "NLC"
   },
+  "ENDOR": {
+    "slots": "Endorphina"
+  },
   "idr": {
     "withdrawalNumber": "NOMOR REKENING",
     "msgEnterWithdrawalNumber": "Silahkan Masukkan Nomor Rekening"

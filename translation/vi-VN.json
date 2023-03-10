@@ -1168,6 +1168,9 @@
   "NLC": {
     "slots": "NLC"
   },
+  "ENDOR": {
+    "slots": "Endorphina"
+  },
   "idr": {
     "withdrawalNumber": "Số thẻ ngân hàng",
     "msgEnterWithdrawalNumber": "Vui lòng nhập số thẻ ngân hàng"
