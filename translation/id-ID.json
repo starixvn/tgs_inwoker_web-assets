@@ -1579,7 +1579,14 @@
       }
     },
     "vip": {
-      "level": "Ketentuan Promosi"
+      "level": "Ketentuan Promosi",
+      "levelKeepAccumulateBetAmount": "Jumlah taruhan yang diperlukan pada bulan ini untuk mempertahankan degradasi",
+      "levelKeepAccumulateDeposit": "Deposit diperlukan untuk bulan ini untuk mempertahankan level",
+      "levelUpAccumulateBetAmount": "Jumlah taruhan yang diperlukan pada bulan ini untuk maju",
+      "levelUpAccumulateDeposit": "Deposit diperlukan untuk bulan promosi",
+      "birthBenefit": "Hadiah Ulang Tahun",
+      "promotionBenefit": "Manfaat Promosi",
+      "quarterlyBenefit": "Manfaat Triwulanan"
     },
     "panel": {
       "im": "Hubungi Kami"

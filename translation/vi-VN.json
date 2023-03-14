@@ -1534,7 +1534,14 @@
       }
     },
     "vip": {
-      "level": "Điều kiện khuyến mãi"
+      "level": "Điều kiện khuyến mãi",
+      "levelKeepAccumulateBetAmount": "Số tiền đặt cược bắt buộc trong tháng hiện tại để giữ suất xuống hạng",
+      "levelKeepAccumulateDeposit": "Cần đặt cọc cho tháng hiện tại để duy trì cấp độ",
+      "levelUpAccumulateBetAmount": "Số tiền đặt cược cần thiết trong tháng hiện tại để ứng trước",
+      "levelUpAccumulateDeposit": "Cần đặt cọc cho tháng khuyến mãi",
+      "birthBenefit": "Quà tặng sinh nhật",
+      "promotionBenefit": "Lợi ích từ Khuyến mãi",
+      "quarterlyBenefit": "Lợi ích hàng quý"
     },
     "panel": {
       "im": "LH chúng tôi"

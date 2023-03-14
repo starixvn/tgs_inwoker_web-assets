@@ -1569,7 +1569,14 @@
       }
     },
     "vip": {
-      "level": "VIP计划"
+      "level": "VIP计划",
+      "levelKeepAccumulateBetAmount":"保级当月所需投注量",
+      "levelKeepAccumulateDeposit": "保级当月所需存款量",
+      "levelUpAccumulateBetAmount": "晋级当日所需投注量",
+      "levelUpAccumulateDeposit": "晋级当日所需存款量",
+      "birthBenefit": "生日礼金",
+      "promotionBenefit": "优惠活动利益",
+      "quarterlyBenefit": "季度利益"
     },
     "panel": {
       "im": "即时通讯"
