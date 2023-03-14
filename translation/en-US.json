@@ -1187,6 +1187,9 @@
   "NLC": {
     "slots": "NLC"
   },
+  "ENDOR": {
+    "slots": "Endorphina"
+  },
   "idr": {
     "withdrawalNumber": "Bank card number",
     "msgEnterWithdrawalNumber": "Please enter bank card number"
@@ -1566,7 +1569,14 @@
       }
     },
     "vip": {
-      "level": "VIP \nLevel"
+      "level": "VIP \nLevel",
+      "levelKeepAccumulateBetAmount": "Quarterly T/O to Maintain",
+      "levelKeepAccumulateDeposit": "Quarterly Deposit to Maintain",
+      "levelUpAccumulateBetAmount": "Daily T/O to level UP",
+      "levelUpAccumulateDeposit": "Daily Deposit to level UP",
+      "birthBenefit": "Birthday Bonus",
+      "promotionBenefit": "Level UP Bonus",
+      "quarterlyBenefit": "Quarterly Bonus"
     },
     "panel": {
       "im": "Contact Us !"

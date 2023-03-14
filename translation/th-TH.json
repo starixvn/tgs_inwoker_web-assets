@@ -1173,6 +1173,9 @@
   "NLC": {
     "slots": "NLC"
   },
+  "ENDOR": {
+    "slots": "Endorphina"
+  },
   "idr": {
     "withdrawalNumber": "หมายเลขบัตรธนาคาร",
     "msgEnterWithdrawalNumber": "โปรดป้อนหมายเลขบัตรธนาคาร"
@@ -1543,7 +1546,14 @@
       }
     },
     "vip": {
-      "level": "เงื่อนไขโปรโมชั่น"
+      "level": "เงื่อนไขโปรโมชั่น",
+      "levelKeepAccumulateBetAmount": "จำนวนเงินเดิมพันที่ต้องการในเดือนปัจจุบันเพื่อรักษาการตกชั้น",
+      "levelKeepAccumulateDeposit": "การฝากที่จำเป็นสำหรับเดือนปัจจุบันเพื่อรักษาระดับ",
+      "levelUpAccumulateBetAmount": "จำนวนเงินเดิมพันที่ต้องการในเดือนปัจจุบันเพื่อล่วงหน้า",
+      "levelUpAccumulateDeposit": "การฝากที่จำเป็นสำหรับเดือนโปรโมชั่น",
+      "birthBenefit": "ของขวัญวันเกิด",
+      "promotionBenefit": "โปรโมชั่นผลประโยชน์",
+      "quarterlyBenefit": "ผลประโยชน์รายไตรมาส"
     },
     "panel": {
       "im": "IM"

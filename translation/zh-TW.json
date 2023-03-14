@@ -1186,6 +1186,9 @@
   "NLC": {
     "slots": "NLC老虎機"
   },
+  "ENDOR": {
+    "slots": "Endorphina老虎機"
+  },
   "idr": {
     "withdrawalNumber": "銀行卡號碼",
     "msgEnterWithdrawalNumber": "請輸入銀行卡號碼"
@@ -1549,7 +1552,14 @@
       }
     },
     "vip": {
-      "level": "VIP計劃"
+      "level": "VIP計劃",
+      "levelKeepAccumulateBetAmount": "保級當月所需投注量",
+      "levelKeepAccumulateDeposit": "保級當月所需存款量",
+      "levelUpAccumulateBetAmount": "晉級當日所需投注量",
+      "levelUpAccumulateDeposit": "晉級當日所需存款量",
+      "birthBenefit": "生日禮金",
+      "promotionBenefit": "優惠活動利益",
+      "quarterlyBenefit": "季度利益"
     },
     "panel": {
       "im": "即時通訊"
