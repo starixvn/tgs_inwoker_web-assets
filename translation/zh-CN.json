@@ -997,7 +997,8 @@
   "SWTF": {
     "live": "SW真人",
     "slots": "SW老虎机",
-    "electron": "SW电子"
+    "electron": "SW电子",
+    "fish": "SW捕鱼"
   },
   "SBO": {
     "sports": "SBO体育"
@@ -1570,7 +1571,7 @@
     },
     "vip": {
       "level": "VIP计划",
-      "levelKeepAccumulateBetAmount":"保级当月所需投注量",
+      "levelKeepAccumulateBetAmount": "保级当月所需投注量",
       "levelKeepAccumulateDeposit": "保级当月所需存款量",
       "levelUpAccumulateBetAmount": "晋级当日所需投注量",
       "levelUpAccumulateDeposit": "晋级当日所需存款量",
