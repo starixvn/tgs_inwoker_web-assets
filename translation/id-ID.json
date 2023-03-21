@@ -992,7 +992,7 @@
     "sports": "SBO"
   },
   "SBOTF": {
-    "sports": "SBOTF"
+    "sports": "SBO"
   },
   "IMES": {
     "sports": "IM",
@@ -1017,9 +1017,9 @@
     "desc": "Memenangkan harta secara online tidak membosankan. Ada banyak permainan dan mesin slot di sini. Jika Anda ingin merasakan lebih banyak gameplay, Anda harus datang ke sini!"
   },
   "JDBTF": {
-    "slots": "JDBTF Slots",
-    "fish": "JDBTF Fishing",
-    "electron": "JDBTF",
+    "slots": "JDB Slots",
+    "fish": "JDB Fishing",
+    "electron": "JDB",
     "desc": "Memenangkan harta secara online tidak membosankan. Ada banyak permainan dan mesin slot di sini. Jika Anda ingin merasakan lebih banyak gameplay, Anda harus datang ke sini!"
   },
   "JILI": {
@@ -1027,9 +1027,9 @@
     "fish": "JILI"
   },
   "JILITF": {
-    "slots": "JILITF Slots",
-    "fish": "JILITF Fishing",
-    "electron": "JILITF"
+    "slots": "JILI Slots",
+    "fish": "JILI Fishing",
+    "electron": "JILI"
   },
   "JOKER": {
     "slots": "JOKER",
@@ -1109,7 +1109,7 @@
     "live": "IDN Casino"
   },
   "TCG_SEA": {
-    "lottery": "TCG SEA"
+    "lottery": "TCGAMING"
   },
   "TCG_LOTTO": {
     "lottery": "TCG"
@@ -1118,8 +1118,8 @@
     "lottery": "TCG VN"
   },
   "LY": {
-    "chess": "LEGaming",
-    "fish": "LEGaming"
+    "chess": "LY",
+    "fish": "LY"
   },
   "BC": {
     "sports": "BetConstruct",
@@ -1140,9 +1140,9 @@
     "cockfight": "SV388"
   },
   "AWC_SPADE": {
-    "electron": "SPADE",
-    "fish": "SPADE",
-    "slots": "SPADE"
+    "electron": "Spade Gaming",
+    "fish": "Spade Gaming",
+    "slots": "Spade Gaming"
   },
   "AWC_FACAI": {
     "electron": "FACHAI",
@@ -1155,22 +1155,22 @@
     "fish": "FACHAI"
   },
   "AWC_PGS": {
-    "electron": "PGS",
-    "slots": "PGS"
+    "electron": "PGSoft",
+    "slots": "PGSoft"
   },
   "AWC_AWS": {
     "electron": "AWS",
     "slots": "AWS"
   },
   "AWC_FS": {
-    "slots": "FS"
+    "slots": "Fast Spin"
   },
   "AWC_YL": {
     "electron": "YL",
     "fish": "YL"
   },
   "AWC_KM": {
-    "electron": "KM"
+    "electron": "KingMaker"
   },
   "AWC_LUDO": {
     "electron": "LUDO"
