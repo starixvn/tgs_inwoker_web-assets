@@ -1145,9 +1145,9 @@
     "slots": "SPADE"
   },
   "AWC_FACAI": {
-    "electron": "FACAI",
-    "slots": "FACAI",
-    "fish": "FACAI"
+    "electron": "FACHAI",
+    "slots": "FACHAI",
+    "fish": "FACHAI"
   },
   "FACHAI": {
     "electron": "FACHAI",
