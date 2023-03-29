@@ -1606,6 +1606,8 @@
     "approved": "Success",
     "rejected": "Rejected",
     "review": "Waiting",
-    "paid": "Success"
+    "paid": "Success",
+    "DepositNotify": "Deposit Form",
+    "WithdrawNotify": "Withdrawal Form"
   }
 }

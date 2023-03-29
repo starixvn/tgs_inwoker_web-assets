@@ -1620,6 +1620,8 @@
     "approved": "Sukses",
     "rejected": "Ditolak",
     "review": "Menunggu",
-    "paid": "Sukses"
+    "paid": "Sukses",
+    "DepositNotify": "Transaksi Deposit",
+    "WithdrawNotify": "Transaksi Withdrawal "
   }
 }
