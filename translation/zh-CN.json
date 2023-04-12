@@ -1619,6 +1619,7 @@
     "review": "等待审核",
     "paid": "已支付",
     "DepositNotify": "存款单",
+    "WithdrawNotify": "提款单",
     "WithdrawalNotify": "提款单"
   }
 }

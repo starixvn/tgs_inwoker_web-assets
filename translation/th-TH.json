@@ -1591,6 +1591,7 @@
     "review": "รอการตรวจสอบ",
     "paid": "จ่ายเงินแล้ว",
     "DepositNotify": "ฝากเงินแล้ว",
+    "WithdrawNotify": "ถอนเงินแล้ว",
     "WithdrawalNotify": "ถอนเงินแล้ว"
   }
 }

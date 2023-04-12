@@ -1628,6 +1628,7 @@
     "review": "Menunggu",
     "paid": "Sukses",
     "DepositNotify": "Transaksi Deposit",
-    "WithdrawNotify": "Transaksi Withdrawal "
+    "WithdrawNotify": "Transaksi Withdrawal ",
+    "WithdrawalNotify": "Transaksi Withdrawal "
   }
 }

@@ -1614,6 +1614,7 @@
     "review": "Waiting",
     "paid": "Success",
     "DepositNotify": "Deposit Form",
-    "WithdrawNotify": "Withdrawal Form"
+    "WithdrawNotify": "Withdrawal Form",
+    "WithdrawalNotify": "Withdrawal Form"
   }
 }

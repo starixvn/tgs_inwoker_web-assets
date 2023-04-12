@@ -1579,6 +1579,7 @@
     "review": "Đang chờ xử lý",
     "paid": "Đã thanh toán",
     "DepositNotify": "Hình thức gửi tiền",
+    "WithdrawNotify": "ình thức rút tiền",
     "WithdrawalNotify": "ình thức rút tiền"
   }
 }
