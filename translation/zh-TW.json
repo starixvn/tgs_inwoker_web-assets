@@ -1158,6 +1158,12 @@
     "fish": "SPADE捕魚",
     "slots": "SPADE老虎機"
   },
+  "OBET": {
+    "sports": "OBET體育"
+  },
+  "YEEBET": {
+    "live": "YEEBET"
+  },
   "AWC_FACAI": {
     "electron": "發財電子",
     "slots": "發財老虎機",
