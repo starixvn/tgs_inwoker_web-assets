@@ -1615,7 +1615,7 @@
     "amount": "金额",
     "status": "状态",
     "approved": "成功",
-    "rejected": "审核未通过",
+    "rejected": "已拒绝",
     "review": "待支付",
     "paid": "已支付",
     "DepositNotify": "存款单",
