@@ -1625,7 +1625,7 @@
     "status": "Status",
     "approved": "Sukses",
     "rejected": "Ditolak",
-    "review": "Menunggu",
+    "withdrawal_approved": "Menunggu",
     "paid": "Sukses",
     "DepositNotify": "Transaksi Deposit",
     "WithdrawNotify": "Transaksi Withdrawal ",

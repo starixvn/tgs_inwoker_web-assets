@@ -1588,7 +1588,7 @@
     "status": "สถานะ",
     "approved": "อนุมัติแล้ว",
     "rejected": "ไม่ผ่านการอนุมัติ",
-    "review": "รอการตรวจสอบ",
+    "withdrawal_approved": "รอการตรวจสอบ",
     "paid": "จ่ายเงินแล้ว",
     "DepositNotify": "ฝากเงินแล้ว",
     "WithdrawNotify": "ถอนเงินแล้ว",

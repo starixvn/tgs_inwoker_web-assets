@@ -1611,7 +1611,7 @@
     "status": "Status",
     "approved": "Success",
     "rejected": "Rejected",
-    "review": "Waiting",
+    "withdrawal_approved": "Waiting",
     "paid": "Success",
     "DepositNotify": "Deposit Form",
     "WithdrawNotify": "Withdrawal Form",

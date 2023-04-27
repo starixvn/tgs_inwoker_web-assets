@@ -1576,7 +1576,7 @@
     "status": "Trạng thái",
     "approved": "Đã duyệt",
     "rejected": "Không được duyệt",
-    "review": "Đang chờ xử lý",
+    "withdrawal_approved": "Đang chờ xử lý",
     "paid": "Đã thanh toán",
     "DepositNotify": "Hình thức gửi tiền",
     "WithdrawNotify": "ình thức rút tiền",

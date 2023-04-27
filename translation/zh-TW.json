@@ -1598,7 +1598,7 @@
     "status": "狀態",
     "approved": "成功",
     "rejected": "已拒絕",
-    "review": "待支付",
+    "withdrawal_approved": "待支付",
     "paid": "已支付",
     "DepositNotify": "存款單",
     "WithdrawNotify": "提款單",
