@@ -1619,5 +1619,10 @@
     "DepositNotify": "Deposit Form",
     "WithdrawNotify": "Withdrawal Form",
     "WithdrawalNotify": "Withdrawal Form"
+  },
+  "t15": {
+    "notLogin": "You are not logged in!",
+    "logintoCheck": "Check after login",
+    "serverStatus": "Server Status"
   }
 }

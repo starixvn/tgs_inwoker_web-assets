@@ -1633,5 +1633,10 @@
     "DepositNotify": "Transaksi Deposit",
     "WithdrawNotify": "Transaksi Withdrawal ",
     "WithdrawalNotify": "Transaksi Withdrawal "
+  },
+  "t15": {
+    "notLogin": "Anda belum masuk log!",
+    "logintoCheck": "Periksa setelah masuk",
+    "serverStatus": "Status Server"
   }
 }

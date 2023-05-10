@@ -1596,5 +1596,10 @@
     "DepositNotify": "ฝากเงินแล้ว",
     "WithdrawNotify": "ถอนเงินแล้ว",
     "WithdrawalNotify": "ถอนเงินแล้ว"
+  },
+  "t15": {
+    "notLogin": "คุณยังไม่ได้เข้าสู่ระบบ!",
+    "logintoCheck": "ตรวจสอบหลังจากเข้าสู่ระบบ",
+    "serverStatus": "สถานะเซิร์ฟเวอร์"
   }
 }

@@ -1624,5 +1624,11 @@
     "DepositNotify": "存款单",
     "WithdrawNotify": "提款单",
     "WithdrawalNotify": "提款单"
+  },
+
+  "t15": {
+    "notLogin": "您还未登录！",
+    "logintoCheck": "登录后查看",
+    "serverStatus": "服务器情况"
   }
 }

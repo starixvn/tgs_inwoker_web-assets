@@ -1584,5 +1584,11 @@
     "DepositNotify": "Hình thức gửi tiền",
     "WithdrawNotify": "ình thức rút tiền",
     "WithdrawalNotify": "ình thức rút tiền"
+  },
+
+  "t15": {
+    "notLogin": "Bạn chưa đăng nhập!",
+    "logintoCheck": "Kiểm tra sau khi đăng nhập",
+    "serverStatus": "Trạng thái máy chủ"
   }
 }

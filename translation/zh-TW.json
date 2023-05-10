@@ -1606,5 +1606,10 @@
     "DepositNotify": "存款單",
     "WithdrawNotify": "提款單",
     "WithdrawalNotify": "提款單"
+  },
+  "t15": {
+    "notLogin": "您還未登錄！",
+    "logintoCheck": "登錄後查看",
+    "serverStatus": "服務器情況"
   }
 }
