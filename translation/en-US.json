@@ -900,7 +900,7 @@
       "transfer": "Transfer",
       "report": "Report",
       "profile": "Profile",
-      "inbox": "inbox",
+      "inbox": "Inbox",
       "affiliate": "Affiliate",
       "header": {
         "lastLogin": "Last Login",
@@ -1628,6 +1628,15 @@
   "t15": {
     "notLogin": "You are not logged in!",
     "logintoCheck": "Check after login",
-    "serverStatus": "Server Status"
+    "serverStatus": "Server Status",
+    "sponsor": "Sponsor",
+    "memberLogin": "Member Login",
+    "memberRegister": "Member Register",
+    "sponsor1": "Liverpool",
+    "sponsor2": "Fiorentina",
+    "sponsor3": "Real Sociedad",
+    "sponsor4": "Lyon",
+    "sponsor5": "Schalke 04",
+    "sponsorDesc": "Official Asian Partner"
   }
 }

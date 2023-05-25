@@ -1615,6 +1615,15 @@
   "t15": {
     "notLogin": "您還未登錄！",
     "logintoCheck": "登錄後查看",
-    "serverStatus": "服務器情況"
+    "serverStatus": "服務器情況",
+	"sponsor": "贊助",
+	"memberLogin": "會員登錄",
+	"memberRegister": "會員注冊",
+	"sponsor1": "利物浦",
+	"sponsor2": "費倫天拿",
+	"sponsor3": "皇家蘇斯達",
+	"sponsor4": "里昂",
+	"sponsor5": "史浩克04",
+	"sponsorDesc": "亞洲官方合作夥伴"
   }
 }
