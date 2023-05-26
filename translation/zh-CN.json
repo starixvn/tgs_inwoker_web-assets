@@ -997,6 +997,9 @@
     "slots": "SW老虎机",
     "electron": "SW电子"
   },
+  "PINNACLE": {
+    "sports": "Pinnacle体育"
+  },
   "SWTF": {
     "live": "SW真人",
     "slots": "SW老虎机",
@@ -1635,14 +1638,14 @@
     "notLogin": "您还未登录！",
     "logintoCheck": "登录后查看",
     "serverStatus": "服务器情况",
-	"sponsor":"赞助",
-	"memberLogin":"会员登录",
-	"memberRegister":"会员注册",
-	"sponsor1": "利物浦",
-	"sponsor2": "费伦天拿",
-	"sponsor3": "皇家苏斯达",
-	"sponsor4": "里昂",
-	"sponsor5": "史浩克04",
-	"sponsorDesc": "亚洲官方合作伙伴"
+    "sponsor": "赞助",
+    "memberLogin": "会员登录",
+    "memberRegister": "会员注册",
+    "sponsor1": "利物浦",
+    "sponsor2": "费伦天拿",
+    "sponsor3": "皇家苏斯达",
+    "sponsor4": "里昂",
+    "sponsor5": "史浩克04",
+    "sponsorDesc": "亚洲官方合作伙伴"
   }
 }
