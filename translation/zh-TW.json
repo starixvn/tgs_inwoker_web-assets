@@ -1628,5 +1628,20 @@
     "sponsor4": "里昂",
     "sponsor5": "史浩克04",
     "sponsorDesc": "亞洲官方合作夥伴"
-  }
+  },
+
+  "qq_invalid": "QQ帳號格式不正確",
+  "qq_toEdit": "如需修改QQ帳號，請點擊",
+  "wechat_invalid": "微信帳號格式不正確",
+  "wechat_toEdit": "如需修改微信帳號，請點擊",
+  "line_invalid": "Line帳號格式不正確",
+  "line_toEdit": "如需修改Line帳號，請點擊",
+  "viber_invalid": "Viber帳號格式不正確",
+  "viber_toEdit": "如需修改Viber帳號，請點擊",
+  "telegram_invalid": "Telegram帳號格式不正確",
+  "telegram_toEdit": "如需修改Telegram帳號，請點擊",
+  "fb_invalid": "Facebook Messenger帳號格式不正確",
+  "fb_toEdit": "如需修改Facebook Messenger帳號，請點擊",
+  "whatsapp_invalid": "WhatsApp帳號格式不正確",
+  "whatsapp_toEdit": "如需修改WhatsApp帳號，請點擊"
 }

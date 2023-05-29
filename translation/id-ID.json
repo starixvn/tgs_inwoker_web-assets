@@ -1646,5 +1646,20 @@
     "notLogin": "Anda belum masuk log!",
     "logintoCheck": "Periksa setelah masuk",
     "serverStatus": "Status Server"
-  }
+  },
+
+  "qq_invalid": "Akun QQ tidak valid",
+  "qq_toEdit": "Jika Diperlukan untuk Mengedit QQ, Silakan Klik ",
+  "wechat_invalid": "Akun WeChat tidak valid",
+  "wechat_toEdit": "Jika Diperlukan untuk Mengedit WeChat, Silakan Klik ",
+  "line_invalid": "Akun LINE tidak valid",
+  "line_toEdit": "Jika Diperlukan untuk Mengedit LINE, Silakan Klik ",
+  "viber_invalid": "Akun Viber tidak valid",
+  "viber_toEdit": "Jika Diperlukan untuk Mengedit Viber, Silakan Klik ",
+  "telegram_invalid": "Akun Telegram tidak valid",
+  "telegram_toEdit": "Jika Diperlukan untuk Mengedit Telegram, Silakan Klik ",
+  "fb_invalid": "Akun Facebook Messenger tidak valid",
+  "fb_toEdit": "Jika Diperlukan untuk Mengedit Facebook Messenger, Silakan Klik ",
+  "whatsapp_invalid": "Akun WhatsApp tidak valid",
+  "whatsapp_toEdit": "Jika Diperlukan untuk Mengedit WhatsApp, Silakan Klik "
 }

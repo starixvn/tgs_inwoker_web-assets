@@ -1641,5 +1641,20 @@
     "sponsor4": "Lyon",
     "sponsor5": "Schalke 04",
     "sponsorDesc": "Official Asian Partner"
-  }
+  },
+
+  "qq_invalid": "Invalid QQ account",
+  "qq_toEdit": "If Required to Edit QQ, Please Click ",
+  "wechat_invalid": "Invalid WeChat account",
+  "wechat_toEdit": "If Required to Edit WeChat, Please Click ",
+  "line_invalid": "Invalid LINE account",
+  "line_toEdit": "If Required to Edit LINE, Please Click ",
+  "viber_invalid": "Invalid Viber account",
+  "viber_toEdit": "If Required to Edit Viber, Please Click ",
+  "telegram_invalid": "Invalid Telegram account",
+  "telegram_toEdit": "If Required to Edit Telegram, Please Click ",
+  "fb_invalid": "Invalid Facebook Messenger account",
+  "fb_toEdit": "If Required to Edit Facebook Messenger, Please Click ",
+  "whatsapp_invalid": "Invalid WhatsApp account",
+  "whatsapp_toEdit": "If Required to Edit WhatsApp, Please Click "
 }

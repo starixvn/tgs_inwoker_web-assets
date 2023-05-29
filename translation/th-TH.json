@@ -1609,5 +1609,20 @@
     "notLogin": "คุณยังไม่ได้เข้าสู่ระบบ!",
     "logintoCheck": "ตรวจสอบหลังจากเข้าสู่ระบบ",
     "serverStatus": "สถานะเซิร์ฟเวอร์"
-  }
+  },
+
+  "qq_invalid": "บัญชี QQ ไม่ถูกต้อง",
+  "qq_toEdit": "หากต้องการแก้ไขบัญชี QQ กรุณาคลิกที่",
+  "wechat_invalid": "บัญชี WeChat ไม่ถูกต้อง",
+  "wechat_toEdit": "หากต้องการแก้ไขบัญชี WeChat กรุณาคลิกที่",
+  "line_invalid": "บัญชี LINE ไม่ถูกต้อง",
+  "line_toEdit": "หากต้องการแก้ไขบัญชี LINE กรุณาคลิกที่",
+  "viber_invalid": "บัญชี Viber ไม่ถูกต้อง",
+  "viber_toEdit": "หากต้องการแก้ไขบัญชี Viber กรุณาคลิกที่",
+  "telegram_invalid": "บัญชี Telegram ไม่ถูกต้อง",
+  "telegram_toEdit": "หากต้องการแก้ไขบัญชี Telegram กรุณาคลิกที่",
+  "fb_invalid": "บัญชี Facebook Messenger ไม่ถูกต้อง",
+  "fb_toEdit": "หากต้องการแก้ไขบัญชี Facebook Messenger กรุณาคลิกที่",
+  "whatsapp_invalid": "บัญชี WhatsApp ไม่ถูกต้อง",
+  "whatsapp_toEdit": "หากต้องการแก้ไขบัญชี WhatsApp กรุณาคลิกที่"
 }
