@@ -1611,18 +1611,25 @@
     "serverStatus": "สถานะเซิร์ฟเวอร์"
   },
 
+  "qq_account": "บัญชี QQ",
   "qq_invalid": "บัญชี QQ ไม่ถูกต้อง",
   "qq_toEdit": "หากต้องการแก้ไขบัญชี QQ กรุณาคลิกที่",
+  "wechat_account": "บัญชี WeChat",
   "wechat_invalid": "บัญชี WeChat ไม่ถูกต้อง",
   "wechat_toEdit": "หากต้องการแก้ไขบัญชี WeChat กรุณาคลิกที่",
+  "line_account": "บัญชี LINE",
   "line_invalid": "บัญชี LINE ไม่ถูกต้อง",
   "line_toEdit": "หากต้องการแก้ไขบัญชี LINE กรุณาคลิกที่",
+  "viber_account": "บัญชี Viber",
   "viber_invalid": "บัญชี Viber ไม่ถูกต้อง",
   "viber_toEdit": "หากต้องการแก้ไขบัญชี Viber กรุณาคลิกที่",
+  "telegram_account": "บัญชี Telegram",
   "telegram_invalid": "บัญชี Telegram ไม่ถูกต้อง",
   "telegram_toEdit": "หากต้องการแก้ไขบัญชี Telegram กรุณาคลิกที่",
+  "fb_account": "บัญชี Facebook Messenger",
   "fb_invalid": "บัญชี Facebook Messenger ไม่ถูกต้อง",
   "fb_toEdit": "หากต้องการแก้ไขบัญชี Facebook Messenger กรุณาคลิกที่",
+  "whatsapp_account": "บัญชี WhatsApp",
   "whatsapp_invalid": "บัญชี WhatsApp ไม่ถูกต้อง",
   "whatsapp_toEdit": "หากต้องการแก้ไขบัญชี WhatsApp กรุณาคลิกที่"
 }

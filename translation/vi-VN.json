@@ -1600,18 +1600,25 @@
     "serverStatus": "Trạng thái máy chủ"
   },
 
+  "qq_account": "Tài khoản QQ",
   "qq_invalid": "Tài khoản QQ không hợp lệ",
   "qq_toEdit": "Nếu Cần Chỉnh sửa QQ, Vui lòng Liên hệ",
+  "wechat_account": "Tài khoản Skype",
   "wechat_invalid": "Tài khoản WeChat không hợp lệ",
   "wechat_toEdit": "Nếu Cần Chỉnh sửa WeChat, Vui lòng Liên hệ",
+  "line_account": "Tài khoản Line",
   "line_invalid": "Tài khoản Line không hợp lệ",
   "line_toEdit": "Nếu Cần Chỉnh sửa Line, Vui lòng Liên hệ",
+  "viber_account": "Tài khoản Viber",
   "viber_invalid": "Tài khoản Viber không hợp lệ",
   "viber_toEdit": "Nếu Cần Chỉnh sửa Viber, Vui lòng Liên hệ",
+  "telegram_account": "Tài khoản Telegram",
   "telegram_invalid": "Tài khoản Telegram không hợp lệ",
   "telegram_toEdit": "Nếu Cần Chỉnh sửa Telegram, Vui lòng Liên hệ",
+  "fb_account": "Tài khoản Skype",
   "fb_invalid": "Tài khoản Facebook Messenger không hợp lệ",
   "fb_toEdit": "Nếu Cần Chỉnh sửa Facebook Messenger, Vui lòng Liên hệ",
+  "whatsapp_account": "Tài khoản WhatsApp",
   "whatsapp_invalid": "Tài khoản WhatsApp không hợp lệ",
   "whatsapp_toEdit": "Nếu Cần Chỉnh sửa WhatsApp, Vui lòng Liên hệ"
 }

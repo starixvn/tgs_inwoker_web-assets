@@ -1649,18 +1649,25 @@
     "sponsorDesc": "亚洲官方合作伙伴"
   },
 
+  "qq_account": "QQ账号",
   "qq_invalid": "QQ账号格式不正确",
   "qq_toEdit": "如需修改QQ账号，请点击",
+  "wechat_account": "微信账号",
   "wechat_invalid": "微信账号格式不正确",
   "wechat_toEdit": "如需修改微信账号，请点击",
+  "line_account": "Line账号",
   "line_invalid": "Line账号格式不正确",
   "line_toEdit": "如需修改Line账号，请点击",
+  "viber_account": "Viber账号",
   "viber_invalid": "Viber账号格式不正确",
   "viber_toEdit": "如需修改Viber账号，请点击",
+  "telegram_account": "Telegram账号",
   "telegram_invalid": "Telegram账号格式不正确",
   "telegram_toEdit": "如需修改Telegram账号，请点击",
+  "fb_account": "Facebook Messenger账号",
   "fb_invalid": "Facebook Messenger账号格式不正确",
   "fb_toEdit": "如需修改Facebook Messenger账号，请点击",
+  "whatsapp_account": "WhatsApp账号",
   "whatsapp_invalid": "WhatsApp账号格式不正确",
   "whatsapp_toEdit": "如需修改WhatsApp账号，请点击"
 }

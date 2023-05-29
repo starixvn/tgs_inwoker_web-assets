@@ -1648,18 +1648,25 @@
     "serverStatus": "Status Server"
   },
 
+  "qq_account": "Akun QQ",
   "qq_invalid": "Akun QQ tidak valid",
   "qq_toEdit": "Jika Diperlukan untuk Mengedit QQ, Silakan Klik ",
+  "wechat_account": "Akun WeChat",
   "wechat_invalid": "Akun WeChat tidak valid",
   "wechat_toEdit": "Jika Diperlukan untuk Mengedit WeChat, Silakan Klik ",
+  "line_account": "Akun LINE",
   "line_invalid": "Akun LINE tidak valid",
   "line_toEdit": "Jika Diperlukan untuk Mengedit LINE, Silakan Klik ",
+  "viber_account": "Akun Viber",
   "viber_invalid": "Akun Viber tidak valid",
   "viber_toEdit": "Jika Diperlukan untuk Mengedit Viber, Silakan Klik ",
+  "telegram_account": "Akun Telegram",
   "telegram_invalid": "Akun Telegram tidak valid",
   "telegram_toEdit": "Jika Diperlukan untuk Mengedit Telegram, Silakan Klik ",
+  "fb_account": "Akun Facebook Messenger",
   "fb_invalid": "Akun Facebook Messenger tidak valid",
   "fb_toEdit": "Jika Diperlukan untuk Mengedit Facebook Messenger, Silakan Klik ",
+  "whatsapp_account": "Akun WhatsApp",
   "whatsapp_invalid": "Akun WhatsApp tidak valid",
   "whatsapp_toEdit": "Jika Diperlukan untuk Mengedit WhatsApp, Silakan Klik "
 }
