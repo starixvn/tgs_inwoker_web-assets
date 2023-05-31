@@ -1628,7 +1628,7 @@
     "approved": "成功",
     "rejected": "已拒绝",
     "withdrawal_approved": "待支付",
-    "paid": "已支付",
+    "paid": "成功",
     "DepositNotify": "存款单",
     "WithdrawNotify": "提款单",
     "WithdrawalNotify": "提款单"
