@@ -1668,5 +1668,8 @@
   "fb_toEdit": "Jika Diperlukan untuk Mengedit Facebook Messenger, Silakan Klik ",
   "whatsapp_account": "Akun WhatsApp",
   "whatsapp_invalid": "Akun WhatsApp tidak valid",
-  "whatsapp_toEdit": "Jika Diperlukan untuk Mengedit WhatsApp, Silakan Klik "
+  "whatsapp_toEdit": "Jika Diperlukan untuk Mengedit WhatsApp, Silakan Klik ",
+
+  "second": "Detik",
+  "platform": "Platform"
 }

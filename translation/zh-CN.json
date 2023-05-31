@@ -1669,5 +1669,8 @@
   "fb_toEdit": "如需修改Facebook Messenger账号，请点击",
   "whatsapp_account": "WhatsApp账号",
   "whatsapp_invalid": "WhatsApp账号格式不正确",
-  "whatsapp_toEdit": "如需修改WhatsApp账号，请点击"
+  "whatsapp_toEdit": "如需修改WhatsApp账号，请点击",
+
+  "second": "秒",
+  "platform": "家"
 }

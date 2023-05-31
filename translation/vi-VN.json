@@ -1620,5 +1620,8 @@
   "fb_toEdit": "Nếu Cần Chỉnh sửa Facebook Messenger, Vui lòng Liên hệ",
   "whatsapp_account": "Tài khoản WhatsApp",
   "whatsapp_invalid": "Tài khoản WhatsApp không hợp lệ",
-  "whatsapp_toEdit": "Nếu Cần Chỉnh sửa WhatsApp, Vui lòng Liên hệ"
+  "whatsapp_toEdit": "Nếu Cần Chỉnh sửa WhatsApp, Vui lòng Liên hệ",
+
+  "second": "giây",
+  "platform": "Nền tảng"
 }

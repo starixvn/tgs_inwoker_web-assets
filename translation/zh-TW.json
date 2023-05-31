@@ -1650,5 +1650,8 @@
   "fb_toEdit": "如需修改Facebook Messenger帳號，請點擊",
   "whatsapp_account": "WhatsApp帳號",
   "whatsapp_invalid": "WhatsApp帳號格式不正確",
-  "whatsapp_toEdit": "如需修改WhatsApp帳號，請點擊"
+  "whatsapp_toEdit": "如需修改WhatsApp帳號，請點擊",
+
+  "second": "秒",
+  "platform": "平台"
 }

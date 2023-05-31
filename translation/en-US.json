@@ -1663,5 +1663,8 @@
   "fb_toEdit": "If Required to Edit Facebook Messenger, Please Click ",
   "whatsapp_account": "WhatsApp Account",
   "whatsapp_invalid": "Invalid WhatsApp account",
-  "whatsapp_toEdit": "If Required to Edit WhatsApp, Please Click "
+  "whatsapp_toEdit": "If Required to Edit WhatsApp, Please Click ",
+
+  "second": "Second",
+  "platform": "Platform"
 }
