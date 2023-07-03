@@ -1623,5 +1623,8 @@
   "whatsapp_toEdit": "Nếu Cần Chỉnh sửa WhatsApp, Vui lòng Liên hệ",
 
   "second": "giây",
-  "platform": "Nền tảng"
+  "platform": "Nền tảng",
+
+  "click_download": "Nhấp vào nút tải xuống để tải xuống",
+  "copy_link": "Sao chép liên kết"
 }

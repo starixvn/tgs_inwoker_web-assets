@@ -1671,5 +1671,8 @@
   "whatsapp_toEdit": "Jika Diperlukan untuk Mengedit WhatsApp, Silakan Klik ",
 
   "second": "Detik",
-  "platform": "Platform"
+  "platform": "Platform",
+
+  "click_download": "Klik untuk mengunduh",
+  "copy_link": "Salin tautan"
 }

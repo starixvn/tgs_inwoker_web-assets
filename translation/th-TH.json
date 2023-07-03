@@ -1634,5 +1634,8 @@
   "whatsapp_toEdit": "หากต้องการแก้ไขบัญชี WhatsApp กรุณาคลิกที่",
 
   "second": "วินาที",
-  "platform": "เว็บไซต์"
+  "platform": "เว็บไซต์",
+
+  "click_download": "คลิกเพื่อดาวน์โหลด",
+  "copy_link": "คัดลอกลิงค์"
 }

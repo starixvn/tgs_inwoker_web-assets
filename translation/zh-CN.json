@@ -1672,5 +1672,8 @@
   "whatsapp_toEdit": "如需修改WhatsApp账号，请点击",
 
   "second": "秒",
-  "platform": "家"
+  "platform": "家",
+
+  "click_download": "點擊下載",
+  "copy_link": "複製連結"
 }

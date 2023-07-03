@@ -1666,5 +1666,8 @@
   "whatsapp_toEdit": "If Required to Edit WhatsApp, Please Click ",
 
   "second": "Second",
-  "platform": "Platform"
+  "platform": "Platform",
+
+  "click_download": "Click to download",
+  "copy_link": "Copy link"
 }

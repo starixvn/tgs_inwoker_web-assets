@@ -1653,5 +1653,8 @@
   "whatsapp_toEdit": "如需修改WhatsApp帳號，請點擊",
 
   "second": "秒",
-  "platform": "平台"
+  "platform": "平台",
+
+  "click_download": "點擊下載",
+  "copy_link": "複製鏈接"
 }
