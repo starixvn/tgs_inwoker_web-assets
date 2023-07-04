@@ -1675,5 +1675,15 @@
   "platform": "Platform",
 
   "click_download": "Klik untuk mengunduh",
-  "copy_link": "Salin tautan"
+  "copy_link": "Salin tautan",
+
+  "memo": "Memo",
+  "compose": "Tulis",
+  "memoinbox": "Kotak Masuk",
+  "sent": "Terkirim",
+  "number": "No.",
+  "date": "Tanggal",
+  "subject": "Subjek",
+  "action": "Tindakan",
+  "reply": "Balas"
 }

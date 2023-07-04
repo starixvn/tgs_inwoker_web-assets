@@ -1670,5 +1670,15 @@
   "platform": "Platform",
 
   "click_download": "Click to download",
-  "copy_link": "Copy link"
+  "copy_link": "Copy link",
+
+  "memo": "Memo",
+  "compose": "Compose",
+  "memoinbox": "Inbox",
+  "sent": "Sent",
+  "number": "No.",
+  "date": "Date",
+  "subject": "Subject",
+  "action": "Action",
+  "reply": "Reply"
 }

@@ -1627,5 +1627,15 @@
   "platform": "Nền tảng",
 
   "click_download": "Nhấp vào nút tải xuống để tải xuống",
-  "copy_link": "Sao chép liên kết"
+  "copy_link": "Sao chép liên kết",
+
+  "memo": "Ghi chú",
+  "compose": "Soạn thảo",
+  "memoinbox": "Hộp ghi chú",
+  "sent": "Đã gửi",
+  "number": "Số",
+  "date": "Ngày",
+  "subject": "Chủ đề",
+  "action": "Hành động",
+  "reply": "Trả lời"
 }

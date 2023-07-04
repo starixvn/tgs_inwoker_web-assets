@@ -1676,5 +1676,15 @@
   "platform": "家",
 
   "click_download": "點擊下載",
-  "copy_link": "複製連結"
+  "copy_link": "複製連結",
+
+  "memo": "站內信",
+  "compose": "撰写",
+  "memoinbox": "收件箱",
+  "sent": "寄件匣",
+  "number": "序",
+  "date": "日期",
+  "subject": "主旨",
+  "action": "操作",
+  "reply": "回复"
 }
