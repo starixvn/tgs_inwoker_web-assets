@@ -1672,6 +1672,7 @@
   "click_download": "Click to download",
   "copy_link": "Copy link",
 
+  "pleaseenter": "Please enter ",
   "memo": "Memo",
   "compose": "Compose",
   "memoinbox": "Inbox",
@@ -1680,5 +1681,6 @@
   "date": "Date",
   "subject": "Subject",
   "action": "Action",
-  "reply": "Reply"
+  "reply": "Reply",
+  "sendsuccess": "Send Success"
 }

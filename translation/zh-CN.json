@@ -1678,6 +1678,7 @@
   "click_download": "點擊下載",
   "copy_link": "複製連結",
 
+  "pleaseenter": "請輸入",
   "memo": "站內信",
   "compose": "撰写",
   "memoinbox": "收件箱",
@@ -1686,5 +1687,6 @@
   "date": "日期",
   "subject": "主旨",
   "action": "操作",
-  "reply": "回复"
+  "reply": "回复",
+  "sendsuccess": "发送成功"
 }

@@ -1629,6 +1629,7 @@
   "click_download": "Nhấp vào nút tải xuống để tải xuống",
   "copy_link": "Sao chép liên kết",
 
+  "pleaseenter": "Vui lòng nhập",
   "memo": "Ghi chú",
   "compose": "Soạn thảo",
   "memoinbox": "Hộp ghi chú",
@@ -1637,5 +1638,6 @@
   "date": "Ngày",
   "subject": "Chủ đề",
   "action": "Hành động",
-  "reply": "Trả lời"
+  "reply": "Trả lời",
+  "sendsuccess": "Gửi thành công"
 }
