@@ -1682,5 +1682,6 @@
   "subject": "Subject",
   "action": "Action",
   "reply": "Reply",
-  "sendsuccess": "Send Success"
+  "sendsuccess": "Send Success",
+  "daysago": "days ago"
 }

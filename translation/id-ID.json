@@ -1687,5 +1687,6 @@
   "subject": "Subjek",
   "action": "Tindakan",
   "reply": "Balas",
-  "sendsuccess": "Kirim berhasil"
+  "sendsuccess": "Kirim berhasil",
+  "daysago": "hari yang lalu"
 }

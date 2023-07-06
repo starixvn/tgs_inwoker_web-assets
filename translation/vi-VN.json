@@ -1639,5 +1639,6 @@
   "subject": "Chủ đề",
   "action": "Hành động",
   "reply": "Trả lời",
-  "sendsuccess": "Gửi thành công"
+  "sendsuccess": "Gửi thành công",
+  "daysago": "ngày trước"
 }

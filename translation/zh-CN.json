@@ -1688,5 +1688,6 @@
   "subject": "主旨",
   "action": "操作",
   "reply": "回复",
-  "sendsuccess": "发送成功"
+  "sendsuccess": "发送成功",
+  "daysago": "天前"
 }
