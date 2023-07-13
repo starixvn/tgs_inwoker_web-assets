@@ -1673,5 +1673,13 @@
   "whatsapp_toEdit": "如需修改WhatsApp账号，请点击",
 
   "second": "秒",
-  "platform": "家"
+  "platform": "家",
+
+  "message": "消息",
+  "announcement": "公告",
+  "changepassword": "修改密码",
+  "changemoneypassword": "修改取款密码",
+  "betrecord": "投注记录",
+  "language": "语言",
+  "signout": "登出"
 }

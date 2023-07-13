@@ -1624,5 +1624,13 @@
   "whatsapp_toEdit": "Nếu Cần Chỉnh sửa WhatsApp, Vui lòng Liên hệ",
 
   "second": "giây",
-  "platform": "Nền tảng"
+  "platform": "Nền tảng",
+
+  "message": "Tin nhắn",
+  "announcement": "Thông báo",
+  "changepassword": "Đổi mật khẩu",
+  "changemoneypassword": "Đổi mật khẩu giao dịch",
+  "betrecord": "Lịch sử đặt cược",
+  "language": "Ngôn ngữ",
+  "signout": "Đăng xuất"
 }

@@ -1667,5 +1667,13 @@
   "whatsapp_toEdit": "If Required to Edit WhatsApp, Please Click ",
 
   "second": "Second",
-  "platform": "Platform"
+  "platform": "Platform",
+
+  "message": "Messages",
+  "announcement": "Announcement",
+  "changepassword": "Change Password",
+  "changemoneypassword": "Change Money PW",
+  "betrecord": "Bet Record",
+  "language": "Language",
+  "signout": "Sign Out"
 }

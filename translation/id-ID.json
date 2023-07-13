@@ -1672,5 +1672,13 @@
   "whatsapp_toEdit": "Jika Diperlukan untuk Mengedit WhatsApp, Silakan Klik ",
 
   "second": "Detik",
-  "platform": "Platform"
+  "platform": "Platform",
+
+  "message": "Pesan",
+  "announcement": "Pengumuman",
+  "changepassword": "Ubah Kata Sandi",
+  "changemoneypassword": "Ubah Kata Sandi Uang",
+  "betrecord": "Catatan Taruhan",
+  "language": "Bahasa",
+  "signout": "Keluar"
 }

@@ -1654,5 +1654,13 @@
   "whatsapp_toEdit": "如需修改WhatsApp帳號，請點擊",
 
   "second": "秒",
-  "platform": "平台"
+  "platform": "平台",
+
+  "message": "消息",
+  "announcement": "公告",
+  "changepassword": "修改密碼",
+  "changemoneypassword": "修改取款密碼",
+  "betrecord": "投注記錄",
+  "language": "語言",
+  "signout": "登出"
 }

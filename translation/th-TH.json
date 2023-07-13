@@ -1635,5 +1635,13 @@
   "whatsapp_toEdit": "หากต้องการแก้ไขบัญชี WhatsApp กรุณาคลิกที่",
 
   "second": "วินาที",
-  "platform": "เว็บไซต์"
+  "platform": "เว็บไซต์",
+
+  "message": "ข้อความ",
+  "announcement": "ประกาศ",
+  "changepassword": "เปลี่ยนรหัสผ่าน",
+  "changemoneypassword": "เปลี่ยนรหัสผ่านการเงิน",
+  "betrecord": "บันทึกการเดิมพัน",
+  "language": "ภาษา",
+  "signout": "ออกจากระบบ"
 }
