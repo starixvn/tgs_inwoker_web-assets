@@ -1675,5 +1675,20 @@
   "changemoneypassword": "Change Money PW",
   "betrecord": "Bet Record",
   "language": "Language",
-  "signout": "Sign Out"
+  "signout": "Sign Out",
+  "click_download": "Click to download",
+  "copy_link": "Copy link",
+
+  "pleaseenter": "Please enter ",
+  "memo": "Memo",
+  "compose": "Compose",
+  "memoinbox": "Inbox",
+  "sent": "Sent",
+  "number": "No.",
+  "date": "Date",
+  "subject": "Subject",
+  "action": "Action",
+  "reply": "Reply",
+  "sendsuccess": "Send Success",
+  "daysago": "days ago"
 }

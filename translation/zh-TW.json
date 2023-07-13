@@ -1662,5 +1662,20 @@
   "changemoneypassword": "修改取款密碼",
   "betrecord": "投注記錄",
   "language": "語言",
-  "signout": "登出"
+  "signout": "登出",
+  "click_download": "點擊下載",
+  "copy_link": "複製鏈接",
+
+  "pleaseenter": "請輸入",
+  "memo": "站內信",
+  "compose": "撰寫",
+  "memoinbox": "收件箱",
+  "sent": "寄件匣",
+  "number": "序",
+  "date": "日期",
+  "subject": "主旨",
+  "action": "操作",
+  "reply": "回覆",
+  "sendsuccess": "發送成功",
+  "daysago": "天前"
 }

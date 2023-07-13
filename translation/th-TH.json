@@ -1643,5 +1643,20 @@
   "changemoneypassword": "เปลี่ยนรหัสผ่านการเงิน",
   "betrecord": "บันทึกการเดิมพัน",
   "language": "ภาษา",
-  "signout": "ออกจากระบบ"
+  "signout": "ออกจากระบบ",
+  "click_download": "คลิกเพื่อดาวน์โหลด",
+  "copy_link": "คัดลอกลิงค์",
+
+  "pleaseenter": "กรุณากรอก",
+  "memo": "หมายเหตุ",
+  "compose": "สร้าง",
+  "memoinbox": "กล่องข้อความ",
+  "sent": "ส่ง",
+  "number": "ตัวเลข",
+  "date": "วันที่",
+  "subject": "หัวข้อ",
+  "action": "การดำเนินการ",
+  "reply": "ตอบกลับ",
+  "sendsuccess": "ส่งสำเร็จ",
+  "daysago": "วันที่ผ่านมา"
 }

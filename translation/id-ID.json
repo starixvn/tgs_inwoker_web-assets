@@ -1680,5 +1680,20 @@
   "changemoneypassword": "Ubah Kata Sandi Uang",
   "betrecord": "Catatan Taruhan",
   "language": "Bahasa",
-  "signout": "Keluar"
+  "signout": "Keluar",
+  "click_download": "Klik untuk mengunduh",
+  "copy_link": "Salin tautan",
+
+  "pleaseenter": "Silakan masukkan",
+  "memo": "Memo",
+  "compose": "Tulis",
+  "memoinbox": "Kotak Masuk",
+  "sent": "Terkirim",
+  "number": "No.",
+  "date": "Tanggal",
+  "subject": "Subjek",
+  "action": "Tindakan",
+  "reply": "Balas",
+  "sendsuccess": "Kirim berhasil",
+  "daysago": "hari yang lalu"
 }
