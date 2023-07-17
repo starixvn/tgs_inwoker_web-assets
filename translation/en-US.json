@@ -1690,5 +1690,7 @@
   "action": "Action",
   "reply": "Reply",
   "sendsuccess": "Send Success",
-  "daysago": "days ago"
+  "daysago": "days ago",
+
+  "onlinechat": "Online Chat"
 }

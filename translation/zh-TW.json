@@ -1677,5 +1677,7 @@
   "action": "操作",
   "reply": "回覆",
   "sendsuccess": "發送成功",
-  "daysago": "天前"
+  "daysago": "天前",
+
+  "onlinechat": "在線聊天"
 }
