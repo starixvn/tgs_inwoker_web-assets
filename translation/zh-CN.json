@@ -1701,5 +1701,8 @@
 
   "onlinechat": "在线聊天",
   "collect": "收藏",
-  "create": "创造"
+  "create": "创造",
+  "gameEntrance": "游戏入口",
+  "timeToPlay": "玩的时间到了",
+  "showAllGames": "显示所有游戏"
 }

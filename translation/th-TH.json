@@ -1663,5 +1663,8 @@
 
   "onlinechat": "แชทออนไลน์",
   "collect": "เก็บ",
-  "create": "สร้าง"
+  "create": "สร้าง",
+  "gameEntrance": "ทางเข้าเกม",
+  "timeToPlay": "เวลาเล่น",
+  "showAllGames": "แสดงเกมทั้งหมด"
 }

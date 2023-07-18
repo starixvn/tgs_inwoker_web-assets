@@ -1700,5 +1700,8 @@
 
   "onlinechat": "Obrolan Online",
   "collect": "Kumpulkan",
-  "create": "Membuat"
+  "create": "Membuat",
+  "gameEntrance": "Pintu masuk permainan",
+  "timeToPlay": "Waktu untuk bermain",
+  "showAllGames": "Tunjukkan semua game"
 }

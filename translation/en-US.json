@@ -1695,5 +1695,8 @@
 
   "onlinechat": "Online Chat",
   "collect": "Collect",
-  "create": "Create"
+  "create": "Create",
+  "gameEntrance": "Game Entrance",
+  "timeToPlay": "Time To Play",
+  "showAllGames": "Show All Games"
 }
