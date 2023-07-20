@@ -1698,5 +1698,7 @@
   "create": "Create",
   "gameEntrance": "Game Entrance",
   "timeToPlay": "Time To Play",
-  "showAllGames": "Show All Games"
+  "showAllGames": "Show All Games",
+
+  "news": "News"
 }

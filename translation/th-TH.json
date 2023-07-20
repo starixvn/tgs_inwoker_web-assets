@@ -1666,5 +1666,7 @@
   "create": "สร้าง",
   "gameEntrance": "ทางเข้าเกม",
   "timeToPlay": "เวลาเล่น",
-  "showAllGames": "แสดงเกมทั้งหมด"
+  "showAllGames": "แสดงเกมทั้งหมด",
+
+  "news": "ข่าว"
 }

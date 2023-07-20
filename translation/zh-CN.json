@@ -1704,5 +1704,7 @@
   "create": "创造",
   "gameEntrance": "游戏入口",
   "timeToPlay": "玩的时间到了",
-  "showAllGames": "显示所有游戏"
+  "showAllGames": "显示所有游戏",
+
+  "news": "新闻"
 }
