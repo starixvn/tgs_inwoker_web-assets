@@ -1658,5 +1658,7 @@
   "showAllGames": "Hiển thị tất cả các trò chơi",
 
   "news": "Tin tức",
-  "myfavorite": "Yêu thích của tôi"
+  "myfavorite": "Yêu thích của tôi",
+  "myfavoriteDescription1": "Chưa có bộ sưu tập nào",
+  "myfavoriteDescription2": "Nhanh lên và thêm các trò chơi yêu thích của bạn!"
 }

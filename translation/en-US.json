@@ -1701,5 +1701,7 @@
   "showAllGames": "Show All Games",
 
   "news": "News",
-  "myfavorite": "My Favorite"
+  "myfavorite": "My Favorite",
+  "myfavoriteDescription1": "No collections yet",
+  "myfavoriteDescription2": "Hurry and add your favorite games!"
 }

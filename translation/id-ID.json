@@ -1706,5 +1706,7 @@
   "showAllGames": "Tunjukkan semua game",
 
   "news": "Berita",
-  "myfavorite": "Favorit saya"
+  "myfavorite": "Favorit saya",
+  "myfavoriteDescription1": "Belum ada koleksi",
+  "myfavoriteDescription2": "Cepat dan tambahkan game favorit Anda!"
 }
