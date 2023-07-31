@@ -1671,10 +1671,21 @@
     "whatsapp_account": "வாட்ஸ்அப் கணக்கு",
     "whatsapp_invalid": "தவறான WhatsApp கணக்கு",
     "whatsapp_toEdit": "வாட்ஸ்அப்பை எடிட் செய்ய வேண்டும் என்றால், கிளிக் செய்யவும்",
+
     "second": "இரண்டாவது",
     "platform": "நடைமேடை",
+
+    "security": "பாதுகாப்பு",
+    "message": "செய்திகள்",
+    "announcement": "அறிவிப்பு",
+    "changepassword": "கடவுச்சொல்லை மாற்று",
+    "changemoneypassword": "பணத்தை மாற்றவும் pw",
+    "betrecord": "பந்தய பதிவு",
+    "language": "மொழி",
+    "signout": "வெளியேறு",
     "click_download": "பதிவிறக்கம் செய்ய கிளிக் செய்யவும்",
     "copy_link": "இணைப்பை நகலெடுக்கவும்",
+
     "pleaseenter": "தயவுசெய்து உள்ளீடவும்",
     "memo": "மெமோ",
     "compose": "எழுது",
@@ -1686,5 +1697,18 @@
     "action": "செயல்",
     "reply": "பதில்",
     "sendsuccess": "வெற்றியை அனுப்பவும்",
-    "daysago": "நாட்களுக்கு முன்பு"
+    "daysago": "நாட்களுக்கு முன்பு",
+
+    "onlinechat": "ஆன்லைன் அரட்டை",
+    "collect": "திரட்டுதல்",
+    "create": "உருவாக்கு",
+    "gameEntrance": "விளையாட்டு நுழைவாயில்",
+    "timeToPlay": "விளையாட நேரம்",
+    "showAllGames": "எல்லா விளையாட்டுகளையும் காட்டு",
+  
+    "news": "செய்தி",
+    "myfavorite": "எனக்கு பிடித்தது",
+    "myfavoriteDescription1": "இதுவரை வசூல் இல்லை",
+    "myfavoriteDescription2": "உங்களுக்கு பிடித்த விளையாட்டுகளை விரைவாகச் சேர்க்கவும்!"
+
   }

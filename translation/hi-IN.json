@@ -1671,10 +1671,21 @@
     "whatsapp_account": "व्हाट्सएप अकाउंट",
     "whatsapp_invalid": "अमान्य व्हाट्सएप अकाउंट",
     "whatsapp_toEdit": "यदि व्हाट्सएप को संपादित करना आवश्यक है, तो कृपया क्लिक करें",
+
     "second": "दूसरा",
     "platform": "प्लैटफ़ॉर्म",
+
+    "security": "सुरक्षा",
+    "message": "संदेशों",
+    "announcement": "घोषणा",
+    "changepassword": "पासवर्ड बदलें",
+    "changemoneypassword": "मनी पीडब्ल्यू बदलें",
+    "betrecord": "दांव रिकॉर्ड",
+    "language": "भाषा",
+    "signout": "साइन आउट",
     "click_download": "डाउनलोड करने के लिए क्लिक करें",
     "copy_link": "लिंक की प्रतिलिपि करें",
+
     "pleaseenter": "कृपया दर्ज करें",
     "memo": "ज्ञापन",
     "compose": "लिखें",
@@ -1686,5 +1697,18 @@
     "action": "कार्य",
     "reply": "जवाब",
     "sendsuccess": "सफलता भेजें",
-    "daysago": "दिन पहले"
+    "daysago": "दिन पहले",
+
+    "onlinechat": "ऑनलाइन बातचीत",
+    "collect": "इकट्ठा करना",
+    "create": "बनाएं",
+    "gameEntrance": "खेल प्रवेश",
+    "timeToPlay": "खेलने का समय",
+    "showAllGames": "सभी खेल दिखाओ",
+  
+    "news": "समाचार",
+    "myfavorite": "मेरे पसंदीदा",
+    "myfavoriteDescription1": "अभी तक कोई संग्रह नहीं है",
+    "myfavoriteDescription2": "जल्दी करो और अपने पसंदीदा गेम जोड़ें!"
+
   }
