@@ -1673,5 +1673,7 @@
   "news": "ข่าว",
   "myfavorite": "รายการโปรดของฉัน",
   "myfavoriteDescription1": "ยังไม่มีคอลเลกชัน",
-  "myfavoriteDescription2": "รีบเพิ่มเกมโปรดของคุณ!"
+  "myfavoriteDescription2": "รีบเพิ่มเกมโปรดของคุณ!",
+  "mycustomersupport": "ฝ่ายบริการลูกค้าของฉัน",
+  "welcometocustomersupport": "ยินดีต้อนรับสู่ฝ่ายบริการลูกค้าของเรา"
 }
