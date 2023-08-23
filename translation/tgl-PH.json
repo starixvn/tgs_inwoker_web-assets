@@ -1,0 +1,1721 @@
+{
+  "lang": {
+    "language": "Language",
+    "zh-TW": "繁體",
+    "zh-CN": "简体",
+    "en-US": "English",
+    "th-TH": "ไทย",
+    "id-ID": "Indonesia",
+    "vi-VN": "Tiếng Việt",
+    "hi-IN": "हिन्दी",
+    "ta-IN": "தமிழ்",
+    "tgl-PH": "Tagalog"
+  },
+  "error": {
+    "ERR101": "di-wastong kredensyal",
+    "ERR201": "walang mahanap na manlalaro",
+    "ERR202": "di-gumaganang account ng manlalaro",
+    "ERR401": "Mangyaring suriin ang iyong ilagay"
+  },
+
+  "panel": {
+    "im": "Makipag-ugnayan sa amin",
+    "cs": "Live Chat",
+    "imLong": "Instant Messaging",
+    "liveChatWelcome": "Maligayang pagdating",
+    "liveChatDescription": "Pakipili ang uri ng iyong tanong para mapabilis ang serbisyo!",
+    "liveChatOptionFund": "Deposito/Credit",
+    "liveChatOptionBall": "laro",
+    "liveChatOptionLive": "Live na Casino",
+    "liveChatOptionLottery": "Lotto",
+    "liveChatOptionRegister": "Pagpaparehistro",
+    "liveChatOptionSlot": "Slots"
+  },
+
+  "support": {
+    "contactnow": "Makipag-usap ngayon",
+    "online": "Online na Suporta",
+    "contact": "Kontakin",
+    "qr": "Suporta sa QR",
+    "join": "Lumahok"
+  },
+
+  "common": {
+    "currentEmail": "Kasalukuyang email address",
+    "nodata": "Walang data",
+    "maintenance": "Oras ng Pagpapanatili",
+    "pleaseEnterAccountName": "Ilagay ang totoong pangalan",
+    "noReachMin": "The mobile number is set to 8 to {maxlength} digits",
+    "upload": "Mag-upload ng dokumento",
+    "upload2": "Pindutin upang pumili ng file",
+    "title": "{brand} | The Biggest & Most Trusted Online Casino",
+    "register": "Magrehistro",
+    "login": "Mag-log in ",
+    "submit": "Ipasa",
+    "back": "Bumalik",
+    "confirm": "Kumpirmahin",
+    "check": "suriin ang impormasyon",
+    "nextStep": "susunod na hakbang",
+    "more": "Tingnan pa",
+    "send": "Ipadala",
+    "choose": "Pumili",
+    "complete": "Nakumpleto",
+    "close": "Isara",
+    "cancel": "Kanselahin",
+    "delete": "Burahin",
+    "search": "Hanapin",
+    "verified": "Napatunayan",
+    "configured": "Na-configure",
+    "phoneNumber": "Numero ng telepono",
+    "btnTokenLabel": "Kumuha ng code",
+    "token": "Pagpapatunay na code",
+    "btnTokenResendLabel": "Ipadala muli",
+    "msgInvalidInvitationCode": "Di wastong code ng imbitasyon",
+    "msgSendToken": "Magpadala ng code",
+    "msgTokenSent": "Matagumpay na naipadala ang pagpapatunay na code",
+    "msgTokenVerified": "Napatunayan",
+    "msgEnterPhone": "Mangyaring punan ang iyong numbero ng telepono",
+    "msgEnterEmail": "Mangyaring punan ang iyong email",
+    "msgInvalidEmail": "Diwastong email address",
+    "msgEnterCode": "Mangyaring punan ang iyong verification code",
+    "msgEnterCodeEmail": "Mangyaring punan ang iyong verification code",
+    "msgEnterEmailCode": "Mangyaring punan ang iyong email verification code",
+    "msgEnterPhoneCode": "Mangyaring punan ang iyong phone verification code",
+    "msgInvalidPhoneCode": "Error sa verification code",
+    "msgInvalidConfirmPass": "Hindi tugma ang confirm password",
+    "msgInvalidOldPass": "Di-wastong Lumang Password",
+    "msgRegisterUserNameInvalid": "Ang haba ng account ay dapat nasa pagitan ng 6 at 16 na digit, at dapat na binubuo ng mga numero, titik o kumbinasyon",
+    "msgRegisterPassInvalid": "Ang haba ng password ay dapat nasa pagitan ng 6 at 20 digit",
+    "msgRegisterPassMatchInvalid": "Ang password ay dapat na kapareho ng nakumpirma na password",
+    "msgRegisterTermAndCondition": "Pakikumpirma na nabasa mo ang aming mga tuntunin at kundisyon",
+    "msgRegisterWithdrawalPassInvalid": "Dapat na 6 na digit ang withdrawal password",
+    "msgRegisterWithdrawalPassMatchInvalid": "Ang password sa pag-withdraw ay dapat na kapareho ng nakumpirmang password sa pag-withdraw",
+    "msgAlreadyExist": "May gumagamit na ng username",
+    "emailAddress": "Email Address",
+    "qqNumber": "QQ Account",
+    "wechatNumber": "Wechat Account",
+    "fb": "Facebook Messenger Account",
+    "telegram": "Telegram Account",
+    "line": "Line Account",
+    "viber": "Viber Account",
+    "whatsapp": "Whatsapp Account",
+    "receiverAddress": "Address ng Tatanggap",
+    "loginPassword": "Login Password",
+    "contact": "Makipag-ugnayan",
+    "customerService": "Serbisyo sa Customer",
+    "withdrawalPassword": "Katanungang Panseguridad",
+    "securityQuestion": "Katanungang Panseguridad",
+    "realName": "Tunay na pangalan",
+    "teamVP": "Virtus.pro",
+    "teamFrankfurt": "Frankfurt",
+    "g2Esport": "G2 Esports",
+    "amount": "Halaga",
+    "support": "Kung mayroon kang anumang mga katanungan, mangyaring huwag mag-atubiling",
+    "contactus": "Makipag-ugnayan sa amin",
+    "comingSoon": "Malapit na",
+    "sports": "laro",
+    "sportsonly": "laro",
+    "horserace": "Karera ng kabayo",
+    "sport": "laro",
+    "esports": "eSports",
+    "live": "Live na Casino",
+    "lottery": "Lotto",
+    "chess": "Baraha",
+    "slot": "Slots",
+    "electron": "Mga Laro sa Mesa",
+    "fish": "Pangingisda",
+    "shootFish": "Tamaan ang isda",
+    "promotion": "Promosyon",
+    "download": "I-download",
+    "home": "Bahay",
+    "member": "miyembro",
+    "csPhoneNumber": "000-000-0000",
+    "bank": "bangko",
+    "dollor": "",
+    "copy": "Kopyahin",
+    "reload": "Reload",
+    "msgPopupBlocker": "na-block ang pop-up, mangyaring payagan ito",
+    "username": "Pangalang ginagamit",
+    "password": "Password",
+    "msgEnterUserName": "Mangyaring punan ang pangalang ginagamit",
+    "msgEnterPassword": "Mangyaring punan ang password",
+    "deposit": "Deposito",
+    "withdrawal": "Mag-withdraw",
+    "transfer": "Paglipat",
+    "info": "Impormasyon",
+    "update": "I-update",
+    "reset": "I-reset",
+    "msgEnterNewPass": "Maglagay ng Bagong Password",
+    "NewPass": "Mangyaring maglagay ng bagong password",
+    "msgEnterOldPass": "Mangyaring ilagay ang lumang password",
+    "oldPass": "Lumang password",
+    "msgEnterConfirmPass": "Mangyaring maglagay muli ng bagong password",
+    "ConfirmPass": "Kumpirmahin ang bagong password",
+    "language": "Wika",
+    "startGame": "MAGSIMULA",
+    "cs": "CHAT",
+    "msgSuccessUpdateProfile": "Matagumpay na na-update ang profile",
+    "favoriteGame": "Idagdag sa mga Paborito",
+    "joinGame": "Sumali sa laro",
+    "withdrawalBankType": "Uri",
+    "withdrawalChannel": "Channel",
+    "withdrawalNumber": "Numero ng bank card/Crypto currency address",
+    "msgEnterWithdrawalNumber": "Mangyaring ilagay ang numero ng bank card/crypto currency address",
+    "msgEmailExist": "Umiiral na ang email address",
+    "msgRequiredTurnover": "Hindi ma-withdraw. Siguraduhin na natutugunan mo ang mga kinakailangan sa pagtaya, o makipag-ugnayan sa Customer Service para sa karagdagang impormasyon.",
+    "msgInvalidUsername": "Di-wastong pangalang ginagamit/ password.",
+    "msgInvalidWithdrawalPassword": "Di-wastong withdrawal password",
+    "msgRequestFailed": "Nabigo ang kahilingan, mangyaring makipag-ugnayan sa Customer Service para sa karagdagang impormasyon.",
+    "termsAndCondition": "Mga tuntunin at kundisyon",
+    "exit": "Lumabas",
+    "playeronline": "Mga online na gumagamit",
+    "cockfight": "Sabong",
+    "virtualsports": "Virtwal na laro",
+    "egame": "EGame",
+    "livedealer": "Live na Dealer",
+    "qq": "QQ Account"
+  },
+  "affiliate": {
+    "title": "Kaakibat",
+    "details": "Mga Detalye",
+    "downline": "Downline",
+    "report": "Ulat",
+    "info": "Bonus ng Kaakibat",
+    "qrCode": "Referral QR Code",
+    "promoId": "Referral ID",
+    "promoLink": "Link ng Referral",
+    "memberName": "Pangalan ginagamit",
+    "UUID": "UUID",
+    "dateTime": "PetsaOras",
+    "transAmount": "pagsasalin ng tungkulin",
+    "commission": "Komisyon",
+    "status": "Katayuan",
+    "copied": "Kinopya"
+  },
+  "card": {
+    "title": "Manage Bank Account",
+    "myCard": "Numero ng account sa bangko",
+    "tail": "Huling 4 na numero",
+    "transferRecord": "Kasaysayan ng Transaksyon",
+    "removeCard": "Alisin ang Account",
+    "checkDetails": "Suriin",
+    "remove": "Alisin",
+    "msgSlideToDelete": "I-slide para tanggalin ang bangko",
+    "msgAddCard": "Magdagdag ng Bangko",
+    "msgAddCardDesc": "Pagkatapos magdagdag ng bank card, magagamit nito para mag-withdraw ng pera, hanggang 3 card.    ",
+    "toEdit": "Ang magdagdag, mag-edit at mag-alis ay hindi magagamit, para sa tulong mangyaring makipag-ugnayan sa serbisyo sa customer.",
+    "addCard": {
+      "title": "Magdagdag ng Bangko",
+      "subTitle": "Ang numero ng bank card ay dapat na sa 15-19 digit",
+      "msgSelectBank": "Mangyaring ilagay ang bangko",
+      "BankName": "Pangalan ng bangko",
+      "msgEnterBankName": "Mangyaring ilagay ang pangalan ng bangko",
+      "BankAccountName": "Pangalan ng may hawak ng bangko",
+      "msgEnterBankAccountName": "Pakilagay ang pangalan ng may-ari ng bangko",
+      "msgEnterCard": "Pakilagay ang number ng bank account",
+      "cardHolder": "Pangalan ng may hawak ng bangko",
+      "msgEnterCardHolder": "Pakilagay ang pangalan ng may-ari ng bangko",
+      "cardNum": "Numero ng account sa bangko",
+      "desc": "Naka-encrypt ang impormasyon",
+      "branch": "Sangay",
+      "branchPlaceHolder": "Mangyaring ilagay ang Sangay ng Bangko",
+      "eWalletAccount": "Pangalan ng E-Money",
+      "msgEnterEwalletAccount": "Pakilagay ang e-money name",
+      "phone": "Numero ng telepono",
+      "msgEnterPhone": "Mangyaring ilagay ang numero ng telepono"
+    },
+    "success": {
+      "title": "Matagumpay na pagdagdag ng bangko",
+      "successDesc": "Binabati kita na nakumpleto mo na ang bank account binding. Mabilis mong mapipili ang iyong withdrawal bank kapag nag-withdraw ka mamaya. Kung nais mong maglagay ng ibang mga bangko,",
+      "successDescDeposit": "Binabati kita na nakumpleto mo na ang bank account binding.",
+      "bindDesc": "Mangyaring i-click ang 'Maglagay ng ibang Banko' sa ibaba upang maisagawa muli ang operasyon.",
+      "reminder": "Paalala",
+      "callHotline": "O tumawag sa 000-000-0000 para sa tulong.",
+      "bindBankCard": "Maglagay ng ibang Banko",
+      "goWithdrawal": "Mag-withdraw",
+      "goDeposit": "Mag-Deposito",
+      "goProfile": "Profile",
+      "noMoreAddCard": "Binabati kita na nakumpleto mo na ang bank account binding. Mabilis mong mapipili ang iyong withdrawal bank kapag nag-withdraw ka mamaya."
+    }
+  },
+  "deposit": {
+    "address": "Lugar",
+    "email": "Email",
+    "phone": "Telepono",
+    "fpsId": "FPS ID",
+    "title": "Deposito",
+    "ppRemark": "Pangungusap: DALAWANG random na decimal na lugar ang idadagdag sa kabuuang halaga (kinakailangan ito para sa layunin ng pag-verify ng order)",
+    "plsEnterDepositAmount": "Mangyaring Ilagay ang Halaga ng Deposito",
+    "msgMinDeposit": "Magdeposito ng hindi bababa sa {{halaga}}",
+    "msgMaxDeposit": "Ang halaga ng deposito ay mas malaki kaysa sa maximum na limitasyon na itinakda ng kumpanya",
+    "msgMaintenance": "Pagpapanatili ng sistema ng deposito, pakisubukang muli sa ibang pagkakataon...",
+    "paymentTunnel": "Channel ng Deposito",
+    "msgEnterCard": "Mangyaring ilaagy ang bangko",
+    "bankCard": "Numero ng account sa bangko",
+    "msgPleaseEnter": "Mangyaring pumasok ",
+    "dollor": "",
+    "depositAmount": "Halaga ng Deposito",
+    "chooseAmount": "Mangyaring Piliin ang Halaga",
+    "limitDeposit": "Isang Limitasyon",
+    "reminderTitle": "Paalala:",
+    "orderNumber": "Numero ng order",
+    "completeDeposit": "Nakumpleto ang Deposit",
+    "confirmRedirect": "Mangyaring maghintay habang nire-derekta ka namin sa pahina ng deposito",
+    "depositMethod": "Uri ng Deposito",
+    "depositTunnel": "Channel ng Deposito",
+    "transferAccount": "Maglipat ng account",
+    "accName": "Pangalan ng account",
+    "cardNum": "Numero ng account",
+    "promotion": "Promosyon ",
+    "msgPlsSelectPromotion": "Mangyaring pumili ng promosyon",
+    "senderName": "Pangalan ginagamit ng depositer",
+    "uploadSuccess": "Matagumpay na na-upload ang resibo, mangyaring maghintay para sa pag-verify.",
+    "cancelDeposit": "Matagumpay na nakansela ang deposito.",
+    "uploadReceipt": "Mag-upload ng Patunay ng Deposito",
+    "msgPlsSelectFile": "Mangyaring pumili ng file na ia-upload",
+    "upload": "Ipasa",
+    "cancel": "Kanselahin",
+    "qrCode": "QRCode",
+    "qrDesc": "I-scan at magbayad",
+    "receiverBank": "Banko na tatanggap",
+    "receiverAccount": "Account ng banko na tatanggap",
+    "receiverNumber": "Numero ng banko na tatanggap",
+    "msgDialog": "Mangyaring i-click ang \"Kumpirmahin\" upang magpatuloy sa deposito",
+    "msgPlsSelectPayment": "Mangyaring piliin ang uri ng deposito",
+    "msgPlsSelectMethod": "Mangyaring piliin ang channel ng deposito",
+    "msgPlsEnterAccount": "Pakilagay ang pangalan ng account sa banko",
+    "msgPlsUploadProof": "Mangyaring mag-upload ng patunay ng deposito",
+    "msgNotMustUploadProof": "Hindi ubligadong iupload",
+    "msgInvalidFileSize": "Masyadong Malaki ang file, mangyaring pumili ng file na mas mababa sa 5mb",
+    "msgInvalidFileType": "Mangyaring mag-upload lamang ng file ng larawan. (.jpg/.jpeg/.png/.tiff)",
+    "msgFailedJoinPromotion": "Hindi mo maaaring irehistro ang promosyon na ito. Mangyaring makipag-ugnayan sa Customer Service kung kailangan mo ng karagdagang impormasyon.",
+    "exchangeRate": "halaga ng palitan",
+    "buyPrice": "Bumili",
+    "sellPrice": "Ibenta",
+    "expectedPayment": "Inaasahang Halaga",
+    "details": {
+      "bank": "bangko",
+      "account": "Account",
+      "accountNum": "Number ng account",
+      "failedOrder": "Ang iyong kahilingan ay nag-expire na",
+      "failedOrderDesc": "Mangyaring gumawa ng bagong kahilingan bago magdeposito",
+      "msgDepositValidDate": "Panahon ng Bisa",
+      "hour": "Oras",
+      "minute": "minuto",
+      "second": "Sigundo",
+      "cancelOrder": "Kanselahin ang kahilingan",
+      "orderVerify": "I-verify",
+      "manualOpen": "Manual Open"
+    },
+    "totalAmount": "Halaga",
+    "plsEnterUSDTAmount": "Mangyaring Ilagay ang Halaga ng USDT",
+    "playerNote": "Tala ng Manlalaro",
+    "plsEnterPlayerNote": "Pakilagay ang tala",
+    "eWalletAccount": "Pangalan ng E-Money"
+  },
+  "forgotPassword": {
+    "title": "Nakalimutan ang password",
+    "plsEnterPhoneNumber": "Mangyaring ilagay ang numero ng telepono",
+    "invalidConfirmPass": "Kumpirmahin na hindi tugma ang password",
+    "updateSuccess": "Matagumpay ang pag-reset ng password."
+  },
+  "inbox": {
+    "title": "Sentro ng Mensahe",
+    "manage": "I-edit",
+    "markAsRead": "Markahan bilang nabasa",
+    "dateTime": "Petsa Oras",
+    "type": "Uri ng Anunsyo",
+    "inboxTitle": "Pamagat",
+    "details": "Mga Detalye"
+  },
+  "wap": {
+    "login": {
+      "browse": "bumalik sa Panimula",
+      "rememberMe": "Tandaan",
+      "forgetPass": "Nakalimutan ang password"
+    },
+    "register": {
+      "username": "Mangyaring ilagay ang username ( 6-16 character o numero)",
+      "password": "Pakipasok ang password ( 6-20 capital character, numeric o espesyal na character)",
+      "confirmPassword": "Kumpirmahin ang Password",
+      "withdrawalPassword": "Pakipasok ang withdrawal password (6 na numero)",
+      "confirmWithdrawalPassword": "Kumpirmahin ang Withdrawal Password",
+      "promoteCode": "Code ng Imbitasyon ",
+      "email": "Pakilagay ang email address"
+    },
+    "main": {
+      "homePage": "Bahay",
+      "promo": "Promosyon",
+      "cs": "Live Chat",
+      "my": "Profile",
+      "account": {
+        "mainAccount": "Pangunahing Account：",
+        "totalFund": "Kabuuang Pondo：",
+        "accountReport": "Pahayag ng Account",
+        "betReport": "Record ng Mga Transaksyon sa Taya",
+        "transferReport": "Ulat sa Paglipat ng Pondo",
+        "personalInfo": "Personal na impormasyon",
+        "manageBank": "Pamamahala ng Bangko",
+        "inbox": "Inbox",
+        "affiliate": "Kaakibat",
+        "question": "FAQ",
+        "appDownload": "Pag-download ng APP",
+        "setting": "Mga setting",
+        "signout": "Mag-logout",
+        "wallet": "Wallet",
+        "withdrawal": "Ulat sa withdrawal",
+        "deposit": "Ulat sa Deposito",
+        "transfer": "Ulat sa Paglipat ng Pondo"
+      },
+      "home": {
+        "gameTab": {
+          "sports": "laro",
+          "esports": "eSports",
+          "live": "Live na Casino",
+          "lottery": "Lotto",
+          "chess": "Baraha",
+          "electron": "Mga Laro sa Mesa",
+          "slot": "Slots",
+          "fish": "Pangingisda"
+        },
+        "steps": {
+          "desc": "Paano simulan ang iyong paglalakbay sa laro",
+          "step1": "Mag-sign Up",
+          "step2": "Deposito",
+          "step3": "Simulan ang Laro"
+        },
+        "profile": {
+          "announcement": "Anunsyo",
+          "welcomeBack": "Maligayang pagbabalik, ",
+          "pleaseLogin": "Mangyaring mag-login...",
+          "profile": "PROFILE",
+          "mainAccount": "Balance",
+          "loginRegister": "Mag-login/Magrehistro"
+        }
+      },
+      "bottomNavigation": {
+        "homePage": "Bahay",
+        "promo": "Promosyon",
+        "customerService": "Serbisyo sa Customer",
+        "profile": "Aking"
+      },
+      "menuDrawer": {
+        "deposit": "Deposito",
+        "withdrawal": "Withdrawal",
+        "transfer": "Paglipat",
+        "transReport": "ulat ng paglipat ng pondo",
+        "betReport": "Pahayag ng Account",
+        "withdrawalReport": "Ulat ng pag withdrawal",
+        "depositReport": "ulat ng deposito",
+        "bankCard": "Pamamahala sa bangko",
+        "inbox": "Inbox"
+      }
+    }
+  },
+
+  "profile": {
+    "birthdate": {
+      "title": "araw ng kapanganakan",
+      "toEdit": "kung kinakailangan na i-edit ang petsa ng kapanganakan , mangyaring i-clickk ",
+      "here": "Dito"
+    },
+    "setted": "Nakumpleto ang pagsasaayos",
+    "setNow": "Isaayos ngayon",
+    "edit": "I - edit",
+    "notSet": "hindi nakatakda",
+    "notVerify": "hindi I - verify",
+    "nowVerify": "Patunayan ngayon",
+    "title": "personal na impormasyon",
+    "basicInfo": "batayan ng impormasyon",
+    "otherInfo": "iba pang impormasyon",
+    "securityInfo": "sentro ng seguridad",
+    "accInfo": "impormasyon ng account",
+    "details": "suriin",
+    "phoneVerification": "pagpapatunay ng telepono",
+    "emailVerification": "pagpapatunay ng email",
+    "msgPlsBindEmailAddress": "mangyaring maglagay ng email address",
+    "changePassword": {
+      "msgConfirmPassFail": "hindi tugma ang password",
+      "editPassword": "I edit ang password",
+      "title": "I edit ang login password",
+      "msgEnterOriPass": "mangyaring ilagay ang lumang password",
+      "OriPass": "Lumang password"
+    },
+    "changePhone": {
+      "title": "palitan ang numero ng telepono",
+      "step1Title": "mangyaring ilagay ang lumang numero ng telepono",
+      "step2Title": "magtakda ng bagong numero ng telepono"
+    },
+
+    "nameVerify": {
+      "editHere": "Dito",
+      "title": "Tunay na pangalan",
+      "msgEnterICNum": "Tunay na pangalan",
+      "icNum": "Numbero ng ID ",
+      "msgInvalidICNum": "mali ang numero ng id",
+      "msgPlsEnterName": "paki lagay ang tamang pangalan ",
+      "msgPlsEnterICNum": "paki lagay ang tamang numero ng ID ",
+      "toEdit": "Mag edit ng pangalan, pindutin ",
+      "verifyName": "Patunayan ang totoong pangalan",
+      "tips": "Ang tunay na pangalan ay kailangang kapareho ng pangalan ng withdrawal bank para makapag-withdraw ng pera"
+    },
+    "password": {
+      "title": "I-log in ang password",
+      "settledLoginPassword": "Naitakda na ang iyong password sa pag-log in, panatilihin itong ligtas."
+    },
+    "bankCard": {
+      "title": "Bank Card",
+      "settledBankCard": "Naitakda na ang iyong bank card,  panatilihin itong ligtas.",
+      "limitedWithdraw": "Ang available na balanse sa withdrawal ay: ",
+      "biggerThanZero": "Ang halaga ng pag-withdraw ay dapat na higit sa 0"
+    },
+    "phone": {
+      "title": "Telepono",
+      "toEdit": "Kung kinakailangan i-edit ang mobile, Paki-click ",
+      "here": "Dito",
+      "bindMobile": "Bind Mobile Number",
+      "phoneDesc": "Nakakasiguro na tiyak na hindi kami magbubunyag ng anumang impormasyon ng manlalaro"
+    },
+    "email": {
+      "editEmail": "I-edit ang email",
+      "verifyEmail": "I-verify ang email",
+      "addEmail": "I-setup ang bagong email",
+      "plsEnterEmail": "Ilagay ang email address",
+
+      "bindEmail": "Bind Email Address",
+      "toEdit": "Kung kinakailangan i-edit ang email, Paki-click ",
+      "here": "Dito"
+    },
+    "qq": {
+      "msgInvalidQQ": "Maling QQ account",
+      "plsEnterQQ": "Paki-lagay ang QQ account",
+      "qqAccount": "QQ Account",
+      "toEdit": "Kung Kinakailangang I-edit ang QQ, mangyaring i-click "
+    },
+    "wechat": {
+      "msgInvalidWeChat": "Maling WeChat account",
+      "plsEnterWechat": "Paki-lagay ang WeChat account",
+      "weChatAccount": "WeChat",
+      "toEdit": "kung kailingang i-edit ang We Chat,mangyaring i-click "
+    },
+    "fb": {
+      "msgInvalidFB": "hindi wastong Facebook Messenger account",
+      "plsEnterFB": "Ilagay ang FB messenger account.",
+      "fbAccount": "Facebook Messenger",
+      "toEdit": "Kung kailangan i-edit ang FB Messenger, pindutin. "
+    },
+    "telegram": {
+      "msgInvalidTelegram": "hindi wastong Telegram account",
+      "plsEnterTelegram": "Ilagay ang Telegram account",
+      "telegramAccount": "Telegram",
+      "toEdit": "kung kailangang i-edit ang Telegram, mangyaring i-click "
+    },
+    "line": {
+      "msgInvalidLine": "hindi wastong Line account",
+      "plsEnterLine": "Ilagay ang Line account.",
+      "lineAccount": "Line",
+      "toEdit": "kung kailangang i-edit ang Line,mangyaring i-click "
+    },
+    "viber": {
+      "msgInvalidViber": "Hindi wastong viber account",
+      "plsEnterViber": "hindi wastong Viber account",
+      "viberAccount": "Viber",
+      "toEdit": "kung kailangang i-edit ang Viber, mangyaring i-click "
+    },
+    "whatsapp": {
+      "msgInvalidWhatsapp": "Hindi wasto ang Whatsapp account",
+      "plsEnterWhatsapp": "Ilagay ang Whatsapp na account",
+      "whatsappAccount": "Whatsapp",
+      "toEdit": "kung kailangang i-edit ang Whatsapp, mangyaring i-click "
+    },
+    "resetResetWithdrawalPassword": {
+      "title": "Palitan ang withdrawal password",
+      "editWithdrawalPassword": "Ayusin ang withdrawal password",
+      "bindMobile": "itali ang iyong mobile number / i-bind ang mobile number",
+      "verifiedOriPhone": "i-verify ang iyong phone number",
+      "verifiedEmail": "i-verify ang iyong email",
+      "setNewWithdrawalPassword": "i-edit ang withdrawal password",
+      "resetSuccess": "Ang pagpapalit ng withdrawal password ay tagumpay"
+    },
+    "changeWithdrawalPassword": {
+      "title": "Withdrawal Password",
+      "subTitle": "Withdrawal Password",
+      "oldPassword": "Lumang password",
+      "newPassword": "Bagong password",
+      "confirmNewPassword": "Kumpirmahin ang bagong password",
+      "plsEnterOldPassword": "Ilagay ang lumang password"
+    },
+
+    "withdrawalPassword": {
+      "msgInvalidConPass": "Hindi tugma ang nailagay na password",
+      "title": "Withdrawal Password",
+      "newPass": "withdrawal password",
+      "msgEnterNewPass": "Ilagay ang withdrawal password",
+      "conPass": "Kumpirmahin ang withdrawal password",
+      "msgEnterConPass": "Ilagay ang na kumpirma na password",
+      "setWithdrawalPassword": "Itakda ang withdrawal password",
+      "settledWithdrawalPassword": "Ang iyong withdrawal password ay naitakda na, panatiliin itong ligtas."
+    }
+  },
+  "report": {
+    "title": "ulat / balita",
+    "total": "Kabuuan",
+    "transferDetails": "paglipat",
+    "withdrawalDetails": "pag-withdraw",
+    "depositDetails": "pag-deposito",
+    "bettingDetails": "kasaysayan ng taya",
+    "gamename": "pangalan ng laro",
+    "rebateDetails": "rebate",
+    "platform": "Plataporma",
+    "platformgamename": "Plataporma/Pangalan ng Laro",
+    "date": "Petsa",
+    "startDate": "Simula ng petsa",
+    "endDate": "Pagtatapos ng petsa",
+    "today": "Ngayong araw",
+    "oneWeek": "Isang linggo",
+    "oneMonth": "Isang buwan",
+    "all": "Lahat",
+    "status": "katayuan",
+    "RequestDate": "Hiling na petsa",
+    "submitDate": "Petsa ng pagpasa",
+    "transferOut": "Ilabas",
+    "transferIn": "Ipasok",
+    "OrderNumber": "Numero ng order",
+    "NewOrderNumber": "Numero ng GMS order",
+    "depositChannel": "Channel",
+    "withdrawal": {
+      "bankCard": "Bank Account",
+      "status1": "Nakabitin na withdraw",
+      "status2": "Proseso",
+      "status3": "Naaprubahan",
+      "status4": "Tinanggihan",
+      "status5": "Nagbabayad/Babayaran na",
+      "status6": "Bayad na/Nabayaran na"
+    },
+    "deposit": {
+      "status1": "Nakabitin na deposito",
+      "status2": "Proseso",
+      "status3": "Naaprubahan",
+      "status4": "Tinanggihan"
+    },
+    "rebate": {
+      "sn": "SN",
+      "cycleDate": "Paikot ikot na araw",
+      "validBet": "Wastong taya",
+      "amount": "Rebate"
+    },
+    "joinedPromo": {
+      "title": "ulat ng aktibidad",
+      "promoName": "Pangalan ng promosyon"
+    },
+    "transfer": {
+      "title": "Paglipat ng record",
+      "table": {
+        "from": "Mula",
+        "to": "Sa"
+      }
+    },
+    "balanceChanges": {
+      "title": "Mga Talaan ng Pagbabago ng Balanse",
+      "type": "Uri ng Transaksyon",
+      "amount": "Halaga"
+    },
+    "dateTime": "Oras",
+    "betid": "ID",
+    "betDateTime": "Oras ng taya",
+    "amount": "Halaga",
+    "betAmount": "halaga ng taya",
+    "totalBet": "lahat ng taya",
+    "validBet": "Wastong Turnover",
+    "betContent": "Nilalaman ng taya",
+    "turnover": "Turnover",
+    "winloss": "pagkatalo ng panalo",
+    "ratio": "Ratio",
+    "totalBetAmount": "Kabuuang Halaga ng Taya",
+    "totalWinLose": "Kabuuang pagkatalo ng panalo",
+    "totalValidBet": "Kabuuang Wastong Taya"
+  },
+  "share": {
+    "bottomNote": {
+      "pleaseContact": "Kung may katanungan, Pindutin dito. ",
+      "liveChat": "live chat"
+    },
+    "messageDialog": {
+      "info": "Impormasyon"
+    }
+  },
+  "slot": {
+    "hotGame": "Mga maiinit na laro",
+    "allGame": "Lahat ng laro",
+    "newGame": "Bagong laro",
+    "bookmarkGame": "Bookmark",
+    "historyGame": "kasaysayan ng taya",
+    "recommendGame": "Ni-rerecommenda",
+    "fullscreen": "Buong Screen",
+    "search": "Maghanap ng keyword",
+    "all": "lahat"
+  },
+
+  "transfer": {
+    "autoTransfer": "Auto Transfer : Ang lahat ng credit ay ililipat sa mga laro sa panahon ng paglulunsad",
+    "on": "Buksan ",
+    "off": "Sarado",
+    "transferWallet": "Maglipat ng Wallet",
+    "quickTransfer": "Mabilis na Paglipat",
+    "invalidAmount": "Di-wastong Halaga",
+    "insufficient": "hindi sapat na halaga",
+    "transferSuccess": "Tagumpay sa Paglipat",
+    "msgUnderMaintenance": "Sa ilalim ng pag-aayos, subukan muli sa ibang pagkakataon",
+    "refresh": "Refresh",
+    "title": "Paglipat",
+    "totalFund": "Balanse",
+    "mainAccount": "Pangunahing Wallet",
+    "oneKeyReceive": "Tanggapin lahat",
+    "oneKeyTransferIn": "Maglipat sa",
+    "oneKeyTransferOut": "ilipat sa",
+    "oneKeyTransferAll": "Ilipat lahat",
+    "maintenance": "Sa ilalim ng pag-aayos/pananatili",
+    "transferFrom": "Ilipat mula sa",
+    "transferFromWallet": "Ilipat mula sa",
+    "pleaseSelect": "Pakipili/Piliin",
+    "transferTo": "Ilipat Sa",
+    "transferToWallet": "Ilipat Sa",
+    "msgEnterAmount": "Ilagay ang Halaga ng Paglipat",
+    "maxAmount": "Pinakamataas na halaga",
+    "transfer": "paglipat",
+    "noticeTitle": "Mga tip",
+    "msgFailedTransfer": "Bigo Sa Paglipat",
+    "msgTransferOutFromGP": "Ilipat ang lahat ng nasa sub wallet papunta sa pangunahing wallet."
+  },
+
+  "withdrawal": {
+    "notReachMin": "Ang halaga ng pag-withdraw ay hindi umabot sa pinakamababang halaga",
+    "reachedMax": "Ang halaga ng pag-withdraw ay umabot sa maximum na halaga.",
+    "msgMustHundred": "Ang halaga ay dapat magtapos sa daang digit",
+    "msgInvalidAmt": "Ang halaga ng pag-withdraw ay dapat na higit sa 0",
+    "msgCanWithdrawal": "Available withdrawal：{{amount}}",
+    "msgContactCSCardChange": "Para sa anumang mga pagbabago, mangyaring makipag-ugnayan sa online na serbisyo sa customer",
+    "turnover": "Kinakailangan ng Turnover :",
+    "msgEnterWithdrawalPass": "Paki lagay ng withdrawal password.",
+    "msgInsufficient": "Hindi sapat na balanse.",
+    "msgSuccess": "Ang iyong kahilingan sa pag-withdraw ay matagumpay na naisumite.",
+    "title": "Withdraw",
+    "limitDeposit": "Limitasyon ng Deposito",
+    "canWithdrawal": "Halaga na pwedeng ma i-withdraw",
+    "checkDetails": "Mga Detalye",
+    "manageBank": "Pamahalaan ang Bangko",
+    "bankCard": "Bank Account",
+    "msgEnterBank": "Mangyaring pumili ng bangko",
+    "tail": "",
+    "enterAmount": "Paki lagay ang halaga ng withdraw",
+    "msgWithdrawalAmount": "Ilagay 100 - 450,000",
+    "notice": "Ang pangalan ng account ng bangkong ito ay dapat na kapareho ng tunay na pangalan na napunan sa iyong account, kung hindi ay maaaring hindi maproseso ang pag-withdraw",
+    "receiverAcc": "Receiver Account",
+    "receiverName": "Pangalan ng Makatatanggap",
+    "fee": "Bayad",
+    "receiverAmount": "Halaga",
+    "usdtAmount": "Halaga ng USDT",
+    "playerNote": "Tala ng Manlalaro",
+    "plsEnterPlayerNote": "Pakilagay ang tala"
+  },
+  "promotion": {
+    "emptyLine1": "KARAGDAGANG PROMOTION AT ACTIVITIES ANG",
+    "emptyLine2": "MALAPIT NA!",
+    "moreInfo": "Karagdagang impormasyon",
+    "startDate": "Petsa ng Pagsisimula: ",
+    "endDate": "Petsa ng Pagtatapos: ",
+    "title": "Promosyon",
+    "promoType": "Uri ng Promosyon",
+    "promoTarget": "Target ng Promosyon",
+    "promoDetail": "TnC",
+    "promoDate": "Panahon ng Promosyon",
+    "joinPromo": "SUMALI",
+    "joinSuccess": "Na-activate ang Promosyon",
+    "joinFail": "Hindi ka makakasali dito, pakisubukang muli sa ibang pagkakataon",
+    "promoJoint": "Na-activate ang Promotion Dati",
+    "details": "Mga Detalye"
+  },
+  "web": {
+    "home": {
+      "Section1Chess": "Card Game",
+      "Section1Slot": "Slots",
+      "Section1Lottery": "Lottery",
+      "Section1Fishing": "Fishing",
+      "Section1Sport": "Sports",
+      "Section1Esport": "Esports",
+      "Section1Electron": "Table Games",
+      "Section1Live": "Live Casino",
+      "services": {
+        "service1": {
+          "title": "Average na Oras ng Deposito",
+          "value": "30s"
+        },
+        "service2": {
+          "title": "Average na Oras ng Pag-withdraw",
+          "value": "50s"
+        },
+        "service3": {
+          "title": "Platform ng Pagbabayad ng Kooperatiba",
+          "value": "60 partners"
+        },
+        "service4": {
+          "title": "Platform ng Cooperative Gaming",
+          "value": "80 partners"
+        }
+      },
+      "features": {
+        "feature1": {
+          "title": "Mas Propesyonal",
+          "description": "Araw-araw, binibigyan ka namin ng halos isang libong kapana-panabik na mga kaganapan sa palakasan at e-sports, at ang pinakahuling kasiyahan sa maraming gameplay. Mayroong higit pang mga paraan ng libangan tulad ng mga tunay na tao, chess, lottery, electronic games at iba pa. "
+        },
+        "feature2": {
+          "title": "Mas sigurado",
+          "description": "Eksklusibong pag-unlad, gamit ang 128-bit na teknolohiya ng pag-encrypt at mahigpit na sistema ng pamamahala ng seguridad, ang mga pondo ng customer ay ang pinaka kumpletong proteksyon, na nagbibigay-daan sa iyong ganap na tamasahin ang libangan, pagtaya sa kaganapan, walang mga alalahanin."
+        },
+        "feature3": {
+          "title": "Mas madali",
+          "description": "Self-developed Web, H5, at iOS at Android native apps, na nagbibigay-daan sa iyong libangin at tayaan ang anumang gusto mo, anumang oras, kahit saan 24 na oras na online na serbisyo sa customer ang nagbibigay ng pinaka-matalik at de-kalidad na serbisyo."
+        },
+        "feature4": {
+          "title": "Mas mabilis",
+          "description": "Ang sistema ng pagpoproseso ng pananalapi na independiyenteng binuo ng pinakabagong teknolohiya ay maaaring tunay na makamit ang napakabilis na deposito, pagkuha at paglilipat. Eksklusibong teknolohiya sa pag-optimize ng network, para mabigyan ka ng first-class na karanasan sa paglalaro, i-maximize ang network delay optimization."
+        }
+      }
+    },
+    "liveGame": {
+      "wmDesc": "Eksklusibong custom na interface para sa mga manlalarong asyano, ayon sa karanasan at gawi ng user. Extreme interface, extreme game control, unqiue live casino.",
+      "saDesc": "Nag-aalok ang SA Gaming ng mga casino hot pick kasama ang Baccarat at marami pa. Ang mga larong pinapagana ng HTML5 ay umaakit sa lahat ng uri ng mga manlalaro na may iba't ibang feature tulad ng Multi-Bet at real-time na mga istatistika ng laro.",
+      "bgDesc": "Ang Big Gaming Live Casino ay ang pinaka-promising na live casino brand sa Asya, na nag-aalok ng malawak na hanay ng mga laro.",
+      "abDesc": "Nag-aalok ang Allbet ng limang natatanging game hall para sa serbisyo ng Live Streaming kabilang ang Dragon Hall, Speed Hall, Multi-play Hall, VIP Hall at BidMe Hall.",
+      "vgDesc": "Ang mga advanced na produkto at platform ay nagbibigay ng pinaka-tunay na karanasan sa paglalaro sa merkado ngayon."
+    },
+    "lotteryGame": {
+      "vrDesc": "Ang VR Lottery ay nagsasaliksik at gumagawa ng iba't ibang uri ng lottery partikular na ang sikat na lottery ng hongkong. ",
+      "bgDesc": "Ang pinaka-komprehensibong iba't ibang mga laro sa lottery at mga paraan ng pagtaya",
+      "kmDesc": "Nakatuon sa industriya ng laro ng lottery sa loob ng maraming taon, mayroon itong mga klasikong uri ng lottery at mga paraan ng paglalaro. Mayroon ding napakadaling gamitin na interface ng laro, na nagdaragdag ng ningning sa iyong laro!"
+    },
+    "chessGame": {
+      "kyDesc": "number 1 card game. Bull bull, blackjack, poker, dragon tiger at iba pang totoong playercard game"
+    },
+    "slotGame": {
+      "btnStart": "Magsimula na",
+      "btnTrial": "Libreng laro",
+      "btnBookmark": "Bookmark",
+      "keyword": "Keyword",
+      "search": "Maghanap",
+      "recommendedGame": "Inirerekomendang Laro",
+      "more": "Higit pa",
+      "famousGame": "Naglalaro ang iba",
+      "rtpRank": "RTP Rank"
+    },
+    "header": {
+      "announcement": "Anunsyo:",
+      "promotion": "Promotion",
+      "mobver": "Mobile",
+      "plsClick": "Paki-klik",
+      "bookmark": " to bookmark",
+      "addBookmark": "Bookmark",
+      "transfer": "Transfer",
+      "deposit": "Deposito",
+      "mainAccount": "Balanse",
+      "dollor": "",
+      "logout": "Logout",
+      "welcomBack": "Maligayang pagbabalik, "
+    },
+    "rightNavBar": {
+      "wallet": "Pondo",
+      "codeTitle": "APP Download",
+      "cs": {
+        "csDesc": "CS",
+        "contact": "Numero"
+      }
+    },
+    "marquee": {
+      "latestNews": "Anunsyo:"
+    },
+    "footer": {
+      "footerDescTitle": "MGA KAANIB",
+      "footerDescText": "Anuman ang gusto mong laruin, ang mga kasosyo ng {brand} ay magbibigay sa iyo ng mas magandang karanasan sa paglalaro",
+      "paymentTitle": "Pagbabayad at lisensya",
+      "cautionText": "Ang site na ito ay pagmamay-ari ng Wilshire Worldwide Co. Ltd., isang entity na awtorisado at lisensyado ng Philippine Amusement and Gaming Corporation (PAGCOR). Ang Wilshire Worldwide Company Ltd. ay pinahintulutan na gamitin ang trademark ng {brand} sa Vietnam at Thailand",
+      "appDownload": "Apps",
+      "appDownloadLine2": "Download",
+      "wapQRCodeDesc": "Mobile Web",
+      "appQRCodeDesc": "Apps Download",
+      "affiliateCampaign": "Affiliate Campaign",
+      "affiliateCampaignLine2": "Plano ng komisyon",
+      "customerServiceHotline": "24  oras na hotline",
+      "contactUs": "Makipag-ugnayan sa amin",
+      "contactNumber": "Hotline :400-120-8118",
+      "contactEmail": "Contact Email:cs@{brand}.com",
+
+      "copyright": "Ang website na ito ay kabilang sa（PAGCOR）Philippine Amusement and Gaming Corporation Awtorisasyon at pangangasiwa",
+      "copyrightLine2": "{brand} Copyright© 2020 {brand} Casino Co.Group All Rights Reserved"
+    },
+    "login": {
+      "login": "Login",
+      "loginTitle": "SignIn",
+      "loginTitleLine2": "Pinakamahusay na site ng pagtaya sa Asya",
+      "newRegister": "Bagong Pagpaparehistro",
+
+      "rememberMe": "Tandaan mo ako",
+      "forgetPass": "Nakalimutan ang password",
+      "cs": "Kung mayroon kang mga problema sa pag-log in, mangyaring huwag mag-atubiling ",
+      "contactus": "Makipag-ugnayan sa amin",
+      "btn": "Login",
+      "footerDesc": "Ang website na ito ay gumagamit ng pinaka-advanced na 128/256 bit SSL na serbisyo ng Global Trus",
+      "controlTitle": "Responsableng Paglalaro",
+      "controlDesc": "Nag-set up ka na para sa self control, account sa",
+      "controlText": "will beunlock",
+      "errorMsg": {
+        "emptyUsername": "Hindi Maaaring Walang laman ang Username",
+        "emptyPassword": "Hindi Maaaring Walang laman ang Password"
+      }
+    },
+    "register": {
+      "registerTitle": "Magrehistro",
+      "registerTitleLine2": "Pinakamahusay na site ng pagtaya sa Asya",
+      "username": "Username",
+      "password": "Password",
+      "confirmPassword": "Kumpirmahin ang Password",
+      "withdrawalPassword": "Withdrawal Password",
+      "confirmWithdrawalPassword": "Kumpirmahin ang Withdrawal Password",
+      "promoteCode": "Invitation Code",
+      "contract": "Kinukumpirma ko na ako ay hindi bababa sa 18 taong gulang at nabasa at tinanggap ang patakaran, pahayag sa privacy, mga tuntunin at kundisyon ng website na ito.",
+      "btn": "Mag-rehistro na ngayon",
+      "activation": "SMS Verification",
+      "email": "Pakipasok ang email address",
+      "errorCustomDesc": "Mangyaring pindutin ang \"Send Code\" na buton, at Ipasok ang \"123456\" pagkatapos ay pindutin ang \"Isumite\""
+    },
+    "resetPassword": {
+      "title": "I-reset ang Password",
+      "oldPassword": "Lumang password",
+      "newPassword": "Bagong Password",
+      "confirmNewPassword": "Kumpirmahin ang bagong password",
+      "resetSuccess": "Matagumpay na na-reset ang password"
+    },
+
+    "account": {
+      "fund": "Pondo",
+      "personal": "Personal na impormasyon",
+      "deposit": "Deposito",
+      "withdrawal": "Withdrawal",
+      "transfer": "Transfer",
+      "report": "Report",
+      "profile": "Profile",
+      "inbox": "Inbox",
+      "affiliate": "Kaakibat",
+      "header": {
+        "lastLogin": "Huling Login",
+        "total": "Balanse",
+        "mainWallet": "Main Wallet",
+        "allGameWallet": "Transfer Wallet"
+      },
+      "msgCenterAcc": {
+        "inbox": "Mailbox",
+        "noMsg": "Walang Mensahe",
+        "errorMsg": "Wala pang pinipiling mensahe",
+        "tickAll": "Lahat",
+        "delete": "Tanggalin",
+        "markAsRead": "Markahan bilang nabasa"
+      }
+    },
+
+    "download": {
+      "titleDesc": "",
+      "supportPlatform": "(Android/iOS)",
+      "pcDownload": "Mobile Web",
+      "mobileDownload": "Android/iOS Download"
+    },
+
+    "maintenance": {
+      "title": "Paumanhin, under maintenance ang system",
+      "maintenance": "maintenance",
+      "maintenancePeriod": "Panahon ng pagpapanatili:",
+      "desc": "Para sa iyong mas magandang karanasan sa laro, nagsusumikap kami",
+      "descText": "Kung may anumang katanungan, mangyaring makipag-ugnayan sa online na serbisyo sa customer ",
+      "btn": "Makipag-ugnayan sa amin"
+    }
+  },
+  "PrimePay": "PrimePay",
+  "MaticPay": "MaticPay",
+  "ZeroNineNinePay": "099Pay",
+  "LeePay": "LeePay",
+  "ApplePay": "ApplePay",
+  "UmPay": "PlayPay",
+  "Manual": "Manual",
+  "Crypto": "Crypto",
+  "BankTransfer": "Bank Transfer",
+  "ThirdParty": "Third Party",
+  "CustomBank": "Custom na Bangko",
+  "VR": {
+    "lottery": "VR",
+    "desc": "VR lottery. Binubuo din namin ang VR Electronic na serye ng mga laro, na determinadong bigyan ang mga customer ng higit pang sari-sari na mga pagpipilian. Ang VR ay patuloy na lilikha at uunlad, upang maipakilala ang higit pang bagong uri ng lottery para sa publiko, at lumikha ng isang all-round entertainment environment."
+  },
+  "KY": {
+    "chess": "KaiYuan",
+    "desc": "Numero unong card game.Bull bull,blackjack,poker,dragon tiger and other real playercard game",
+    "BankerNiuNiu": "Niu-Niu",
+    "GoldenFlower": "Gloden Flower",
+    "The21Point": "The 21 Point",
+    "SanGong": "San-Gong",
+    "fish": "KY"
+  },
+  "sports": {
+    "bunnydesc": "Nagbibigay ang {brand} ng makabago, iba't ibang uri ng taya at mapagkumpitensyang logro para sa mga live na laban. Madaling pagtaya na may mabilis, at secure na paraan sa pamamagitan ng anumang uri ng device kahit saan, anumang oras! Bilang karagdagan, sinusuportahan namin ang lahat ng uri ng mga sport event, kabilang ang soccer, basketball, baseball, tennis, football, at E-sports upang matugunan ang iyong mga pangangailangan!",
+    "desc": "Nagbibigay ang Pega Gaming ng makabago, iba't ibang uri ng taya at mapagkumpitensyang logro para sa mga live na laban. Madaling pagtaya na may mabilis, at secure na paraan sa pamamagitan ng anumang uri ng device kahit saan, anumang oras! Bilang karagdagan, sinusuportahan namin ang lahat ng uri ng mga sport event, kabilang ang soccer, basketball, baseball, tennis, football, at E-sports upang matugunan ang iyong mga pangangailangan!"
+  },
+  "esports": {
+    "bunnydesc": "Ang IM E-Sports ay isang nangunguna sa industriya na platform ng pagtaya na idinisenyo ng mga manlalaro para sa mga manlalaro. Handa nang masindak sa magandang visual na interface, walang katapusang mga opsyon sa pagtaya, at ang pinakahuling karanasan sa pagtaya. Bisitahin ang {brand}, isang mapagmataas na kasosyo ng IM E-Sports, at manatiling napapanahon sa iyong mga paboritong laro at koponan!",
+    "desc": "Ang IM E-Sports ay isang nangunguna sa industriya na platform ng pagtaya na idinisenyo ng mga manlalaro para sa mga manlalaro. Handa nang masindak sa magandang visual na interface, walang katapusang mga opsyon sa pagtaya, at ang pinakahuling karanasan sa pagtaya. Bisitahin ang {brand} Gaming, isang mapagmataas na kasosyo ng IM E-Sports, at manatiling up to date sa iyong mga paboritong laro at team!"
+  },
+  "services": {
+    "depositTitle": "Madali, Mabilis na Payout",
+    "deposit": "Nagsusumikap kaming magkaroon ng pinakamabilis, pinakamadali at pinakasecure na mga payout sa industriya, lahat ng mga ito ay 100% secure at maaasahan. Sa pamamagitan ng iba't ibang opsyon sa pagdeposito at pag-withdraw, nangangako kaming gagawing masaya at madali ang iyong karanasan sa paglalaro.",
+    "securityTitle": "Kaligtasan at Seguridad",
+    "security": "Bilang ang pinakapinagkakatiwalaang online na platform sa pagtaya sa Asia, kami ay nakatuon sa pagbibigay ng pinakamahusay na karanasan sa paglalaro sa bawat aspeto. Gumagamit kami ng 128-bit SSL para i-encrypt ang bawat pribadong impormasyong ibinabahagi mo sa amin.",
+    "oddsTitle": "500+ Nangungunang mga laro",
+    "odds": "Mula sa kapana-panabik na sports, hanggang sa napakalaking progressive jackpot, classic table game, live casino, lottery, at specialty na laro – mayroon kaming lahat! Sa 500+ laro, ang aming online casino ay nag-aalok ng mga oras ng entertainment at eksklusibong mga reward, premyo at bonus para lang sa iyo!",
+    "platformTitle": "Kahit saan, anumang device",
+    "platform": "Nasaan ka man, maaari mong mapanalunan ang iyong kapalaran at magsaya anumang oras, gamit ang anumang device! Available kami sa mga app para sa parehong mga Android at iOS device, at gayundin bilang isang web-based na platform. Samantalahin ang mga pagkakataong manalo ng BIG sa amin ngayon!"
+  },
+  "AG": {
+    "name": "Asia Gaming",
+    "live": "Asia Gaming"
+  },
+  "BG": {
+    "name": "Big Gaming",
+    "live": "Big Gaming",
+    "fish": "Big Gaming"
+  },
+  "SG": {
+    "name": "Sexy Gaming",
+    "live": "Sexy Gaming"
+  },
+  "SW": {
+    "live": "Skywind",
+    "slots": "Skywind",
+    "electron": "Skywind"
+  },
+  "PINNACLE": {
+    "sports": "Pinnacle"
+  },
+  "SWTF": {
+    "live": "Skywind",
+    "slots": "Skywind",
+    "electron": "Skywind",
+    "fish": "Skywind"
+  },
+  "AWC_SG": {
+    "live": "Sexy Gaming"
+  },
+  "SBO": {
+    "sports": "SBO"
+  },
+  "SBOTF": {
+    "sports": "SBO"
+  },
+  "IMES": {
+    "sports": "IM",
+    "esports": "IM"
+  },
+  "IM_ESP": {
+    "sports": "IM",
+    "esports": "IM"
+  },
+  "SABA": {
+    "sports": "SABA"
+  },
+  "SABATF": {
+    "sports": "SABA"
+  },
+  "HABA": {
+    "slots": "Habanero",
+    "electron": "Habanero",
+    "fish": "HABA"
+  },
+  "HABATF": {
+    "slots": "Habanero",
+    "electron": "Habanero",
+    "fish": "HABA"
+  },
+  "JDB": {
+    "slots": "JDB",
+    "fish": "JDB",
+    "desc": "Ang panalo sa trasure online ay hindi nakakainip. Maraming laro at slot machine dito. Kung gusto mong makaranas ng higit pang gameplay, dapat kang pumunta dito!"
+  },
+  "JDBTF": {
+    "slots": "JDB Slots",
+    "fish": "JDB Fishing",
+    "electron": "JDB",
+    "desc": "Ang panalo sa trasure online ay hindi nakakainip. Maraming laro at slot machine dito. Kung gusto mong makaranas ng higit pang gameplay, dapat kang pumunta dito!"
+  },
+  "JILI": {
+    "slots": "JILI",
+    "fish": "JILI"
+  },
+  "JILITF": {
+    "slots": "JILI Slots",
+    "fish": "JILI Fishing",
+    "electron": "JILI"
+  },
+  "JOKER": {
+    "slots": "JOKER",
+    "fish": "JOKER",
+    "electron": "JOKER"
+  },
+  "PPTF": {
+    "slots": "Pragmatic Play",
+    "electron": "Pragmatic Play",
+    "live": "Pragmatic Play",
+    "fish": "Pragmatic Play",
+    "sports": "Pragmatic Play",
+    "customsports": "PP Virtual Sports"
+  },
+  "PP": {
+    "slots": "Pragmatic Play",
+    "electron": "Pragmatic Play",
+    "live": "Pragmatic Play",
+    "fish": "Pragmatic Play",
+    "sports": "Pragmatic Play"
+  },
+  "EVO": {
+    "live": "Evolution",
+    "slots": "Evolution"
+  },
+  "EVOTF": {
+    "live": "Evolution",
+    "slots": "Evolution"
+  },
+  "BTI": {
+    "sports": "BTI"
+  },
+  "PHSB": {
+    "sports": "PHSB"
+  },
+  "AB": {
+    "live": "Allbet"
+  },
+  "RT": {
+    "slots": "RedTiger",
+    "electron": "RedTiger"
+  },
+  "RTTF": {
+    "slots": "RedTiger Slots",
+    "electron": "RedTiger"
+  },
+  "NT": {
+    "slots": "Netent",
+    "electron": "Netent"
+  },
+  "NTTF": {
+    "slots": "Netent",
+    "electron": "Netent"
+  },
+  "WGFM": {
+    "sports": "WG Sports",
+    "TIGER": {
+      "sports": "Tiger Sports"
+    }
+  },
+  "WGVIA": {
+    "sports": "WG Horserace"
+  },
+  "WM": {
+    "live": "WM Casino"
+  },
+  "WMTF": {
+    "live": "WM Casino"
+  },
+  "DG": {
+    "live": "DG Casino"
+  },
+  "DGTF": {
+    "live": "DG Casino"
+  },
+  "IDNLIVE": {
+    "live": "IDN Casino"
+  },
+  "TCG_SEA": {
+    "lottery": "TCGAMING"
+  },
+  "TCG_LOTTO": {
+    "lottery": "TCG"
+  },
+  "TCG_LOTTO_VN": {
+    "lottery": "TCG VN"
+  },
+  "365": {
+    "chess": "365"
+  },
+  "365TF": {
+    "chess": "365"
+  },
+  "LY": {
+    "chess": "LY",
+    "fish": "LY"
+  },
+  "BC": {
+    "sports": "BetConstruct",
+    "customsports": "BetConstruct"
+  },
+  "AVIA": {
+    "sports": "AVIA Gaming",
+    "esports": "AVIA"
+  },
+  "AWC_RCB": {
+    "sports": "RCB988"
+  },
+  "AWC_VENUS": {
+    "live": "VENUS"
+  },
+  "AWC_COCKFIGHT": {
+    "sports": "SV388",
+    "cockfight": "SV388"
+  },
+  "AWC_SPADE": {
+    "electron": "Spade Gaming",
+    "fish": "Spade Gaming",
+    "slots": "Spade Gaming"
+  },
+  "OBET": {
+    "sports": "OBET"
+  },
+  "YEEBET": {
+    "live": "YEEBET"
+  },
+  "AWC_FACAI": { "electron": "FACHAI", "slots": "FACHAI", "fish": "FACHAI" },
+  "FACHAI": { "electron": "FACHAI", "slots": "FACHAI", "fish": "FACHAI" },
+  "AWC_PGS": { "electron": "PGSoft", "slots": "PGSoft" },
+  "AWC_AWS": { "electron": "AWS", "slots": "AWS" },
+  "AWC_FS": { "slots": "Fast Spin" },
+  "AWC_YL": { "electron": "YL", "fish": "YL" },
+  "AWC_KM": { "electron": "KingMaker" },
+  "AWC_LUDO": { "electron": "LUDO" },
+  "AWC_AELOTTO": { "lottery": "AE" },
+  "TF": {
+    "sports": "TF Gaming",
+    "esports": "TF"
+  },
+  "TFTF": {
+    "sports": "TF Gaming",
+    "esports": "TF"
+  },
+  "SM01": {
+    "sports": "SM01",
+    "cockfight": "SM01"
+  },
+  "BTG": {
+    "slots": "BTG"
+  },
+  "NLC": {
+    "slots": "NLC"
+  },
+  "ENDOR": {
+    "slots": "Endorphina"
+  },
+  "idr": {
+    "withdrawalNumber": "Numero ng bank card",
+    "msgEnterWithdrawalNumber": "Mangyaring ipasok ang numero ng bank card"
+  },
+  "hk28": {
+    "withdrawalNumber": "Numero ng bank card/Crypto currency address",
+    "msgEnterWithdrawalNumber": "Mangyaring ipasok ang numero ng bank card/crypto currency address",
+    "card": {
+      "addCard": {
+        "BankName": "pangalan ng bangko",
+        "msgEnterBankName": "Mangyaring ipasok ang pangalan ng bangko",
+        "BankAccountName": "Pangalan ng may hawak ng bangko",
+        "msgEnterBankAccountName": "Pakilagay ang pangalan ng may-ari ng bangko"
+      }
+    }
+  },
+  "mess888": {
+    "panel": {
+      "cs": "Pangangalaga sa Customer",
+      "im": "Makipag-ugnayan sa amin",
+      "download": "I-download ang app"
+    },
+    "wap": {
+      "sports": "Sports"
+    },
+    "web": {
+      "promotion": "Promotion"
+    }
+  },
+  "bet28": {
+    "phoneNumber": "Mobile Number/FPS ID",
+    "msgEnterPhone": "Pakilagay ang iyong mobile number/FPS ID",
+    "BankAccountName": "Pakilagay ang pangalan ng nagbabayad (English abbreviation)",
+    "msgEnterBankAccountName": "Chan Txx Mxx"
+  },
+  "sowin": {
+    "card": {
+      "addCard": {
+        "BankAccountName": "Pangalan ng may hawak ng bangko"
+      }
+    }
+  },
+  "download": {
+    "supported": "Suporta sa Device",
+    "openGuide": "I-install ang Instruksyon",
+    "downloadMethod": "Download",
+    "scanDownload": "I-scan at I-download",
+    "useQRScan": "I-scan ang QR code gamit ang iyong mobile phone upang i-download ang app",
+    "title": "Download",
+    "iphone": {
+      "title": "Gabay sa pag-install para sa iOS:",
+      "point1": "1. I-install at buksan ang app. May lalabas na notification ng \"Untrusted Enterprise Developer.\"",
+      "point2": "2. Pumunta sa \"Mga Setting\" ng iyong telepono -> \"Pangkalahatan\" -> \"Mga Profile at Pamamahala ng Device\" -> Mag-click sa pangalan ng app na ito. I-click ang \"Trust (pangalan ng app na ito)\" . Ilunsad muli ang app at simulan ang paglalaro."
+    },
+    "android": {
+      "title": "Gabay sa pag-install para sa Android:",
+      "point1": "1. I-click ang link na \"I-download,\" magsisimulang mag-download ang app. Kapag tapos na, i-click ang \"I-install\".",
+      "point2": "2. Pumunta sa \"Mga Setting\"->\"Seguridad\"-> paganahin ang pag-install mula sa hindi kilalang mga mapagkukunan. Ilunsad muli ang app at simulan ang paglalaro."
+    }
+  },
+
+  "piso": {
+    "withdrawalNumber": "Bank Account Number/Gcash Number",
+    "msgEnterWithdrawalNumber": "Pakilagay ang bank account number/ Gcash number",
+    "profile": {
+      "fullName": "buong pangalan",
+      "enterFullName": "Ilagay ang buong pangalan",
+      "documentNumber": "Numero ng Dokumento",
+      "enterDocumentNumber": "Ipasok ang numero ng dokumento"
+    }
+  },
+  "usertype": {
+    "agent": "Ahente",
+    "player": "Manlalaro"
+  },
+  "vip": {
+    "birthBenefit": "Bonus pang kaarawan",
+    "cardGameRebate": "Card Game",
+    "level": "VIP Program",
+    "levelKeepAccumulateBetAmount": "Qtly. Bet amount na kailangang ipanatili",
+    "levelKeepAccumulateDeposit": "Qtly. Deposito na kailangang ipanatili",
+    "levelUpAccumulateBetAmount": "Araw-araw na Halaga ng Taya para mag-upgrade",
+    "levelUpAccumulateDeposit": "Pang-araw-araw na Deposito para mag-upgrade",
+    "liveDealerRebate": "Live Casino",
+    "lotteryRebate": "Lottery Game",
+    "promotionBenefit": "Promotion Bonus",
+    "quarterlyBenefit": "Quarterly Bonus",
+    "slotRebate": "Slots Games",
+    "sportsRebate": "sports games",
+    "virtualSportsRebate": "Esports Games",
+    "vipBenefit": "VIP rebate",
+    "bunny": {
+      "level1": "Bronze",
+      "level2": "Silver",
+      "level3": "Gold",
+      "level4": "Ruby",
+      "level5": "Platinum",
+      "level6": "Diamond"
+    }
+  },
+  "custom": {
+    "addcard": {
+      "name": "Pangalan ng FPS account",
+      "msgPlsEnterName": "Mangyaring punan ang pangalan ng FPS account",
+      "phoneNumber": "FPS number",
+      "msgEnterPhone": "Mangyaring punan ang numero ng FPS o email address"
+    }
+  },
+  "depositNotification": {
+    "title": "Notification sa Pag bank transfer",
+    "content": "<div style=\"margin-bottom: 10px; text-align: center\">* MAHALAGA *</div> <div style=\"margin-bottom: 10px;\">Minamahal na lahat ng VIP na miyembro, bago magdeposito, mangyaring doblehin -suriin na ginagamit mo ang aming itinalagang bank account number na ipinakita sa Pahina ng Deposito. </div><div style=\"margin-bottom: 10px;\">Kung ginamit ang maling bank account number, HINDI kami mananagot para sa mga isyung dulot, gaya ng: pagkaantala sa pag-top-up, nawalang track ng iyong deposito , atbp. </div><div style=\"margin-bottom: 10px;\">Salamat sa iyong pansin.</div>"
+  },
+  "depositNotificationGMO": {
+    "title": "Notification sa Pag bank transfer",
+    "content": "<div style=\"margin-bottom: 10px; text-align: center;\">Mahalaga !</div> <div style=\"margin-bottom: 10px;\">Pakitiyak na ang iyong withdrawal bank account ay PAREHO sa iyong deposito account para maiwasan ang money laundering.</div><div style=\"margin-bottom: 10px;\">May 3 beses na limitasyon sa withdrawal sa loob ng 1 araw para sa mga pangkalahatang miyembro.</div><div style=\"margin-bottom: 10px ;\">Makipag-ugnayan sa CS kung mayroon kang anumang tanong sa pag-withdraw, salamat.</div>"
+  },
+  "mgm": {
+    "msgPlsEnterAccount": "Mangyaring punan ang bank account/pangalan",
+    "accountDepositTips": "Mangyaring punan ang isang wastong pangalan ng remittance bank para sa kaginhawahan",
+    "nameDepositTips": "Mangyaring punan ang pangalan ng isang wastong remittance account para sa kaginhawahan"
+  },
+  "t3": {
+    "profile": "Profile",
+    "transfer": "Paglipat",
+    "deposit": "Deposito",
+    "withdraw": "Withdrawal"
+  },
+  "verified": {
+    "yes": "Verified",
+    "no": "hindi Bine-verify",
+    "verifying": "Bine-verify",
+    "rejected": "Tinanggihan",
+    "waiting": "Naghihintay ng pag-verify mula sa serbisyo sa customer",
+    "goVerify": "I-verify ang totoong pangalan"
+  },
+
+  "disabledAddCard": {
+    "title": "Walang (mga) card na nakita sa iyong account",
+    "description": "Mangyaring makipag-ugnayan sa customer service para magdagdag ng card para ma-access ang withdrawal page."
+  },
+
+  "hint": {
+    "_099": "Available Ngayon - 24 Oras"
+  },
+
+  "idr1": {
+    "pleaseEnterAccountName": "Pakipasok ang iyong pinagmulang account",
+    "msgPlsSelectAccount": "Mangyaring pumili ng account",
+    "eWalletAccount": "NAMA REKENING",
+    "phone": "NOMOR REKENING"
+  },
+  "king8": {
+    "EWallet": "E-money",
+    "FPS": "FPS",
+    "ThirdParty": "Cash(7-11/Circle K)"
+  },
+  "pointless": {
+    "download": "APP Download",
+    "copy": "tagumpay na pag kopya",
+    "link": "Link"
+  },
+  "promoRoulette": {
+    "main": "Home",
+    "content": "paano mag laro",
+    "terms": "T&C",
+    "dialogDARUnavailableTitle": "Ang Deposit Roulette ay natapos na",
+    "dialogUnavailableTitle1": "mag laro isang beses sa isang araw",
+    "dialogUnavailableTitle2": "bumalik muli bukas",
+    "dialogUnavailableTitle3": "Mag-click para makakita ng higit pang magagandang deal",
+    "dialogRewardTitle1": "Congratulations sa panalo",
+    "betterluck": "Baka palarin sa susunod",
+    "dialogErrorTitle1": "Nabigong maglaro ng Roulette",
+    "dialogErrorTitle2": "Subukang muli mamaya",
+    "dialogIndexErrorTitle1": "Player mangyaring i-refresh",
+    "remainingSpin": "natitirang {rouletteCount} Spin(s) !",
+    "history": "Kasaysayan",
+    "winningID": "Panalong ID",
+    "dateTime": "petsa at oras",
+    "winnings": "Mga panalo",
+    "outOfCount": "Oops, mukhang naubusan ka na ng spins."
+  },
+
+  "idr1HomePage": {
+    "section1": {
+      "live": "Live casino",
+      "slot": "Slot games",
+      "lottery": "Lottery games",
+      "fishing": "Fishing games"
+    },
+    "section2": {
+      "1000game": "1000+ na mga laro",
+      "247support": "24/7 na suporta",
+      "fastpay": "mabilis na pag bayad",
+      "secure": "100% ligtas",
+      "vip": "VIP Programa",
+      "promo": "Mga Kahanga-hangang Promo"
+    },
+    "section3": {
+      "title": "Casino on the go",
+      "description": "Slot Games, Live Casino, Sportsbook mas madaling laruin sa pamamagitan ng isang telepono"
+    },
+    "section4": {
+      "exclusive": "Eksklusibo",
+      "vip": "VIP Programa",
+      "description": "Sumali ngayon at tamasahin ang mga premium na pribilehiyo ng VIP para sa iyo"
+    }
+  },
+  "brand": {
+    "KING8": {
+      "title": "Game of KING | The Biggest & Most Trusted Online Casino",
+      "description": "Pinaka malaki at pinaka maasahang Online Casino",
+      "footer": "Game of KING"
+    },
+    "WGHK": {
+      "title": "MGM Sports | The Biggest & Most Trusted Online Casino",
+      "description": "Pinaka malaki at pinaka maasahang Online Casino",
+      "footer": "MGM Sports"
+    }
+  },
+  "t10": {
+    "home": {
+      "section2": {
+        "title": "pinaka malaking panalo"
+      },
+      "section3": {
+        "title": "Pinakamahusay na casino sa Asya",
+        "content": {
+          "first": "Mas Propesyonal",
+          "second": "Mas Maaasahan",
+          "third": "mas ligtas",
+          "forth": "Mas mabilis"
+        }
+      },
+      "section4": {
+        "title": "Proud partners"
+      }
+    }
+  },
+  "WGHK": {
+    "loginregister": "Login / mag rehistro ngayon"
+  },
+  "T2": {
+    "marquee": "News"
+  },
+  "customGPname": {
+    "sport": " Sports"
+  },
+  "fees": {
+    "withdraw": "bayad sa pag wihdraw",
+    "deposit": "Bayad sa paglipat"
+  },
+  "extended": {
+    "name": "pangalan ng account",
+    "phone": "telepono",
+    "eMoneyName": "pangalan ng E-money",
+    "bankAccount": "numero ng account",
+    "address": "tirahan",
+    "fpsId": "FPS ID",
+    "email": "Email"
+  },
+  "TIGER": {
+    "login": "Login",
+    "cs": "kontakin kami",
+    "my": "ang aking account",
+    "promo": "promosyon",
+    "chess": "Poker",
+    "sport": "Sports",
+    "fish": "Fishing",
+    "lottery": "numero"
+  },
+  "T13": {
+    "footer": {
+      "copyright": "{brand} Copyright© 2020 {brand} Casino Co.Group.",
+      "rights": "Lahat ng Karapatan ay Nakalaan."
+    },
+    "socials": {
+      "fb_title": "Facebook",
+      "viber_title": "Viber",
+      "line_title": "LINE",
+      "telegram_title": "Telegram"
+    },
+    "misc": {
+      "msgEnterCode": "Mangyaring ipasok ang verification code",
+      "addBankCard": "Magdagdag ng bank card",
+      "msgAddCardDesc": "Magdagdag ng bank card dito para i-withdraw ang iyong pera, hanggang {maxCardCount} card.",
+      "branch": "Pangalan ng sangay ng bangko"
+    },
+    "register": {
+      "confirmPassword": "ilagay muli ang bagong password",
+      "btn": "sumali ngayon"
+    },
+    "password": {
+      "title": "Login Password",
+      "cp": "Kasalukuyang Password",
+      "cp_label": "Kasalukuyang Password",
+      "cp_placeholder": "ilagay ang password",
+      "np": "bagong password",
+      "re_np": "ilagay muli ang bagong password"
+    },
+    "line": {
+      "title": "LINE",
+      "line_title": "LINE",
+      "line_label": "LINE account",
+      "line_placeholder": "mangyaring ilagay ang iyong LINE account"
+    },
+
+    "facebook": {
+      "fb_title": "Facebook",
+      "fb_label": "Facebook Account",
+      "fb_placeholder": "mangyaring ilagay ang iyong facebook account"
+    },
+    "qq": {
+      "qq_title": "QQ",
+      "qq_label": "QQ Account",
+      "qq_placeholder": "mangyaring ilagay ang iyong QQ account"
+    },
+    "wechat": {
+      "wc_title": "WeChat",
+      "wc_label": "WeChat Account",
+      "wc_placeholder": "mangyaring ilagay ang iyong WeChat account"
+    },
+    "telegram": {
+      "tg_title": "Telegram",
+      "tg_label": "Telegram Account",
+      "tg_placeholder": "mangyaring ilagay ang iyong telegram account"
+    },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Viber Account",
+      "vb_placeholder": "mangyaring ilagay ang iyong viber account"
+    },
+    "help_footer": {
+      "break1": "may mga katanungan?",
+      "break2": "kontakin kami",
+      "break3": "para sa karagdagang tulong"
+    },
+    "dialog": {
+      "confirm": "Nakuha ko!"
+    },
+    "winner": "mga nanalo",
+    "proceedLogin": "mayroon ng account?",
+    "proceedRegister": "wala pang account?",
+    "me": "Ako",
+    "topGames": "mainit na palaro",
+    "recommeneddGames": "Inirerekomenda para sa Iyo",
+    "newGames": "bagong laro",
+    "topNews": "pinaka unang balita",
+    "aboutUs": "tungkol sa amin",
+    "quickLink": {
+      "title": "Mabilis na link",
+      "247": "Serbisyo sa Customer ng Chat",
+      "faq": "FAQs",
+      "privacy": "Patakaran sa Privacy",
+      "tnc": "Mga Tuntunin at Kundisyon",
+      "reponsible": "responsableng laro",
+      "follow": "i-follow kami"
+    },
+    "partners": "Mga kasosyo",
+    "brandTag": "{brandName}: isang panalong casino!",
+    "brandDescription": "Ang {brandName} ay ang nangungunang destinasyon para sa lahat ng mga manlalaro ng online casino na naghahanap ng kakaibang klase at kagandahan sa kanilang kapaligiran sa paglalaro. Ang aming casino ay nagbibigay sa iyo ng higit sa 400 mga laro sa online na casino – ang ilan ay tradisyonal na may mga modernong twist, at ang ilan ay ganap na bago, makabago, at kakaiba. Sa hindi mapaglabanan na lingguhang mga promo ng bonus at kaakit-akit na katapatan at mga VIP na programa, sigurado kaming mananatili ka sa ilang sandali. Ang lahat ng aming software ay binuo at pinananatili ng nangunguna sa industriya ng online gaming software company, ang Pegasus. Dahil dito, nagagawa naming mag-alok sa iyo ng mga pinakabagong cutting-edge na laro, ng pinakamataas na kalidad at sukdulang seguridad sa isang sopistikado, ngunit nakakaengganyo na kapaligiran.",
+    "belongTo": "Ang website na ito ay kabilang sa（PAGCOR）Philippine Amusement and Gaming Corporation Awtorisasyon at pangangasiwa ng PGG Copyright© 2020 PGG Casino Co.Group All Rights Reserved Version {bersyon}",
+    "promo": {
+      "join": "mag claim ng bonus"
+    },
+    "slot": {
+      "search": "pag hahanap",
+      "provider": "mga providers"
+    },
+    "deposit": {
+      "upload": "piliin ang file"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "aktibidad"
+      },
+      "transfer": {
+        "title": "ilipat"
+      }
+    },
+    "vip": {
+      "level": "VIP \nLevel",
+      "levelKeepAccumulateBetAmount": "Quarterly T/O na kailangang panatilihin",
+      "levelKeepAccumulateDeposit": "Quarterly deposito na kailangang panatilihin",
+      "levelUpAccumulateBetAmount": "araw-araw na T/O para mag level-up",
+      "levelUpAccumulateDeposit": "araw-araw na pag deposito para mag level-up",
+      "birthBenefit": "bonus pang kaarawan",
+      "promotionBenefit": "Level UP Bonus",
+      "quarterlyBenefit": "Quarterly Bonus"
+    },
+    "panel": {
+      "im": "makipag ugnayan sa amin!"
+    },
+    "header": {
+      "news": "Nebalitaws"
+    },
+    "gamingLicense": "lisensya sa pag lalaro"
+  },
+  "rebateRate": {
+    "title": "mga rate ng rebate",
+    "players": "mga manlalaro",
+    "turnover": "Turnover",
+    "rebates": "mga rebate"
+  },
+  "depositAndWithdrawalStatus": {
+    "depositOrWithdraw": "deposito/withdrawal form",
+    "updatedTime": "oras ng pag update",
+    "orderNo": "numero ng order",
+    "channel": "channel ng pagbabayad",
+    "amount": "halaga",
+    "status": "katayuan",
+    "approved": "tagumpay",
+    "rejected": "tinanggihan",
+    "withdrawal_approved": "mag hintay",
+    "paid": "tagumpay",
+    "DepositNotify": "form ng deposito",
+    "WithdrawNotify": "form ng pag withdraw",
+    "WithdrawalNotify": "form ng pag withdraw"
+  },
+  "t15": {
+    "notLogin": "Hindi ka pa naka log in!",
+    "logintoCheck": "suriin pagkatapos mag log in",
+    "serverStatus": "katayuan ng server",
+    "sponsor": "isponsor",
+    "memberLogin": "log in ng miyembro",
+    "memberRegister": "rehistro ng miiyembro",
+    "sponsor1": "Liverpool",
+    "sponsor2": "Fiorentina",
+    "sponsor3": "Real Sociedad",
+    "sponsor4": "Lyon",
+    "sponsor5": "Schalke 04",
+    "sponsorDesc": "Opisyal na kasosyong Asyano"
+  },
+
+  "qq_account": "QQ Account",
+  "qq_invalid": "hindi wastong QQ account",
+  "qq_toEdit": "kung kailangang i-edit ang QQ, mangyaring i-click ",
+  "wechat_account": "WeChat Account",
+  "wechat_invalid": "hindi wastong WeChat account",
+  "wechat_toEdit": "kung kailangang i-edit ang We chat, mangyaring i-click ",
+  "line_account": "LINE Account",
+  "line_invalid": "hindi wastong Line account",
+  "line_toEdit": "kung kailangang i-edit ang Line, mangyaring i-click ",
+  "viber_account": "Viber Account",
+  "viber_invalid": "hindi waston Viber account",
+  "viber_toEdit": "kung kailangang i-edit ang Viber, mangyaring i-click ",
+  "telegram_account": "Telegram Account",
+  "telegram_invalid": "hindi wastong Telegram account",
+  "telegram_toEdit": "kung kailangan i-edit ang Telegram, magyaring i-click ",
+  "fb_account": "Facebook Messenger Account",
+  "fb_invalid": "hindi wastong Facebook Messenger account",
+  "fb_toEdit": "kung kailangan i-edit ang Facebook Messenger, magyaring i-click ",
+  "whatsapp_account": "WhatsApp Account",
+  "whatsapp_invalid": "hindi wastong Whatsapp account",
+  "whatsapp_toEdit": "kung kailangan i-edit ang Whatsapp, magyaring i-click ",
+
+  "second": "pangalawa",
+  "platform": "plataporma",
+
+  "security": "Security",
+  "message": "Messages",
+  "announcement": "Announcement",
+  "changepassword": "Change Password",
+  "changemoneypassword": "Change Money PW",
+  "betrecord": "Bet Record",
+  "language": "Language",
+  "signout": "Sign Out",
+  "click_download": "i-click upang ma download",
+  "copy_link": "kopyahin ang link",
+
+  "pleaseenter": "mangyaring i-enter ",
+  "memo": "Memo",
+  "compose": "sumulat",
+  "memoinbox": "inbox",
+  "sent": "naipadala",
+  "number": "numero",
+  "date": "petsa",
+  "subject": "paksa",
+  "action": "Aksyon",
+  "reply": "Sagot",
+  "sendsuccess": "tagumpay na pag papadala",
+  "daysago": "ilang araw makalipas",
+
+  "onlinechat": "Online Chat",
+  "collect": "mangolekta",
+  "create": "gumawa",
+  "gameEntrance": "pasukan ng laro",
+  "timeToPlay": "oras ng pag laro",
+  "showAllGames": "ipakita lahat ng laro",
+
+  "news": "balita ",
+  "myfavorite": "My Favorite",
+  "myfavoriteDescription1": "wala pang nakolekta",
+  "myfavoriteDescription2": "mag madali at i-add ang iyong paboritong laro!",
+  "mycustomersupport": "suporta sa customer",
+  "welcometocustomersupport": "Welcome to Customer Support",
+  "membercenter": "sentro ng miyembro",
+  "vipprivilege": "pribelehiyo ng VIP",
+  "accountsafety": "kaligtasan ng account",
+  "rewardcenter": "sentro ng gantimpala",
+  "joinus": "sumali sa amin",
+  "accountrecord": "talaan ng account",
+  "enterGame": "pumasok sa laro",
+  "balanceChange": "pag babago ng balanse",
+  "shortCockfight": "Sabong"
+}
