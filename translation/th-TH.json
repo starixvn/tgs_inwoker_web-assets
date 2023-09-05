@@ -1687,5 +1687,7 @@
   "accountrecord": "บันทึกบัญชี",
   "enterGame": "เข้าสู่เกม",
   "balanceChange": "บันทึกการเปลี่ยนแปลงบัญชี",
-  "shortCockfight": "การชนไก่"
+  "shortCockfight": "การชนไก่",
+
+  "confirmSubmit": "ยืนยันการส่ง"
 }

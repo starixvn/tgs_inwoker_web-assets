@@ -1723,5 +1723,7 @@
   "accountrecord": "खाता रिकॉर्ड",
   "enterGame": "खेल में प्रवेश करें",
   "balanceChange": "शेष परिवर्तन रिकॉर्ड",
-  "shortCockfight": "मुरग़ा की लड़ाई"
+  "shortCockfight": "मुरग़ा की लड़ाई",
+
+  "confirmSubmit": "सबमिशन की पुष्टि करें"
 }

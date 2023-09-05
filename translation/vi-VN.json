@@ -1676,5 +1676,7 @@
   "accountrecord": "Lịch sử tài khoản",
   "enterGame": "Vào trò chơi",
   "balanceChange": "Hồ sơ thay đổi tài khoản",
-  "shortCockfight": "Đá gà"
+  "shortCockfight": "Đá gà",
+
+  "confirmSubmit": "xác nhận gửi"
 }

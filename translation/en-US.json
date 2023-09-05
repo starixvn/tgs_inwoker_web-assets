@@ -1719,5 +1719,7 @@
   "accountrecord": "Account Record",
   "enterGame": "Enter Game",
   "balanceChange": "Balance Change",
-  "shortCockfight": "Sabong"
+  "shortCockfight": "Sabong",
+
+  "confirmSubmit": "Are you sure"
 }

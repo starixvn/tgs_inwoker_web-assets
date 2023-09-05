@@ -1725,5 +1725,7 @@
   "accountrecord": "账户记录",
   "enterGame": "进入游戏",
   "balanceChange": "账变记录",
-  "shortCockfight": "斗鸡"
+  "shortCockfight": "斗鸡",
+
+  "confirmSubmit": "确认提交"
 }

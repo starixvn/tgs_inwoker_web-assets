@@ -1706,5 +1706,7 @@
   "accountrecord": "帳務記錄",
   "enterGame": "進入遊戲",
   "balanceChange": "賬變記錄",
-  "shortCockfight": "鬥雞"
+  "shortCockfight": "鬥雞",
+
+  "confirmSubmit": "確認提交"
 }

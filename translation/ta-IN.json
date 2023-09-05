@@ -1723,5 +1723,7 @@
   "accountrecord": "கணக்கு பதிவு",
   "enterGame": "விளையாட்டு நுழைவு",
   "balanceChange": "இருப்பு மாற்ற பதிவுகள்",
-  "shortCockfight": "சேவல் சண்டை"
+  "shortCockfight": "சேவல் சண்டை",
+
+  "confirmSubmit": "சமர்ப்பிப்பை உறுதிப்படுத்தவும்"
 }

@@ -1724,5 +1724,7 @@
   "accountrecord": "Catatan Akun",
   "enterGame": "Masuk ke Permainan",
   "balanceChange": "Catatan Perubahan Akun",
-  "shortCockfight": "Sabungan"
+  "shortCockfight": "Sabungan",
+
+  "confirmSubmit": "Konfirmasi penyerahan"
 }
