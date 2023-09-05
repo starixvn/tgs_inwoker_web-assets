@@ -1672,8 +1672,8 @@
 
   "pleaseenter": "請輸入",
   "memo": "站內信",
-  "compose": "撰寫",
-  "memoinbox": "收件箱",
+  "compose": "撰写新内容",
+  "memoinbox": "站內信",
   "sent": "寄件匣",
   "number": "序",
   "date": "日期",
@@ -1683,6 +1683,7 @@
   "sendsuccess": "發送成功",
   "daysago": "天前",
   "sentBy": "來自",
+  "yourmessage": "內容",
 
   "onlinechat": "在線聊天",
   "collect": "收藏",

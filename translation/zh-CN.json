@@ -1692,7 +1692,7 @@
   "pleaseenter": "請輸入",
   "memo": "站內信",
   "compose": "撰写",
-  "memoinbox": "收件箱",
+  "memoinbox": "站內信",
   "sent": "寄件匣",
   "number": "序",
   "date": "日期",
@@ -1702,6 +1702,7 @@
   "sendsuccess": "发送成功",
   "daysago": "天前",
   "sentBy": "来自",
+  "yourmessage": "內容",
 
   "onlinechat": "在线聊天",
   "collect": "收藏",
