@@ -1722,5 +1722,7 @@
   "balanceChange": "Balance Change",
   "shortCockfight": "Sabong",
 
-  "confirmSubmit": "Are you sure"
+  "confirmSubmit": "Are you sure",
+
+  "ifsc": "IFSC Code"
 }

@@ -1679,5 +1679,7 @@
   "balanceChange": "Hồ sơ thay đổi tài khoản",
   "shortCockfight": "Đá gà",
 
-  "confirmSubmit": "xác nhận gửi"
+  "confirmSubmit": "xác nhận gửi",
+
+  "ifsc": "IFSC"
 }

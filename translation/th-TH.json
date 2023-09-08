@@ -1690,5 +1690,7 @@
   "balanceChange": "บันทึกการเปลี่ยนแปลงบัญชี",
   "shortCockfight": "การชนไก่",
 
-  "confirmSubmit": "ยืนยันการส่ง"
+  "confirmSubmit": "ยืนยันการส่ง",
+
+  "ifsc": "รหัส IFSC"
 }

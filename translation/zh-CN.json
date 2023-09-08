@@ -1728,5 +1728,7 @@
   "balanceChange": "账变记录",
   "shortCockfight": "斗鸡",
 
-  "confirmSubmit": "确认提交"
+  "confirmSubmit": "确认提交",
+
+  "ifsc": "IFSC"
 }

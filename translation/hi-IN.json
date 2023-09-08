@@ -1726,5 +1726,7 @@
   "balanceChange": "शेष परिवर्तन रिकॉर्ड",
   "shortCockfight": "मुरग़ा की लड़ाई",
 
-  "confirmSubmit": "सबमिशन की पुष्टि करें"
+  "confirmSubmit": "सबमिशन की पुष्टि करें",
+
+  "ifsc": "IFSC कोड"
 }
