@@ -1729,5 +1729,7 @@
 
   "confirmSubmit": "सबमिशन की पुष्टि करें",
 
-  "ifsc": "IFSC कोड"
+  "ifsc": "IFSC कोड",
+
+  "selectBank": "बैंक चुनें"
 }

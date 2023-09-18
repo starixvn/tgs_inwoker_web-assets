@@ -1730,5 +1730,7 @@
 
   "confirmSubmit": "Konfirmasi penyerahan",
 
-  "ifsc": "Kode IFSC"
+  "ifsc": "Kode IFSC",
+
+  "selectBank": "Pilih Bank"
 }

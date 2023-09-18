@@ -1731,5 +1731,7 @@
 
   "confirmSubmit": "确认提交",
 
-  "ifsc": "IFSC"
+  "ifsc": "IFSC",
+
+  "selectBank": "选择银行"
 }

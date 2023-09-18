@@ -1725,5 +1725,7 @@
 
   "confirmSubmit": "kumpirmahin ang pagsusumite",
 
-  "ifsc": "IFSC"
+  "ifsc": "IFSC",
+
+  "selectBank": "pumili ng bangko"
 }

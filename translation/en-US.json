@@ -1725,5 +1725,7 @@
 
   "confirmSubmit": "Are you sure",
 
-  "ifsc": "IFSC Code"
+  "ifsc": "IFSC Code",
+
+  "selectBank": "Select Bank"
 }

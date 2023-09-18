@@ -1693,5 +1693,7 @@
 
   "confirmSubmit": "ยืนยันการส่ง",
 
-  "ifsc": "รหัส IFSC"
+  "ifsc": "รหัส IFSC",
+
+  "selectBank": "เลือกธนาคาร"
 }
