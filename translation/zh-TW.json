@@ -122,6 +122,9 @@
     "chess": "棋牌遊戲",
     "slot": "老虎機",
     "electron": "電子遊戲",
+    "qipai": "棋牌遊戲",
+    "slots": "老虎機",
+    "table": "電子遊戲",
     "fish": "捕魚",
     "shootFish": "捕魚",
     "promotion": "優惠活動",
@@ -1714,5 +1717,7 @@
 
   "ifsc": "IFSC",
 
-  "selectBank": "選擇銀行"
+  "selectBank": "選擇銀行",
+
+  "donotshowagainfortoday": "今天不再顯示"
 }

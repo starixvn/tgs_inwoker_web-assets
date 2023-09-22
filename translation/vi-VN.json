@@ -123,6 +123,9 @@
     "esports": "eSports",
     "live": "Casino",
     "lottery": "Xổ số",
+    "qipai": "Trò chơi bài",
+    "slots": "Slots",
+    "table": "Trò chơi điện tử",
     "chess": "Trò chơi bài",
     "slot": "Slots",
     "electron": "Trò chơi điện tử",
@@ -1684,5 +1687,7 @@
 
   "ifsc": "IFSC",
 
-  "selectBank": "chọn ngân hàng"
+  "selectBank": "chọn ngân hàng",
+
+  "donotshowagainfortoday": "Đừng hiển thị lại cho hôm nay"
 }
