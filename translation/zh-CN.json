@@ -120,8 +120,11 @@
     "live": "真人娱乐",
     "lottery": "彩票游戏",
     "chess": "棋牌游戏",
+    "qipai": "棋牌游戏",
     "slot": "老虎机",
+    "slots": "老虎机",
     "electron": "电子游戏",
+    "table": "电子游戏",
     "fish": "捕鱼",
     "shootFish": "捕鱼",
     "promotion": "优惠活动",
@@ -1733,5 +1736,7 @@
 
   "ifsc": "IFSC",
 
-  "selectBank": "选择银行"
+  "selectBank": "选择银行",
+
+  "donotshowagainfortoday": "今天不再显示"
 }

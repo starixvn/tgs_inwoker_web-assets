@@ -41,6 +41,7 @@
   },
 
   "common": {
+    "slots": "Slots",
     "currentEmail": "Current Email Address",
     "nodata": "No data",
     "maintenance": "Maintenance Time",
@@ -120,8 +121,10 @@
     "esports": "eSports",
     "live": "Live Casino",
     "lottery": "Lottery",
+    "qipai": "Card Game",
     "chess": "Card Game",
     "slot": "Slots",
+    "table": "Table Games",
     "electron": "Table Games",
     "fish": "Fishing",
     "shootFish": "Shoot Fish",
@@ -1727,5 +1730,7 @@
 
   "ifsc": "IFSC Code",
 
-  "selectBank": "Select Bank"
+  "selectBank": "Select Bank",
+
+  "donotshowagainfortoday": "Don't show again for today"
 }

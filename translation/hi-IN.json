@@ -38,6 +38,7 @@
     "join": "जोड़ना"
   },
   "common": {
+    "slots": "तेज़ स्पिन",
     "currentEmail": "वर्तमान ईमेल पता",
     "nodata": "कोई डेटा नहीं",
     "maintenance": "रखरखाव समय",
@@ -118,7 +119,9 @@
     "live": "लाइव कैसीनो",
     "lottery": "लॉटरी",
     "chess": "कार्ड खेल",
+    "qipai": "कार्ड खेल",
     "slot": "स्लॉट्स",
+    "table": "टेबल के खेल",
     "electron": "टेबल के खेल",
     "fish": "मछली पकड़ने",
     "shootFish": "मछली को गोली मारो",
@@ -1731,5 +1734,7 @@
 
   "ifsc": "IFSC कोड",
 
-  "selectBank": "बैंक चुनें"
+  "selectBank": "बैंक चुनें",
+
+  "donotshowagainfortoday": "आज के लिए फिर से न दिखाएं"
 }

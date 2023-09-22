@@ -44,6 +44,7 @@
     "join": "Bergabung"
   },
   "common": {
+    "slots": "Slots",
     "currentEmail": "Email Saat Ini",
     "nodata": "Tidak ada informasi",
     "maintenance": "Waktu Pemeliharaan",
@@ -123,8 +124,10 @@
     "esports": "eSports",
     "live": "Live Casino",
     "lottery": "Lottery",
+    "qipai": "Card Game",
     "chess": "Card Game",
     "slot": "Slots",
+    "table": "Table Games",
     "electron": "Table Games",
     "fish": "Fishing",
     "shootFish": "Shoot Fish",
@@ -1732,5 +1735,6 @@
 
   "ifsc": "Kode IFSC",
 
-  "selectBank": "Pilih Bank"
+  "selectBank": "Pilih Bank",
+  "donotshowagainfortoday": "Jangan tampilkan lagi untuk hari ini"
 }

@@ -117,9 +117,12 @@
     "esports": "อีสปอร์ต",
     "live": "คาสีโน",
     "lottery": "หวย",
-    "chess": "365 เกม",
+    "qipai": "เกม",
+    "chess": "เกม",
     "slot": " สล็อต",
+    "slots": " สล็อต",
     "electron": "อีสปอร์ต",
+    "table": "อีสปอร์ต",
     "fish": "ยิงปลา",
     "shootFish": "ยิงปลา",
     "promotion": "โปรโมชั่น",
@@ -1695,5 +1698,7 @@
 
   "ifsc": "รหัส IFSC",
 
-  "selectBank": "เลือกธนาคาร"
+  "selectBank": "เลือกธนาคาร",
+
+  "donotshowagainfortoday": "อย่าแสดงอีกสำหรับวันนี้"
 }

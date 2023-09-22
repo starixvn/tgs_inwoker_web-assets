@@ -120,9 +120,12 @@
     "esports": "eSports",
     "live": "Live na Casino",
     "lottery": "Lotto",
+    "qipai": "Baraha",
     "chess": "Baraha",
     "slot": "Slots",
+    "slots": "Slots",
     "electron": "Mga Laro sa Mesa",
+    "table": "Mga Laro sa Mesa",
     "fish": "Pangingisda",
     "shootFish": "Tamaan ang isda",
     "promotion": "Promosyon",
@@ -1727,5 +1730,6 @@
 
   "ifsc": "IFSC",
 
-  "selectBank": "pumili ng bangko"
+  "selectBank": "pumili ng bangko",
+  "donotshowagainfortoday": "huwag ipakita muli para sa ngayon"
 }
