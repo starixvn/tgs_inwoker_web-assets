@@ -1737,5 +1737,16 @@
   "bestlivecasino": "Best Live Casino",
   "followus": "Follow Us",
   "downloadapp": "Download App",
-  "justwon": "Just Won"
+  "justwon": "Just Won",
+
+  "introduction": "Introduction",
+  "introdesc": "Inililipat ng {brandName} Mobile Casino App ang lahat ng kapangyarihan ng aming site sa iyong mga kamay. Available kami para sa iOS at Android na nagtatampok ng maraming nakakaaliw na laro.",
+  "compatible": "Katugma",
+  "compatibledesc": "Sinusuportahan ng app ang anumang iOS at Android device",
+  "secure": "Secure",
+  "securedesc": "Ginagaya ng Android at iOS ang parehong pamantayan sa kaligtasan",
+  "extensive": "Malawak",
+  "extensivedesc": "Access sa higit sa 1000+ laro kasama ang pagtaya sa sports at higit pa",
+  "convenient": "Maginhawa",
+  "convenientdesc": "Simple, malinaw at lubhang nakakaengganyo ang user interface"
 }

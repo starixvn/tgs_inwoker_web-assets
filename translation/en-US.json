@@ -1738,5 +1738,16 @@
   "bestlivecasino": "Best Live Casino",
   "followus": "Follow Us",
   "downloadapp": "Download App",
-  "justwon": "Just Won"
+  "justwon": "Just Won",
+
+  "introduction": "Introduction",
+  "introdesc": "The {brandName} Mobile Casino App transfers all the powers of our site onto your fingertips. We are available for iOS and Android that featurtes a multitude of entertaining games.",
+  "compatible": "Compatible",
+  "compatibledesc": "App support any iOS and Android devices",
+  "secure": "Secure",
+  "securedesc": "Android and iOS replicate the same safety standard",
+  "extensive": "Extensive",
+  "extensivedesc": "Access to more than 1000+ games including sports betting and more",
+  "convenient": "Convenient",
+  "convenientdesc": "User friendly interface simple, clear and extremely engaging"
 }

@@ -1744,5 +1744,16 @@
   "bestlivecasino": "真人娱乐场",
   "followus": "关注我们",
   "downloadapp": "下载APP",
-  "justwon": "刚刚赢了"
+  "justwon": "刚刚赢了",
+
+  "introduction": "简介",
+  "introdesc": "{brandName} 移动赌场应用程序将我们网站的所有功能转移到您的指尖。我们提供 iOS 和 Android 版本，提供多种娱乐游戏。",
+  "compatible": "兼容",
+  "compatibledesc": "应用程序支持任何 iOS 和 Android 设备",
+  "secure": "安全",
+  "securedesc": "Android 和 iOS 复制相同的安全标准",
+  "extective": "广泛",
+  "extectivedesc": "访问超过 1000 款游戏，包括体育博彩等",
+  "convenient": "方便",
+  "convenientdesc": "用户友好的界面简单、清晰且极具吸引力"
 }
