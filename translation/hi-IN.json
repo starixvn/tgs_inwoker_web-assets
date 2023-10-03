@@ -687,7 +687,7 @@
     "reachedMax": "निकासी राशि अधिकतम राशि तक पहुंच गई",
     "msgMustHundred": "राशि सौ अंकों के साथ समाप्त होनी चाहिए",
     "msgInvalidAmt": "निकासी राशि 0 से अधिक होनी चाहिए",
-    "msgCanWithdrawal": "उपलब्ध निकासी：{{राशि}}",
+    "msgCanWithdrawal": "उपलब्ध निकासी:",
     "msgContactCSCardChange": "किसी भी बदलाव के लिए कृपया ऑनलाइन ग्राहक सेवा से संपर्क करें",
     "turnover": "टर्नओवर आवश्यकताएँ:",
     "msgEnterWithdrawalPass": "कृपया निकासी पासवर्ड दर्ज करें",

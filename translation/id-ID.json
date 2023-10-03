@@ -691,7 +691,7 @@
     "reachMax": "Jumlah penarikan mencapai jumlah maksimum",
     "msgMustHundred": "Jumlah harus diakhiri dengan seratus digit",
     "msgInvalidAmt": "Jumlah penarikan harus lebih besar dari 0",
-    "msgCanWithdrawal": "Penarikan yang tersedia：{{jumlah}}",
+    "msgCanWithdrawal": "Penarikan yang tersedia:",
     "msgContactCSCardChange": "Untuk setiap perubahan, silakan hubungi layanan pelanggan online",
     "omzet": "Persyaratan Omset :",
     "msgEnterWithdrawalPass": "Silakan Masukkan Kata Sandi Penarikan",
