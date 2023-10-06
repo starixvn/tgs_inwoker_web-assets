@@ -1748,5 +1748,9 @@
   "extensive": "Malawak",
   "extensivedesc": "Access sa higit sa 1000+ laro kasama ang pagtaya sa sports at higit pa",
   "convenient": "Maginhawa",
-  "convenientdesc": "Simple, malinaw at lubhang nakakaengganyo ang user interface"
+  "convenientdesc": "Simple, malinaw at lubhang nakakaengganyo ang user interface",
+
+  "createaccount": "Gumawa ng account",
+  "reenterpassword": "I-enter muli ang password",
+  "customerservice724": "Customer Service 24/7"
 }
