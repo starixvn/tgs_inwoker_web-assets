@@ -1188,6 +1188,9 @@
   "YEEBET": {
     "live": "YEEBET"
   },
+  "9WCRICKET": {
+    "sports": "9WCRICKET"
+  },
 
   "AWC_FACAI": {
     "electron": "发财电子",
@@ -1625,6 +1628,7 @@
     "turnover": "有效投注",
     "rebates": "返水比例"
   },
+
   "depositAndWithdrawalStatus": {
     "depositOrWithdraw": "存/提款单",
     "updatedTime": "更新时间",
