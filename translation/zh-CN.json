@@ -1763,5 +1763,9 @@
 
   "createaccount": "创建帐号",
   "reenterpassword": "重新输入密码",
-  "customerservice724": "24/7 客户服务"
+  "customerservice724": "24/7 客户服务",
+
+  "affiliateprogram": "{brandName} 联盟计划",
+  "affiliateprogramdesc": "{brandName} 在线赌场以其丰富的游戏选择而闻名，通过 {brandName} 联盟计划，您可以分享赌场的成功，同时增加您的收入。 \n 免费成为联盟会员，分享 您的赌场热情并一路赚钱。您的成功掌握在您手中！",
+  "becomeaffiliatenow": "立即成为会员"
 }

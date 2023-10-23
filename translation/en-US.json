@@ -1756,5 +1756,9 @@
 
   "createaccount": "Create Account",
   "reenterpassword": "Re-enter Password",
-  "customerservice724": "24/7 Customer Service"
+  "customerservice724": "24/7 Customer Service",
+
+  "affiliateprogram": "{brandName} Affiliate Program",
+  "affiliateprogramdesc": "{brandName} online casino is well known for its vast selectetion of games, and with the {brandName} Affiliate Program, you can share in the casino's success while boosting your revenue. \n Become an affiliate for free, share your casino enthusiasm and earn along the way. Your success is in your hands!",
+  "becomeaffiliatenow": "Become Affiliate Now"
 }

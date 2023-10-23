@@ -1760,5 +1760,9 @@
 
   "createaccount": "Buat Akun",
   "reenterpassword": "Masukkan ulang kata sandi",
-  "customerservice724": "Layanan Pelanggan 24/7"
+  "customerservice724": "Layanan Pelanggan 24/7",
+
+  "affiliateprogram": "{brandName} Program Afiliasi",
+  "affiliateprogramdesc": "Kasino online {brandName} terkenal dengan pilihan permainannya yang beragam, dan dengan Program Afiliasi {brandName}, Anda dapat berbagi kesuksesan kasino sekaligus meningkatkan pendapatan Anda. \n Jadilah afiliasi gratis, bagikan antusiasme kasino Anda dan dapatkan penghasilan sepanjang perjalanan. Kesuksesan Anda ada di tangan Anda!",
+  "becomeaffiliatenow": "Jadilah Afiliasi Sekarang"
 }
