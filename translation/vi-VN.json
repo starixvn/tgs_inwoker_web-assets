@@ -1723,5 +1723,9 @@
   "newgames": "Trò chơi mới",
   "recommended": "Được đề xuất",
   "todaysspecial": "Đặc biệt hôm nay",
-  "more": "Thêm"
+  "more": "Thêm",
+
+  "addcardsuccesstitle": "Thẻ ngân hàng của bạn đã được thêm thành công.",
+  "addcardsuccessdesc": "Xin chúc mừng! Thẻ ngân hàng của bạn đã được thêm. Bây giờ bạn có thể rút tiền với thẻ này. Nếu bạn muốn thêm thẻ khác, vui lòng nhấp vào 'Thêm thẻ khác' bên dưới.",
+  "addanothercard": "Thêm thẻ khác"
 }

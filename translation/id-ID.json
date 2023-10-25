@@ -1770,5 +1770,9 @@
   "newgames": "Permainan Baru",
   "recommended": "Direkomendasikan",
   "todaysspecial": "Spesial Hari Ini",
-  "more": "Lebih Banyak"
+  "more": "Lebih Banyak",
+
+  "addcardsuccesstitle": "Kartu bank Anda berhasil ditambahkan.",
+  "addcardsuccessdesc": "Selamat! Kartu bank Anda telah ditambahkan. Anda sekarang dapat melakukan penarikan dengan kartu ini. Jika Anda ingin menambahkan kartu lain, silakan klik 'Tambahkan Kartu Lain' di bawah.",
+  "addanothercard": "Tambahkan Kartu Lain"
 }

@@ -1766,5 +1766,9 @@
   "newgames": "New Games",
   "recommended": "Recommended",
   "todaysspecial": "Today's Special",
-  "more": "More"
+  "more": "More",
+
+  "addcardsuccesstitle": "Your bank card has been successfully added.",
+  "addcardsuccessdesc": "Congrats! Your bank card has been added. You can now making withdrawal with this card. If you wish to add more cards, please click ' Add Another Card' below.",
+  "addanothercard": "Add Another Card"
 }

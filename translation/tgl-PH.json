@@ -1761,9 +1761,13 @@
   "affiliateprogramdesc": "Ang {brandName} online casino ay kilala para sa mga laro nito na may malawak na saklaw, at sa pamamagitan ng {brandName} programa ng kaakibat, maaari mong madagdagan ang iyong kita habang nagpapahalaga sa tagumpay ng casino. \n Maging isang kaakibat na kumpanya ng libre, ibahagi ang iyong kasabikan sa casino, at kumita sa proseso. Ang iyong tagumpay ay nasa iyong mga kamay!",
   "becomeaffiliatenow": "Sumali na ngayon",
 
-  "hotgames": "Mainit na mga Laro",
-  "newgames": "Bagong mga Laro",
-  "recommended": "Inirerekomenda",
-  "todaysspecial": "Espesyal ngayong Araw",
-  "more": "Higit pa"
+  "hotgames": "Hot Games",
+  "newgames": "New Games",
+  "recommended": "Recommended",
+  "todaysspecial": "Today's Special",
+  "more": "More",
+
+  "addcardsuccesstitle": "Matagumpay na idinagdag ang iyong bank card.",
+  "addcardsuccessdesc": "Congratulations! Idinagdag na ang iyong bank card. Maaari ka nang mag-withdraw gamit ang card na ito. Kung gusto mong magdagdag ng iba pang cards, mag-click sa 'Add Another Card' sa ibaba.",
+  "addanothercard": "Magdagdag ng Ibang Card"
 }

@@ -1773,5 +1773,9 @@
   "newgames": "新游戏",
   "recommended": "为您推荐",
   "todaysspecial": "今日特定",
-  "more": "更多"
+  "more": "更多",
+
+  "addcardsuccesstitle": "您的银行卡已成功添加。",
+  "addcardsuccessdesc": "恭喜！您的银行卡已添加。您现在可以使用此卡进行取款。如果您想添加更多卡，请单击下面的“添加另一张卡”按钮。",
+  "addanothercard": "添加另一张卡"
 }
