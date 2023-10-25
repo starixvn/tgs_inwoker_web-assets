@@ -1747,5 +1747,11 @@
 
   "affiliateprogram": "{brandName} 聯盟計畫",
   "affiliateprogramdesc": "{brandName} 線上賭場以其豐富的遊戲選擇而聞名，透過 {brandName} 聯盟計劃，您可以分享賭場的成功，同時增加您的收入。\n 免費成為聯盟會員，分享您的賭場熱情並一路賺錢。您的成功掌握在您手中！",
-  "becomeaffiliatenow": "立即成為會員"
+  "becomeaffiliatenow": "立即成為會員",
+
+  "hotgames": "熱門遊戲",
+  "newgames": "新遊戲",
+  "recommended": "為您推薦",
+  "todaysspecial": "今日特定",
+  "more": "更多"
 }

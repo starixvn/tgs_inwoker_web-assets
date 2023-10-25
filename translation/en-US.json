@@ -1760,5 +1760,11 @@
 
   "affiliateprogram": "{brandName} Affiliate Program",
   "affiliateprogramdesc": "{brandName} online casino is well known for its vast selectetion of games, and with the {brandName} Affiliate Program, you can share in the casino's success while boosting your revenue. \n Become an affiliate for free, share your casino enthusiasm and earn along the way. Your success is in your hands!",
-  "becomeaffiliatenow": "Become Affiliate Now"
+  "becomeaffiliatenow": "Become Affiliate Now",
+
+  "hotgames": "Hot Games",
+  "newgames": "New Games",
+  "recommended": "Recommended",
+  "todaysspecial": "Today's Special",
+  "more": "More"
 }
