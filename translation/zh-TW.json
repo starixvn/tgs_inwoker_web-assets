@@ -1757,5 +1757,10 @@
 
   "addcardsuccesstitle": "您的銀行卡已成功添加。",
   "addcardsuccessdesc": "恭喜！您的銀行卡已添加。您現在可以使用此卡進行提款。如果您想添加更多卡片，請點擊下面的“添加另一張卡片”。",
-  "addanothercard": "添加另一張卡片"
+  "addanothercard": "添加另一張卡片",
+
+  "balancechangereport": "賬變記錄",
+  "activityreport": "活動記錄",
+
+  "undermaintenance": "維護中"
 }

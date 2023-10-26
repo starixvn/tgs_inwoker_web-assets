@@ -1769,5 +1769,9 @@
 
   "addcardsuccesstitle": "Matagumpay na idinagdag ang iyong bank card.",
   "addcardsuccessdesc": "Congratulations! Idinagdag na ang iyong bank card. Maaari ka nang mag-withdraw gamit ang card na ito. Kung gusto mong magdagdag ng iba pang cards, mag-click sa 'Add Another Card' sa ibaba.",
-  "addanothercard": "Magdagdag ng Ibang Card"
+  "addanothercard": "Magdagdag ng Ibang Card",
+
+  "balancechangereport": "pag babago ng balanse",
+  "activityreport": "talaan ng aktibidad",
+  "undermaintenance": "Under Maintenance"
 }

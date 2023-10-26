@@ -1777,5 +1777,9 @@
 
   "addcardsuccesstitle": "您的银行卡已成功添加。",
   "addcardsuccessdesc": "恭喜！您的银行卡已添加。您现在可以使用此卡进行取款。如果您想添加更多卡，请单击下面的“添加另一张卡”按钮。",
-  "addanothercard": "添加另一张卡"
+  "addanothercard": "添加另一张卡",
+
+  "balancechangereport": "账变记录",
+  "activityreport": "活动记录",
+  "undermaintenance": "维护中"
 }

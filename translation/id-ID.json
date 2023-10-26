@@ -1774,5 +1774,9 @@
 
   "addcardsuccesstitle": "Kartu bank Anda berhasil ditambahkan.",
   "addcardsuccessdesc": "Selamat! Kartu bank Anda telah ditambahkan. Anda sekarang dapat melakukan penarikan dengan kartu ini. Jika Anda ingin menambahkan kartu lain, silakan klik 'Tambahkan Kartu Lain' di bawah.",
-  "addanothercard": "Tambahkan Kartu Lain"
+  "addanothercard": "Tambahkan Kartu Lain",
+
+  "balancechangereport": "Catatan Perubahan Akun",
+  "activityreport": "Laporan Kegiatan",
+  "undermaintenance": "Sedang Dalam Pemeliharaan"
 }
