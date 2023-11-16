@@ -1490,6 +1490,12 @@
     "fish": "Fishing",
     "lottery": "Number"
   },
+  "GKX": {
+    "chess": "GKX"
+  },
+  "CP": {
+    "lottery": "CP"
+  },
   "T13": {
     "footer": {
       "copyright": "{brand} Copyright© 2020 {brand} Casino Co.Group. ",

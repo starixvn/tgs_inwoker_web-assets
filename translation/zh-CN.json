@@ -1497,6 +1497,12 @@
     "fish": "捕鱼游戏",
     "lottery": "彩球"
   },
+  "GKX": {
+    "chess": "GKX棋牌"
+  },
+  "CP": {
+    "lottery": "CP 彩票"
+  },
   "T13": {
     "footer": {
       "copyright": "{brand} Copyright© 2020 {brand} Casino Co.Group. ",

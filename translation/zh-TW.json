@@ -1109,11 +1109,9 @@
     "electron": "Netent電子"
   },
   "WGFM": {
-    "sports": "WG體育",
-    "TIGER": {
-      "sports": "老虎體育"
-    }
+    "sports": "WG體育"
   },
+
   "WGVIA": {
     "sports": "WG賽馬"
   },
@@ -1488,6 +1486,12 @@
     "sport": "體育競技",
     "fish": "捕魚遊戲",
     "lottery": "彩球"
+  },
+  "GKX": {
+    "chess": "GKX棋牌"
+  },
+  "CP": {
+    "lottery": "CP 彩票"
   },
   "T13": {
     "footer": {

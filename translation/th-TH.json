@@ -1469,6 +1469,12 @@
     "fish": "ยิงปลา",
     "slots": "เกมส์ตัวเลข"
   },
+  "GKX": {
+    "chess": "GKX"
+  },
+  "CP": {
+    "lottery": "CP"
+  },
   "T13": {
     "footer": {
       "copyright": "{brand} ลิขสิทธิ์© 2020 {brand} Casino Co.Group",

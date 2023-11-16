@@ -1457,6 +1457,12 @@
     "fish": "Trò chơi câu cá",
     "lottery": "Bóng màu"
   },
+  "GKX": {
+    "chess": "GKX"
+  },
+  "CP": {
+    "lottery": "CP"
+  },
   "T13": {
     "footer": {
       "copyright": "{brand} Bản quyền © 2020 {brand} Casino Co.Group ",
