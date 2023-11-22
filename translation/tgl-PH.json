@@ -205,7 +205,7 @@
     "remove": "Alisin",
     "msgSlideToDelete": "I-slide para tanggalin ang bangko",
     "msgAddCard": "Magdagdag ng Bangko",
-    "msgAddCardDesc": "Pagkatapos magdagdag ng bank card, magagamit nito para mag-withdraw ng pera, hanggang 3 card.    ",
+    "msgAddCardDesc": "Pagkatapos magdagdag ng bank card, magagamit nito para mag-withdraw ng pera, hanggang {maxCardCount} card.    ",
     "toEdit": "Ang magdagdag, mag-edit at mag-alis ay hindi magagamit, para sa tulong mangyaring makipag-ugnayan sa serbisyo sa customer.",
     "addCard": {
       "title": "Magdagdag ng Bangko",

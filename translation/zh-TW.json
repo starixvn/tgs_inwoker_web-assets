@@ -204,7 +204,7 @@
     "remove": "刪除",
     "msgSlideToDelete": "滑動以刪除銀行卡",
     "msgAddCard": "添加銀行卡",
-    "msgAddCardDesc": "添加銀行卡後即可進行轉出提款,至多3張。",
+    "msgAddCardDesc": "添加銀行卡後即可進行轉出提款,至多{maxCardCount}張。",
     "toEdit": "無法添加、編輯和刪除。如需幫助，請聯繫客服",
     "addCard": {
       "title": "添加銀行卡",

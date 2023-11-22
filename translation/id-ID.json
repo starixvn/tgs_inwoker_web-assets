@@ -208,7 +208,7 @@
     "remove": "Hapus",
     "msgSlideToDelete": "Geser untuk menghapus bank",
     "msgAddCard": "Tambah Bank",
-    "msgAddCardDesc": "Setelah menambahkan kartu bank, dapat digunakan untuk menarik uang, hingga 3 kartu.",
+    "msgAddCardDesc": "Setelah menambahkan kartu bank, dapat digunakan untuk menarik uang, hingga {maxCardCount} kartu.",
     "toEdit": "Tambah, edit, dan hapus tidak tersedia, untuk bantuan silakan hubungi layanan pelanggan.",
     "addCard": {
       "title": "Tambah Bank",

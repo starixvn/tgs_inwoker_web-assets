@@ -205,7 +205,7 @@
     "remove": "Remove",
     "msgSlideToDelete": "Slide to delete bank",
     "msgAddCard": "Add Bank",
-    "msgAddCardDesc": "After adding a bank card, it can use to withdraw money, up to 3 cards.",
+    "msgAddCardDesc": "After adding a bank card, it can use to withdraw money, up to {maxCardCount} cards.",
     "toEdit": "Add, edit and remove is unavailable, for assistance please contact customer service.",
     "addCard": {
       "title": "Add Bank",

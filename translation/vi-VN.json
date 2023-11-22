@@ -208,7 +208,7 @@
     "remove": "Xóa",
     "msgSlideToDelete": "Trượt Để Xóa Thẻ Ngân hàng",
     "msgAddCard": "Thêm thẻ ngân hàng",
-    "msgAddCardDesc": "Sau khi thêm thẻ ngân hàng, thẻ có thể dùng để rút tiền, tối đa 3 thẻ.",
+    "msgAddCardDesc": "Sau khi thêm thẻ ngân hàng, thẻ có thể dùng để rút tiền, tối đa {maxCardCount} thẻ.",
     "toEdit": "Thêm, chỉnh sửa và xóa không khả dụng, để được hỗ trợ, vui lòng liên hệ với bộ phận dịch vụ khách hàng.",
     "addCard": {
       "title": "Thêm thẻ ngân hàng",
