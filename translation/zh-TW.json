@@ -1308,8 +1308,8 @@
     "promotionBenefit": "優惠活動利益",
     "quarterlyBenefit": "季度利益",
     "slotRebate": "電子遊戲",
-    "sportsRebate": "體育遊戲",
-    "virtualSportsRebate": "電競遊戲",
+    "sportsRebate": "體育",
+    "virtualSportsRebate": "虛擬體育",
     "vipBenefit": "VIP返水",
     "bunny": {
       "level1": "青銅",
@@ -1735,7 +1735,7 @@
   "justwon": "剛剛贏了",
 
   "introduction": "簡介",
-  "introdesc": "{brandName} 行動賭場應用程式將我們網站的所有功能轉移到您的指尖。我們提供 iOS 和 Android 版本，提供多種娛樂遊戲。",
+  "introdesc": "{brandName}手機賭場應用程式將我們網站的所有功能帶到您的指尖。我們支援 iOS 和 Android，擁有眾多娛樂遊戲。",
   "compatible": "相容",
   "compatibledesc": "應用程式支援任何 iOS 和 Android 裝置",
   "secure": "安全",
