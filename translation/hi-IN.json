@@ -97,6 +97,7 @@
     "line": "रेखा खाता",
     "viber": "वाइबर खाता",
     "whatsapp": "व्हाट्सएप अकाउंट",
+    "zalo": "Zalo खाता",
     "receiverAddress": "प्राप्तकर्ता का पता",
     "loginPassword": "लॉगिन पासवर्ड",
     "contact": "संपर्क",
@@ -524,6 +525,12 @@
       "plsEnterWhatsapp": "कृपया व्हाट्सएप अकाउंट दर्ज करें",
       "whatsappAccount": "Whatsapp",
       "toEdit": "यदि व्हाट्सएप को संपादित करना आवश्यक है, तो कृपया क्लिक करें"
+    },
+    "zalo": {
+      "msgInvalidZalo": "अमान्य Zalo अकाउंट",
+      "plsEnterZalo": "कृपया Zalo अकाउंट दर्ज करें",
+      "zaloAccount": "Zalo",
+      "toEdit": "यदि Zalo को संपादित करना आवश्यक है, तो कृपया क्लिक करें"
     },
     "resetResetWithdrawalPassword": {
       "title": "निकासी पासवर्ड रीसेट करें",
@@ -1684,6 +1691,9 @@
   "whatsapp_account": "व्हाट्सएप अकाउंट",
   "whatsapp_invalid": "अमान्य व्हाट्सएप अकाउंट",
   "whatsapp_toEdit": "यदि व्हाट्सएप को संपादित करना आवश्यक है, तो कृपया क्लिक करें",
+  "zalo_account": "ज़ालो अकाउंट",
+  "zalo_invalid": "अमान्य ज़ालो अकाउंट",
+  "zalo_toEdit": "यदि ज़ालो को संपादित करना आवश्यक है, तो कृपया क्लिक करें",
   "here": "यहां",
 
   "second": "दूसरा",

@@ -99,6 +99,7 @@
     "line": "Line Account",
     "viber": "Viber Account",
     "whatsapp": "Whatsapp Account",
+    "zalo": "Zalo Account",
     "receiverAddress": "Address ng Tatanggap",
     "loginPassword": "Login Password",
     "contact": "Makipag-ugnayan",
@@ -530,6 +531,12 @@
       "plsEnterWhatsapp": "Ilagay ang Whatsapp na account",
       "whatsappAccount": "Whatsapp",
       "toEdit": "kung kailangang i-edit ang Whatsapp, mangyaring i-click "
+    },
+    "zalo": {
+      "msgInvalidZalo": "Hindi wasto ang Zalo account",
+      "plsEnterZalo": "Ilagay ang Zalo account",
+      "zaloAccount": "Zalo",
+      "toEdit": "kung kailangang i-edit ang Zalo, mangyaring i-click "
     },
     "resetResetWithdrawalPassword": {
       "title": "Palitan ang withdrawal password",
@@ -1680,6 +1687,9 @@
   "whatsapp_account": "WhatsApp Account",
   "whatsapp_invalid": "hindi wastong Whatsapp account",
   "whatsapp_toEdit": "kung kailangan i-edit ang Whatsapp, magyaring i-click ",
+  "zalo_account": "Zalo Account",
+  "zalo_invalid": "hindi wastong Zalo account",
+  "zalo_toEdit": "kung kailangan i-edit ang Zalo, magyaring i-click ",
   "here": "dito",
 
   "second": "pangalawa",

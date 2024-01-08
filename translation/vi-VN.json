@@ -102,6 +102,7 @@
     "line": "Tài khoản Line",
     "viber": "Tài khoản Viber",
     "whatsapp": "Tài khoản Whatsapp",
+    "zalo": "Tài khoản Zalo",
     "receiverAddress": "Địa chỉ người nhận",
     "loginPassword": "Mật khẩu đăng nhập",
     "contact": "Liên hệ",
@@ -530,6 +531,12 @@
       "plsEnterWhatsapp": "Vui lòng nhập tài khoản Whatsapp",
       "whatsappAccount": "Tài khoản Whatsapp",
       "toEdit": "Nếu Cần Chỉnh sửa Whatsapp, Vui lòng Liên hệ"
+    },
+    "zalo": {
+      "msgInvalidZalo": "Tài khoản Zalo không hợp lệ",
+      "plsEnterZalo": "Vui lòng nhập tài khoản Zalo",
+      "zaloAccount": "Tài khoản Zalo",
+      "toEdit": "Nếu Cần Chỉnh sửa Zalo, Vui lòng Liên hệ"
     },
     "resetResetWithdrawalPassword": {
       "title": "Đặt lại mật khẩu rút tiền",
@@ -1637,6 +1644,9 @@
   "whatsapp_account": "Tài khoản WhatsApp",
   "whatsapp_invalid": "Tài khoản WhatsApp không hợp lệ",
   "whatsapp_toEdit": "Nếu Cần Chỉnh sửa WhatsApp, Vui lòng Liên hệ",
+  "zalo_account": "Tài khoản Zalo",
+  "zalo_invalid": "Tài khoản Zalo không hợp lệ",
+  "zalo_toEdit": "Nếu Cần Chỉnh sửa Zalo, Vui lòng Liên hệ",
   "here": "tại đây",
 
   "second": "giây",

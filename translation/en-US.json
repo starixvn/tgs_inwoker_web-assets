@@ -100,6 +100,7 @@
     "line": "Line Account",
     "viber": "Viber Account",
     "whatsapp": "Whatsapp Account",
+    "zalo": "Zalo Account",
     "receiverAddress": "Receiver Address",
     "loginPassword": "Login Password",
     "contact": "Contact",
@@ -530,6 +531,12 @@
       "plsEnterWhatsapp": "Please enter Whatsapp account",
       "whatsappAccount": "Whatsapp",
       "toEdit": "If Required to Edit Whatsapp, Please Click "
+    },
+    "zalo": {
+      "msgInvalidZalo": "Invalid Zalo account",
+      "plsEnterZalo": "Please enter Zalo account",
+      "zaloAccount": "Zalo",
+      "toEdit": "If Required to Edit Zalo, Please Click "
     },
     "resetResetWithdrawalPassword": {
       "title": "Reset Withdrawal Password",
@@ -1680,6 +1687,9 @@
   "whatsapp_account": "WhatsApp Account",
   "whatsapp_invalid": "Invalid WhatsApp account",
   "whatsapp_toEdit": "If Required to Edit WhatsApp, Please Click ",
+  "zalo_account": "Zalo Account",
+  "zalo_invalid": "Invalid Zalo account",
+  "zalo_toEdit": "If Required to Edit Zalo, Please Click ",
   "here": "here",
 
   "second": "Second",

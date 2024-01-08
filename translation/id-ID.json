@@ -103,6 +103,7 @@
     "line": "Akun Line",
     "viber": "Akun Viber",
     "whatsapp": "Akun Whatsapp",
+    "zalo": "Akun Zalo",
     "receiverAddress": "Alamat Penerima",
     "loginPassword": "Kata Sandi Masuk",
     "contact": "Kontak",
@@ -528,6 +529,12 @@
       "plsEnterWhatsapp": "Silakan masukkan akun Whatsapp",
       "whatsappAccount": "Whatsapp",
       "toEdit": "Jika Perlu Mengedit Whatsapp, Silakan Klik"
+    },
+    "zalo": {
+      "msgInvalidZalo": "Akun Zalo Tidak Valid",
+      "plsEnterZalo": "Silakan masukkan akun Zalo",
+      "zaloAccount": "Zalo",
+      "toEdit": "Jika Perlu Mengedit Zalo, Silakan Klik"
     },
     "resetResetWithdrawalPassword": {
       "title": "Reset Password Penarikan",
@@ -1685,6 +1692,9 @@
   "whatsapp_account": "Akun WhatsApp",
   "whatsapp_invalid": "Akun WhatsApp tidak valid",
   "whatsapp_toEdit": "Jika Diperlukan untuk Mengedit WhatsApp, Silakan Klik ",
+  "zalo_account": "Akun Zalo",
+  "zalo_invalid": "Akun Zalo tidak valid",
+  "zalo_toEdit": "Jika Diperlukan untuk Mengedit Zalo, Silakan Klik ",
   "here": "di sini",
 
   "second": "Detik",

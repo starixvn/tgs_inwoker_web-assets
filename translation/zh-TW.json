@@ -93,11 +93,12 @@
     "emailAddress": "郵箱地址",
     "qqNumber": "QQ賬號",
     "wechatNumber": "微信賬號",
-    "fb": "Facebook Messenger Account",
-    "telegram": "Telegram Account",
-    "line": "Line Account",
-    "viber": "Viber Account",
-    "whatsapp": "Whatsapp Account",
+    "fb": "Facebook Messenger 賬號",
+    "telegram": "Telegram 賬號",
+    "line": "Line 賬號",
+    "viber": "Viber 賬號",
+    "whatsapp": "Whatsapp 賬號",
+    "zalo": "Zalo 賬號",
     "receiverAddress": "收貨地址",
     "loginPassword": "登錄密碼",
     "contact": "聯繫",
@@ -522,6 +523,11 @@
       "msgInvalidWhatsapp": "Whatsapp賬號格式不正確",
       "plsEnterWhatsapp": "請輸入Whatsapp賬號格式不正確賬號",
       "whatsappAccount": "Whatsapp賬號"
+    },
+    "zalo": {
+      "msgInvalidZalo": "Zalo賬號格式不正確",
+      "plsEnterZalo": "請輸入Zalo賬號",
+      "zaloAccount": "Zalo賬號"
     },
     "resetResetWithdrawalPassword": {
       "title": "修改提款密碼",
@@ -1665,6 +1671,9 @@
   "whatsapp_account": "WhatsApp帳號",
   "whatsapp_invalid": "WhatsApp帳號格式不正確",
   "whatsapp_toEdit": "如需修改WhatsApp帳號，請點擊",
+  "zalo_account": "Zalo帳號",
+  "zalo_invalid": "Zalo帳號格式不正確",
+  "zalo_toEdit": "如需修改Zalo帳號，請點擊",
   "here": "這裡",
 
   "second": "秒",

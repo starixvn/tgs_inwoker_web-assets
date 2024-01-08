@@ -96,6 +96,7 @@
     "line": "บัญชี Line",
     "viber": "บัญชี Viber",
     "whatsapp": "บัญชี Whatsapp",
+    "zalo": "บัญชี Zalo",
     "receiverAddress": "ที่อยู่สำหรับรับ",
     "loginPassword": "เข้าสู่ระบบรหัสผ่าน",
     "contact": "ติดต่อ",
@@ -524,6 +525,12 @@
       "plsEnterWhatsapp": "กรุณาป้อนบัญชี Whatsapp",
       "whatsappAccount": "บัญชี Whatsapp",
       "toEdit": "หากต้องการแก้ไข Whatsapp โปรดติดต่อ"
+    },
+    "zalo": {
+      "msgInvalidZalo": "รูปแบบของบัญชี Zalo ไม่ถูกต้อง",
+      "plsEnterZalo": "กรุณาป้อนบัญชี Zalo",
+      "zaloAccount": "บัญชี Zalo",
+      "toEdit": "หากต้องการแก้ไข Zalo โปรดติดต่อ"
     },
     "resetResetWithdrawalPassword": {
       "title": "แก้ไขรหัสผ่านการถอนเงิน",
@@ -1648,6 +1655,9 @@
   "whatsapp_account": "บัญชี WhatsApp",
   "whatsapp_invalid": "บัญชี WhatsApp ไม่ถูกต้อง",
   "whatsapp_toEdit": "หากต้องการแก้ไขบัญชี WhatsApp กรุณาคลิกที่",
+  "zalo_account": "บัญชี Zalo",
+  "zalo_invalid": "บัญชี Zalo ไม่ถูกต้อง",
+  "zalo_toEdit": "หากต้องการแก้ไขบัญชี Zalo กรุณาคลิกที่",
   "here": "ที่นี่",
 
   "second": "วินาที",

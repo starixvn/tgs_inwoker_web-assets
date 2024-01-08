@@ -97,6 +97,7 @@
     "line": "வரி கணக்கு",
     "viber": "வய்பர் கணக்கு",
     "whatsapp": "\nபகிரி கணக்கு",
+    "zalo": "Zalo கணக்கு",
     "receiverAddress": "பெறுநரின் முகவரி",
     "loginPassword": "உள்நுழைவு கடவுச்சொல்",
     "contact": "தொடர்பு கொள்ளவும்",
@@ -524,6 +525,12 @@
       "plsEnterWhatsapp": "வாட்ஸாப் கணக்கை உள்ளிடவும்",
       "whatsappAccount": "வாட்ஸாப் ",
       "toEdit": "வாட்ஸாப் திருத்த வேண்டியிருந்தால், கிளிக் செய்யவும்"
+    },
+    "zalo": {
+      "msgInvalidZalo": "தவறான ஜாலோ கணக்கு",
+      "plsEnterZalo": "ஜாலோ கணக்கை உள்ளிடவும்",
+      "zaloAccount": "ஜாலோ",
+      "toEdit": "ஜாலோ ஐத் திருத்த வேண்டுமானால், கிளிக் செய்யவும்"
     },
     "resetResetWithdrawalPassword": {
       "title": "திரும்பப் பெறுதல் கடவுச்சொல்லை மீட்டமைக்கவும்",
@@ -1684,6 +1691,9 @@
   "whatsapp_account": "வாட்ஸ்அப் கணக்கு",
   "whatsapp_invalid": "தவறான WhatsApp கணக்கு",
   "whatsapp_toEdit": "வாட்ஸ்அப்பை எடிட் செய்ய வேண்டும் என்றால், கிளிக் செய்யவும்",
+  "zalo_account": "Zalo கணக்கு",
+  "zalo_invalid": "தவறான Zalo கணக்கு",
+  "zalo_toEdit": "Zalo ஐத் திருத்த வேண்டும் என்றால், கிளிக் செய்யவும்",
   "here": "இங்கே",
 
   "second": "இரண்டாவது",

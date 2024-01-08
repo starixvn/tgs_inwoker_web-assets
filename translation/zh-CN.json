@@ -98,6 +98,7 @@
     "line": "Line 账号",
     "viber": "Viber 账号",
     "whatsapp": "Whatsapp 账号",
+    "zalo": "Zalo 账号",
     "receiverAddress": "收货地址",
     "loginPassword": "登录密码",
     "contact": "联系",
@@ -529,6 +530,12 @@
       "plsEnterWhatsapp": "请输入Whatsapp账号格式不正确账号",
       "whatsappAccount": "Whatsapp账号",
       "toEdit": "如需修改Whatsapp账号，请点击"
+    },
+    "zalo": {
+      "msgInvalidZalo": "Zalo账号格式不正确",
+      "plsEnterZalo": "请输入Zalo账号",
+      "zaloAccount": "Zalo账号",
+      "toEdit": "如需修改Zalo账号，请点击"
     },
     "resetResetWithdrawalPassword": {
       "title": "修改提款密码",
@@ -1687,6 +1694,9 @@
   "whatsapp_account": "WhatsApp账号",
   "whatsapp_invalid": "WhatsApp账号格式不正确",
   "whatsapp_toEdit": "如需修改WhatsApp账号，请点击",
+  "zalo_account": "Zalo账号",
+  "zalo_invalid": "Zalo账号格式不正确",
+  "zalo_toEdit": "如需修改Zalo账号，请点击",
   "here": "这里",
 
   "second": "秒",
