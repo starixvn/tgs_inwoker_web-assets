@@ -614,7 +614,7 @@
       "amount": "Giảm giá"
     },
     "joinedPromo": {
-      "title": "Hồ sơ hoạt động",
+      "title": "Hoạt động",
       "promoName": "Tên sự kiện"
     },
     "transfer": {
@@ -625,7 +625,7 @@
       }
     },
     "balanceChanges": {
-      "title": "Hồ sơ thay đổi tài khoản",
+      "title": "Biến động số dư ",
       "type": "Loại giao dịch",
       "amount": "Số lượng"
     },
