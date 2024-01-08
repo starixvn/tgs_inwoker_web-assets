@@ -109,7 +109,7 @@
     "customerService": "Dịch vụ khách hàng",
     "withdrawalPassword": "Mật khẩu rút tiền",
     "securityQuestion": "Câu hỏi bảo mật",
-    "realName": "Tên thật",
+    "realName": "Số CCCD",
     "teamVP": "Virtus.pro",
     "teamFrankfurt": "Frankfurt",
     "g2Esport": "G2 Esports",
@@ -454,7 +454,7 @@
     },
     "nameVerify": {
       "editHere": "đây",
-      "title": "Tên thật",
+      "title": "Số CCCD",
       "msgEnterICNum": "Nhập số IC",
       "icNum": "Số IC",
       "msgInvalidICNum": "Số IC không hợp lệ",
