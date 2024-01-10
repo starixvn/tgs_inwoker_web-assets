@@ -1747,5 +1747,7 @@
 
   "balancechangereport": "Hồ sơ thay đổi tài khoản",
   "activityreport": "Báo cáo hoạt động",
-  "undermaintenance": "Đang bảo trì"
+  "undermaintenance": "Đang bảo trì",
+
+  "movn_addcardsuccess": "Chúc mừng! Thẻ ngân hàng của bạn đã ràng buộc thành công , từ nay bạn có thể sử dụng thẻ này để rút tiền. \n Nếu bạn cần sửa đổi thẻ ngân hàng của mình, vui lòng liên hệ với dịch vụ CSKH ."
 }

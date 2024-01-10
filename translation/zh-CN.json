@@ -1797,5 +1797,7 @@
 
   "balancechangereport": "账变记录",
   "activityreport": "活动记录",
-  "undermaintenance": "维护中"
+  "undermaintenance": "维护中",
+
+  "movn_addcardsuccess": "恭喜！您的银行卡已完成绑定，现在起，您可以用这张卡进行提款。若您需要修改银行卡，请联繫客服团队。"
 }
