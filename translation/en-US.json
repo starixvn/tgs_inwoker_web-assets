@@ -1792,5 +1792,9 @@
   "activityreport": "Activity ",
   "undermaintenance": "Under Maintenance",
 
-  "movn2_addcardsuccess": "Congrats! Your bank card has been added. You can now making withdrawal with this card. \n If you wish to edit your card, please contact the Customer Service."
+  "movn2_addcardsuccess": "Congrats! Your bank card has been added. You can now making withdrawal with this card. \n If you wish to edit your card, please contact the Customer Service.",
+  "t29": {
+    "wagering": "Wagering",
+    "wageringrequirement":"Wagering Requirement"
+  }
 }
