@@ -1802,6 +1802,7 @@
   "movn2_addcardsuccess": "恭喜！您的银行卡已完成绑定，现在起，您可以用这张卡进行提款。\n 若您需要修改银行卡，请联繫客服团队",
   "t29": {
     "wagering": "流水",
-    "wageringrequirement": "流水需求"
+    "wageringrequirement": "流水需求",
+    "main":"流水需求"
   }
 }

@@ -130,7 +130,7 @@
     "chess": "Trò chơi bài",
     "slot": "Slots",
     "electron": "Game bài 3D",
-    "fish": "Câu cá",
+    "fish": "Bắn cá",
     "shootFish": "Bắn cá",
     "promotion": "Khuyến mãi",
     "download": "Tải xuống",
@@ -1752,6 +1752,7 @@
   "movn2_addcardsuccess": "Chúc mừng! Thẻ ngân hàng của bạn đã ràng buộc thành công , từ nay bạn có thể sử dụng thẻ này để rút tiền. \n Nếu bạn cần sửa đổi thẻ ngân hàng của mình, vui lòng liên hệ với dịch vụ CSKH .",
   "t29": {
     "wagering": "Yêu cầu tiền cược",
-    "wageringrequirement": "Lịch sử cược"
+    "wageringrequirement": "Lịch sử cược",
+    "main":"Doanh thu cược"
   }
 }
