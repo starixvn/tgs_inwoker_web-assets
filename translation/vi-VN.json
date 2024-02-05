@@ -1755,5 +1755,7 @@
     "wagering": "Yêu cầu tiền cược",
     "wageringrequirement": "Lịch sử cược",
     "main":"Doanh thu cược"
-  }
+  },
+
+  "remark": "Ghi chú"
 }

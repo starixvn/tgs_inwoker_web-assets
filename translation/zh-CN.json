@@ -1805,5 +1805,7 @@
     "wagering": "流水",
     "wageringrequirement": "流水需求",
     "main":"流水需求"
-  }
+  },
+
+  "remark": "备注"
 }
