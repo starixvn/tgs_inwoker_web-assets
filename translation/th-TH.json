@@ -1617,6 +1617,7 @@
     "depositOrWithdraw": "ฟอร์มฝากเงิน/ถอนเงิน",
     "updatedTime": "เวลาอัพเดท",
     "orderNo": "หมายเลขคำสั่งซื้อ",
+    "depositMode": "Deposit mode",
     "channel": "ช่องทางการชำระเงิน",
     "amount": "จำนวนเงิน",
     "status": "สถานะ",

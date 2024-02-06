@@ -1640,6 +1640,7 @@
     "depositOrWithdraw": "deposito/withdrawal form",
     "updatedTime": "oras ng pag update",
     "orderNo": "numero ng order",
+    "depositMode": "Deposit mode",
     "channel": "channel ng pagbabayad",
     "amount": "halaga",
     "status": "katayuan",

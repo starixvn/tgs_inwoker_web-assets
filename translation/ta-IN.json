@@ -1645,6 +1645,7 @@
     "depositOrWithdraw": "வைப்பு/திரும்பப் படிவம்",
     "updatedTime": "புதுப்பிப்பு நேரம்",
     "orderNo": "ஆர்டர் எண்",
+    "depositMode": "Deposit mode",
     "channel": "கட்டண சேனல்",
     "amount": "தொகை",
     "status": "நிலை",

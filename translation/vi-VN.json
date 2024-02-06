@@ -1606,6 +1606,7 @@
     "depositOrWithdraw": "Đơn gửi/rút tiền",
     "updatedTime": "Thời gian cập nhật",
     "orderNo": "Mã đơn hàng",
+    "depositMode": "Phương thức thanh toán",
     "channel": "Kênh thanh toán",
     "amount": "Số tiền",
     "status": "Trạng thái",

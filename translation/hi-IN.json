@@ -1645,6 +1645,7 @@
     "depositOrWithdraw": "जमा/निकासी फॉर्म",
     "updatedTime": "समय सुधारें",
     "orderNo": "क्रम संख्या",
+    "depositMode": "Deposit mode",
     "channel": "भुगतान चैनल",
     "amount": "मात्रा",
     "status": "दर्जा",

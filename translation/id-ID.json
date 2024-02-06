@@ -1654,6 +1654,7 @@
     "depositOrWithdraw": "Transaksi Deposit / Withdrawal",
     "updatedTime": "Waktu",
     "orderNo": "Ref",
+    "depositMode": "Deposit mode",
     "channel": "Jenis Bank",
     "amount": "Jumlah",
     "status": "Status",

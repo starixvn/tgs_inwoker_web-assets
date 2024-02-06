@@ -1624,6 +1624,7 @@
     "depositOrWithdraw": "存/提款單",
     "updatedTime": "更新時間",
     "orderNo": "訂單號",
+    "depositMode": "模式",
     "channel": "渠道",
     "amount": "金額",
     "status": "狀態",
