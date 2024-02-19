@@ -711,7 +711,7 @@
     "tail": "尾號",
     "enterAmount": "請輸入提款金額",
     "msgWithdrawalAmount": "單筆限額 100-450,000",
-    "notice": "此銀行卡的開戶名必須與您賬號所填寫真實姓名一致，否則提款可能失敗",
+    "notice": "此銀行卡的開戶名必須與您帳號所填寫真實姓名一致，否則提款可能失敗",
     "receiverAcc": "收款賬號",
     "receiverName": "收款人姓名",
     "fee": "手續費",
