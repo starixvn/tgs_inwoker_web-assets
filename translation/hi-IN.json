@@ -1341,7 +1341,12 @@
       "level4": "माणिक",
       "level5": "प्लैटिनम",
       "level6": "डायमंड"
-    }
+    },
+    "bonus":"Bonus",
+    "levelUp":"Level Up",
+    "levelUpBonus":"Level Up Bonus",
+    "totalDeposit":"Total Deposit",
+    "totalVaildBet":"Total Vaild Bet"
   },
   "custom": {
     "addcard": {

@@ -1324,7 +1324,12 @@
       "level4": "紅寶石",
       "level5": "白金",
       "level6": "鑽石"
-    }
+    },
+    "bonus":"Bonus",
+    "levelUp":"Level Up",
+    "levelUpBonus":"Level Up Bonus",
+    "totalDeposit":"Total Deposit",
+    "totalVaildBet":"Total Vaild Bet"
   },
   "custom": {
     "addcard": {

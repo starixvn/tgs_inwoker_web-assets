@@ -1310,7 +1310,12 @@
       "level4": "ทับทิม",
       "level5": "แพลตตินั่ม",
       "level6": "เพชร"
-    }
+    },
+    "bonus":"Bonus",
+    "levelUp":"Level Up",
+    "levelUpBonus":"Level Up Bonus",
+    "totalDeposit":"Total Deposit",
+    "totalVaildBet":"Total Vaild Bet"
   },
   "custom": {
     "addcard": {

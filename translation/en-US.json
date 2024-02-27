@@ -1326,7 +1326,12 @@
       "level4": "Ruby",
       "level5": "Platinum",
       "level6": "Diamond"
-    }
+    },
+    "bonus":"Bonus",
+    "levelUp":"Level Up",
+    "levelUpBonus":"Level Up Bonus",
+    "totalDeposit":"Total Deposit",
+    "totalVaildBet":"Total Vaild Bet"
   },
   "custom": {
     "addcard": {

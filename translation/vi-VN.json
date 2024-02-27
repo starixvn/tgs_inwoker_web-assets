@@ -1299,7 +1299,7 @@
     "slotRebate": "Trò chơi điện tử",
     "sportsRebate": "Thể thao",
     "virtualSportsRebate": "Thể thao ảo",
-    "vipBenefit": "Hoàn trả ",
+    "vipBenefit": "Hoàn trả VIP",
     "bunny": {
       "level1": "Đồng",
       "level2": "Bạc",
@@ -1307,7 +1307,12 @@
       "level4": "Ruby",
       "level5": "Bạch kim",
       "level6": "Kim cương"
-    }
+    },
+    "bonus":"Tiền thưởng",
+    "levelUp":"Điều kiện thăng cấp",
+    "levelUpBonus":"Tiền thưởng nâng cấp",
+    "totalDeposit":"Tổng số tiền nạp tích lũy",
+    "totalVaildBet":"Tổng số tiền đặt cược tích lũy"
   },
   "custom": {
     "addcard": {
