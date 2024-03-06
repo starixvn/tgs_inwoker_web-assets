@@ -1325,11 +1325,11 @@
       "level5": "白金",
       "level6": "鑽石"
     },
-    "bonus":"Bonus",
-    "levelUp":"Level Up",
-    "levelUpBonus":"Level Up Bonus",
-    "totalDeposit":"Total Deposit",
-    "totalVaildBet":"Total Vaild Bet"
+    "bonus":"獎金",
+    "levelUp":"升級條件",
+    "levelUpBonus":"升級獎勵",
+    "totalDeposit":"累積存款金額",
+    "totalVaildBet":"累積投注金額"
   },
   "custom": {
     "addcard": {

@@ -1311,11 +1311,11 @@
       "level5": "แพลตตินั่ม",
       "level6": "เพชร"
     },
-    "bonus":"Bonus",
-    "levelUp":"Level Up",
-    "levelUpBonus":"Level Up Bonus",
-    "totalDeposit":"Total Deposit",
-    "totalVaildBet":"Total Vaild Bet"
+    "bonus":"โบนัส",
+    "levelUp":"เลเวลอัพ",
+    "levelUpBonus":"โบนัสเลเวลอัพ",
+    "totalDeposit":"ยอดฝากทั้งหมด",
+    "totalVaildBet":"ยอดเดิมพันที่ถูกต้องทั้งหมด"
   },
   "custom": {
     "addcard": {

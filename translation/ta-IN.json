@@ -1336,11 +1336,11 @@
       "level5": "வன்பொன்",
       "level6": "வைரம்"
     },
-    "bonus":"Bonus",
-    "levelUp":"Level Up",
-    "levelUpBonus":"Level Up Bonus",
-    "totalDeposit":"Total Deposit",
-    "totalVaildBet":"Total Vaild Bet"
+    "bonus":"போனஸ்",
+    "levelUp":"மட்டமே மேம்படுத்து",
+    "levelUpBonus":"மட்டமே மேம்படுத்து போனஸ்",
+    "totalDeposit":"மொத்த வரிசை",
+    "totalVaildBet":"மொத்த செல்லுபடியான பந்தயம்"
   },
   "custom": {
     "addcard": {

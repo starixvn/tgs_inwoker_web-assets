@@ -1342,11 +1342,11 @@
       "level5": "प्लैटिनम",
       "level6": "डायमंड"
     },
-    "bonus":"Bonus",
-    "levelUp":"Level Up",
-    "levelUpBonus":"Level Up Bonus",
-    "totalDeposit":"Total Deposit",
-    "totalVaildBet":"Total Vaild Bet"
+    "bonus":  "बोनस",
+    "levelUp":  "लेवल अप",
+    "levelUpBonus": "लेवल अप बोनस",
+    "totalDeposit": "कुल जमा",
+    "totalVaildBet":  "कुल वैध बेट"
   },
   "custom": {
     "addcard": {
