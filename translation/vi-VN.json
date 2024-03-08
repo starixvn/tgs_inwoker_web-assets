@@ -643,7 +643,7 @@
     "ratio": "Tỷ lệ",
     "totalBetAmount": "Tổng số tiền đặt cược",
     "totalWinLose": "Tổng số tiền thắng thua",
-    "totalValidBet": "tổng số tiền đặt cược hợp lệ"
+    "totalValidBet": "Tổng cược"
   },
   "share": {
     "bottomNote": {
@@ -1292,7 +1292,7 @@
     "levelKeepAccumulateDeposit": "Duy trì tiền nạp mỗi quý ",
     "levelUpAccumulateBetAmount": "Nâng cấp cá cược hàng ngày",
     "levelUpAccumulateDeposit": "Gửi tiền mỗi ngày để nâng cấp",
-    "liveDealerRebate": "Casino",
+    "liveDealerRebate": "Casino trực tuyến",
     "lotteryRebate": "Xổ số",
     "promotionBenefit": "Tiền thưởng nâng cấp",
     "quarterlyBenefit": "Tiền thưởng hàng quý",
@@ -1311,8 +1311,8 @@
     "bonus":"Tiền thưởng",
     "levelUp":"Điều kiện thăng cấp",
     "levelUpBonus":"Tiền thưởng nâng cấp",
-    "totalDeposit":"Tổng số tiền nạp tích lũy",
-    "totalVaildBet":"Tổng số tiền đặt cược tích lũy"
+    "totalDeposit":"số tiền nạp tích lũy",
+    "totalVaildBet":"số tiền đặt cược tích lũy"
   },
   "custom": {
     "addcard": {

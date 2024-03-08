@@ -1303,21 +1303,21 @@
     "player": "Manlalaro"
   },
   "vip": {
-    "birthBenefit": "Bonus pang kaarawan",
-    "cardGameRebate": "Card Game",
+    "birthBenefit": "bonus para sa kaarawan",
+    "cardGameRebate": "laro sa baraha",
     "level": "VIP Program",
     "levelKeepAccumulateBetAmount": "Qtly. Bet amount na kailangang ipanatili",
     "levelKeepAccumulateDeposit": "Qtly. Deposito na kailangang ipanatili",
     "levelUpAccumulateBetAmount": "Araw-araw na Halaga ng Taya para mag-upgrade",
     "levelUpAccumulateDeposit": "Pang-araw-araw na Deposito para mag-upgrade",
-    "liveDealerRebate": "Live Casino",
-    "lotteryRebate": "Lottery Game",
-    "promotionBenefit": "Promotion Bonus",
+    "liveDealerRebate": "Dealer para sa Live",
+    "lotteryRebate": "Lottery",
+    "promotionBenefit": "bonus para sa pag taas ng antas",
     "quarterlyBenefit": "Quarterly Bonus",
-    "slotRebate": "Slots Games",
-    "sportsRebate": "sports games",
-    "virtualSportsRebate": "Esports Games",
-    "vipBenefit": "VIP rebate",
+    "slotRebate": "E-game",
+    "sportsRebate": "Sportsbook",
+    "virtualSportsRebate": "laro sa baraha",
+    "vipBenefit": "Rebate para sa VIP",
     "bunny": {
       "level1": "Bronze",
       "level2": "Silver",
@@ -1328,9 +1328,9 @@
     },
     "bonus":"Bonus",
     "levelUp":"Pagtaas ng Antas",
-    "levelUpBonus":"Bonus sa Pagtaas ng Antas",
+    "levelUpBonus":"bonus para sa pag taas ng antas",
     "totalDeposit":"Kabuuang Deposito",
-    "totalVaildBet":"Kabuuang Balidong Taya"
+    "totalVaildBet":"kabuuang bilang ng wastong taya"
   },
   "custom": {
     "addcard": {
@@ -1623,8 +1623,8 @@
       "levelKeepAccumulateDeposit": "Quarterly deposito na kailangang panatilihin",
       "levelUpAccumulateBetAmount": "araw-araw na T/O para mag level-up",
       "levelUpAccumulateDeposit": "araw-araw na pag deposito para mag level-up",
-      "birthBenefit": "bonus pang kaarawan",
-      "promotionBenefit": "Level UP Bonus",
+      "birthBenefit": "bonus para sa kaarawan",
+      "promotionBenefit": "bonus para sa pag taas ng antas",
       "quarterlyBenefit": "Quarterly Bonus"
     },
     "panel": {
