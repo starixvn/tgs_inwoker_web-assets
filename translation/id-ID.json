@@ -1803,6 +1803,11 @@
   "undermaintenance": "Sedang Dalam Pemeliharaan",
 
   "movn2_addcardsuccess": "Selamat! Kartu bank Anda telah ditambahkan. Anda sekarang dapat melakukan penarikan dengan kartu ini.\n Jika Anda ingin mengedit kartu Anda, silakan hubungi Layanan Pelanggan.",
-
+  "t29": {
+    "wagering": "Wagering",
+    "wageringrequirement":"Wagering Requirement",
+    "main":"Main"
+  },
+  
   "remark": "Catatan"
 }
