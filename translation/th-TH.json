@@ -1773,5 +1773,11 @@
     "main":"Main"
   },
   
-  "remark": "หมายเหตุ"
+  "remark": "หมายเหตุ",
+
+   "sscnapoli": "SSC Napoli",
+      "astonvilla": "Aston Villa",
+      "laclipper": "LA Clippers",
+      "officialpartners": "คู่ค้าทางการ"
+    
 }

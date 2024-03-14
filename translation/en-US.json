@@ -1806,5 +1806,12 @@
     "main":"Main"
   },
 
-  "remark": "Remark"
+  "remark": "Remark",
+
+  "sscnapoli": "SSC Napoli",
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "Official Partners"
+
+
 }
