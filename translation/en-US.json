@@ -1328,10 +1328,10 @@
       "level6": "Diamond"
     },
     "bonus":"Bonus",
-    "levelUp":"Level Up",
+    "levelUp":"Requirements",
     "levelUpBonus":"Level Up Bonus",
-    "totalDeposit":"Required deposit amount to level up",
-    "totalVaildBet":"Required bet amount to level up"
+    "totalDeposit":"Total Deposit Amount",
+    "totalVaildBet":"Total Bet Amount"
   },
   "custom": {
     "addcard": {

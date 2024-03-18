@@ -1338,7 +1338,7 @@
       "level6": "钻石"
     },
     "bonus":"奖金",
-    "levelUp":"升级条件",
+    "levelUp":"需满足条件",
     "levelUpBonus":"升级奖励",
     "totalDeposit":"累积存款金额",
     "totalVaildBet":"累积投注金额"

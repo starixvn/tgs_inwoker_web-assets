@@ -1326,7 +1326,7 @@
       "level6": "鑽石"
     },
     "bonus":"獎金",
-    "levelUp":"升級條件",
+    "levelUp":"需滿足條件",
     "levelUpBonus":"升級獎勵",
     "totalDeposit":"累積存款金額",
     "totalVaildBet":"累積投注金額"

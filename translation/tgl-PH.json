@@ -1327,10 +1327,10 @@
       "level6": "Diamond"
     },
     "bonus":"Bonus",
-    "levelUp":"Pagtaas ng Antas",
+    "levelUp":"Mga kinakailangan",
     "levelUpBonus":"bonus para sa pag taas ng antas",
-    "totalDeposit":"Kabuuang Deposito",
-    "totalVaildBet":"kabuuang bilang ng wastong taya"
+    "totalDeposit":"kinakailangan na halaga ng deposito sa pag-angat ng antas",
+    "totalVaildBet":"kinakailangan na tumbas ng taya sa pag-angat ng antas"
   },
   "custom": {
     "addcard": {
