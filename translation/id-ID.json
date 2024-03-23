@@ -1330,7 +1330,12 @@
       "level4": "Ruby",
       "level5": "Platinum",
       "level6": "Berlian"
-    }
+    },
+    "bonus": "Bonus",
+    "levelUp":  "Naik Level",
+    "levelUpBonus": "Bonus Naik Level",
+    "totalDeposit":"Total Deposit",
+    "totalVaildBet":"Total Taruhan Valid"
   },
   "custom": {
     "addcard": {
@@ -1799,6 +1804,16 @@
   "undermaintenance": "Sedang Dalam Pemeliharaan",
 
   "movn2_addcardsuccess": "Selamat! Kartu bank Anda telah ditambahkan. Anda sekarang dapat melakukan penarikan dengan kartu ini.\n Jika Anda ingin mengedit kartu Anda, silakan hubungi Layanan Pelanggan.",
+  "t29": {
+    "wagering": "Wagering",
+    "wageringrequirement":"Wagering Requirement",
+    "main":"Main"
+  },
+  
+  "remark": "Catatan",
 
-  "remark": "Catatan"
+  "sscnapoli": "SSC Napoli",
+    "astonvilla": "Aston Villa",
+    "laclipper": "LA Clippers",
+    "officialpartners":   "Official Partners"
 }

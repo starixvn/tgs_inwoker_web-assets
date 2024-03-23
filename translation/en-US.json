@@ -1312,12 +1312,12 @@
     "levelKeepAccumulateDeposit": "Quarterly Deposit to Maintain",
     "levelUpAccumulateBetAmount": "Daily Bet to Level UP",
     "levelUpAccumulateDeposit": "Daily Deposit to Level UP",
-    "liveDealerRebate": "Live Casino",
+    "liveDealerRebate": "Live Dealer",
     "lotteryRebate": "Lottery",
     "promotionBenefit": "Level UP Bonus",
     "quarterlyBenefit": "Quarterly Bonus",
     "slotRebate": "E-game",
-    "sportsRebate": "Sports",
+    "sportsRebate": "Sportsbook",
     "virtualSportsRebate": "Virtual Sports",
     "vipBenefit": "VIP Rebate",
     "bunny": {
@@ -1327,7 +1327,12 @@
       "level4": "Ruby",
       "level5": "Platinum",
       "level6": "Diamond"
-    }
+    },
+    "bonus":"Bonus",
+    "levelUp":"Requirements",
+    "levelUpBonus":"Level Up Bonus",
+    "totalDeposit":"Total Deposit Amount",
+    "totalVaildBet":"Total Bet Amount"
   },
   "custom": {
     "addcard": {
@@ -1802,5 +1807,12 @@
     "main":"Main"
   },
 
-  "remark": "Remark"
+  "remark": "Remark",
+
+  "sscnapoli": "SSC Napoli",
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "Official Partners"
+
+
 }

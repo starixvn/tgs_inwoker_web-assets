@@ -1328,7 +1328,7 @@
     "quarterlyBenefit": "季度獎金",
     "slotRebate": "电子游戏",
     "sportsRebate": "体育",
-    "virtualSportsRebate": "电竞游戏",
+    "virtualSportsRebate": "虚拟体育",
     "vipBenefit": "VIP反水",
     "bunny": {
       "level1": "青铜",
@@ -1337,7 +1337,12 @@
       "level4": "红宝石",
       "level5": "白金",
       "level6": "钻石"
-    }
+    },
+    "bonus":"奖金",
+    "levelUp":"需满足条件",
+    "levelUpBonus":"升级奖励",
+    "totalDeposit":"累积存款金额",
+    "totalVaildBet":"累积投注金额"
   },
   "custom": {
     "addcard": {
@@ -1719,7 +1724,7 @@
   "pleaseenter": "請輸入",
   "memo": "站內信",
   "compose": "撰写新内容",
-  "memoinbox": "站內信",
+  "memoinbox": "消息通知",
   "sent": "寄件匣",
   "number": "序",
   "date": "日期",
@@ -1809,5 +1814,10 @@
     "main":"流水需求"
   },
 
-  "remark": "备注"
+  "remark": "备注",
+
+   "sscnapoli": "拿坡里",
+        "astonvilla": "阿士東維拉",
+        "laclipper": "洛杉磯快艇",
+        "officialpartners": "官方合作夥伴"
 }

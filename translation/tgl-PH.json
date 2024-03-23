@@ -1304,21 +1304,21 @@
     "player": "Manlalaro"
   },
   "vip": {
-    "birthBenefit": "Bonus pang kaarawan",
-    "cardGameRebate": "Card Game",
+    "birthBenefit": "bonus para sa kaarawan",
+    "cardGameRebate": "laro sa baraha",
     "level": "VIP Program",
     "levelKeepAccumulateBetAmount": "Qtly. Bet amount na kailangang ipanatili",
     "levelKeepAccumulateDeposit": "Qtly. Deposito na kailangang ipanatili",
     "levelUpAccumulateBetAmount": "Araw-araw na Halaga ng Taya para mag-upgrade",
     "levelUpAccumulateDeposit": "Pang-araw-araw na Deposito para mag-upgrade",
-    "liveDealerRebate": "Live Casino",
-    "lotteryRebate": "Lottery Game",
-    "promotionBenefit": "Promotion Bonus",
+    "liveDealerRebate": "Dealer para sa Live",
+    "lotteryRebate": "Lottery",
+    "promotionBenefit": "bonus para sa pag taas ng antas",
     "quarterlyBenefit": "Quarterly Bonus",
-    "slotRebate": "Slots Games",
-    "sportsRebate": "sports games",
-    "virtualSportsRebate": "Esports Games",
-    "vipBenefit": "VIP rebate",
+    "slotRebate": "E-game",
+    "sportsRebate": "Sportsbook",
+    "virtualSportsRebate": "mga larong sports",
+    "vipBenefit": "Rebate para sa VIP",
     "bunny": {
       "level1": "Bronze",
       "level2": "Silver",
@@ -1326,7 +1326,12 @@
       "level4": "Ruby",
       "level5": "Platinum",
       "level6": "Diamond"
-    }
+    },
+    "bonus":"Bonus",
+    "levelUp":"Mga kinakailangan",
+    "levelUpBonus":"bonus para sa pag taas ng antas",
+    "totalDeposit":"Kabuuang Deposito",
+    "totalVaildBet":"kabuuang bilang ng wastong taya"
   },
   "custom": {
     "addcard": {
@@ -1619,8 +1624,8 @@
       "levelKeepAccumulateDeposit": "Quarterly deposito na kailangang panatilihin",
       "levelUpAccumulateBetAmount": "araw-araw na T/O para mag level-up",
       "levelUpAccumulateDeposit": "araw-araw na pag deposito para mag level-up",
-      "birthBenefit": "bonus pang kaarawan",
-      "promotionBenefit": "Level UP Bonus",
+      "birthBenefit": "bonus para sa kaarawan",
+      "promotionBenefit": "bonus para sa pag taas ng antas",
       "quarterlyBenefit": "Quarterly Bonus"
     },
     "panel": {
@@ -1794,5 +1799,16 @@
   "undermaintenance": "Under Maintenance",
 
   "movn2_addcardsuccess": "Congrats! Naidagdag na ang iyong bank card. Maaari ka na ngayong mag-withdraw gamit ang card na ito. \n Kung nais mong i-edit ang iyong card, mangyaring makipag-ugnayan sa Customer Service.",
-  "remark": "Pansin"
+  "t29": {
+    "wagering": "Turnover",
+    "wageringrequirement":"Kinakailangan na turnover",
+    "main":"Kinakailangan na turnover"
+  },
+  
+  "remark": "Pansin",
+
+   "sscnapoli": "SSC Napoli",
+      "astonvilla": "Aston Villa",
+      "laclipper": "LA Clippers",
+      "officialpartners": "Opisyal na mga Kasosyo"
 }

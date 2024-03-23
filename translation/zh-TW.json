@@ -712,7 +712,7 @@
     "tail": "尾號",
     "enterAmount": "請輸入提款金額",
     "msgWithdrawalAmount": "單筆限額 100-450,000",
-    "notice": "此銀行卡的開戶名必須與您賬號所填寫真實姓名一致，否則提款可能失敗",
+    "notice": "此銀行卡的開戶名必須與您帳號所填寫真實姓名一致，否則提款可能失敗",
     "receiverAcc": "收款賬號",
     "receiverName": "收款人姓名",
     "fee": "手續費",
@@ -1325,7 +1325,12 @@
       "level4": "紅寶石",
       "level5": "白金",
       "level6": "鑽石"
-    }
+    },
+    "bonus":"獎金",
+    "levelUp":"需滿足條件",
+    "levelUpBonus":"升級獎勵",
+    "totalDeposit":"累積存款金額",
+    "totalVaildBet":"累積投注金額"
   },
   "custom": {
     "addcard": {
@@ -1695,7 +1700,7 @@
   "pleaseenter": "請輸入",
   "memo": "站內信",
   "compose": "撰写新内容",
-  "memoinbox": "站內信",
+  "memoinbox": "消息通知",
   "sent": "寄件匣",
   "number": "序",
   "date": "日期",
@@ -1780,6 +1785,15 @@
   "undermaintenance": "維護中",
 
   "movn2_addcardsuccess": "恭喜！您的銀行卡已完成綁定，現在起，您可以使用這張卡進行提款。\n若您需要修改銀行卡，請聯絡客服團隊",
+  "t29": {
+    "wagering": "流水",
+    "wageringrequirement":"流水需求",
+    "main":"流水需求"
+  },
+  "remark": "備註",
 
-  "remark": "備註"
+   "sscnapoli": "拿坡里",
+          "astonvilla": "阿士東維拉",
+          "laclipper": "洛杉磯快艇",
+          "officialpartners": "官方合作夥伴"
 }

@@ -1311,7 +1311,12 @@
       "level4": "ทับทิม",
       "level5": "แพลตตินั่ม",
       "level6": "เพชร"
-    }
+    },
+    "bonus":"โบนัส",
+    "levelUp":"เลเวลอัพ",
+    "levelUpBonus":"โบนัสเลเวลอัพ",
+    "totalDeposit":"ยอดฝากทั้งหมด",
+    "totalVaildBet":"ยอดเดิมพันที่ถูกต้องทั้งหมด"
   },
   "custom": {
     "addcard": {
@@ -1763,6 +1768,17 @@
   "undermaintenance": "ระบบอยู่ระหว่างการปรับปรุง",
 
   "movn2_addcardsuccess": "ขอแสดงความยินดี! บัตรธนาคารของคุณถูกเพิ่มแล้ว ตอนนี้คุณสามารถถอนเงินด้วยบัตรใบนี้ได้ หากคุณต้องการแก้ไขบัตรของคุณ โปรดติดต่อฝ่ายบริการลูกค้า",
+  "t29": {
+    "wagering": "Wagering",
+    "wageringrequirement":"Wagering Requirement",
+    "main":"Main"
+  },
+  
+  "remark": "หมายเหตุ",
 
-  "remark": "หมายเหตุ"
+   "sscnapoli": "SSC Napoli",
+      "astonvilla": "Aston Villa",
+      "laclipper": "LA Clippers",
+      "officialpartners": "คู่ค้าทางการ"
+    
 }

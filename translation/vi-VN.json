@@ -227,7 +227,7 @@
       "cardNum": "Số thẻ",
       "desc": "Thông tin được mã hóa",
       "branch": "Chi nhánh",
-      "branchPlaceHolder": "Vui lòng nhập chi nhánh ngân hàng",
+      "branchPlaceHolder": "Nhập họ tên rút tiền phải trùng với họ tên thật đã đăng ký",
       "eWalletAccount": "Tên tiền điện tử",
       "msgEnterEwalletAccount": "Vui lòng nhập tên tiền điện tử",
       "phone": "Số điện thoại",
@@ -644,7 +644,7 @@
     "ratio": "Tỷ lệ",
     "totalBetAmount": "Tổng số tiền đặt cược",
     "totalWinLose": "Tổng số tiền thắng thua",
-    "totalValidBet": "tổng số tiền đặt cược hợp lệ"
+    "totalValidBet": "Tổng cược"
   },
   "share": {
     "bottomNote": {
@@ -718,7 +718,7 @@
     "tail": "",
     "enterAmount": "Vui lòng nhập số tiền rút",
     "msgWithdrawalAmount": "Vui lòng nhập 100-450.000",
-    "notice": "Tên tài khoản của thẻ ngân hàng này phải phù hợp với tên thật trong tài khoản của bạn, nếu không việc rút tiền có thể không thành công",
+    "notice": "ngân hàng đang bảo trì , liên hệ CSKH hỗ trợ",
     "receiverAcc": "Tài khoản người nhận",
     "receiverName": "Tên người nhận",
     "fee": "Phí",
@@ -1293,14 +1293,14 @@
     "levelKeepAccumulateDeposit": "Duy trì tiền nạp mỗi quý ",
     "levelUpAccumulateBetAmount": "Nâng cấp cá cược hàng ngày",
     "levelUpAccumulateDeposit": "Gửi tiền mỗi ngày để nâng cấp",
-    "liveDealerRebate": "Casino",
+    "liveDealerRebate": "Casino trực tuyến",
     "lotteryRebate": "Xổ số",
     "promotionBenefit": "Tiền thưởng nâng cấp",
     "quarterlyBenefit": "Tiền thưởng hàng quý",
     "slotRebate": "Trò chơi điện tử",
     "sportsRebate": "Thể thao",
     "virtualSportsRebate": "Thể thao ảo",
-    "vipBenefit": "Hoàn trả ",
+    "vipBenefit": "Hoàn trả VIP",
     "bunny": {
       "level1": "Đồng",
       "level2": "Bạc",
@@ -1308,7 +1308,12 @@
       "level4": "Ruby",
       "level5": "Bạch kim",
       "level6": "Kim cương"
-    }
+    },
+    "bonus":"Tiền thưởng",
+    "levelUp":"Điều kiện nhận thưởng",
+    "levelUpBonus":"Tiền thưởng nâng cấp",
+    "totalDeposit":"số tiền nạp tích lũy",
+    "totalVaildBet":"số tiền đặt cược tích lũy"
   },
   "custom": {
     "addcard": {
@@ -1669,7 +1674,7 @@
   "pleaseenter": "Vui lòng nhập",
   "memo": "Ghi chú",
   "compose": "Soạn thảo",
-  "memoinbox": "Hộp ghi chú",
+  "memoinbox": "Hộp thư đến",
   "sent": "Đã gửi",
   "number": "Số",
   "date": "Ngày",
@@ -1759,5 +1764,12 @@
     "main":"Doanh thu cược"
   },
 
-  "remark": "Ghi chú"
+  "remark": "Ghi chú",
+
+  "sscnapoli": "SSC Napoli",
+      "astonvilla": "Aston Villa",
+      "laclipper": "LA Clippers",
+      "officialpartners": "Đối tác chính thức"
+  
+       
 }

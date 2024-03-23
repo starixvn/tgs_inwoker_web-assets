@@ -1342,7 +1342,12 @@
       "level4": "माणिक",
       "level5": "प्लैटिनम",
       "level6": "डायमंड"
-    }
+    },
+    "bonus":  "बोनस",
+    "levelUp":  "लेवल अप",
+    "levelUpBonus": "लेवल अप बोनस",
+    "totalDeposit": "कुल जमा",
+    "totalVaildBet":  "कुल वैध बेट"
   },
   "custom": {
     "addcard": {
@@ -1799,6 +1804,16 @@
   "undermaintenance": "अधिरक्षण के तहत",
 
   "movn2_addcardsuccess": "बधाई हो! आपका बैंक कार्ड जोड़ दिया गया है। अब आप इस कार्ड से निकासी कर सकते हैं। यदि आप अपना कार्ड संपादित करना चाहते हैं, तो कृपया ग्राहक सेवा से संपर्क करें।",
+  "t29": {
+    "wagering": "Wagering",
+    "wageringrequirement":"Wagering Requirement",
+    "main":"Main"
+  },
+  
+  "remark": "टिप्पणी",
 
-  "remark": "टिप्पणी"
+  "sscnapoli": "SSC Napoli",
+    "astonvilla": "Aston Villa",
+    "laclipper": "LA Clippers",
+    "officialpartners": "आधिकारिक साझेदार"
 }
