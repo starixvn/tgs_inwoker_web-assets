@@ -46,6 +46,7 @@
     "maintenance": "Oras ng Pagpapanatili",
     "pleaseEnterAccountName": "Ilagay ang totoong pangalan",
     "noReachMin": "The mobile number is set to 8 to {maxlength} digits",
+    "noReachLength": "The mobile number is set to {maxlength} digits",
     "upload": "Mag-upload ng dokumento",
     "upload2": "Pindutin upang pumili ng file",
     "title": "{brand} | The Biggest & Most Trusted Online Casino",

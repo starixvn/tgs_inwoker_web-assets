@@ -50,6 +50,7 @@
     "maintenance": "Waktu Pemeliharaan",
     "pleaseEnterAccountName": "Silakan masukkan nama asli Anda",
     "noReachMin": "Nomor ponsel disetel ke 8 hingga {maxlength} digit",
+    "noReachLength": "The mobile number is set to {maxlength} digits",
     "upload": "Upload document",
     "upload2": "Klik untuk memilih berkas",
     "title": "{brand}",

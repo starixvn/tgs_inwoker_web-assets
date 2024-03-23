@@ -45,6 +45,7 @@
     "maintenance": "維護時間",
     "pleaseEnterAccountName": "請输入銀行名稱",
     "noReachMin": "手機號碼設定在8至10位數",
+    "noReachLength": "手機號碼設定在{maxlength}位數",
     "upload": "上傳文件",
     "upload2": "點擊選擇文件",
     "title": "{brand} - 專業娛樂平台",
