@@ -45,7 +45,7 @@
     "maintenance": "维护时间",
     "pleaseEnterAccountName": "请输入银行名称",
     "noReachMin": "手機號碼設定在8至{maxlength}位數",
-    "noReachLength": "手機號碼設定在{maxlength}位數",
+    "noReachLength": "請輸入 {maxlength} 碼，僅限數字",
     "upload": "上传文件",
     "upload2": "点击选择文件",
     "title": "{brand} - 专业娱乐平台",
