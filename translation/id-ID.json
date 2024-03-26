@@ -885,6 +885,7 @@
       "confirmWithdrawalPassword": "Konfirmasi Kata Sandi Penarikan",
       "promoteCode": "Kode Referral",
       "contract": "Saya mengonfirmasi bahwa saya berusia minimal 18 tahun dan telah membaca dan menerima kebijakan, pernyataan privasi, syarat dan ketentuan situs web ini.",
+      "contractWithAge": "Saya mengonfirmasi bahwa saya berusia minimal {age} tahun dan telah membaca dan menerima kebijakan, pernyataan privasi, syarat dan ketentuan situs web ini.",
       "btn": "Daftar Sekarang",
       "activation": "Verifikasi SMS",
       "email": "Silakan masukkan alamat email",
@@ -1332,10 +1333,10 @@
       "level6": "Berlian"
     },
     "bonus": "Bonus",
-    "levelUp":  "Naik Level",
+    "levelUp": "Naik Level",
     "levelUpBonus": "Bonus Naik Level",
-    "totalDeposit":"Total Deposit",
-    "totalVaildBet":"Total Taruhan Valid"
+    "totalDeposit": "Total Deposit",
+    "totalVaildBet": "Total Taruhan Valid"
   },
   "custom": {
     "addcard": {
@@ -1806,14 +1807,14 @@
   "movn2_addcardsuccess": "Selamat! Kartu bank Anda telah ditambahkan. Anda sekarang dapat melakukan penarikan dengan kartu ini.\n Jika Anda ingin mengedit kartu Anda, silakan hubungi Layanan Pelanggan.",
   "t29": {
     "wagering": "Wagering",
-    "wageringrequirement":"Wagering Requirement",
-    "main":"Main"
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
   },
-  
+
   "remark": "Catatan",
 
   "sscnapoli": "SSC Napoli",
-    "astonvilla": "Aston Villa",
-    "laclipper": "LA Clippers",
-    "officialpartners":   "Official Partners"
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "Official Partners"
 }

@@ -179,7 +179,7 @@
     "egame": "EGame",
     "livedealer": "Live Dealer",
     "qq": "QQ Account",
-    "donotshowagain":"Don't show again"
+    "donotshowagain": "Don't show again"
   },
   "affiliate": {
     "title": "Affiliate",
@@ -894,6 +894,7 @@
       "confirmWithdrawalPassword": "Confirm Withdrawal Password",
       "promoteCode": "Invitation Code",
       "contract": "I confirm that I am at least 18 years old and have read and accepted the policy, privacy statement, terms and conditions of this website.",
+      "contractWithAge": "I confirm that I am at least {age} years old and have read and accepted the policy, privacy statement, terms and conditions of this website.",
       "btn": "Register Now",
       "activation": "SMS Verification",
       "email": "Please enter email address",
@@ -1328,11 +1329,11 @@
       "level5": "Platinum",
       "level6": "Diamond"
     },
-    "bonus":"Bonus",
-    "levelUp":"Requirements",
-    "levelUpBonus":"Level Up Bonus",
-    "totalDeposit":"Total Deposit Amount",
-    "totalVaildBet":"Total Bet Amount"
+    "bonus": "Bonus",
+    "levelUp": "Requirements",
+    "levelUpBonus": "Level Up Bonus",
+    "totalDeposit": "Total Deposit Amount",
+    "totalVaildBet": "Total Bet Amount"
   },
   "custom": {
     "addcard": {
@@ -1803,8 +1804,8 @@
   "movn2_addcardsuccess": "Congrats! Your bank card has been added. You can now making withdrawal with this card. \n If you wish to edit your card, please contact the Customer Service.",
   "t29": {
     "wagering": "Wagering",
-    "wageringrequirement":"Wagering Requirement",
-    "main":"Main"
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
   },
 
   "remark": "Remark",
@@ -1813,6 +1814,4 @@
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
   "officialpartners": "Official Partners"
-
-
 }

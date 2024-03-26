@@ -889,6 +889,7 @@
       "confirmWithdrawalPassword": "Xác nhận Mật khẩu Rút tiền",
       "promoteCode": "Mã Khuyến mãi",
       "contract": "Tôi xác nhận rằng tôi từ 18 tuổi trở lên và đã đọc và chấp nhận chính sách, tuyên bố về quyền riêng tư, các điều khoản và điều kiện của trang web này.",
+      "contractWithAge": "Tôi xác nhận rằng tôi từ {age} tuổi trở lên và đã đọc và chấp nhận chính sách, tuyên bố về quyền riêng tư, các điều khoản và điều kiện của trang web này.",
       "btn": "Đăng ký ngay",
       "activation": "Xác minh qua SMS",
       "email": "Vui lòng nhập địa chỉ email",

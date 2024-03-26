@@ -178,7 +178,7 @@
     "egame": "电子游戏",
     "livedealer": "真人娱乐",
     "qq": "QQ账号",
-    "donotshowagain":"不再显示"
+    "donotshowagain": "不再显示"
   },
   "affiliate": {
     "title": "推广赚钱",
@@ -894,6 +894,7 @@
       "confirmWithdrawalPassword": "重复提款密码",
       "promoteCode": "邀请码（选填）",
       "contract": "我确认我已年满18岁，并已阅读和接受本网站的策略丶隐私声明，条款及条件。",
+      "contractWithAge": "我确认我已年满{age}岁，并已阅读和接受本网站的策略丶隐私声明，条款及条件。",
       "btn": "立即注册",
       "activation": "SMS短信认证",
       "email": "请输入邮箱地址",
@@ -1338,11 +1339,11 @@
       "level5": "白金",
       "level6": "钻石"
     },
-    "bonus":"奖金",
-    "levelUp":"需满足条件",
-    "levelUpBonus":"升级奖励",
-    "totalDeposit":"累积存款金额",
-    "totalVaildBet":"累积投注金额"
+    "bonus": "奖金",
+    "levelUp": "需满足条件",
+    "levelUpBonus": "升级奖励",
+    "totalDeposit": "累积存款金额",
+    "totalVaildBet": "累积投注金额"
   },
   "custom": {
     "addcard": {
@@ -1811,13 +1812,13 @@
   "t29": {
     "wagering": "流水",
     "wageringrequirement": "流水需求",
-    "main":"流水需求"
+    "main": "流水需求"
   },
 
   "remark": "备注",
 
-   "sscnapoli": "拿坡里",
-        "astonvilla": "阿士東維拉",
-        "laclipper": "洛杉磯快艇",
-        "officialpartners": "官方合作夥伴"
+  "sscnapoli": "拿坡里",
+  "astonvilla": "阿士東維拉",
+  "laclipper": "洛杉磯快艇",
+  "officialpartners": "官方合作夥伴"
 }
