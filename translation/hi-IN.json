@@ -882,6 +882,7 @@
       "confirmWithdrawalPassword": "निकासी पासवर्ड की पुष्टि करें",
       "promoteCode": "आमंत्रण संकेत",
       "contract": "मैं पुष्टि करता हूं कि मेरी उम्र कम से कम 18 वर्ष है और मैंने इस वेबसाइट की नीति, गोपनीयता कथन, नियम और शर्तें पढ़ ली हैं और स्वीकार कर लिया है।",
+      "contractWithAge": "मैं पुष्टि करता हूं कि मेरी उम्र कम से कम {age} वर्ष है और मैंने इस वेबसाइट की नीति, गोपनीयता कथन, नियम और शर्तें पढ़ ली हैं और स्वीकार कर लिया है।",
       "btn": "अभी पंजीकरण करें",
       "activation": "एसएमएस सत्यापन",
       "email": "कृपया ईमेल पता दर्ज करें",
@@ -1343,11 +1344,11 @@
       "level5": "प्लैटिनम",
       "level6": "डायमंड"
     },
-    "bonus":  "बोनस",
-    "levelUp":  "लेवल अप",
+    "bonus": "बोनस",
+    "levelUp": "लेवल अप",
     "levelUpBonus": "लेवल अप बोनस",
     "totalDeposit": "कुल जमा",
-    "totalVaildBet":  "कुल वैध बेट"
+    "totalVaildBet": "कुल वैध बेट"
   },
   "custom": {
     "addcard": {
@@ -1806,14 +1807,14 @@
   "movn2_addcardsuccess": "बधाई हो! आपका बैंक कार्ड जोड़ दिया गया है। अब आप इस कार्ड से निकासी कर सकते हैं। यदि आप अपना कार्ड संपादित करना चाहते हैं, तो कृपया ग्राहक सेवा से संपर्क करें।",
   "t29": {
     "wagering": "Wagering",
-    "wageringrequirement":"Wagering Requirement",
-    "main":"Main"
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
   },
-  
+
   "remark": "टिप्पणी",
 
   "sscnapoli": "SSC Napoli",
-    "astonvilla": "Aston Villa",
-    "laclipper": "LA Clippers",
-    "officialpartners": "आधिकारिक साझेदार"
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "आधिकारिक साझेदार"
 }

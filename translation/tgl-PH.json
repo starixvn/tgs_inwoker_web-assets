@@ -893,6 +893,7 @@
       "confirmWithdrawalPassword": "Kumpirmahin ang Withdrawal Password",
       "promoteCode": "Invitation Code",
       "contract": "Kinukumpirma ko na ako ay hindi bababa sa 18 taong gulang at nabasa at tinanggap ang patakaran, pahayag sa privacy, mga tuntunin at kundisyon ng website na ito.",
+      "contractWithAge": "Kinukumpirma ko na ako ay hindi bababa sa {age} taong gulang at nabasa at tinanggap ang patakaran, pahayag sa privacy, mga tuntunin at kundisyon ng website na ito.",
       "btn": "Mag-rehistro na ngayon",
       "activation": "SMS Verification",
       "email": "Pakipasok ang email address",

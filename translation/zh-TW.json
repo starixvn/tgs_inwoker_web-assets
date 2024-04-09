@@ -885,6 +885,7 @@
       "confirmWithdrawalPassword": "重複提款密碼",
       "promoteCode": "邀請碼（選填）",
       "contract": "我確認我已年滿18歲，並已閱讀和接受本網站的策略丶隱私聲明，條款及條件。",
+      "contractWithAge": "我確認我已年滿{age}歲，並已閱讀和接受本網站的策略丶隱私聲明，條款及條件。",
       "btn": "立即註冊",
       "activation": "SMS短信認證",
       "email": "請輸入郵箱地址",
@@ -1326,11 +1327,11 @@
       "level5": "白金",
       "level6": "鑽石"
     },
-    "bonus":"獎金",
-    "levelUp":"需滿足條件",
-    "levelUpBonus":"升級獎勵",
-    "totalDeposit":"累積存款金額",
-    "totalVaildBet":"累積投注金額"
+    "bonus": "獎金",
+    "levelUp": "需滿足條件",
+    "levelUpBonus": "升級獎勵",
+    "totalDeposit": "累積存款金額",
+    "totalVaildBet": "累積投注金額"
   },
   "custom": {
     "addcard": {
@@ -1787,13 +1788,13 @@
   "movn2_addcardsuccess": "恭喜！您的銀行卡已完成綁定，現在起，您可以使用這張卡進行提款。\n若您需要修改銀行卡，請聯絡客服團隊",
   "t29": {
     "wagering": "流水",
-    "wageringrequirement":"流水需求",
-    "main":"流水需求"
+    "wageringrequirement": "流水需求",
+    "main": "流水需求"
   },
   "remark": "備註",
 
-   "sscnapoli": "拿坡里",
-          "astonvilla": "阿士東維拉",
-          "laclipper": "洛杉磯快艇",
-          "officialpartners": "官方合作夥伴"
+  "sscnapoli": "拿坡里",
+  "astonvilla": "阿士東維拉",
+  "laclipper": "洛杉磯快艇",
+  "officialpartners": "官方合作夥伴"
 }
