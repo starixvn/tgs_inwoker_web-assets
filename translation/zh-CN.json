@@ -1820,5 +1820,11 @@
   "sscnapoli": "拿坡里",
   "astonvilla": "阿士東維拉",
   "laclipper": "洛杉磯快艇",
-  "officialpartners": "官方合作夥伴"
+  "officialpartners": "官方合作夥伴",
+  
+  "JILI_PH": {
+    "addCard": {
+      "phoneError": "11 位数字。 银行号码必须与注册号码一致。"
+    }
+  }
 }

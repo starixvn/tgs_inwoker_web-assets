@@ -1813,5 +1813,11 @@
   "sscnapoli": "SSC Napoli",
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
-  "officialpartners": "Official Partners"
+  "officialpartners": "Official Partners",
+  
+  "JILI_PH": {
+    "addCard": {
+      "phoneError": "11-digit. Bank number must match the registered number."
+    }
+  }
 }

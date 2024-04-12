@@ -1808,8 +1808,14 @@
   
   "remark": "Pansin",
 
-   "sscnapoli": "SSC Napoli",
-      "astonvilla": "Aston Villa",
-      "laclipper": "LA Clippers",
-      "officialpartners": "Opisyal na mga Kasosyo"
+  "sscnapoli": "SSC Napoli",
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "Opisyal na mga Kasosyo",
+
+  "JILI_PH": {
+    "addCard": {
+      "phoneError": "11-digit. Bank number must match the registered number."
+    }
+  }
 }
