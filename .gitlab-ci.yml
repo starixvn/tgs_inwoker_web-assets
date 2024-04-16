@@ -1,0 +1,12 @@
+stages:
+  - deploy
+
+deploy_to_s3:
+  stage: deploy
+  image: python:3.9
+  before_script:
+    - pip install awscli
+  script:
+    - aws s3 cp translation/ s3://app12.srvptt.com/translation/ --recursive
+  only:
+    - main
