@@ -1815,7 +1815,7 @@
 
   "JILI_PH": {
     "addCard": {
-      "phoneError": "11-digit. Bank number must match the registered number."
+      "phoneError": "ang iyong 11 digit na numbero ng bangko ay dapat tumugma sa nakarehistrong numero."
     }
   }
 }
