@@ -719,7 +719,7 @@
     "bankCard": "Bank Account",
     "msgEnterBank": "Please choose bank",
     "tail": "",
-    "enterAmount": "Please enter the withdrawal amount",
+    "enterAmount": "Please enter withdrawal amount",
     "msgWithdrawalAmount": "Please enter 100-450,000",
     "notice": "The account name of this bank must be the same as the real name filled in your account, otherwise the withdrawal may fail",
     "receiverAcc": "Receiver Account",
@@ -1814,7 +1814,7 @@
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
   "officialpartners": "Official Partners",
-  
+
   "JILI_PH": {
     "addCard": {
       "phoneError": "11-digit. Bank number must match the registered number."
