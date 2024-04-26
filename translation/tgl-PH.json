@@ -1821,7 +1821,7 @@
   },
 
   "MOVN2": {
-    "NET": "Payment Gateway",
+    "NET": "Local Bank",
     "DR": "Direct",
     "QR": "QRcode",
     "MOMO": "MOMO",

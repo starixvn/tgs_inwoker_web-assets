@@ -1823,7 +1823,7 @@
   },
 
   "MOVN2": {
-    "NET": "Payment Gateway",
+    "NET": "Local Bank",
     "DR": "Online Bank",
     "QR": "QRcode",
     "MOMO": "MOMO",

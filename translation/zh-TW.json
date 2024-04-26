@@ -1807,9 +1807,9 @@
   },
 
   "MOVN2": {
-    "NET": "Payment Gateway",
-    "DR": "Online Bank",
-    "QR": "QRcode",
+    "NET": "網關",
+    "DR": "直連",
+    "QR": "QR",
     "MOMO": "MOMO",
     "VP": "ViettelPay",
     "USDT": "USDT"
