@@ -1654,6 +1654,7 @@
     "orderNo": "ஆர்டர் எண்",
     "depositMode": "Deposit mode",
     "channel": "கட்டண சேனல்",
+    "bankType": "Bank Type",
     "amount": "தொகை",
     "status": "நிலை",
     "approved": "வெற்றி",
@@ -1815,5 +1816,14 @@
   "sscnapoli": "SSC Napoli",
     "astonvilla": "Aston Villa",
     "laclipper": "LA Clippers",
-    "officialpartners":   "அதிகாரப்பூர்வ சகோதரர்கள்"
+    "officialpartners":   "அதிகாரப்பூர்வ சகோதரர்கள்",
+
+  "MOVN2": {
+    "NET": "Payment Gateway",
+    "DR": "Online Bank",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
+  }
 }

@@ -1663,6 +1663,7 @@
     "orderNo": "Ref",
     "depositMode": "Deposit mode",
     "channel": "Jenis Bank",
+    "bankType": "Bank Type",
     "amount": "Jumlah",
     "status": "Status",
     "approved": "Sukses",
@@ -1816,5 +1817,14 @@
   "sscnapoli": "SSC Napoli",
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
-  "officialpartners": "Official Partners"
+  "officialpartners": "Official Partners",
+
+  "MOVN2": {
+    "NET": "Payment Gateway",
+    "DR": "Online Bank",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
+  }
 }

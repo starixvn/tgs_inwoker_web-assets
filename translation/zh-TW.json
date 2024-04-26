@@ -1633,6 +1633,7 @@
     "updatedTime": "更新時間",
     "orderNo": "訂單號",
     "depositMode": "模式",
+    "bankType": "銀行類型",
     "channel": "渠道",
     "amount": "金額",
     "status": "狀態",
@@ -1803,5 +1804,14 @@
     "addCard": {
       "phoneError": "11 位數字。 銀行號碼必須與註冊號碼一致。"
     }
+  },
+
+  "MOVN2": {
+    "NET": "Payment Gateway",
+    "DR": "Online Bank",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
   }
 }

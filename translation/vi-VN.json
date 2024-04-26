@@ -1615,6 +1615,7 @@
     "orderNo": "Mã đơn hàng",
     "depositMode": "Phương thức thanh toán",
     "channel": "Kênh thanh toán",
+    "bankType": "Loại Ngân hàng",
     "amount": "Số tiền",
     "status": "Trạng thái",
     "approved": "Đã duyệt",
@@ -1770,7 +1771,14 @@
   "sscnapoli": "SSC Napoli",
       "astonvilla": "Aston Villa",
       "laclipper": "LA Clippers",
-      "officialpartners": "Đối tác chính thức"
-  
-       
+      "officialpartners": "Đối tác chính thức",
+
+      "MOVN2": {
+        "NET": "Ngân hàng nội địa",
+        "DR": "Ngân hàng trực tuyến",
+        "QR": "QRcode",
+        "MOMO": "MOMO",
+        "VP": "ViettelPay",
+        "USDT": "USDT"
+      }
 }

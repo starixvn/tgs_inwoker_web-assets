@@ -1626,6 +1626,7 @@
     "orderNo": "หมายเลขคำสั่งซื้อ",
     "depositMode": "Deposit mode",
     "channel": "ช่องทางการชำระเงิน",
+    "bankType": "Bank Type",
     "amount": "จำนวนเงิน",
     "status": "สถานะ",
     "approved": "อนุมัติแล้ว",
@@ -1777,9 +1778,18 @@
   
   "remark": "หมายเหตุ",
 
-   "sscnapoli": "SSC Napoli",
-      "astonvilla": "Aston Villa",
-      "laclipper": "LA Clippers",
-      "officialpartners": "คู่ค้าทางการ"
-    
+  "sscnapoli": "SSC Napoli",
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "คู่ค้าทางการ",
+
+  "MOVN2": {
+    "NET": "Payment Gateway",
+    "DR": "Online Bank",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
+  }
+
 }

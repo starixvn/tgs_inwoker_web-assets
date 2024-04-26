@@ -1649,6 +1649,7 @@
     "orderNo": "numero ng order",
     "depositMode": "Deposit mode",
     "channel": "channel ng pagbabayad",
+    "bankType": "Bank Type",
     "amount": "halaga",
     "status": "katayuan",
     "approved": "tagumpay",
@@ -1817,5 +1818,14 @@
     "addCard": {
       "phoneError": "ang iyong 11 digit na numbero ng bangko ay dapat tumugma sa nakarehistrong numero."
     }
+  },
+
+  "MOVN2": {
+    "NET": "Payment Gateway",
+    "DR": "Direct",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
   }
 }

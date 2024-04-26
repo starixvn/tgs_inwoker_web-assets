@@ -1654,8 +1654,9 @@
     "depositOrWithdraw": "存/提款单",
     "updatedTime": "更新时间",
     "orderNo": "订单号",
-    "depositMode": "模式",
-    "channel": "渠道",
+    "depositMode": "充值模式",
+    "bankType": "銀行類型",
+    "channel": "充值渠道",
     "amount": "金额",
     "status": "状态",
     "approved": "成功",
@@ -1826,5 +1827,14 @@
     "addCard": {
       "phoneError": "11 位数字。 银行号码必须与注册号码一致。"
     }
+  },
+
+  "MOVN2": {
+    "NET": "網關",
+    "DR": "直連",
+    "QR": "QR",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
   }
 }

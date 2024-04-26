@@ -1648,8 +1648,9 @@
     "depositOrWithdraw": "Deposit/Withdrawal Form",
     "updatedTime": "Update Time",
     "orderNo": "Order Number",
-    "depositMode": "Deposit mode",
-    "channel": "Payment channels",
+    "depositMode": "Deposit Mode",
+    "channel": "Deposit Channel",
+    "bankType": "Bank Type",
     "amount": "Amount",
     "status": "Status",
     "approved": "Success",
@@ -1819,5 +1820,14 @@
     "addCard": {
       "phoneError": "11-digit. Bank number must match the registered number."
     }
+  },
+
+  "MOVN2": {
+    "NET": "Payment Gateway",
+    "DR": "Online Bank",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
   }
 }
