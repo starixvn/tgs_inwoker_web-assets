@@ -255,7 +255,7 @@
     "msgMaxDeposit": "存款金額大於本公司設置的最高限額",
     "msgMaintenance": "存款系統維護中，請稍後再試...",
     "paymentTunnel": "支付通道",
-    "msgEnterCard": "請輸入銀行卡",
+    "msgEnterCard": "請輸入銀行卡號",
     "bankCard": "銀行卡",
     "msgPleaseEnter": "請輸入",
     "dollor": "",

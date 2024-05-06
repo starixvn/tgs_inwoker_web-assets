@@ -256,7 +256,7 @@
     "msgMaxDeposit": "The deposit amount is greater than the maximum limit set by the company",
     "msgMaintenance": "Deposit system maintenance, please try again later ...",
     "paymentTunnel": "Deposit Channel",
-    "msgEnterCard": "Please enter bank",
+    "msgEnterCard": "Please enter bank account",
     "bankCard": "Bank account number",
     "msgPleaseEnter": "Please Enter ",
     "dollor": "",
