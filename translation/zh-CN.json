@@ -255,7 +255,7 @@
     "msgMaxDeposit": "存款金额大于本公司设置的最高限额",
     "msgMaintenance": "存款系统维护中，请稍后再试...",
     "paymentTunnel": "支付通道",
-    "msgEnterCard": "请输入银行卡",
+    "msgEnterCard": "请输入银行卡号",
     "bankCard": "银行卡",
     "msgPleaseEnter": "请输入",
     "dollor": "",
