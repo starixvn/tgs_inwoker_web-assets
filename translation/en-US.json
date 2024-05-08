@@ -1829,5 +1829,12 @@
     "MOMO": "MOMO",
     "VP": "ViettelPay",
     "USDT": "USDT"
+  },
+
+  "V227": {
+    "sponsor": "Sponsor",
+    "sponsor1": "Kashima Antlers",
+    "sponsor2": "Atletico Madrid",
+    "sponsor3": "Golden State Warriors"
   }
 }

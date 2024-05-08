@@ -1836,5 +1836,12 @@
     "MOMO": "MOMO",
     "VP": "ViettelPay",
     "USDT": "USDT"
+  },
+
+  "V227": {
+    "sponsor": "赞助",
+    "sponsor1": "鹿島鹿角",
+    "sponsor2": "馬德里體育會",
+    "sponsor3": "金州勇士"
   }
 }
