@@ -1655,7 +1655,7 @@
     "updatedTime": "更新时间",
     "orderNo": "订单号",
     "depositMode": "充值模式",
-    "bankType": "銀行類型",
+    "bankType": "银行类型",
     "channel": "充值渠道",
     "amount": "金额",
     "status": "状态",
