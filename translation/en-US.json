@@ -1842,8 +1842,8 @@
     "profile": {
       "title": "ACCOUNT",
       "emailAddress": "E-mail Address",
-      "notYetSet": "Hindi pa nakatakda",
-      "notYetVerified": "Hindi pa nabe-verify"
+      "notYetSet": "Not yet set",
+      "notYetVerified": "Not yet verified"
     }
   }
 }

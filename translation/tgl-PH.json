@@ -1827,5 +1827,14 @@
     "MOMO": "MOMO",
     "VP": "ViettelPay",
     "USDT": "USDT"
+  },
+
+  "369": {
+    "profile": {
+      "title": "ACCOUNT",
+      "emailAddress": "E-mail Address",
+      "notYetSet": "Hindi pa nakatakda",
+      "notYetVerified": "Hindi pa nabe-verify"
+    }
   }
 }
