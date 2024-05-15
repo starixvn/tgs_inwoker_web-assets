@@ -1843,5 +1843,14 @@
     "sponsor1": "鹿島鹿角",
     "sponsor2": "馬德里體育會",
     "sponsor3": "金州勇士"
+  },
+  
+  "369": {
+    "profile": {
+      "title": "个人资料",
+      "emailAddress": "邮箱地址",
+      "notYetSet": "未设置",
+      "notYetVerified": "未认证"
+    }
   }
 }

@@ -1769,16 +1769,25 @@
   "remark": "Ghi chú",
 
   "sscnapoli": "SSC Napoli",
-      "astonvilla": "Aston Villa",
-      "laclipper": "LA Clippers",
-      "officialpartners": "Đối tác chính thức",
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "Đối tác chính thức",
 
-      "MOVN2": {
-        "NET": "Ngân hàng nội địa",
-        "DR": "Ngân hàng trực tuyến",
-        "QR": "QRcode",
-        "MOMO": "MOMO",
-        "VP": "ViettelPay",
-        "USDT": "USDT"
-      }
+  "MOVN2": {
+    "NET": "Ngân hàng nội địa",
+    "DR": "Ngân hàng trực tuyến",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
+  },
+
+  "369": {
+    "profile": {
+      "title": "Thông tin cá nhân",
+      "emailAddress": "địa chỉ email",
+      "notYetSet": "Chưa đặt",
+      "notYetVerified": "Chưa được chứng nhận"
+    }
+  }
 }

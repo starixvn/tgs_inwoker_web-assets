@@ -1836,5 +1836,14 @@
     "sponsor1": "Kashima Antlers",
     "sponsor2": "Atletico Madrid",
     "sponsor3": "Golden State Warriors"
+  },
+
+  "369": {
+    "profile": {
+      "title": "ACCOUNT",
+      "emailAddress": "E-mail Address",
+      "notYetSet": "Hindi pa nakatakda",
+      "notYetVerified": "Hindi pa nabe-verify"
+    }
   }
 }
