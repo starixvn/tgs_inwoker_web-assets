@@ -1823,6 +1823,14 @@
   "laclipper": "洛杉磯快艇",
   "officialpartners": "官方合作夥伴",
   
+  "agent": {
+    "agentInfo": "代理资讯",
+    "playerList": "玩家列表",
+    "agentList": "代理列表",
+    "winlossReport": "输赢报表",
+    "profitShareReport": "分红报表"
+  },
+
   "JILI_PH": {
     "addCard": {
       "phoneError": "11 位数字。 银行号码必须与注册号码一致。"

@@ -1773,6 +1773,14 @@
   "laclipper": "LA Clippers",
   "officialpartners": "Đối tác chính thức",
 
+  "agent": {
+    "agentInfo": "Thông tin đại lí",
+    "playerList": "Danh sách người chơi",
+    "agentList": "Danh sách đại lí",
+    "winlossReport": "Báo cáo thắng thua",
+    "profitShareReport": "Báo cáo tiền lãi "
+  },
+
   "MOVN2": {
     "NET": "Ngân hàng nội địa",
     "DR": "Ngân hàng trực tuyến",

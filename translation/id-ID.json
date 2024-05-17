@@ -1819,6 +1819,14 @@
   "laclipper": "LA Clippers",
   "officialpartners": "Official Partners",
 
+  "agent": {
+    "agentInfo": "Agent Info",
+    "playerList": "Player List",
+    "agentList": "Agent List",
+    "winlossReport": "Winloss Report",
+    "profitShareReport": "Profit Share Report"
+  },
+
   "MOVN2": {
     "NET": "Local Bank",
     "DR": "Online Bank",

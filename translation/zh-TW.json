@@ -1800,6 +1800,14 @@
   "laclipper": "洛杉磯快艇",
   "officialpartners": "官方合作夥伴",
   
+  "agent": {
+    "agentInfo": "代理資訊",
+    "playerList": "玩家列表",
+    "agentList": "代理列表",
+    "winlossReport": "輸贏報表",
+    "profitShareReport": "分紅報表"
+  },
+
   "JILI_PH": {
     "addCard": {
       "phoneError": "11 位數字。 銀行號碼必須與註冊號碼一致。"
