@@ -182,7 +182,7 @@
     "egame": "Game bài 3D",
     "livedealer": "Trò chơi trực tiếp",
     "qq": "Tài khoản QQ",
-    "donotshowagain":"Không hiển thị nữa"
+    "donotshowagain": "Không hiển thị nữa"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -1310,11 +1310,11 @@
       "level5": "Bạch kim",
       "level6": "Kim cương"
     },
-    "bonus":"Tiền thưởng",
-    "levelUp":"Điều kiện nhận thưởng",
-    "levelUpBonus":"Tiền thưởng nâng cấp",
-    "totalDeposit":"số tiền nạp tích lũy",
-    "totalVaildBet":"số tiền đặt cược tích lũy"
+    "bonus": "Tiền thưởng",
+    "levelUp": "Điều kiện nhận thưởng",
+    "levelUpBonus": "Tiền thưởng nâng cấp",
+    "totalDeposit": "số tiền nạp tích lũy",
+    "totalVaildBet": "số tiền đặt cược tích lũy"
   },
   "custom": {
     "addcard": {
@@ -1763,7 +1763,7 @@
   "t29": {
     "wagering": "Yêu cầu tiền cược",
     "wageringrequirement": "Lịch sử cược",
-    "main":"Doanh thu cược"
+    "main": "Doanh thu cược"
   },
 
   "remark": "Ghi chú",
@@ -1778,7 +1778,18 @@
     "playerList": "Danh sách người chơi",
     "agentList": "Danh sách đại lí",
     "winlossReport": "Báo cáo thắng thua",
-    "profitShareReport": "Báo cáo tiền lãi "
+    "profitShareReport": "Báo cáo tiền lãi",
+    "P/T": "P/T",
+    "cumulativenegativeDividendAmount": "số hoa hồng âm tích lũy",
+    "negativeDividend": "hoa hồng âm",
+    "liable": "đảm nhận",
+    "notLiable": "không đảm nhận",
+    "platformFee": "Phí nền tảng",
+    "productCharges": "Phí nền tảng",
+    "directAgent": "Đại lí trực tiếp",
+    "indirectAgent": "Đại lý tuyến dưới",
+    "diectPlayer": "Người chơi trực tiếp",
+    "indirectPlayer": "Người chơi tuyến dưới"
   },
 
   "MOVN2": {

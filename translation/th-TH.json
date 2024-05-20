@@ -1788,7 +1788,18 @@
     "playerList": "Player List",
     "agentList": "Agent List",
     "winlossReport": "Winloss Report",
-    "profitShareReport": "Profit Share Report"
+    "profitShareReport": "Profit Share Report",
+    "P/T": "P/T",
+    "cumulativenegativeDividendAmount": "Cumulative negative dividend amount",
+    "negativeDividend": "Negative Dividend",
+    "liable": "Liable",
+    "notLiable": "Not liable",
+    "platformFee": "Platform Fee",
+    "productCharges": "Product Charges",
+    "directAgent": "Direct Agent",
+    "indirectAgent": "Indirect Agent",
+    "diectPlayer": "Diect Player",
+    "indirectPlayer": "Indirect Player"
   },
 
   "MOVN2": {

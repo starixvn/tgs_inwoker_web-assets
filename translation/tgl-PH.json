@@ -1819,7 +1819,17 @@
     "playerList": "listahan ng mga manlalaro",
     "agentList": "listahan ng mga ahente",
     "winlossReport": "ulat ng panalo at pagkatalo",
-    "profitShareReport": "ulat ng dividend"
+    "profitShareReport": "ulat ng dividend",
+    "P/T": "P/T",
+    "cumulativenegativeDividendAmount": "pinag sama-samang halaga ng negatibong dibidendo",
+    "negativeDividend": "negatibong dibidendo",
+    "liable": "mananagot",
+    "notLiable": "walang pananagutan",
+    "platformFee": "Bayad sa Platform",
+    "productCharges": "Mga Singil sa Produkto",
+    "directAgent": "direktang ahente",
+    "indirectAgent": "hindi direktang ahente",
+    "diectPlayer": "direktang player"
   },
 
   "JILI_PH": {

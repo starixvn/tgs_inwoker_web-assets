@@ -1828,7 +1828,18 @@
     "playerList": "玩家列表",
     "agentList": "代理列表",
     "winlossReport": "输赢报表",
-    "profitShareReport": "分红报表"
+    "profitShareReport": "分红报表",
+    "P/T": "分红比例",
+    "cumulativenegativeDividendAmount": "累计负分红",
+    "negativeDividend": "负分红",
+    "liable": "承担",
+    "notLiable": "不承担",
+    "platformFee": "平台费用",
+    "productCharges": "产品费用",
+    "directAgent": "直属代理",
+    "indirectAgent": "下线代理",
+    "diectPlayer": "直属玩家",
+    "indirectPlayer": "下线玩家"
   },
 
   "JILI_PH": {
