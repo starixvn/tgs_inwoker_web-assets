@@ -1328,11 +1328,11 @@
       "level5": "Platinum",
       "level6": "Diamond"
     },
-    "bonus":"Bonus",
-    "levelUp":"Mga kinakailangan",
-    "levelUpBonus":"bonus para sa pag taas ng antas",
-    "totalDeposit":"Kabuuang Deposito",
-    "totalVaildBet":"kabuuang bilang ng wastong taya"
+    "bonus": "Bonus",
+    "levelUp": "Mga kinakailangan",
+    "levelUpBonus": "bonus para sa pag taas ng antas",
+    "totalDeposit": "Kabuuang Deposito",
+    "totalVaildBet": "kabuuang bilang ng wastong taya"
   },
   "custom": {
     "addcard": {
@@ -1803,16 +1803,42 @@
   "movn2_addcardsuccess": "Congrats! Naidagdag na ang iyong bank card. Maaari ka na ngayong mag-withdraw gamit ang card na ito. \n Kung nais mong i-edit ang iyong card, mangyaring makipag-ugnayan sa Customer Service.",
   "t29": {
     "wagering": "Turnover",
-    "wageringrequirement":"Kinakailangan na turnover",
-    "main":"Kinakailangan na turnover"
+    "wageringrequirement": "Kinakailangan na turnover",
+    "main": "Kinakailangan na turnover"
   },
-  
+
   "remark": "Pansin",
 
   "sscnapoli": "SSC Napoli",
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
   "officialpartners": "Opisyal na mga Kasosyo",
+
+  "agent": {
+    "agentInfo": "mga detalye ng ahente",
+    "playerList": "listahan ng mga manlalaro",
+    "agentList": "listahan ng mga ahente",
+    "winlossReport": "ulat ng panalo at pagkatalo",
+    "profitShareReport": "ulat ng dividend",
+    "P/T": "P/T",
+    "cumulativenegativeDividendAmount": "pinag sama-samang halaga ng negatibong dibidendo",
+    "negativeDividend": "negatibong dibidendo",
+    "liable": "mananagot",
+    "notLiable": "walang pananagutan",
+    "platformFee": "Bayad sa Platform",
+    "productCharges": "Mga Singil sa Produkto",
+    "directAgent": "direktang ahente",
+    "indirectAgent": "hindi direktang ahente",
+    "diectPlayer": "direktang player",
+    "playerName": "pangalang pagkakakilanlan",
+    "status": "Status",
+    "enabled": "gumagana",
+    "disabled": "hindi pinapagana",
+    "inBlacklist": "naka ban",
+    "vipLevel": "lebel ng vip",
+    "registeredTime": "Registered Time",
+    "latestLogin": "huling oras ng pag log-in"
+  },
 
   "JILI_PH": {
     "addCard": {

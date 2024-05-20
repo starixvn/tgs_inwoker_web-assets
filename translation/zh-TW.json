@@ -1799,7 +1799,34 @@
   "astonvilla": "阿士東維拉",
   "laclipper": "洛杉磯快艇",
   "officialpartners": "官方合作夥伴",
-  
+
+  "agent": {
+    "agentInfo": "代理資訊",
+    "playerList": "玩家列表",
+    "agentList": "代理列表",
+    "winlossReport": "輸贏報表",
+    "profitShareReport": "分紅報表",
+    "P/T": "分紅比例",
+    "cumulativenegativeDividendAmount": "累積負分紅",
+    "negativeDividend": "負分紅",
+    "liable": "承擔",
+    "notLiable": "不承擔",
+    "platformFee": "平台費用",
+    "productCharges": "產品費用",
+    "directAgent": "直屬代理",
+    "indirectAgent": "下線代理",
+    "diectPlayer": "直屬玩家",
+    "indirectPlayer": "下線玩家",
+    "playerName": "玩家用戶名",
+    "status": "狀態",
+    "enabled": "活躍",
+    "disabled": "封鎖",
+    "inBlacklist": "黑名單",
+    "vipLevel": "VIP等級",
+    "registeredTime": "註冊時間",
+    "latestLogin": "最後登入時間"
+  },
+
   "JILI_PH": {
     "addCard": {
       "phoneError": "11 位數字。 銀行號碼必須與註冊號碼一致。"

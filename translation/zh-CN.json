@@ -1822,7 +1822,34 @@
   "astonvilla": "阿士東維拉",
   "laclipper": "洛杉磯快艇",
   "officialpartners": "官方合作夥伴",
-  
+
+  "agent": {
+    "agentInfo": "代理资讯",
+    "playerList": "玩家列表",
+    "agentList": "代理列表",
+    "winlossReport": "输赢报表",
+    "profitShareReport": "分红报表",
+    "P/T": "分红比例",
+    "cumulativenegativeDividendAmount": "累计负分红",
+    "negativeDividend": "负分红",
+    "liable": "承担",
+    "notLiable": "不承担",
+    "platformFee": "平台费用",
+    "productCharges": "产品费用",
+    "directAgent": "直属代理",
+    "indirectAgent": "下线代理",
+    "diectPlayer": "直属玩家",
+    "indirectPlayer": "下线玩家",
+    "playerName": "玩家用户名",
+    "status": "状态",
+    "enabled": "活跃",
+    "disabled": "封锁",
+    "inBlacklist": "黑名单",
+    "vipLevel": "VIP等级",
+    "registeredTime": "注册时间",
+    "latestLogin": "最后登入时间"
+  },
+
   "JILI_PH": {
     "addCard": {
       "phoneError": "11 位数字。 银行号码必须与注册号码一致。"
@@ -1844,7 +1871,7 @@
     "sponsor2": "馬德里體育會",
     "sponsor3": "金州勇士"
   },
-  
+
   "369": {
     "profile": {
       "title": "个人资料",

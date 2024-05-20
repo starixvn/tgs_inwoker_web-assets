@@ -1313,11 +1313,11 @@
       "level5": "แพลตตินั่ม",
       "level6": "เพชร"
     },
-    "bonus":"โบนัส",
-    "levelUp":"เลเวลอัพ",
-    "levelUpBonus":"โบนัสเลเวลอัพ",
-    "totalDeposit":"ยอดฝากทั้งหมด",
-    "totalVaildBet":"ยอดเดิมพันที่ถูกต้องทั้งหมด"
+    "bonus": "โบนัส",
+    "levelUp": "เลเวลอัพ",
+    "levelUpBonus": "โบนัสเลเวลอัพ",
+    "totalDeposit": "ยอดฝากทั้งหมด",
+    "totalVaildBet": "ยอดเดิมพันที่ถูกต้องทั้งหมด"
   },
   "custom": {
     "addcard": {
@@ -1772,16 +1772,43 @@
   "movn2_addcardsuccess": "ขอแสดงความยินดี! บัตรธนาคารของคุณถูกเพิ่มแล้ว ตอนนี้คุณสามารถถอนเงินด้วยบัตรใบนี้ได้ หากคุณต้องการแก้ไขบัตรของคุณ โปรดติดต่อฝ่ายบริการลูกค้า",
   "t29": {
     "wagering": "Wagering",
-    "wageringrequirement":"Wagering Requirement",
-    "main":"Main"
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
   },
-  
+
   "remark": "หมายเหตุ",
 
   "sscnapoli": "SSC Napoli",
   "astonvilla": "Aston Villa",
   "laclipper": "LA Clippers",
   "officialpartners": "คู่ค้าทางการ",
+
+  "agent": {
+    "agentInfo": "Agent Info",
+    "playerList": "Player List",
+    "agentList": "Agent List",
+    "winlossReport": "Winloss Report",
+    "profitShareReport": "Profit Share Report",
+    "P/T": "P/T",
+    "cumulativenegativeDividendAmount": "Cumulative negative dividend amount",
+    "negativeDividend": "Negative Dividend",
+    "liable": "Liable",
+    "notLiable": "Not liable",
+    "platformFee": "Platform Fee",
+    "productCharges": "Product Charges",
+    "directAgent": "Direct Agent",
+    "indirectAgent": "Indirect Agent",
+    "diectPlayer": "Diect Player",
+    "indirectPlayer": "Indirect Player",
+    "playerName": "Player Name",
+    "status": "Status",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "inBlacklist": "In Blacklist",
+    "vipLevel": "VIP Level",
+    "registeredTime": "Registered Time",
+    "latestLogin": "Latest Login"
+  },
 
   "MOVN2": {
     "NET": "Local Bank",
@@ -1791,5 +1818,4 @@
     "VP": "ViettelPay",
     "USDT": "USDT"
   }
-
 }
