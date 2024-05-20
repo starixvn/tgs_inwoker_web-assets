@@ -1832,7 +1832,15 @@
     "directAgent": "Direct Agent",
     "indirectAgent": "Indirect Agent",
     "diectPlayer": "Diect Player",
-    "indirectPlayer": "Indirect Player"
+    "indirectPlayer": "Indirect Player",
+    "playerName": "Player Name",
+    "status": "Status",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "inBlacklist": "In Blacklist",
+    "vipLevel": "VIP Level",
+    "registeredTime": "Registered Time",
+    "latestLogin": "Latest Login"
   },
 
   "JILI_PH": {

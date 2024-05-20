@@ -1829,7 +1829,15 @@
     "productCharges": "Mga Singil sa Produkto",
     "directAgent": "direktang ahente",
     "indirectAgent": "hindi direktang ahente",
-    "diectPlayer": "direktang player"
+    "diectPlayer": "direktang player",
+    "playerName": "pangalang pagkakakilanlan",
+    "status": "Status",
+    "enabled": "gumagana",
+    "disabled": "hindi pinapagana",
+    "inBlacklist": "naka ban",
+    "vipLevel": "lebel ng vip",
+    "registeredTime": "Registered Time",
+    "latestLogin": "huling oras ng pag log-in"
   },
 
   "JILI_PH": {

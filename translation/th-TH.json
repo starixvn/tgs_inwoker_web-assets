@@ -1313,11 +1313,11 @@
       "level5": "แพลตตินั่ม",
       "level6": "เพชร"
     },
-    "bonus":"โบนัส",
-    "levelUp":"เลเวลอัพ",
-    "levelUpBonus":"โบนัสเลเวลอัพ",
-    "totalDeposit":"ยอดฝากทั้งหมด",
-    "totalVaildBet":"ยอดเดิมพันที่ถูกต้องทั้งหมด"
+    "bonus": "โบนัส",
+    "levelUp": "เลเวลอัพ",
+    "levelUpBonus": "โบนัสเลเวลอัพ",
+    "totalDeposit": "ยอดฝากทั้งหมด",
+    "totalVaildBet": "ยอดเดิมพันที่ถูกต้องทั้งหมด"
   },
   "custom": {
     "addcard": {
@@ -1772,10 +1772,10 @@
   "movn2_addcardsuccess": "ขอแสดงความยินดี! บัตรธนาคารของคุณถูกเพิ่มแล้ว ตอนนี้คุณสามารถถอนเงินด้วยบัตรใบนี้ได้ หากคุณต้องการแก้ไขบัตรของคุณ โปรดติดต่อฝ่ายบริการลูกค้า",
   "t29": {
     "wagering": "Wagering",
-    "wageringrequirement":"Wagering Requirement",
-    "main":"Main"
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
   },
-  
+
   "remark": "หมายเหตุ",
 
   "sscnapoli": "SSC Napoli",
@@ -1799,7 +1799,15 @@
     "directAgent": "Direct Agent",
     "indirectAgent": "Indirect Agent",
     "diectPlayer": "Diect Player",
-    "indirectPlayer": "Indirect Player"
+    "indirectPlayer": "Indirect Player",
+    "playerName": "Player Name",
+    "status": "Status",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "inBlacklist": "In Blacklist",
+    "vipLevel": "VIP Level",
+    "registeredTime": "Registered Time",
+    "latestLogin": "Latest Login"
   },
 
   "MOVN2": {
@@ -1810,5 +1818,4 @@
     "VP": "ViettelPay",
     "USDT": "USDT"
   }
-
 }

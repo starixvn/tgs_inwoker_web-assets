@@ -1816,7 +1816,15 @@
     "directAgent": "直屬代理",
     "indirectAgent": "下線代理",
     "diectPlayer": "直屬玩家",
-    "indirectPlayer": "下線玩家"
+    "indirectPlayer": "下線玩家",
+    "playerName": "玩家用戶名",
+    "status": "狀態",
+    "enabled": "活躍",
+    "disabled": "封鎖",
+    "inBlacklist": "黑名單",
+    "vipLevel": "VIP等級",
+    "registeredTime": "註冊時間",
+    "latestLogin": "最後登入時間"
   },
 
   "JILI_PH": {
