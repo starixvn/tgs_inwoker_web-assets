@@ -1842,7 +1842,15 @@
     "inBlacklist": "In Blacklist",
     "vipLevel": "VIP Level",
     "registeredTime": "Registered Time",
-    "latestLogin": "Latest Login"
+    "latestLogin": "Latest Login",
+    "formula": {
+      "noOfTickets": "No. of Tickets: The total settled order number from down line sub agent teams.",
+      "turnover": "Turnover: The total valid bet amount from down line sub agent teams.",
+      "playerWinloss": "Player Winloss: The total winloss amount from down line sub agent teams. (Positive amount: player win, Negative amount: player loss)",
+      "bonusAmount": "Bonus Amount = VIP Bonus + VIP Rebate + Promotion Bonus Amount.",
+      "agentWinloss": "Agent Winloss: (0 - Player Winloss) * P/T.",
+      "agentSpecial": "Agent Special: (0- Player Special) * P/T."
+    }
   },
 
   "MOVN2": {

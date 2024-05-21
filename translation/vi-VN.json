@@ -1779,7 +1779,6 @@
     "agentList": "Danh sách đại lí",
     "winlossReport": "Báo cáo thắng thua",
     "profitShareReport": "Báo cáo tiền lãi",
-    "P/T": "P/T",
     "cumulativenegativeDividendAmount": "số hoa hồng âm tích lũy",
     "negativeDividend": "hoa hồng âm",
     "liable": "đảm nhận",
@@ -1797,7 +1796,15 @@
     "inBlacklist": "Danh sách đen",
     "vipLevel": "Cấp độ VIP",
     "registeredTime": "Registered Time",
-    "latestLogin": "Lần cuối đăng nhập"
+    "latestLogin": "Lần cuối đăng nhập",
+    "formula": {
+      "noOfTickets": "Số đơn : Tổng số lệnh giải quyết của đại lí hoặc người chơi trực tiếp",
+      "turnover": "Số tiền đặt cược : Số tiền đặt cược của người chơi hoặc đại lí",
+      "playerWinloss": "Thắng thua : tống số tiền thắng thua của đại lí hoặc người chơi ( người chơi thắng số dương , người chơi thua số âm )",
+      "bonusAmount": "Tiền lãi = hoạt động khuyến mãi + Phúc lợi VIP + Hoàn trả VIP",
+      "agentWinloss": "Đại lí thắng thua :( 0 - người chơi thắng thua ) * phần %",
+      "agentSpecial": "Đại lí đặc biệt :( 0- Đặc biệt người chơi ) * % đại lí"
+    }
   },
 
   "MOVN2": {

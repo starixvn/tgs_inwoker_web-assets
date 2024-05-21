@@ -1847,7 +1847,15 @@
     "inBlacklist": "黑名单",
     "vipLevel": "VIP等级",
     "registeredTime": "注册时间",
-    "latestLogin": "最后登入时间"
+    "latestLogin": "最后登入时间",
+    "formula": {
+      "noOfTickets": "订单数: 该代理团队或直属玩家已結算的总订单数。",
+      "turnover": "有效投注: 该代理团队或直属玩家的总有效投注额。",
+      "playerWinloss": "玩家输赢: 下级代理团队或直属玩家的总输赢金额。 (玩家赢: 显示正数；玩家输: 显示负数)。",
+      "bonusAmount": "红利金额: VIP福利 + VIP返水 + 活动的优惠金额。",
+      "agentWinloss": "代理输赢: (0 - 玩家输赢金额) * 代理占成。",
+      "agentSpecial": "代理特别: (0 - 玩家特别) * 代理占成。"
+    }
   },
 
   "JILI_PH": {
