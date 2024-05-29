@@ -1834,6 +1834,8 @@
     "diectPlayer": "Diect Player",
     "indirectPlayer": "Indirect Player",
     "referralCode": "Referral Code",
+    "totalDeposit": "Total Deposit",
+    "totalWithdraw": "Total Withdraw",
     "status": "Status",
     "enabled": "Enabled",
     "disabled": "Disabled",

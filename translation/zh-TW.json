@@ -1818,6 +1818,8 @@
     "diectPlayer": "直屬玩家",
     "indirectPlayer": "下線玩家",
     "referralCode": "推薦碼",
+    "totalDeposit": "總存款金額",
+    "totalWithdraw": "總提款金額",
     "playerName": "玩家用戶名",
     "status": "狀態",
     "enabled": "活躍",

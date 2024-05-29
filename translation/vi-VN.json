@@ -1791,6 +1791,8 @@
     "diectPlayer": "Người chơi trực tiếp",
     "indirectPlayer": "Người chơi tuyến dưới",
     "referralCode": "Mã giới thiệu",
+    "totalDeposit": "Tổng tiền gửi",
+    "totalWithdraw": "Tổng tiền rút",
     "playerName": "dùng tài khoản",
     "status": "Status",
     "enabled": "Hoạt động",

@@ -1832,6 +1832,8 @@
     "diectPlayer": "direktang player",
     "indirectPlayer": "hindi direktang player",
     "referralCode": "refferal code",
+    "totalDeposit": "kabuuang halaga ng deniposito",
+    "totalWithdraw": "kabuuang halaga ng winithdraw",
     "playerName": "pangalang pagkakakilanlan",
     "status": "Status",
     "enabled": "gumagana",
