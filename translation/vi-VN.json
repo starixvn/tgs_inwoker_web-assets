@@ -1799,6 +1799,7 @@
     "vipLevel": "Cấp độ VIP",
     "registeredTime": "Registered Time",
     "latestLogin": "Lần cuối đăng nhập",
+    "teamSize": "Kích thước nhóm",
     "formula": {
       "noOfTickets": "Số đơn : Tổng số lệnh giải quyết của đại lí hoặc người chơi trực tiếp",
       "turnover": "Số tiền đặt cược : Số tiền đặt cược của người chơi hoặc đại lí",

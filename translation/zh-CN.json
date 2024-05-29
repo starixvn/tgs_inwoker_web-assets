@@ -1849,6 +1849,7 @@
     "vipLevel": "VIP等级",
     "registeredTime": "注册时间",
     "latestLogin": "最后登入时间",
+    "teamSize": "团队人数",
     "formula": {
       "noOfTickets": "订单数: 该代理团队或直属玩家已結算的总订单数。",
       "turnover": "有效投注: 该代理团队或直属玩家的总有效投注额。",

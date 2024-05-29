@@ -1840,6 +1840,7 @@
     "vipLevel": "lebel ng vip",
     "registeredTime": "Registered Time",
     "latestLogin": "huling oras ng pag log-in",
+    "teamSize": "Team Size",
     "formula": {
       "noOfTickets": "Bilang ng mga order: kabuuhang bilang ng mga order na naresolba ng dealer o ng direktang manlalaro",
       "turnover": "Halaga ng taya: Ang halaga ng taya ng manlalaro o dealer",

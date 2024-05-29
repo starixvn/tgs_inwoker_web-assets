@@ -1841,6 +1841,7 @@
     "vipLevel": "VIP Level",
     "registeredTime": "Registered Time",
     "latestLogin": "Latest Login",
+    "teamSize": "Team Size",
     "formula": {
       "noOfTickets": "No. of Tickets: The total settled order number from down line sub agent teams.",
       "turnover": "Turnover: The total valid bet amount from down line sub agent teams.",
