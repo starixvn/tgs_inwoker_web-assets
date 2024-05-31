@@ -88,7 +88,7 @@
     "msgInvalidPhoneCode": "Mã xác minh không hợp lệ",
     "msgInvalidConfirmPass": "Mật khẩu xác nhận không hợp lệ",
     "msgInvalidOldPass": "Mật khẩu cũ không hợp lệ",
-    "msgRegisterUserNameInvalid": "Độ dài tài khoản phải từ 6 đến 16 chữ số và phải bao gồm số, chữ cái hoặc kết hợp",
+    "msgRegisterUserNameInvalid": "Độ dài tài khoản phải từ 6 đến 16 ký tự và phải bao gồm số, chữ cái thường hoặc kết hợp cả hai.",
     "msgRegisterPassInvalid": "Độ dài mật khẩu phải từ 6 đến 20 chữ số",
     "msgRegisterPassMatchInvalid": "Mật khẩu phải giống với mật khẩu đã xác nhận",
     "msgRegisterTermAndCondition": "Vui lòng xác nhận rằng bạn đã đọc các điều khoản và điều kiện của chúng tôi",
