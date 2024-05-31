@@ -1859,7 +1859,19 @@
       "bonusAmount": "红利金额: VIP福利 + VIP返水 + 活动的优惠金额。",
       "agentWinloss": "代理输赢: (0 - 玩家输赢金额) * 代理占成。",
       "agentSpecial": "代理特别: (0 - 玩家特别) * 代理占成。"
-    }
+    },
+    "memberType": "Type",
+    "totalOrders": "Total Orders",
+    "validBet": "Valid Bet",
+    "winLoss": "Win/Loss",
+    "special": "Special",
+    "pL": "P/L",
+    "agentSpecial": "Agent Special",
+    "agentPL": "Agent P/L",
+    "agentWinLoss": "Agent Win/Loss",
+    "bonus": "Bonus",
+    "adjust": "Adjust",
+    "total": "Total"
   },
 
   "JILI_PH": {

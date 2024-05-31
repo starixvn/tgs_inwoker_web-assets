@@ -1809,7 +1809,19 @@
       "bonusAmount": "Tiền lãi = hoạt động khuyến mãi + Phúc lợi VIP + Hoàn trả VIP",
       "agentWinloss": "Đại lí thắng thua :( 0 - người chơi thắng thua ) * phần %",
       "agentSpecial": "Đại lí đặc biệt :( 0- Đặc biệt người chơi ) * % đại lí"
-    }
+    },
+    "memberType": "Kiểu",
+    "totalOrders": "Tổng số đơn đặt hàng",
+    "validBet": "Cược hợp lệ",
+    "winLoss": "Thắng thua",
+    "special": "Đặc biệt",
+    "pL": "Lợi nhuận",
+    "agentSpecial": "Đại lí đặc biệt",
+    "agentPL": "Lợi nhuận đại lý",
+    "agentWinLoss": "Đại lí thắng thua",
+    "bonus": "Thưởng",
+    "adjust": "Điều chỉnh",
+    "total": "Tổng cộng"
   },
 
   "MOVN2": {

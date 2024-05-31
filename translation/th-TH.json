@@ -1819,7 +1819,19 @@
       "bonusAmount": "Bonus Amount = VIP Bonus + VIP Rebate + Promotion Bonus Amount.",
       "agentWinloss": "Agent Winloss: (0 - Player Winloss) * P/T.",
       "agentSpecial": "Agent Special: (0- Player Special) * P/T."
-    }
+    },
+    "memberType": "Type",
+    "totalOrders": "Total Orders",
+    "validBet": "Valid Bet",
+    "winLoss": "Win/Loss",
+    "special": "Special",
+    "pL": "P/L",
+    "agentSpecial": "Agent Special",
+    "agentPL": "Agent P/L",
+    "agentWinLoss": "Agent Win/Loss",
+    "bonus": "Bonus",
+    "adjust": "Adjust",
+    "total": "Total"
   },
 
   "MOVN2": {
