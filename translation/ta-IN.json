@@ -1338,11 +1338,11 @@
       "level5": "வன்பொன்",
       "level6": "வைரம்"
     },
-    "bonus":"போனஸ்",
-    "levelUp":"மட்டமே மேம்படுத்து",
-    "levelUpBonus":"மட்டமே மேம்படுத்து போனஸ்",
-    "totalDeposit":"மொத்த வரிசை",
-    "totalVaildBet":"மொத்த செல்லுபடியான பந்தயம்"
+    "bonus": "போனஸ்",
+    "levelUp": "மட்டமே மேம்படுத்து",
+    "levelUpBonus": "மட்டமே மேம்படுத்து போனஸ்",
+    "totalDeposit": "மொத்த வரிசை",
+    "totalVaildBet": "மொத்த செல்லுபடியான பந்தயம்"
   },
   "custom": {
     "addcard": {
@@ -1807,16 +1807,55 @@
   "movn2_addcardsuccess": "வாழ்த்துகள்! உங்கள் வங்கி அட்டை சேர்க்கப்பட்டது. இப்போது இந்த அட்டை மூலம் பணத்தைப் பெறலாம். உங்கள் கார்டைத் திருத்த விரும்பினால், வாடிக்கையாளர் சேவையைத் தொடர்பு கொள்ளவும்.",
   "t29": {
     "wagering": "Wagering",
-    "wageringrequirement":"Wagering Requirement",
-    "main":"Main"
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
   },
-  
+
   "remark": "குறிப்பு",
 
   "sscnapoli": "SSC Napoli",
-    "astonvilla": "Aston Villa",
-    "laclipper": "LA Clippers",
-    "officialpartners":   "அதிகாரப்பூர்வ சகோதரர்கள்",
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "அதிகாரப்பூர்வ சகோதரர்கள்",
+
+  "agent": {
+    "agentInfo": "Agent Info",
+    "playerList": "Player List",
+    "agentList": "Agent List",
+    "winlossReport": "Winloss Report",
+    "profitShareReport": "Profit Share Report",
+    "profitShareP/T": "Profit Share P/T",
+    "cumulativenegativeDividendAmount": "Cumulative negative dividend amount",
+    "negativeDividend": "Negative Dividend",
+    "liable": "Liable",
+    "notLiable": "Not liable",
+    "platformFee": "Platform Fee",
+    "productCharges": "Product Charges",
+    "directAgent": "Direct Agent",
+    "indirectAgent": "Indirect Agent",
+    "diectPlayer": "Diect Player",
+    "indirectPlayer": "Indirect Player",
+    "referralCode": "Referral Code",
+    "totalDeposit": "Total Deposit",
+    "totalWithdraw": "Total Withdraw",
+    "playerName": "Player Name",
+    "status": "Status",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "inBlacklist": "In Blacklist",
+    "vipLevel": "VIP Level",
+    "registeredTime": "Registered Time",
+    "latestLogin": "Latest Login",
+    "teamSize": "Team Size",
+    "formula": {
+      "noOfTickets": "No. of Tickets: The total settled order number from down line sub agent teams.",
+      "turnover": "Turnover: The total valid bet amount from down line sub agent teams.",
+      "playerWinloss": "Player Winloss: The total winloss amount from down line sub agent teams. (Positive amount: player win, Negative amount: player loss)",
+      "bonusAmount": "Bonus Amount = VIP Bonus + VIP Rebate + Promotion Bonus Amount.",
+      "agentWinloss": "Agent Winloss: (0 - Player Winloss) * P/T.",
+      "agentSpecial": "Agent Special: (0- Player Special) * P/T."
+    }
+  },
 
   "MOVN2": {
     "NET": "Local Bank",

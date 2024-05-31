@@ -1799,7 +1799,46 @@
   "astonvilla": "阿士東維拉",
   "laclipper": "洛杉磯快艇",
   "officialpartners": "官方合作夥伴",
-  
+
+  "agent": {
+    "agentInfo": "代理資訊",
+    "playerList": "玩家列表",
+    "agentList": "代理列表",
+    "winlossReport": "輸贏報表",
+    "profitShareReport": "分紅報表",
+    "profitShareP/T": "分紅比例",
+    "cumulativenegativeDividendAmount": "累積負分紅",
+    "negativeDividend": "負分紅",
+    "liable": "承擔",
+    "notLiable": "不承擔",
+    "platformFee": "平台費用",
+    "productCharges": "產品費用",
+    "directAgent": "直屬代理",
+    "indirectAgent": "下線代理",
+    "diectPlayer": "直屬玩家",
+    "indirectPlayer": "下線玩家",
+    "referralCode": "推薦碼",
+    "totalDeposit": "總存款金額",
+    "totalWithdraw": "總提款金額",
+    "playerName": "玩家用戶名",
+    "status": "狀態",
+    "enabled": "活躍",
+    "disabled": "封鎖",
+    "inBlacklist": "黑名單",
+    "vipLevel": "VIP等級",
+    "registeredTime": "註冊時間",
+    "latestLogin": "最後登入時間",
+    "teamSize": "團隊人數",
+    "formula": {
+      "noOfTickets": "訂單數: 該代理商團隊或直屬玩家已結算的總訂單數。",
+      "turnover": "有效投注: 該代理團隊或直屬玩家的總有效投注額。",
+      "playerWinloss": "玩家輸贏: 下級代理團隊或直屬玩家的總輸贏金額。 (玩家贏: 顯示正數；玩家輸: 顯示負數)。",
+      "bonusAmount": "紅利金額: VIP福利 + VIP返水 + 活動的優惠金額。",
+      "agentWinloss": "代理輸贏: (0 - 玩家輸贏金額) * 代理佔成。",
+      "agentSpecial": "代理特別: (0 - 玩家特別) * 代理佔成。"
+    }
+  },
+
   "JILI_PH": {
     "addCard": {
       "phoneError": "11 位數字。 銀行號碼必須與註冊號碼一致。"
@@ -1813,5 +1852,21 @@
     "MOMO": "MOMO",
     "VP": "ViettelPay",
     "USDT": "USDT"
+  },
+
+  "V227": {
+    "sponsor": "赞助",
+    "sponsor1": "鹿島鹿角",
+    "sponsor2": "馬德里體育會",
+    "sponsor3": "金州勇士"
+  },
+
+  "369": {
+    "profile": {
+      "title": "個人資料",
+      "emailAddress": "郵件地址",
+      "notYetSet": "未設定",
+      "notYetVerified": "未認證"
+    }
   }
 }

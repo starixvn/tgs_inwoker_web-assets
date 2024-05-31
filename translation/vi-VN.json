@@ -182,7 +182,7 @@
     "egame": "Game bài 3D",
     "livedealer": "Trò chơi trực tiếp",
     "qq": "Tài khoản QQ",
-    "donotshowagain":"Không hiển thị nữa"
+    "donotshowagain": "Không hiển thị nữa"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -1310,11 +1310,11 @@
       "level5": "Bạch kim",
       "level6": "Kim cương"
     },
-    "bonus":"Tiền thưởng",
-    "levelUp":"Điều kiện nhận thưởng",
-    "levelUpBonus":"Tiền thưởng nâng cấp",
-    "totalDeposit":"số tiền nạp tích lũy",
-    "totalVaildBet":"số tiền đặt cược tích lũy"
+    "bonus": "Tiền thưởng",
+    "levelUp": "Điều kiện nhận thưởng",
+    "levelUpBonus": "Tiền thưởng nâng cấp",
+    "totalDeposit": "số tiền nạp tích lũy",
+    "totalVaildBet": "số tiền đặt cược tích lũy"
   },
   "custom": {
     "addcard": {
@@ -1763,22 +1763,70 @@
   "t29": {
     "wagering": "Yêu cầu tiền cược",
     "wageringrequirement": "Lịch sử cược",
-    "main":"Doanh thu cược"
+    "main": "Doanh thu cược"
   },
 
   "remark": "Ghi chú",
 
   "sscnapoli": "SSC Napoli",
-      "astonvilla": "Aston Villa",
-      "laclipper": "LA Clippers",
-      "officialpartners": "Đối tác chính thức",
+  "astonvilla": "Aston Villa",
+  "laclipper": "LA Clippers",
+  "officialpartners": "Đối tác chính thức",
 
-      "MOVN2": {
-        "NET": "Ngân hàng nội địa",
-        "DR": "Ngân hàng trực tuyến",
-        "QR": "QRcode",
-        "MOMO": "MOMO",
-        "VP": "ViettelPay",
-        "USDT": "USDT"
-      }
+  "agent": {
+    "agentInfo": "Thông tin đại lí",
+    "playerList": "Danh sách người chơi",
+    "agentList": "Danh sách đại lí",
+    "winlossReport": "Báo cáo thắng thua",
+    "profitShareReport": "Báo cáo tiền lãi",
+    "profitShareP/T": "Phần trăm chia sẻ lợi nhuận",
+    "cumulativenegativeDividendAmount": "số hoa hồng âm tích lũy",
+    "negativeDividend": "hoa hồng âm",
+    "liable": "đảm nhận",
+    "notLiable": "không đảm nhận",
+    "platformFee": "Phí nền tảng",
+    "productCharges": "Phí nền tảng",
+    "directAgent": "Đại lí trực tiếp",
+    "indirectAgent": "Đại lý tuyến dưới",
+    "diectPlayer": "Người chơi trực tiếp",
+    "indirectPlayer": "Người chơi tuyến dưới",
+    "referralCode": "Mã giới thiệu",
+    "totalDeposit": "Tổng tiền gửi",
+    "totalWithdraw": "Tổng tiền rút",
+    "playerName": "dùng tài khoản",
+    "status": "Status",
+    "enabled": "Hoạt động",
+    "disabled": "Đóng băng",
+    "inBlacklist": "Danh sách đen",
+    "vipLevel": "Cấp độ VIP",
+    "registeredTime": "Registered Time",
+    "latestLogin": "Lần cuối đăng nhập",
+    "teamSize": "Kích thước nhóm",
+    "formula": {
+      "noOfTickets": "Số đơn : Tổng số lệnh giải quyết của đại lí hoặc người chơi trực tiếp",
+      "turnover": "Số tiền đặt cược : Số tiền đặt cược của người chơi hoặc đại lí",
+      "playerWinloss": "Thắng thua : tống số tiền thắng thua của đại lí hoặc người chơi ( người chơi thắng số dương , người chơi thua số âm )",
+      "bonusAmount": "Tiền lãi = hoạt động khuyến mãi + Phúc lợi VIP + Hoàn trả VIP",
+      "agentWinloss": "Đại lí thắng thua :( 0 - người chơi thắng thua ) * phần %",
+      "agentSpecial": "Đại lí đặc biệt :( 0- Đặc biệt người chơi ) * % đại lí"
+    }
+  },
+
+  "MOVN2": {
+    "NET": "Ngân hàng nội địa",
+    "DR": "Ngân hàng trực tuyến",
+    "QR": "QRcode",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
+  },
+
+  "369": {
+    "profile": {
+      "title": "Thông tin cá nhân",
+      "emailAddress": "địa chỉ email",
+      "notYetSet": "Chưa đặt",
+      "notYetVerified": "Chưa được chứng nhận"
+    }
+  }
 }
