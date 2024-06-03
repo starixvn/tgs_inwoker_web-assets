@@ -1848,7 +1848,8 @@
     "agentWinLoss": "Agent Win/Loss",
     "bonus": "Bonus",
     "adjust": "Adjust",
-    "total": "Total"
+    "total": "Total",
+    "playerSpecial": "Player Special"
   },
 
   "JILI_PH": {

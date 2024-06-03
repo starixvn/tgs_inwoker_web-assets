@@ -1860,18 +1860,19 @@
       "agentWinloss": "代理输赢: (0 - 玩家输赢金额) * 代理占成。",
       "agentSpecial": "代理特别: (0 - 玩家特别) * 代理占成。"
     },
-    "memberType": "Type",
-    "totalOrders": "Total Orders",
-    "validBet": "Valid Bet",
-    "winLoss": "Win/Loss",
-    "special": "Special",
-    "pL": "P/L",
-    "agentSpecial": "Agent Special",
-    "agentPL": "Agent P/L",
-    "agentWinLoss": "Agent Win/Loss",
-    "bonus": "Bonus",
-    "adjust": "Adjust",
-    "total": "Total"
+    "memberType": "类型",
+    "totalOrders": "订单数",
+    "validBet": "有效投注",
+    "winLoss": "输赢",
+    "special": "特别",
+    "pL": "盈亏",
+    "agentSpecial": "代理特别",
+    "agentPL": "代理盈亏",
+    "agentWinLoss": "代理输赢",
+    "bonus": "红利",
+    "adjust": "调帐",
+    "total": "总计",
+    "playerSpecial": "玩家特別"
   },
 
   "JILI_PH": {
