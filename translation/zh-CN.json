@@ -1858,7 +1858,8 @@
       "playerWinloss": "玩家输赢: 下级代理团队或直属玩家的总输赢金额。 (玩家赢: 显示正数；玩家输: 显示负数)。",
       "bonusAmount": "红利金额: VIP福利 + VIP返水 + 活动的优惠金额。",
       "agentWinloss": "代理输赢: (0 - 玩家输赢金额) * 代理占成。",
-      "agentSpecial": "代理特别: (0 - 玩家特别) * 代理占成。"
+      "agentSpecial": "代理特别: (0 - 玩家特别) * 代理占成。",
+      "teamContribution": "团队贡献=直属代理净盈利*(分红比例-直属代理分红比例)"
     },
     "memberType": "类型",
     "totalOrders": "订单数",
@@ -1872,7 +1873,30 @@
     "bonus": "红利",
     "adjust": "调帐",
     "total": "总计",
-    "playerSpecial": "玩家特別"
+    "playerSpecial": "玩家特別",
+    "settlementPeriod": "结算周期",
+    "daily": "每日",
+    "weekly": "每周",
+    "biWeekly": "双周",
+    "monthly": "每月",
+    "previousPeriod": "上期",
+    "currentPeriod": "本期",
+    "startEndDate": "周期日期",
+    "distributed": "已派发",
+    "review": "待审核",
+    "reject": "拒绝",
+    "agentCoveredBonus": "代理承担红利",
+    "agentCoveredBonusAdjust": "代理承担优惠调帐",
+    "periodPL": "周期盈亏",
+    "companyWinLoss": "公司输赢",
+    "netProfit": "净盈利",
+    "bonusAdjust": "优惠调帐",
+    "playerContribution": "直属玩家贡献",
+    "profitSharePT": "分红比例",
+    "profitShareAmount": "分红金额",
+    "Team Contribution": "团队贡献",
+    "cumulativeNegativeDividendAmount": "累计负分红",
+    "agentAdjust": "代理调帐"
   },
 
   "JILI_PH": {

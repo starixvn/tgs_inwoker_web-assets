@@ -1849,7 +1849,8 @@
       "playerWinloss": "ang mga manlalaro ay nanalo at natatalo, ang kabuuang halaga ng panalo at pagkatalo ng subordinate agent team o direktang manlalaro. ( manlalaro ang mananalo- magpakita ng positibong numero)(player na natalo- magpakita ng negatibong numero)",
       "bonusAmount": "kita = mga aktibidad ng promosyon + mga benepisyo ng VIP + mga refund ng VIP",
       "agentWinloss": "Ang panalo o Pagkatalo ng ahente:  ( 0 - halaga ng pagkatalo o panalo ng manlalaro) * bahagi ng ahente.",
-      "agentSpecial": "Espesyal na Ahente : (0- espesyal na manlalaro)* bahagi ng ahente."
+      "agentSpecial": "Espesyal na Ahente : (0- espesyal na manlalaro)* bahagi ng ahente.",
+      "teamContribution": "Team Contribution= Direct agent's Net Profit * (P/T - Direct agent P/T)"
     },
     "memberType": "Type",
     "totalOrders": "Total Orders",
@@ -1863,7 +1864,30 @@
     "bonus": "Bonus",
     "adjust": "Adjust",
     "total": "Total",
-    "playerSpecial": "Player Special"
+    "playerSpecial": "Player Special",
+    "settlementPeriod": "Settlement Period",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "biWeekly": "Bi-Weekly",
+    "monthly": "Monthly",
+    "previousPeriod": "Previous Period",
+    "currentPeriod": "Current Period",
+    "startEndDate": "Start & End Date",
+    "distributed": "Distributed",
+    "review": "Review",
+    "reject": "Reject",
+    "agentCoveredBonus": "Agent-Covered Bonus",
+    "agentCoveredBonusAdjust": "Agent-Covered Bonus Adjust",
+    "periodPL": "Period P/L",
+    "companyWinLoss": "Co. W/L",
+    "netProfit": "Net Profit",
+    "bonusAdjust": "Bonus Adjust",
+    "playerContribution": "Player Contribution",
+    "profitSharePT": "Profit Share P/T",
+    "profitShareAmount": "Profit Share Amount",
+    "Team Contribution": "Team Contribution",
+    "cumulativeNegativeDividendAmount": "Cumulative negative dividend amount",
+    "agentAdjust": "Agent Adjust"
   },
 
   "JILI_PH": {

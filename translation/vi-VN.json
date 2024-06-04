@@ -1808,7 +1808,8 @@
       "playerWinloss": "Thắng thua : tống số tiền thắng thua của đại lí hoặc người chơi ( người chơi thắng số dương , người chơi thua số âm )",
       "bonusAmount": "Tiền lãi = hoạt động khuyến mãi + Phúc lợi VIP + Hoàn trả VIP",
       "agentWinloss": "Đại lí thắng thua :( 0 - người chơi thắng thua ) * phần %",
-      "agentSpecial": "Đại lí đặc biệt :( 0- Đặc biệt người chơi ) * % đại lí"
+      "agentSpecial": "Đại lí đặc biệt :( 0- Đặc biệt người chơi ) * % đại lí",
+      "teamContribution": "Đóng góp của nhóm= Lợi nhuận ròng của đại lý trực tiếp * (Tỷ lệ chia sẻ lợi nhuận - Tỷ lệ chia sẻ lợi nhuận của đại lý trực tiếp)"
     },
     "memberType": "Kiểu",
     "totalOrders": "Tổng số đơn đặt hàng",
@@ -1822,7 +1823,30 @@
     "bonus": "Thưởng",
     "adjust": "Điều chỉnh",
     "total": "Tổng cộng",
-    "playerSpecial": "Người chơi đặc biệt"
+    "playerSpecial": "Người chơi đặc biệt",
+    "settlementPeriod": "Thời kỳ thanh toán",
+    "daily": "Hằng ngày",
+    "weekly": "Hàng tuần",
+    "biWeekly": "2 tuần 1 lần",
+    "monthly": "Hàng tháng",
+    "previousPeriod": "Kỳ trước",
+    "currentPeriod": "Giai đoạn này",
+    "startEndDate": "Ngày bắt đầu và kết thúc",
+    "distributed": "đã phân phát ",
+    "review": "đang xem duyệt",
+    "reject": "từ chối",
+    "agentCoveredBonus": "Tiền thưởng do đại lý bảo hiểm",
+    "agentCoveredBonusAdjust": "Điều chỉnh tiền thưởng được bảo hiểm bởi đại lý",
+    "periodPL": "Lợi nhuận trong kỳ",
+    "companyWinLoss": "Công ty Thắng thua",
+    "netProfit": "Lợi nhuận ròng",
+    "bonusAdjust": "Thưởng Điều chỉnh",
+    "playerContribution": "Đóng góp của người chơi",
+    "profitSharePT": "Phần trăm chia sẻ lợi nhuận",
+    "profitShareAmount": "Chia sẻ lợi nhuận",
+    "Team Contribution": "Đóng góp của nhóm",
+    "cumulativeNegativeDividendAmount": "số hoa hồng âm tích lũy",
+    "agentAdjust": "Điều chỉnh đại lý"
   },
 
   "MOVN2": {

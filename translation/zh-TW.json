@@ -1835,7 +1835,8 @@
       "playerWinloss": "玩家輸贏: 下級代理團隊或直屬玩家的總輸贏金額。 (玩家贏: 顯示正數；玩家輸: 顯示負數)。",
       "bonusAmount": "紅利金額: VIP福利 + VIP返水 + 活動的優惠金額。",
       "agentWinloss": "代理輸贏: (0 - 玩家輸贏金額) * 代理佔成。",
-      "agentSpecial": "代理特別: (0 - 玩家特別) * 代理佔成。"
+      "agentSpecial": "代理特別: (0 - 玩家特別) * 代理佔成。",
+      "teamContribution": "Team Contribution= Direct agent's Net Profit * (P/T - Direct agent P/T)"
     },
     "memberType": "Type",
     "totalOrders": "Total Orders",
@@ -1849,7 +1850,30 @@
     "bonus": "Bonus",
     "adjust": "Adjust",
     "total": "Total",
-    "playerSpecial": "Player Special"
+    "playerSpecial": "Player Special",
+    "settlementPeriod": "Settlement Period",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "biWeekly": "Bi-Weekly",
+    "monthly": "Monthly",
+    "previousPeriod": "Previous Period",
+    "currentPeriod": "Current Period",
+    "startEndDate": "Start & End Date",
+    "distributed": "Distributed",
+    "review": "Review",
+    "reject": "Reject",
+    "agentCoveredBonus": "Agent-Covered Bonus",
+    "agentCoveredBonusAdjust": "Agent-Covered Bonus Adjust",
+    "periodPL": "Period P/L",
+    "companyWinLoss": "Co. W/L",
+    "netProfit": "Net Profit",
+    "bonusAdjust": "Bonus Adjust",
+    "playerContribution": "Player Contribution",
+    "profitSharePT": "Profit Share P/T",
+    "profitShareAmount": "Profit Share Amount",
+    "Team Contribution": "Team Contribution",
+    "cumulativeNegativeDividendAmount": "Cumulative negative dividend amount",
+    "agentAdjust": "Agent Adjust"
   },
 
   "JILI_PH": {
