@@ -175,7 +175,9 @@
     "virtualsports": "กีฬาเสมือน",
     "egame": "เกมออนไลน์",
     "livedealer": "คาสิโนสด",
-    "qq": "บัญชี QQ"
+    "qq": "บัญชี QQ",
+    "donotshowagain": "Don't show again",
+    "hello": "Hello"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
@@ -657,7 +659,9 @@
     "recommendGame": "แนะนำเกม",
     "fullscreen": "เต็มจอ",
     "search": "ค้นหาคำสำคัญ",
-    "all": "ทั้งหมด"
+    "all": "ทั้งหมด",
+    "new": "New",
+    "hot": "Hot"
   },
   "transfer": {
     "autoTransfer": "ออโต้เพย์",

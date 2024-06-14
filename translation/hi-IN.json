@@ -175,7 +175,9 @@
     "virtualsports": "आभासी खेल",
     "egame": "ईगेम",
     "livedealer": "लाइव डीलर",
-    "qq": "QQ खाता"
+    "qq": "QQ खाता",
+    "donotshowagain": "不再顯示",
+    "hello": "Hello"
   },
   "affiliate": {
     "title": "संबद्ध",
@@ -657,7 +659,9 @@
     "recommendGame": "अनुशंसा करना",
     "fullscreen": "पूर्ण स्क्रीन",
     "search": "मुख्य शब्द ढूंडो",
-    "all": "सभी"
+    "all": "सभी",
+    "new": "New",
+    "hot": "Hot"
   },
   "transfer": {
     "autoTransfer": "ऑटो ट्रांसफर: लॉन्च के दौरान सभी क्रेडिट गेम्स में ट्रांसफर कर दिए जाएंगे",

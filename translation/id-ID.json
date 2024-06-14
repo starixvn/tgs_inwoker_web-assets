@@ -119,12 +119,12 @@
     "support": "Jika Anda memiliki pertanyaan, jangan ragu untuk",
     "contactus": " Hubungi Kami",
     "comingSoon": "Segera Hadir",
-    "sports": "Sports",
+    "sports": "Olahraga",
     "sportsonly": "Sports",
     "horserace": "Horce Racing",
     "sport": "Sports",
     "esports": "eSports",
-    "live": "Live Casino",
+    "live": "Live Kasino",
     "lottery": "Lottery",
     "qipai": "Card Game",
     "chess": "Card Game",
@@ -133,7 +133,7 @@
     "electron": "Table Games",
     "fish": "Fishing",
     "shootFish": "Shoot Fish",
-    "promotion": "Promotion",
+    "promotion": "Promosi",
     "download": "Download",
     "home": "Home",
     "member": "member",
@@ -148,7 +148,7 @@
     "msgEnterUserName": "Silakan masukkan nama pengguna",
     "msgEnterPassword": "Silakan masukkan kata sandi",
     "deposit": "Setoran",
-    "withdrawal": "Tarik",
+    "withdrawal": "Penarikan",
     "transfer": "Transfer",
     "info": "Info",
     "update": "Perbarui",
@@ -181,7 +181,9 @@
     "virtualsports": "Virtual Sports",
     "egame": "EGame",
     "livedealer": "Live Dealer",
-    "qq": "Akun QQ"
+    "qq": "Akun QQ",
+    "donotshowagain": "Jangan tampilkan lagi",
+    "hello": "Halo"
   },
   "affiliate": {
     "title": "Afiliasi",
@@ -661,7 +663,9 @@
     "recommendGame": "Rekomendasikan",
     "fullscreen": "Layar Penuh",
     "search": "Cari kata kunci",
-    "all": "Semua"
+    "all": "Semua",
+    "new": "Baru",
+    "hot": "Panas"
   },
   "transfer": {
     "autoTransfer": "Transfer Otomatis : Semua kredit akan ditransfer ke game selama peluncuran",

@@ -175,7 +175,9 @@
     "virtualsports": "மெய்நிகர் விளையாட்டு",
     "egame": "ஈகேம்",
     "livedealer": "நேரடி டீலர்",
-    "qq": "QQ கணக்கு"
+    "qq": "QQ கணக்கு",
+    "donotshowagain": "Don't show again",
+    "hello": "Hello"
   },
   "affiliate": {
     "title": "தொடர்புடைய",
@@ -657,7 +659,9 @@
     "recommendGame": "பரிந்துரை",
     "fullscreen": "முழு திரை",
     "search": "தேடல் முக்கிய வார்த்தை",
-    "all": "அனைத்து"
+    "all": "அனைத்து",
+    "new": "New",
+    "hot": "Hot"
   },
   "transfer": {
     "autoTransfer": "தானியங்கு பரிமாற்றம்: தொடங்கும் போது அனைத்து வரவுகளும் கேம்களுக்கு மாற்றப்படும்",

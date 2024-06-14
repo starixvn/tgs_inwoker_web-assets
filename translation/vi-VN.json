@@ -182,7 +182,8 @@
     "egame": "Game bài 3D",
     "livedealer": "Trò chơi trực tiếp",
     "qq": "Tài khoản QQ",
-    "donotshowagain": "Không hiển thị nữa"
+    "donotshowagain": "Không hiển thị nữa",
+    "hello": "Hello"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -664,7 +665,9 @@
     "recommendGame": "Đề xuất",
     "fullscreen": "Toàn màn hình",
     "search": "Từ khóa tìm kiếm",
-    "all": "Tất cả"
+    "all": "Tất cả",
+    "new": "New",
+    "hot": "Hot"
   },
   "transfer": {
     "autoTransfer": "Tự động chuyển",
