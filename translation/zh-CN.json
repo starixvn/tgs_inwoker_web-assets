@@ -1859,7 +1859,10 @@
       "bonusAmount": "红利金额: VIP福利 + VIP返水 + 活动的优惠金额。",
       "agentWinloss": "代理输赢: (0 - 玩家输赢金额) * 代理占成。",
       "agentSpecial": "代理特别: (0 - 玩家特别) * 代理占成。",
-      "teamContribution": "团队贡献=直属代理净盈利*(分红比例-直属代理分红比例)"
+      "teamContribution": "团队贡献=直属代理净盈利*(分红比例-直属代理分红比例)",
+      "playerPL": "玩家盈亏: 玩家输赢 + 玩家特别。",
+      "playerSpecial": "玩家特别: 此代理线全部玩家的 '红利金额' + '调帐'(公司、代理、优惠) ",
+      "agentPL": "代理盈亏: 代理输赢 + 代理特别。"
     },
     "memberType": "类型",
     "totalOrders": "订单数",

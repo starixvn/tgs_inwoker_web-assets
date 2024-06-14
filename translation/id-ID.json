@@ -1855,7 +1855,10 @@
       "bonusAmount": "Bonus Amount = VIP Bonus + VIP Rebate + Promotion Bonus Amount.",
       "agentWinloss": "Agent Winloss: (0 - Player Winloss) * P/T.",
       "agentSpecial": "Agent Special: (0- Player Special) * P/T.",
-      "teamContribution": "Team Contribution= Direct agent's Net Profit * (P/T - Direct agent P/T)"
+      "teamContribution": "Team Contribution= Direct agent's Net Profit * (P/T - Direct agent P/T)",
+      "playerPL": "Player P/L: Player Winloss + Player Special.",
+      "playerSpecial": "Player Special: The total of 'Bonus Amount' and ;Company/ Agent/ Bonus Adjust' to all players under the agent.",
+      "agentPL": "Agent P/L: Agent Winloss + Agent Special"
     },
     "memberType": "Type",
     "totalOrders": "Total Orders",
