@@ -1847,7 +1847,7 @@
     "totalDeposit": "总存款金额",
     "totalWithdraw": "总提款金额",
     "playerName": "玩家用户名",
-    "status": "状态",
+    "status": "派发状态",
     "enabled": "活跃",
     "disabled": "封锁",
     "inBlacklist": "黑名单",
