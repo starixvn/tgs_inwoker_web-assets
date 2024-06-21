@@ -178,7 +178,9 @@
     "virtualsports": "虛擬體育",
     "egame": "電子遊戲",
     "livedealer": "真人娛樂",
-    "qq": "QQ賬號"
+    "qq": "QQ賬號",
+    "donotshowagain": "不再顯示",
+    "hello": "Hello"
   },
   "affiliate": {
     "title": "推廣賺錢",
@@ -657,7 +659,9 @@
     "recommendGame": "推薦遊戲",
     "fullscreen": "全屏",
     "search": "搜索關鍵字",
-    "all": "全部"
+    "all": "全部",
+    "new": "最新",
+    "hot": "熱門"
   },
 
   "transfer": {
@@ -1821,7 +1825,7 @@
     "totalDeposit": "總存款金額",
     "totalWithdraw": "總提款金額",
     "playerName": "玩家用戶名",
-    "status": "狀態",
+    "status": "派發狀態",
     "enabled": "活躍",
     "disabled": "封鎖",
     "inBlacklist": "黑名單",

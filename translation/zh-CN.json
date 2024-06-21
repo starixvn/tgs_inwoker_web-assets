@@ -178,7 +178,8 @@
     "egame": "电子游戏",
     "livedealer": "真人娱乐",
     "qq": "QQ账号",
-    "donotshowagain": "不再显示"
+    "donotshowagain": "不再显示",
+    "hello": "Hello"
   },
   "affiliate": {
     "title": "推广赚钱",
@@ -665,7 +666,9 @@
     "recommendGame": "推荐游戏",
     "fullscreen": "全屏",
     "search": "搜索关键字",
-    "all": "全部"
+    "all": "全部",
+    "new": "最新",
+    "hot": "热门"
   },
 
   "transfer": {
@@ -1844,7 +1847,7 @@
     "totalDeposit": "总存款金额",
     "totalWithdraw": "总提款金额",
     "playerName": "玩家用户名",
-    "status": "状态",
+    "status": "派发状态",
     "enabled": "活跃",
     "disabled": "封锁",
     "inBlacklist": "黑名单",

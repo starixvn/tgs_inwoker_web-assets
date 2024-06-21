@@ -178,7 +178,9 @@
     "virtualsports": "Virtwal na laro",
     "egame": "EGame",
     "livedealer": "Live na Dealer",
-    "qq": "QQ Account"
+    "qq": "QQ Account",
+    "donotshowagain": "Don't show again",
+    "hello": "Hello"
   },
   "affiliate": {
     "title": "Kaakibat",
@@ -664,7 +666,9 @@
     "recommendGame": "Ni-rerecommenda",
     "fullscreen": "Buong Screen",
     "search": "Maghanap ng keyword",
-    "all": "lahat"
+    "all": "lahat",
+    "new": "New",
+    "hot": "Hot"
   },
 
   "transfer": {
