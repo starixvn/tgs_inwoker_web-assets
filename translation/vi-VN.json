@@ -183,7 +183,8 @@
     "livedealer": "Trò chơi trực tiếp",
     "qq": "Tài khoản QQ",
     "donotshowagain": "Không hiển thị nữa",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering": "Yêu cầu tiền cược"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -1765,6 +1766,10 @@
   "movn2_addcardsuccess": "Chúc mừng! Thẻ ngân hàng của bạn đã ràng buộc thành công , từ nay bạn có thể sử dụng thẻ này để rút tiền. \n Nếu bạn cần sửa đổi thẻ ngân hàng của mình, vui lòng liên hệ với dịch vụ CSKH .",
   "t29": {
     "wagering": "Yêu cầu tiền cược",
+    "wageringrequirement": "Lịch sử cược",
+    "main": "Doanh thu cược"
+  },
+  "wagering": {
     "wageringrequirement": "Lịch sử cược",
     "main": "Doanh thu cược"
   },

@@ -177,7 +177,8 @@
     "livedealer": "நேரடி டீலர்",
     "qq": "QQ கணக்கு",
     "donotshowagain": "Don't show again",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering":"Wagering"
   },
   "affiliate": {
     "title": "தொடர்புடைய",
@@ -1811,6 +1812,10 @@
   "movn2_addcardsuccess": "வாழ்த்துகள்! உங்கள் வங்கி அட்டை சேர்க்கப்பட்டது. இப்போது இந்த அட்டை மூலம் பணத்தைப் பெறலாம். உங்கள் கார்டைத் திருத்த விரும்பினால், வாடிக்கையாளர் சேவையைத் தொடர்பு கொள்ளவும்.",
   "t29": {
     "wagering": "Wagering",
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
+  },
+  "wagering": {
     "wageringrequirement": "Wagering Requirement",
     "main": "Main"
   },

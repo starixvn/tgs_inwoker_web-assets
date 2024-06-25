@@ -177,7 +177,8 @@
     "livedealer": "คาสิโนสด",
     "qq": "บัญชี QQ",
     "donotshowagain": "Don't show again",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering": "Wagering"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
@@ -1776,6 +1777,10 @@
   "movn2_addcardsuccess": "ขอแสดงความยินดี! บัตรธนาคารของคุณถูกเพิ่มแล้ว ตอนนี้คุณสามารถถอนเงินด้วยบัตรใบนี้ได้ หากคุณต้องการแก้ไขบัตรของคุณ โปรดติดต่อฝ่ายบริการลูกค้า",
   "t29": {
     "wagering": "Wagering",
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
+  },
+  "wagering": {
     "wageringrequirement": "Wagering Requirement",
     "main": "Main"
   },

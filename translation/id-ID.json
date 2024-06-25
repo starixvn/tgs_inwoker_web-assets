@@ -183,7 +183,8 @@
     "livedealer": "Live Dealer",
     "qq": "Akun QQ",
     "donotshowagain": "Jangan tampilkan lagi",
-    "hello": "Halo"
+    "hello": "Halo",
+    "wagering":"rollover"
   },
   "affiliate": {
     "title": "Afiliasi",
@@ -1812,6 +1813,10 @@
   "movn2_addcardsuccess": "Selamat! Kartu bank Anda telah ditambahkan. Anda sekarang dapat melakukan penarikan dengan kartu ini.\n Jika Anda ingin mengedit kartu Anda, silakan hubungi Layanan Pelanggan.",
   "t29": {
     "wagering": "rollover",
+    "wageringrequirement": "Syarat Rollover",
+    "main": "Main"
+  },
+  "wagering": {
     "wageringrequirement": "Syarat Rollover",
     "main": "Main"
   },

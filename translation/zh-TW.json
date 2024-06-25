@@ -180,7 +180,8 @@
     "livedealer": "真人娛樂",
     "qq": "QQ賬號",
     "donotshowagain": "不再顯示",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering": "流水"
   },
   "affiliate": {
     "title": "推廣賺錢",
@@ -1794,6 +1795,10 @@
   "movn2_addcardsuccess": "恭喜！您的銀行卡已完成綁定，現在起，您可以使用這張卡進行提款。\n若您需要修改銀行卡，請聯絡客服團隊",
   "t29": {
     "wagering": "流水",
+    "wageringrequirement": "流水需求",
+    "main": "流水需求"
+  },
+  "wagering": {
     "wageringrequirement": "流水需求",
     "main": "流水需求"
   },
