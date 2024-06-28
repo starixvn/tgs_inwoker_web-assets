@@ -9,7 +9,8 @@
     "vi-VN": "Tiếng Việt",
     "hi-IN": "हिन्दी",
     "ta-IN": "தமிழ்",
-    "tgl-PH": "Tagalog"
+    "tgl-PH": "Tagalog",
+    "ja-JP": "日本語"
   },
   "error": {
     "ERR101": "無效的憑證。",
@@ -180,7 +181,8 @@
     "livedealer": "真人娛樂",
     "qq": "QQ賬號",
     "donotshowagain": "不再顯示",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering": "流水"
   },
   "affiliate": {
     "title": "推廣賺錢",
@@ -626,7 +628,6 @@
       "amount": "交易金額"
     },
     "dateTime": "時間",
-
     "betDateTime": "投注時間",
     "betid": "單號",
     "amount": "金額",
@@ -1794,6 +1795,10 @@
   "movn2_addcardsuccess": "恭喜！您的銀行卡已完成綁定，現在起，您可以使用這張卡進行提款。\n若您需要修改銀行卡，請聯絡客服團隊",
   "t29": {
     "wagering": "流水",
+    "wageringrequirement": "流水需求",
+    "main": "流水需求"
+  },
+  "wagering": {
     "wageringrequirement": "流水需求",
     "main": "流水需求"
   },

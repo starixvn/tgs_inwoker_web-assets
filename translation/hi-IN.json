@@ -9,7 +9,8 @@
     "vi-VN": "Tiếng Việt",
     "hi-IN": "हिन्दी",
     "ta-IN": "தமிழ்",
-    "tgl-PH": "Tagalog"
+    "tgl-PH": "Tagalog",
+    "ja-JP": "日本語"
   },
   "error": {
     "ERR101": "अमान्य क्रेडेंशियल।",
@@ -177,7 +178,8 @@
     "livedealer": "लाइव डीलर",
     "qq": "QQ खाता",
     "donotshowagain": "不再顯示",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering":"Wagering"
   },
   "affiliate": {
     "title": "संबद्ध",
@@ -1812,6 +1814,10 @@
   "movn2_addcardsuccess": "बधाई हो! आपका बैंक कार्ड जोड़ दिया गया है। अब आप इस कार्ड से निकासी कर सकते हैं। यदि आप अपना कार्ड संपादित करना चाहते हैं, तो कृपया ग्राहक सेवा से संपर्क करें।",
   "t29": {
     "wagering": "Wagering",
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
+  },
+  "wagering": {
     "wageringrequirement": "Wagering Requirement",
     "main": "Main"
   },

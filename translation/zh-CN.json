@@ -9,7 +9,8 @@
     "vi-VN": "Tiếng Việt",
     "hi-IN": "हिन्दी",
     "ta-IN": "தமிழ்",
-    "tgl-PH": "Tagalog"
+    "tgl-PH": "Tagalog",
+    "ja-JP": "日本語"
   },
   "error": {
     "ERR101": "无效的凭证。",
@@ -179,7 +180,8 @@
     "livedealer": "真人娱乐",
     "qq": "QQ账号",
     "donotshowagain": "不再显示",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering": "流水"
   },
   "affiliate": {
     "title": "推广赚钱",
@@ -1815,6 +1817,10 @@
   "movn2_addcardsuccess": "恭喜！您的银行卡已完成绑定，现在起，您可以用这张卡进行提款。\n 若您需要修改银行卡，请联繫客服团队",
   "t29": {
     "wagering": "流水",
+    "wageringrequirement": "流水需求",
+    "main": "流水需求"
+  },
+  "wagering": {
     "wageringrequirement": "流水需求",
     "main": "流水需求"
   },

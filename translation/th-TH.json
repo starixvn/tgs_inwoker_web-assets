@@ -9,7 +9,8 @@
     "vi-VN": "Tiếng Việt",
     "hi-IN": "हिन्दी",
     "ta-IN": "தமிழ்",
-    "tgl-PH": "Tagalog"
+    "tgl-PH": "Tagalog",
+    "ja-JP": "日本語"
   },
   "error": {
     "ERR101": "ข้อมูลประจำตัวไม่ถูกต้อง",
@@ -177,7 +178,8 @@
     "livedealer": "คาสิโนสด",
     "qq": "บัญชี QQ",
     "donotshowagain": "Don't show again",
-    "hello": "Hello"
+    "hello": "Hello",
+    "wagering": "Wagering"
   },
   "affiliate": {
     "title": "โปรโมชั่นสร้างรายได้",
@@ -1776,6 +1778,10 @@
   "movn2_addcardsuccess": "ขอแสดงความยินดี! บัตรธนาคารของคุณถูกเพิ่มแล้ว ตอนนี้คุณสามารถถอนเงินด้วยบัตรใบนี้ได้ หากคุณต้องการแก้ไขบัตรของคุณ โปรดติดต่อฝ่ายบริการลูกค้า",
   "t29": {
     "wagering": "Wagering",
+    "wageringrequirement": "Wagering Requirement",
+    "main": "Main"
+  },
+  "wagering": {
     "wageringrequirement": "Wagering Requirement",
     "main": "Main"
   },
