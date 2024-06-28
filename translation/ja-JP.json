@@ -1,0 +1,1921 @@
+{
+  "lang": {
+    "language": "言語",
+    "zh-TW": "繁體",
+    "zh-CN": "简体",
+    "en-US": "English",
+    "th-TH": "ไทย",
+    "id-ID": "Indonesia",
+    "vi-VN": "Tiếng Việt",
+    "hi-IN": "हिन्दी",
+    "ta-IN": "தமிழ்",
+    "tgl-PH": "Tagalog",
+    "ja-JP": "日本語"
+  },
+  "error": {
+    "ERR101": "無効な認証。",
+    "ERR201": "プレイヤーが見つかりません。",
+    "ERR202": "プレイヤーは禁止されています。",
+    "ERR401": "入力内容を確認してください。",
+    "ERR500": "内部エラー。"
+  },
+  "panel": {
+    "im": "リアルタイムチャット",
+    "cs": "カスタマーサポート",
+    "imLong": "リアルタイムチャット",
+    "liveChatWelcome": "【カスタマーサポートセンター】ようこそ！",
+    "liveChatDescription": "サービススピードを重視して、問題の種類を選択してください！",
+    "liveChatOptionFund": "ポイントの問題",
+    "liveChatOptionBall": "スポーツの問題",
+    "liveChatOptionLive": "ライブゲーム",
+    "liveChatOptionLottery": "宝くじゲーム",
+    "liveChatOptionRegister": "登録の問題",
+    "liveChatOptionSlot": "スロットゲーム"
+  },
+
+  "support": {
+    "contactnow": "今すぐ連絡",
+    "online": "オンラインサポート",
+    "contact": "コンタクト",
+    "qr": "QRコードサポート",
+    "join": "参加"
+  },
+
+  "common": {
+    "currentEmail": "現在のメールアドレス",
+    "nodata": "データが見つかりません",
+    "maintenance": "メンテナンス時間",
+    "pleaseEnterAccountName": "銀行名を入力してください",
+    "noReachMin": "電話番号は8桁から10桁の間で設定してください",
+    "noReachLength": "電話番号は{maxlength}桁に設定してください",
+    "upload": "ファイルをアップロード",
+    "upload2": "ファイルを選択してください",
+    "title": "{brand} - プロエンターテイメントプラットフォーム",
+    "register": "登録",
+    "login": "ログイン",
+    "submit": "送信",
+    "confirm": "確定",
+    "back": "戻る",
+    "check": "今すぐチェック",
+    "nextStep": "次へ",
+    "more": "もっと見る",
+    "send": "送信",
+    "choose": "選択",
+    "complete": "完了",
+    "close": "閉じる",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "search": "検索",
+    "verified": "確認済み",
+    "configured": "設定済み",
+    "phoneNumber": "電話番号",
+    "btnTokenLabel": "認証コードを取得",
+    "token": "認証コード",
+    "btnTokenResendLabel": "再送信",
+    "msgInvalidInvitationCode": "無効な招待コード",
+    "msgSendToken": "認証コードを送信",
+    "msgTokenSent": "認証コードが送信されました",
+    "msgTokenVerified": "認証が成功しました",
+    "msgEnterPhone": "携帯電話番号を入力してください",
+    "msgEnterEmail": "メールアドレスを入力してください",
+    "msgInvalidEmail": "無効なメールアドレス",
+    "msgEnterCode": "認証コードを入力してください",
+    "msgEnterCodeEmail": "認証コードを入力してください",
+    "msgInvalidPhoneCode": "無効な認証コード",
+    "msgEnterEmailCode": "メール認証コードを入力してください",
+    "msgEnterPhoneCode": "携帯電話認証コードを入力してください",
+    "msgInvalidConfirmPass": "パスワードが一致しません",
+    "msgInvalidOldPass": "無効な古いパスワード",
+    "msgRegisterUserNameInvalid": "アカウント名は6〜16文字で、数字または小文字である必要があります",
+    "msgRegisterPassInvalid": "パスワードは6〜20文字である必要があります",
+    "msgRegisterPassMatchInvalid": "パスワードが一致しません",
+    "msgRegisterTermAndCondition": "利用規約をお読みいただく必要があります",
+    "msgRegisterWithdrawalPassInvalid": "引き出しパスワードは6桁の数字である必要があります",
+    "msgRegisterWithdrawalPassMatchInvalid": "引き出しパスワードが一致しません",
+    "msgAlreadyExist": "ユーザー名は既に存在します",
+    "emailAddress": "メールアドレス",
+    "qqNumber": "QQアカウント",
+    "wechatNumber": "WeChatアカウント",
+    "fb": "Facebook Messengerアカウント",
+    "telegram": "Telegramアカウント",
+    "line": "Lineアカウント",
+    "viber": "Viberアカウント",
+    "whatsapp": "Whatsappアカウント",
+    "zalo": "Zaloアカウント",
+    "receiverAddress": "配送先住所",
+    "loginPassword": "ログインパスワード",
+    "contact": "連絡",
+    "customerService": "オンラインカスタマーサポート",
+    "withdrawalPassword": "引き出しパスワード",
+    "securityQuestion": "セキュリティ質問",
+    "realName": "本名",
+    "teamVP": "Virtus.pro",
+    "teamFrankfurt": "フランクフルト",
+    "g2Esport": "G2 Esports",
+    "amount": "金額",
+    "support": "質問がある場合は、いつでも",
+    "contactus": "お問い合わせください",
+    "comingSoon": "お楽しみに",
+    "sports": "スポーツeスポーツ",
+    "sportsonly": "スポーツイベントのみ",
+    "horserace": "競馬",
+    "sport": "スポーツ",
+    "esports": "eスポーツ",
+    "live": "ライブエンターテイメント",
+    "lottery": "宝くじゲーム",
+    "chess": "チェスゲーム",
+    "slot": "スロット",
+    "electron": "電子ゲーム",
+    "qipai": "カードゲーム",
+    "slots": "スロット",
+    "table": "テーブルゲーム",
+    "fish": "フィッシュシューティング",
+    "shootFish": "フィッシュシューティング",
+    "promotion": "プロモーション",
+    "download": "ダウンロード",
+    "home": "ホーム",
+    "member": "メンバー",
+    "csPhoneNumber": "000-000-0000",
+    "bank": "銀行",
+    "dollor": "",
+    "copy": "コピー",
+    "reload": "リロード",
+    "msgPopupBlocker": "自動ポップアップがブロックされています。手動で開いてください",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "msgEnterUsername": "ユーザー名を入力してください",
+    "msgEnterPassword": "パスワードを入力してください",
+    "deposit": "入金",
+    "withdrawal": "出金",
+    "transfer": "振込",
+    "info": "情報",
+    "update": "更新",
+    "reset": "リセット",
+    "msgEnterNewPass": "新しいパスワードを入力してください",
+    "NewPass": "新しいパスワード",
+    "msgEnterOldPass": "古いパスワードを入力してください",
+    "oldPass": "古いパスワード",
+    "msgEnterConfirmPass": "新しいパスワードをもう一度入力してください",
+    "ConfirmPass": "新しいパスワードの確認",
+    "language": "言語",
+    "startGame": "即時体験",
+    "cs": "カスタマーサポート",
+    "msgSuccessUpdateProfile": "プロフィールが更新されました。",
+    "favoriteGame": "お気に入りに追加",
+    "joinGame": "即時参加",
+    "withdrawalBankType": "銀行種類",
+    "withdrawalChannel": "出金チャネル",
+    "withdrawalNumber": "銀行口座番号/暗号通貨アドレス",
+    "msgEnterWithdrawalNumber": "銀行口座番号/暗号通貨アドレスを入力してください",
+    "msgEmailExist": "このメールアドレスは既に存在します",
+    "msgRequiredTurnover": "あなたの賭けの回転が足りません。出金することができません。問題がある場合はカスタマーサポートにご連絡ください。",
+    "msgInvalidUsername": "ユーザー名またはパスワードが正しくありません",
+    "msgInvalidWithdrawalPassword": "出金パスワードが正しくありません",
+    "msgRequestFailed": "リクエストが失敗しました。カスタマーサポートにご連絡ください",
+    "termsAndCondition": "利用規約",
+    "exit": "ログアウト",
+    "playeronline": "オンラインプレイヤー",
+    "cockfight": "コックファイト",
+    "virtualsports": "バーチャルスポーツ",
+    "egame": "エレクトロニックゲーム",
+    "livedealer": "ライブディーラー",
+    "qq": "QQアカウント",
+    "donotshowagain": "再表示しない",
+    "hello": "こんにちは",
+    "wagering": "ベッティング"
+  },
+  "affiliate": {
+    "title": "紹介でお金を稼ぐ",
+    "details": "紹介の詳細",
+    "downline": "私のメンバー",
+    "report": "業績明細",
+    "info": "報酬の説明",
+    "qrCode": "紹介QRコード",
+    "promoId": "私の紹介ID",
+    "promoLink": "紹介リンク",
+    "memberName": "ユーザー名",
+    "UUID": "UUID",
+    "dateTime": "時間",
+    "transAmount": "取引金額",
+    "commission": "手数料",
+    "status": "ステータス",
+    "copied": "コピー済み"
+  },
+  "card": {
+    "title": "銀行カード管理",
+    "myCard": "私の銀行カード",
+    "tail": "末尾",
+    "transferRecord": "振込記録",
+    "removeCard": "カード削除",
+    "checkDetails": "詳細確認",
+    "remove": "削除",
+    "msgSlideToDelete": "スライドして銀行カードを削除",
+    "msgAddCard": "銀行カードを追加",
+    "msgAddCardDesc": "銀行カードを追加すると、出金を行うことができます。最大{maxCardCount}枚まで追加可能です。",
+    "toEdit": "追加、編集、削除はできません。お手伝いが必要な場合は、カスタマーサポートにご連絡ください。",
+    "addCard": {
+      "title": "銀行カードを追加",
+      "subTitle": "銀行カード番号は15〜19桁の数字である必要があります",
+      "msgSelectBank": "銀行を選択してください",
+      "msgEnterCard": "銀行カード番号を入力してください",
+      "BankName": "銀行名",
+      "msgEnterBankName": "銀行名を入力してください",
+      "BankAccountName": "銀行口座名",
+      "msgEnterBankAccountName": "銀行口座名を入力してください",
+      "cardHolder": "カード保持者",
+      "msgEnterCardHolder": "カード保持者の名前を入力してください",
+      "cardNum": "銀行カード番号",
+      "desc": "情報は暗号化され、銀行の認証にのみ使用されます",
+      "branch": "支店",
+      "branchPlaceHolder": "支店を入力してください",
+      "eWalletAccount": "電子貨幣名",
+      "msgEnterEwalletAccount": "電子貨幣名を入力してください",
+      "phone": "電話番号",
+      "msgEnterPhone": "電話番号を入力してください"
+    },
+    "success": {
+      "title": "銀行カードの追加が成功しました",
+      "successDesc": "銀行カードのバインドが完了しました。後で出金時に迅速に選択できます。他の銀行カードを追加したい場合は、以下の「他の銀行カードのバインド」をクリックしてください。",
+      "successDescDeposit": "銀行カードのバインドが完了しました。",
+      "bindDesc": "以下の「他の銀行カードのバインド」をクリックしてください。",
+      "reminder": "注意事項",
+      "callHotline": "または000-000-0000にお電話ください。",
+      "bindBankCard": "他の銀行カードのバインド",
+      "goDeposit": "入金する",
+      "goWithdrawal": "出金する",
+      "goProfile": "プロフィールに移動する",
+      "noMoreAddCard": "銀行口座のバインドが完了しました。後で出金時に迅速に選択できます。"
+    }
+  },
+  "deposit": {
+    "address": "住所",
+    "email": "電子メール",
+    "phone": "電話番号",
+    "fpsId": "FPS ID",
+    "title": "入金",
+    "ppRemark": "ヒント：システムは後で入力した金額の後ろにランダムな小数を付けて、注文を識別します。",
+    "plsEnterDepositAmount": "入金金額を入力してください",
+    "msgMinDeposit": "{{amount}}以上を入金してください",
+    "msgMaxDeposit": "入金金額が最高制限を超えています",
+    "msgMaintenance": "入金システムはメンテナンス中です。後でもう一度お試しください...",
+    "paymentTunnel": "支払いチャネル",
+    "msgEnterCard": "銀行カード番号を入力してください",
+    "bankCard": "銀行カード",
+    "msgPleaseEnter": "入力してください",
+    "dollor": "",
+    "depositAmount": "入金金額",
+    "chooseAmount": "金額を選択してください",
+    "limitDeposit": "1回の最大入金額",
+    "reminderTitle": "リマインダー：",
+    "orderNumber": "注文番号",
+    "completeDeposit": "支払い完了",
+    "confirmRedirect": "本サイトを離れ、支払いプラットフォームに移動します",
+    "depositMethod": "支払い方法",
+    "depositTunnel": "支払いチャネル",
+    "transferAccount": "振込口座",
+    "accName": "アカウント名",
+    "cardNum": "銀行カード番号",
+    "promotion": "プロモーション",
+    "msgPlsSelectPromotion": "プロモーションを選択してください",
+    "senderName": "送金アカウント名",
+    "uploadSuccess": "証明書のアップロードが成功しました。確認をお待ちください。",
+    "cancelDeposit": "入金がキャンセルされました。",
+    "uploadReceipt": "領収書をアップロード",
+    "msgPlsSelectFile": "ファイルを選択してください",
+    "upload": "アップロード",
+    "cancel": "支払いをキャンセル",
+    "qrCode": "QRコード",
+    "qrDesc": "スマートフォンでスキャンして簡単に支払い",
+    "receiverBank": "受取銀行名",
+    "receiverAccount": "受取銀行アカウント",
+    "receiverNumber": "受取銀行口座番号",
+    "msgDialog": "「確認」をクリックして、入金を続行してください",
+    "msgPlsSelectPayment": "支払い方法を選択してください",
+    "msgPlsSelectMethod": "支払いチャネルを選択してください",
+    "msgPlsEnterAccount": "銀行アカウント名を入力してください",
+    "msgPlsUploadProof": "関連する銀行証明書をアップロードしてください",
+    "msgNotMustUploadProof": "必須ではありません",
+    "msgInvalidFileSize": "ファイルサイズが大きすぎます。5MB未満のファイルを選択してください",
+    "msgInvalidFileType": "画像ファイルのみをアップロードしてください。（.jpg/.jpeg/.png/.tiff)",
+    "msgFailedJoinPromotion": "このプロモーションに参加できません。問題がある場合は、カスタマーサポートにお問い合わせください。",
+    "exchangeRate": "為替レート",
+    "buyPrice": "購入価格",
+    "sellPrice": "売却価格",
+    "expectedPayment": "予想支払い",
+    "details": {
+      "bank": "銀行",
+      "account": "アカウント",
+      "accountNum": "アカウント番号",
+      "failedOrder": "注文が失敗しました",
+      "failedOrderDesc": "再度注文を生成してから、入金してください",
+      "msgDepositValidDate": "この注文の有効期間まで",
+      "hour": "時間",
+      "minute": "分",
+      "second": "秒",
+      "cancelOrder": "注文をキャンセル",
+      "orderVerify": "入金確認",
+      "manualOpen": "手動で開く"
+    },
+    "totalAmount": "上分金額",
+    "plsEnterUSDTAmount": "USDT金額を入力してください",
+    "playerNote": "プレイヤーの注意",
+    "plsEnterPlayerNote": "プレイヤーの注意を入力してください",
+    "eWalletAccount": "電子マネー名"
+  },
+  "forgotPassword": {
+    "title": "パスワードをお忘れですか",
+    "plsEnterPhoneNumber": "バインドされた携帯電話番号を入力してください",
+    "invalidConfirmPass": "確認パスワードが間違っています",
+    "updateSuccess": "パスワードが正常にリセットされました"
+  },
+  "inbox": {
+    "title": "メッセージセンター",
+    "manage": "管理",
+    "markAsRead": "既読にする",
+    "dateTime": "日時",
+    "type": "お知らせの種類",
+    "inboxTitle": "件名",
+    "details": "詳細"
+  },
+  "wap": {
+    "login": {
+      "browse": "ホームに戻る",
+      "rememberMe": "ユーザー名を記憶する",
+      "forgetPass": "パスワードを忘れた場合"
+    },
+    "register": {
+      "username": "ユーザー名を入力してください（6-16文字の英数字）",
+      "password": "パスワードを入力してください（6-20文字の英数字または記号）",
+      "confirmPassword": "パスワードを再入力してください",
+      "withdrawalPassword": "引き出しパスワードを入力してください（6桁の数字）",
+      "confirmWithdrawalPassword": "引き出しパスワードを再入力してください",
+      "promoteCode": "招待コード（任意）",
+      "email": "メールアドレスを入力してください"
+    },
+    "main": {
+      "homePage": "ホームページ",
+      "promo": "プロモーション",
+      "cs": "カスタマーサポート",
+      "my": "マイページ",
+      "account": {
+        "mainAccount": "メインウォレット残高：",
+        "totalFund": "プレイヤーの総資産：",
+        "accountReport": "アカウント履歴",
+        "betReport": "ベット履歴",
+        "transferReport": "振替履歴",
+        "personalInfo": "個人情報",
+        "manageBank": "銀行カード管理",
+        "inbox": "メッセージ通知",
+        "affiliate": "アフィリエイト",
+        "question": "よくある質問",
+        "appDownload": "アプリダウンロード",
+        "setting": "設定",
+        "signout": "ログアウト",
+        "wallet": "ウォレット",
+        "deposit": "入金履歴",
+        "withdrawal": "出金履歴",
+        "transfer": "振替履歴"
+      },
+      "home": {
+        "gameTab": {
+          "sports": "スポーツ",
+          "esports": "eスポーツ",
+          "live": "ライブ",
+          "lottery": "宝くじ",
+          "chess": "チェス",
+          "electron": "電子",
+          "slot": "スロット",
+          "fish": "フィッシュ"
+        },
+        "steps": {
+          "desc": "ゲームの旅を始める方法",
+          "step1": "ユーザー登録",
+          "step2": "オンライン入金",
+          "step3": "ゲームを開始"
+        },
+        "profile": {
+          "announcement": "お知らせ",
+          "welcomeBack": "お帰りなさい、",
+          "pleaseLogin": "親愛なるユーザー様、まずログインしてください...",
+          "profile": "プロフィール",
+          "mainAccount": "総資金",
+          "loginRegister": "ログイン/登録"
+        }
+      },
+      "bottomNavigation": {
+        "homePage": "ホーム",
+        "promo": "プロモーション",
+        "customerService": "カスタマーサポート",
+        "profile": "マイページ"
+      },
+      "menuDrawer": {
+        "deposit": "入金",
+        "withdrawal": "出金",
+        "transfer": "振替",
+        "transReport": "取引履歴",
+        "betReport": "アカウント履歴",
+        "withdrawalReport": "出金履歴",
+        "depositReport": "入金履歴",
+        "bankCard": "銀行カード管理",
+        "inbox": "メッセージセンター"
+      }
+    }
+  },
+
+  "profile": {
+    "birthdate": {
+      "title": "生年月日",
+      "toEdit": "生年月日を編集する場合はこちらをクリックしてください",
+      "here": "こちら"
+    },
+    "setted": "設定済み",
+    "setNow": "今すぐ設定",
+    "edit": "編集",
+    "notSet": "未設定",
+    "notVerify": "未認証",
+    "nowVerify": "今すぐ認証",
+    "title": "個人情報",
+    "basicInfo": "基本情報",
+    "otherInfo": "その他の情報",
+    "securityInfo": "セキュリティ情報",
+    "accInfo": "アカウント情報",
+    "details": "詳細",
+    "phoneVerification": "電話番号認証",
+    "emailVerification": "メール認証",
+    "msgPlsBindEmailAddress": "メールアドレスをバインドしてください",
+    "changePassword": {
+      "msgConfirmPassFail": "パスワード確認エラー",
+      "editPassword": "パスワードを変更",
+      "title": "ログインパスワードを変更",
+      "msgEnterOriPass": "現在のパスワードを入力してください",
+      "OriPass": "現在のパスワード"
+    },
+    "changePhone": {
+      "title": "電話番号を変更",
+      "step1Title": "元の番号を検証",
+      "step2Title": "新しい番号を設定"
+    },
+
+    "nameVerify": {
+      "editHere": "こちら",
+      "title": "本名",
+      "msgEnterICNum": "身分証明書番号を入力してください",
+      "icNum": "身分証明書",
+      "msgInvalidICNum": "無効な身分証明書番号",
+      "msgPlsEnterName": "本名を入力してください",
+      "msgPlsEnterICNum": "身分証明書番号を入力してください",
+      "toEdit": "本名を変更する場合はこちらをクリックしてください",
+      "verifyName": "本人確認",
+      "tips": "ヒント： 本名は引き出しカードの名前と一致する必要があります"
+    },
+    "password": {
+      "title": "ログインパスワード",
+      "settledLoginPassword": "ログインパスワードが設定されました。安全に保管してください。"
+    },
+    "bankCard": {
+      "title": "銀行カード",
+      "settledBankCard": "銀行カードが設定されました。安全に保管してください。",
+      "limitedWithdraw": "引き出し可能額：",
+      "biggerThanZero": "引き出し金額は0より大きくなければなりません"
+    },
+    "phone": {
+      "title": "電話番号",
+      "toEdit": "電話番号を変更する場合はこちらをクリックしてください",
+      "here": "こちら",
+      "bindMobile": "電話番号をバインド",
+      "phoneDesc": "ご安心ください、ユーザー情報を漏洩したり迷惑メッセージを送信することはありません。"
+    },
+    "email": {
+      "editEmail": "メールアドレスを変更",
+      "verifyEmail": "元のメールアドレスを確認",
+      "addEmail": "新しいメールアドレスを設定",
+      "plsEnterEmail": "メールアドレスを入力してください",
+
+      "bindEmail": "メールアドレスをバインド",
+      "toEdit": "メールアドレスを変更する場合はこちらをクリックしてください",
+      "here": "こちら"
+    },
+    "qq": {
+      "msgInvalidQQ": "QQアカウントの形式が正しくありません",
+      "plsEnterQQ": "QQアカウントを入力してください",
+      "qqAccount": "QQアカウント"
+    },
+    "wechat": {
+      "msgInvalidWeChat": "WeChatアカウントの形式が正しくありません",
+      "plsEnterWechat": "WeChatアカウントを入力してください",
+      "weChatAccount": "WeChatアカウント"
+    },
+    "fb": {
+      "msgInvalidFB": "Facebook Messengerアカウントの形式が正しくありません",
+      "plsEnterFB": "Facebook Messengerアカウントを入力してください",
+      "fbAccount": "Facebook Messengerアカウント"
+    },
+    "telegram": {
+      "msgInvalidTelegram": "Telegramアカウントの形式が正しくありません",
+      "plsEnterTelegram": "Telegramアカウントを入力してください",
+      "telegramAccount": "Telegramアカウント"
+    },
+    "line": {
+      "msgInvalidLine": "Lineアカウントの形式が正しくありません",
+      "plsEnterLine": "Lineアカウントを入力してください",
+      "lineAccount": "Lineアカウント"
+    },
+    "viber": {
+      "msgInvalidViber": "Viberアカウントの形式が正しくありません",
+      "plsEnterViber": "Viberアカウントを入力してください",
+      "viberAccount": "Viberアカウント"
+    },
+    "whatsapp": {
+      "msgInvalidWhatsapp": "Whatsappアカウントの形式が正しくありません",
+      "plsEnterWhatsapp": "Whatsappアカウントの形式が正しくありません",
+      "whatsappAccount": "Whatsappアカウント"
+    },
+    "zalo": {
+      "msgInvalidZalo": "Zaloアカウントの形式が正しくありません",
+      "plsEnterZalo": "Zaloアカウントを入力してください",
+      "zaloAccount": "Zaloアカウント"
+    },
+    "resetResetWithdrawalPassword": {
+      "title": "引き出しパスワードを変更",
+      "editWithdrawalPassword": "引き出しパスワードを変更",
+      "bindMobile": "電話番号をバインド",
+      "verifiedOriPhone": "元の電話番号を認証",
+      "verifiedEmail": "元のメールアドレスを認証",
+      "setNewWithdrawalPassword": "新しい引き出しパスワードを設定",
+      "resetSuccess": "引き出しパスワードが正常に変更されました"
+    },
+    "changeWithdrawalPassword": {
+      "title": "引き出しパスワード",
+      "subTitle": "引き出しパスワード",
+      "oldPassword": "現在のパスワード",
+      "newPassword": "新しいパスワード",
+      "confirmNewPassword": "新しいパスワードを確認",
+      "plsEnterOldPassword": "現在のパスワードを入力してください"
+    },
+
+    "withdrawalPassword": {
+      "msgInvalidConPass": "パスワードが一致しません",
+      "title": "引き出しパスワード",
+      "newPass": "引き出しパスワード",
+      "msgEnterNewPass": "引き出しパスワードを入力してください",
+      "conPass": "引き出しパスワードを確認",
+      "msgEnterConPass": "引き出しパスワードを確認してください",
+      "setWithdrawalPassword": "引き出しパスワードを設定",
+      "settledWithdrawalPassword": "引き出しパスワードが設定されました。安全に保管してください。"
+    }
+  },
+  "report": {
+    "title": "レポート",
+    "total": "合計",
+    "transferDetails": "転送履歴",
+    "withdrawalDetails": "出金履歴",
+    "depositDetails": "入金履歴",
+    "bettingDetails": "ベット履歴",
+    "rebateDetails": "リベート履歴",
+    "platform": "プラットフォーム",
+    "platformgamename": "プラットフォーム/ゲーム名",
+    "date": "日付",
+    "gamename": "ゲーム名",
+    "startDate": "開始日時",
+    "endDate": "終了日時",
+    "today": "今日",
+    "oneWeek": "1週間",
+    "oneMonth": "1ヶ月",
+    "all": "すべて",
+    "status": "ステータス",
+    "RequestDate": "申請日時",
+    "submitDate": "提出日時",
+    "transferOut": "転出",
+    "transferIn": "転入",
+    "OrderNumber": "注文番号",
+    "NewOrderNumber": "GMS注文番号",
+    "depositChannel": "支払方法",
+    "withdrawal": {
+      "bankCard": "銀行カード",
+      "status1": "支払待ち",
+      "status2": "審査中",
+      "status3": "承認済み",
+      "status4": "拒否済み",
+      "status5": "支払中",
+      "status6": "支払済み"
+    },
+    "deposit": {
+      "status1": "支払待ち",
+      "status2": "審査中",
+      "status3": "承認済み",
+      "status4": "拒否済み"
+    },
+    "rebate": {
+      "sn": "番号",
+      "cycleDate": "サイクル日",
+      "validBet": "有効額",
+      "amount": "リベート額"
+    },
+    "transfer": {
+      "title": "振込履歴",
+      "table": {
+        "from": "から",
+        "to": "へ"
+      }
+    },
+    "joinedPromo": {
+      "title": "参加したプロモーション",
+      "promoName": "プロモーション名"
+    },
+    "balanceChanges": {
+      "title": "残高変更履歴",
+      "type": "取引タイプ",
+      "amount": "取引金額"
+    },
+    "dateTime": "時間",
+    "betDateTime": "ベット時間",
+    "betid": "ベット番号",
+    "amount": "金額",
+    "betAmount": "ベット金額",
+    "totalBet": "総ベット額",
+    "validBet": "有効ベット",
+    "betContent": "ベット内容",
+    "turnover": "売上",
+    "winloss": "勝敗",
+    "ratio": "倍率",
+    "totalBetAmount": "総ベット額",
+    "totalWinLose": "総勝敗",
+    "totalValidBet": "総有効ベット"
+  },
+  "share": {
+    "bottomNote": {
+      "pleaseContact": "何かご不明な点がございましたら、",
+      "liveChat": "ライブチャット"
+    },
+    "messageDialog": {
+      "info": "情報"
+    }
+  },
+  "slot": {
+    "hotGame": "人気ゲーム",
+    "allGame": "すべてのゲーム",
+    "newGame": "新しいゲーム",
+    "bookmarkGame": "ブックマークゲーム",
+    "historyGame": "履歴ゲーム",
+    "recommendGame": "おすすめゲーム",
+    "fullscreen": "全画面",
+    "search": "検索キーワード",
+    "all": "すべて",
+    "new": "新着",
+    "hot": "人気"
+  },
+
+  "transfer": {
+    "autoTransfer": "自動転送：ゲーム開始時にすべての残高を自動的にゲームに転送",
+    "on": "オン",
+    "off": "オフ",
+    "transferWallet": "転送ウォレット",
+    "quickTransfer": "クイック転送",
+    "invalidAmount": "金額が無効です",
+    "insufficient": "残高が不足しています",
+    "transferSuccess": "転送成功",
+    "msgUnderMaintenance": "メンテナンス中です。後でお試しください",
+    "refresh": "更新",
+    "title": "転送",
+    "totalFund": "プレイヤー総資金",
+    "mainAccount": "メインウォレット",
+    "oneKeyReceive": "ワンクリック回収",
+    "oneKeyTransferIn": "ワンクリック転入",
+    "oneKeyTransferOut": "ワンクリック転出",
+    "oneKeyTransferAll": "ワンクリック転送",
+    "maintenance": "メンテナンス中",
+    "transferFrom": "転出ウォレットを選択してください",
+    "transferFromWallet": "転出ウォレット",
+    "pleaseSelect": "選択してください",
+    "transferTo": "転入ウォレットを選択してください",
+    "transferToWallet": "転入ウォレット",
+    "msgEnterAmount": "転送金額を入力してください",
+    "maxAmount": "最大金額",
+    "transfer": "転送",
+    "noticeTitle": "注意",
+    "msgFailedTransfer": "転送失敗",
+    "msgTransferOutFromGP": "すべてのサブウォレットからメインウォレットに転送"
+  },
+
+  "withdrawal": {
+    "notReachMin": "出金金額が最低金額に達していません",
+    "reachedMax": "出金金額が最大金額に達しました",
+    "msgMustHundred": "金額は百の位の数字でなければなりません",
+    "msgInvalidAmt": "出金金額は0より大きくなければなりません",
+    "msgCanWithdrawal": "出金可能な残高は:",
+    "msgContactCSCardChange": "変更が必要な場合はカスタマーサービスにお問い合わせください",
+    "turnover": "取引要件:",
+    "msgEnterWithdrawalPass": "出金パスワードを入力してください",
+    "msgInsufficient": "メインウォレットの残高が不足しています",
+    "msgSuccess": "出金リクエストが正常に送信されました。確認をお待ちください",
+    "title": "出金",
+    "limitDeposit": "1回の限度額",
+    "canWithdrawal": "出金可能な資金",
+    "checkDetails": "詳細を確認",
+    "manageBank": "銀行カードを管理",
+    "bankCard": "銀行カード",
+    "msgEnterBank": "銀行カードを選択してください",
+    "tail": "末尾",
+    "enterAmount": "出金金額を入力してください",
+    "msgWithdrawalAmount": "1回の限度額 100-450,000",
+    "notice": "この銀行カードの口座名はアカウントに登録された実名と一致する必要があります。そうでない場合、出金が失敗する可能性があります",
+    "receiverAcc": "受取口座",
+    "receiverName": "受取人名",
+    "fee": "手数料",
+    "receiverAmount": "入金金額",
+    "usdtAmount": "金額 USDT",
+    "playerNote": "プレイヤーメモ",
+    "plsEnterPlayerNote": "プレイヤーメモを入力してください"
+  },
+  "promotion": {
+    "emptyLine1": "現在はイベントがありません",
+    "emptyLine2": "お楽しみに",
+    "moreInfo": "詳細情報",
+    "startDate": "開始日時：",
+    "endDate": "終了日時：",
+    "title": "プロモーション",
+    "promoType": "プロモーションタイプ",
+    "promoTarget": "対象者",
+    "promoDetail": "条件",
+    "promoDate": "期間",
+    "joinPromo": "プロモーションに参加する",
+    "joinSuccess": "プロモーション参加に成功しました",
+    "joinFail": "参加できませんでした。後でもう一度お試しください",
+    "promoJoint": "すでにプロモーションに参加しています！",
+    "details": "詳細"
+  },
+  "web": {
+    "home": {
+      "Section1Chess": "チェスゲーム",
+      "Section1Slot": "スロット",
+      "Section1Lottery": "宝くじゲーム",
+      "Section1Fishing": "釣りゲーム",
+      "Section1Sport": "スポーツeスポーツ",
+      "Section1Esport": "eスポーツ",
+      "Section1Electron": "電子ゲーム",
+      "Section1Live": "ライブゲーム",
+      "services": {
+        "service1": {
+          "title": "平均入金時間",
+          "value": "30秒"
+        },
+        "service2": {
+          "title": "平均出金時間",
+          "value": "50秒"
+        },
+        "service3": {
+          "title": "提携決済プラットフォーム",
+          "value": "60社"
+        },
+        "service4": {
+          "title": "提携ゲームプラットフォーム",
+          "value": "80社"
+        }
+      },
+      "features": {
+        "feature1": {
+          "title": "よりプロフェッショナル",
+          "description": "毎日数千の素晴らしいスポーツとeスポーツイベントを提供し、多様なプレイスタイルを楽しめます。さらに、ライブ、チェス、宝くじ、電子ゲームなど多くのエンターテイメントオプションを自由に選択できます。"
+        },
+        "feature2": {
+          "title": "より安全",
+          "description": "独自開発、128ビット暗号化技術と厳格なセキュリティ管理システムを採用し、顧客資金を完全に保護します。エンターテイメントやイベントベッティングを安心して楽しむことができます！"
+        },
+        "feature3": {
+          "title": "より便利",
+          "description": "自主開発のWeb、H5、さらにiOS、Androidネイティブアプリを提供し、いつでもどこでもエンターテイメントベッティングを楽しめます！24時間年中無休のオンラインカスタマーサービスで最高のサービスを提供します。"
+        },
+        "feature4": {
+          "title": "より高速",
+          "description": "最新技術を使って自主開発したファイナンシャルシステムで、超高速の入金、出金、転送を実現。独自のネットワーク最適化技術で、一流のゲーム体験と最大のネットワーク遅延の最適化を提供します。"
+        }
+      }
+    },
+    "liveGame": {
+      "wmDesc": "高規格で設計されたWMライブは、最新の設備と豪華な装飾を備え、プレイヤーに最高のライブビデオゲーム体験を提供します。",
+      "saDesc": "SAライブビデオは、アジアベットグループによって公式に運営され、美しいディーラーがオンラインでインタラクションし、バカラ、シックボー、ルーレット、ジンランなどの多くのライブビデオゲームを楽しめます。国際標準、公平公正、極上の楽しさ。",
+      "bgDesc": "超高画質のビデオ、完璧なホスト音質など、かわいいセクシーなホストとプレイヤーが親密にインタラクションし、魅力的なゲーム体験を提供します！",
+      "abDesc": "ALLBETの24時間営業のライブオンラインビデオゲームは、プレイヤーに臨場感を提供し、人気のゲームをいつでもどこでも楽しめます。",
+      "vgDesc": "先進的な製品とプラットフォームで、市場で最もリアルなゲーム体験を提供します。自宅から離れることなく、カジノのすべてのスリルを体験できます。"
+    },
+    "lotteryGame": {
+      "vrDesc": "VRロトは、最も便利で豊富な宝くじの新しいプレイ方法を提供し、素晴らしいインタラクティブな体験を提供します。宝くじの新しい時代を開きます。",
+      "bgDesc": "BGロトは、高品質のゲーム体験を提供し、新しいことを常に追求し、最高のサービスを提供します。100種類以上の宝くじプレイを楽しめます！",
+      "kmDesc": "宝くじゲーム業界に長年専念しており、クラシックな種類とプレイを持っています。操作が非常に簡単なゲームインターフェースで、ゲームプレイをさらに楽しくします！"
+    },
+    "chessGame": {
+      "kyDesc": "牛のカードとドラゴンと虎、さまざまなチェスを選択できます！チェスは心を示し、エンターテインメントと競技の脳トレを楽しみ、友達と一緒に競技し、ゲームが生活を変えます。"
+    },
+    "slotGame": {
+      "btnStart": "今すぐ開始",
+      "btnTrial": "無料試用",
+      "btnBookmark": "ブックマーク",
+      "keyword": "キーワード",
+      "search": "検索",
+      "recommendedGame": "おすすめのゲーム",
+      "more": "もっと見る",
+      "famousGame": "みんなが遊んでいるゲーム",
+      "rtpRank": "返還率ランキング"
+    },
+    "header": {
+      "announcement": "お知らせ",
+      "promotion": "最新のプロモーション",
+      "mobver": "モバイル版",
+      "plsClick": "クリックしてください",
+      "bookmark": "サイトをブックマーク",
+      "addBookmark": "ブックマークに追加",
+      "transfer": "転送",
+      "deposit": "入金",
+      "mainAccount": "総資金",
+      "dollor": "",
+      "logout": "ログアウト",
+      "welcomBack": "おかえりなさい、"
+    },
+    "rightNavBar": {
+      "wallet": "資金センター",
+      "codeTitle": "アプリダウンロード",
+      "cs": {
+        "csDesc": "オンラインカスタマーサービス",
+        "contact": "連絡先電話番号"
+      }
+    },
+    "marquee": {
+      "latestNews": "最新のお知らせ："
+    },
+    "footer": {
+      "footerDescTitle": "パートナー",
+      "footerDescText": "どのようなゲームをしたいかに関係なく、{brand}のパートナーはあなたのゲーム体験をより素晴らしいものにします。",
+      "paymentTitle": "支払い・ライセンス",
+      "cautionText": "18歳未満のギャンブルは違法です。{brand}はこれを厳格に遵守します。当社はお客様の年齢確認を行い、補足書類を求める場合があります。",
+      "appDownload": "アプリダウンロード",
+      "appDownloadLine2": "いつでもどこでも最高の体験",
+      "wapQRCodeDesc": "ダウンロード不要でアクセス",
+      "appQRCodeDesc": "アプリをスキャンしてダウンロード",
+      "affiliateCampaign": "代理加盟して共に輝きを創造",
+      "affiliateCampaignLine2": "100%ボーナスコミッションプラン",
+      "customerServiceHotline": "国内24時間カスタマーサービスホットライン",
+      "contactUs": "お問い合わせ",
+      "contactNumber": "サービス電話: 400-120-8118",
+      "contactEmail": "お問い合わせメール: cs@{brand}.com",
+
+      "copyright": "このサイトはフィリピン娯楽ゲーム公社（PAGCOR）の認可と監督を受けています。",
+      "copyrightLine2": "{brand} Copyright© 2020 {brand} Casino Co.Group All Rights Reserved"
+    },
+    "login": {
+      "login": "ログイン",
+      "loginTitle": "アカウントにログイン",
+      "loginTitleLine2": "アジア最高のギャンブルサイト",
+      "newRegister": "新規登録",
+
+      "rememberMe": "ユーザー名を記憶",
+      "forgetPass": "パスワードを忘れた?",
+      "cs": "ログインに問題がある場合は",
+      "contactus": "お問い合わせください",
+      "btn": "今すぐログイン",
+      "footerDesc": "このサイトはGlobal Trustの最新の128/256ビットSSLサービスを使用しています。",
+      "controlTitle": "責任あるギャンブル",
+      "controlDesc": "自己制御を設定しており、アカウントは",
+      "controlText": "後にロック解除されます",
+      "errorMsg": {
+        "emptyUsername": "ユーザー名を入力してください",
+        "emptyPassword": "パスワードを入力してください"
+      }
+    },
+    "register": {
+      "registerTitle": "アカウントを登録する",
+      "registerTitleLine2": "アジア最高のギャンブルサイト",
+      "username": "ユーザー名を入力してください (6-16文字の英字または数字)",
+      "password": "パスワードを入力してください (6-20文字の大文字小文字の英字、数字、または特殊記号)",
+      "confirmPassword": "パスワードを再入力",
+      "withdrawalPassword": "出金パスワードを入力してください (6桁の数字)",
+      "confirmWithdrawalPassword": "出金パスワードを再入力",
+      "promoteCode": "招待コード (任意)",
+      "contract": "私は18歳以上であり、このサイトのポリシー、プライバシー声明、利用規約を読み、同意します。",
+      "contractWithAge": "私は{age}歳以上であり、このサイトのポリシー、プライバシー声明、利用規約を読み、同意します。",
+      "btn": "今すぐ登録",
+      "activation": "SMS認証",
+      "email": "メールアドレスを入力してください",
+      "errorCustomDesc": "\"認証コードを送信\"をクリックし、123456を入力して\"送信\"を押してください。"
+    },
+    "resetPassword": {
+      "title": "パスワードをリセット",
+      "oldPassword": "旧パスワード",
+      "newPassword": "新しいパスワード",
+      "confirmNewPassword": "新しいパスワードを再入力",
+      "resetSuccess": "パスワードのリセットが成功しました"
+    },
+
+    "account": {
+      "fund": "資金管理",
+      "personal": "個人アカウント",
+      "deposit": "入金",
+      "withdrawal": "出金",
+      "transfer": "振替",
+      "report": "レポート",
+      "profile": "プロフィール",
+      "inbox": "メッセージセンター",
+      "affiliate": "アフィリエイトで稼ぐ",
+      "header": {
+        "lastLogin": "最終ログイン時間",
+        "total": "プレイヤーの総資金",
+        "mainWallet": "メインウォレット",
+        "allGameWallet": "ゲームウォレットに振替"
+      },
+      "msgCenterAcc": {
+        "inbox": "受信トレイ",
+        "noMsg": "メッセージはありません",
+        "errorMsg": "メッセージが選択されていません",
+        "tickAll": "すべて選択",
+        "delete": "削除",
+        "markAsRead": "既読にする"
+      }
+    },
+
+    "download": {
+      "titleDesc": "触れる情報、指先から脳へ、安全かつ便利な入出金。ライブエンターテイメント、スポーツベッティング、電子ゲームなどすべてを一手に掌握。{brand}は、すべてのユーザーに多彩で究極の体験を提供することを目指しています。",
+      "supportPlatform": "(Android/iOS対応)",
+      "pcDownload": "ダウンロード不要でアクセス",
+      "mobileDownload": "アプリをスキャンしてダウンロード"
+    },
+
+    "maintenance": {
+      "title": "申し訳ありません、システムメンテナンス中です",
+      "maintenance": "メンテナンス中",
+      "maintenancePeriod": "メンテナンス期間：",
+      "desc": "より良いゲーム体験のために、努力しています",
+      "descText": "ご不明な点がございましたら、オンラインカスタマーサービスにお問い合わせください。",
+      "btn": "お問い合わせ"
+    }
+  },
+  "PrimePay": "一等付",
+  "MaticPay": "MaticPay",
+  "ZeroNineNinePay": "099Pay",
+  "LeePay": "リー付ウォレット",
+  "ApplePay": "Apple Pay",
+  "UmPay": "PlayPay",
+  "Manual": "手動入金",
+  "Crypto": "仮想通貨",
+  "BankTransfer": "銀行振込",
+  "ThirdParty": "第三者",
+  "CustomBank": "カスタム銀行",
+  "VR": {
+    "lottery": "VR宝くじ",
+    "desc": "VR宝くじは、「公正、安全、迅速、正確」を常に守り、業界のリーダーであり続けています。人工知能を活用したシステムにより、主要な宝くじの種類がすべて揃っています。「VRビデオ宝くじ」や「VRブランド宝くじ」などがあり、さらに「VR電子」シリーズのゲームも積極的に開発中です。VRは常に進化を追求し、より多様な選択肢をお客様に提供し、全方位のエンターテイメント環境を創造します。"
+  },
+  "KY": {
+    "chess": "開元棋牌",
+    "desc": "強力な牛や龍と虎の戦い、さまざまなチェスゲームを選べます！チェスは心を開き、競技とエンターテイメントで脳を活性化し、友人との競技で生活を変える。",
+    "BankerNiuNiu": "強力な牛",
+    "GoldenFlower": "ゴールデンフラワー",
+    "The21Point": "21ポイント",
+    "SanGong": "サンゴン",
+    "fish": "KYフィッシング"
+  },
+  "sports": {
+    "bunnydesc": "{brand}は革新的で多様なプレイ方法と高オッズの試合中継を提供し、どんなデバイスでもいつでもどこでも安全かつ迅速にベットできます。サッカー、バスケットボール、野球、テニス、アメリカンフットボール、eスポーツなどの豊富なスポーツイベントベットで、すべてのスポーツファンのニーズに応えます！",
+    "desc": "PGは革新的で多様なプレイ方法と高オッズの試合中継を提供し、どんなデバイスでもいつでもどこでも安全かつ迅速にベットできます。サッカー、バスケットボール、野球、テニス、アメリカンフットボール、eスポーツなどの豊富なスポーツイベントベットで、すべてのスポーツファンのニーズに応えます！"
+  },
+  "esports": {
+    "bunnydesc": "IM eスポーツはトップクラスの技術サポートを提供し、驚くべきビジュアルインターフェースと効率的なユーザー体験を備えています。{brand}を通じて、簡単にeスポーツベットの楽しさを体験してください！",
+    "desc": "IM eスポーツはトップクラスの技術サポートを提供し、驚くべきビジュアルインターフェースと効率的なユーザー体験を備えています。PGを通じて、簡単にeスポーツベットの楽しさを体験してください！"
+  },
+  "services": {
+    "depositTitle": "迅速な入出金",
+    "deposit": "最新技術を駆使して開発された財務処理システムは、迅速な入出金と振替を実現します。独自のネットワーク最適化技術で、一流のゲーム体験を提供し、ネットワーク遅延を最小限に抑えます。",
+    "securityTitle": "暗号化セキュリティ管理",
+    "security": "独自に開発された128ビット暗号化技術と厳格なセキュリティ管理システムにより、お客様の資金を完全に保護し、安心してエンターテイメントやベットを楽しめます。",
+    "oddsTitle": "豊富な試合種類",
+    "odds": "毎日数千の素晴らしいスポーツイベントを提供し、ライブ、宝くじ、電子ゲームなど多様なエンターテイメントオプションを選べます。完璧なゲーム体験を提供します。",
+    "platformTitle": "3つのプラットフォームから選べます",
+    "platform": "市場をリードする卓越した技術により、Web、H5、iOS、Androidのネイティブアプリを自主開発し、いつでもどこでもエンターテイメントベットが楽しめます！7x24時間のオンラインカスタマーサービスが、最も親切で質の高いサービスを提供します。"
+  },
+  "AG": {
+    "name": "AGライブ",
+    "live": "AGライブ"
+  },
+  "BG": {
+    "name": "BGライブ",
+    "live": "BGライブ",
+    "fish": "BGフィッシング"
+  },
+  "SG": {
+    "name": "Sexyライブ",
+    "live": "Sexyライブ"
+  },
+  "AWC_SG": {
+    "live": "Sexyライブ"
+  },
+  "SW": {
+    "live": "SWライブ",
+    "slots": "SWスロット",
+    "electron": "SW電子"
+  },
+  "PINNACLE": {
+    "sports": "Pinnacleスポーツ"
+  },
+  "SWTF": {
+    "live": "SWライブ",
+    "slots": "SWスロット",
+    "electron": "SW電子",
+    "fish": "SWフィッシング"
+  },
+  "SBO": {
+    "sports": "SBOスポーツ"
+  },
+  "SBOTF": {
+    "sports": "SBOスポーツ"
+  },
+  "IMES": {
+    "sports": "IM eスポーツ",
+    "esports": "IM eスポーツ"
+  },
+  "IM_ESP": {
+    "sports": "IM eスポーツ",
+    "esports": "IM eスポーツ"
+  },
+  "SABA": {
+    "sports": "SABAスポーツ"
+  },
+  "SABATF": {
+    "sports": "SABAスポーツ"
+  },
+  "HABA": {
+    "slots": "HABANEROスロット",
+    "electron": "HABANERO電子",
+    "fish": "HABANEROフィッシング"
+  },
+  "HABATF": {
+    "slots": "HABANEROスロット",
+    "electron": "HABANERO電子",
+    "fish": "HABANEROフィッシング"
+  },
+  "JDB": {
+    "slots": "JDBスロット",
+    "fish": "JDBフィッシング",
+    "desc": "オンラインでの宝探しは退屈しません。 ここには多数のゲームとスロットがあり、もっと多くのプレイ方法を体験したいなら、ここに来て間違いありません！"
+  },
+  "JDBTF": {
+    "slots": "JDBTFスロット",
+    "fish": "JDBTFフィッシング",
+    "electron": "JDBTF電子",
+    "desc": "オンラインでの宝探しは退屈しません。 ここには多数のゲームとスロットがあり、もっと多くのプレイ方法を体験したいなら、ここに来て間違いありません！"
+  },
+  "JILI": {
+    "slots": "JILIスロット",
+    "fish": "JILIフィッシング"
+  },
+  "JILITF": {
+    "slots": "JILITFスロット",
+    "fish": "JILITFフィッシング",
+    "electron": "JILITF電子"
+  },
+  "JOKER": {
+    "slots": "JOKERスロット",
+    "fish": "JOKERフィッシング",
+    "electron": "JOKER電子"
+  },
+  "PPTF": {
+    "slots": "PPスロット",
+    "electron": "PP電子",
+    "live": "PPライブ",
+    "fish": "PPフィッシング",
+    "sports": "PPスポーツ",
+    "customsports": "PPバーチャルスポーツ"
+  },
+  "PP": {
+    "slots": "PPスロット",
+    "electron": "PP電子",
+    "live": "PPライブ",
+    "fish": "PPフィッシング",
+    "sports": "PPスポーツ"
+  },
+  "EVO": {
+    "live": "EVOライブ",
+    "slots": "EVOスロット"
+  },
+  "EVOTF": {
+    "live": "EVOライブ",
+    "slots": "EVOスロット"
+  },
+  "BTI": {
+    "sports": "BTIスポーツ"
+  },
+  "PHSB": {
+    "sports": "PHSBスポーツ"
+  },
+  "AB": {
+    "live": "Allbetライブ"
+  },
+  "RT": {
+    "slots": "RedTigerスロット",
+    "electron": "RedTiger電子"
+  },
+  "RTTF": {
+    "slots": "RedTigerスロット",
+    "electron": "RedTiger電子"
+  },
+  "NT": {
+    "slots": "Netentスロット",
+    "electron": "Netent電子"
+  },
+  "NTTF": {
+    "slots": "Netentスロット",
+    "electron": "Netent電子"
+  },
+  "WGFM": {
+    "sports": "WGスポーツ"
+  },
+
+  "WGVIA": {
+    "sports": "WG競馬"
+  },
+  "WM": {
+    "live": "WMライブ"
+  },
+  "WMTF": {
+    "live": "WMライブ"
+  },
+  "DG": {
+    "live": "DGライブ"
+  },
+  "DGTF": {
+    "live": "DGライブ"
+  },
+  "IDNLIVE": {
+    "live": "IDNライブ"
+  },
+  "TCG_SEA": {
+    "lottery": "TCG SEA宝くじ"
+  },
+  "TCG_LOTTO": {
+    "lottery": "TCG宝くじ"
+  },
+  "TCG_LOTTO_VN": {
+    "lottery": "TCG VN宝くじ"
+  },
+  "365": {
+    "chess": "365チェス"
+  },
+  "365TF": {
+    "chess": "365チェス"
+  },
+  "LY": {
+    "chess": "乐遊チェス",
+    "fish": "乐遊フィッシング"
+  },
+  "BC": {
+    "sports": "BCスポーツ",
+    "customsports": "BCスポーツ"
+  },
+  "AVIA": {
+    "sports": "AVIAスポーツ",
+    "esports": "AVIA eスポーツ"
+  },
+
+  "AWC_RCB": {
+    "sports": "RCB988スポーツ"
+  },
+  "AWC_VENUS": {
+    "live": "VENUSライブ"
+  },
+  "AWC_COCKFIGHT": {
+    "sports": "SV388闘鶏",
+    "cockfight": "SV388"
+  },
+  "AWC_SPADE": {
+    "electron": "SPADE電子",
+    "fish": "SPADEフィッシング",
+    "slots": "SPADEスロット"
+  },
+  "OBET": {
+    "sports": "OBETスポーツ"
+  },
+  "YEEBET": {
+    "live": "YEEBET"
+  },
+  "9WCRICKET": {
+    "sports": "9WCRICKET"
+  },
+  "AWC_FACAI": {
+    "electron": "発財電子",
+    "slots": "発財スロット",
+    "fish": "発財フィッシング"
+  },
+  "FACHAI": {
+    "electron": "発財電子",
+    "slots": "発財スロット",
+    "fish": "発財フィッシング"
+  },
+  "AWC_PGS": { "electron": "PGS電子", "slots": "PGSスロット" },
+  "AWC_AWS": { "electron": "AWS電子", "slots": "AWSスロット" },
+  "AWC_FS": { "slots": "FSスロット" },
+  "AWC_YL": { "electron": "YL電子", "fish": "YL釣り" },
+  "AWC_KM": { "electron": "KM電子" },
+  "AWC_LUDO": { "electron": "LUDO電子" },
+  "AWC_AELOTTO": { "lottery": "AE宝くじ" },
+
+  "TF": {
+    "sports": "TFスポーツ",
+    "esports": "TFeスポーツ"
+  },
+  "TFTF": {
+    "sports": "TFスポーツ",
+    "esports": "TFeスポーツ"
+  },
+  "SM01": {
+    "sports": "SM01",
+    "cockfight": "SM01"
+  },
+  "BTG": {
+    "slots": "BTGスロット"
+  },
+  "NLC": {
+    "slots": "NLCスロット"
+  },
+  "ENDOR": {
+    "slots": "Endorphinaスロット"
+  },
+  "idr": {
+    "withdrawalNumber": "銀行カード番号",
+    "msgEnterWithdrawalNumber": "銀行カード番号を入力してください"
+  },
+  "hk28": {
+    "withdrawalNumber": "銀行カード番号/FPS(ファストペイ)番号",
+    "msgEnterWithdrawalNumber": "銀行カード番号/FPS(ファストペイ)番号を入力してください",
+    "card": {
+      "addCard": {
+        "BankName": "銀行名/FPS(ファストペイ)",
+        "msgEnterBankName": "銀行名/FPS(ファストペイ)を入力してください",
+        "BankAccountName": "銀行口座名/FPS(ファストペイ)名",
+        "msgEnterBankAccountName": "銀行口座名/FPS(ファストペイ)名を入力してください"
+      }
+    }
+  },
+  "mess888": {
+    "panel": {
+      "im": "リアルタイム通信",
+      "cs": "カスタマーサービス",
+      "download": "アプリダウンロード"
+    },
+    "wap": {
+      "sports": "スポーツeスポーツ"
+    },
+    "web": {
+      "promotion": "プロモーション活動"
+    }
+  },
+  "bet28": {
+    "phoneNumber": "携帯番号/FPS ID",
+    "msgEnterPhone": "携帯番号/FPS IDを入力してください",
+    "BankAccountName": "支払人名（英文略称）を入力してください",
+    "msgEnterBankAccountName": "Chan Txx Mxx"
+  },
+  "sowin": {
+    "card": {
+      "addCard": {
+        "BankAccountName": "銀行口座名（英語）"
+      }
+    }
+  },
+  "download": {
+    "supported": "サポートデバイス",
+    "openGuide": "インストールガイドを見る",
+    "downloadMethod": "ダウンロード方法",
+    "scanDownload": "スキャン＆ダウンロード",
+    "useQRScan": "QRスキャンソフトを使用してスキャン",
+    "title": "ダウンロード",
+    "iphone": {
+      "title": "iPhone インストールガイド",
+      "point1": "1. ダウンロード方法を押して、インストール→起動をクリックすると、「企業開発者レベルに達していません」というメッセージが表示されます。",
+      "point2": "2. 設定>一般>デバイス管理>ポップアップ名の項目を見つけ、信頼をクリックしてください。"
+    },
+    "android": {
+      "title": "Android インストールガイド",
+      "point1": "1. ダウンロード方法を押して、ダウンロードが完了したらインストールしてください。",
+      "point2": "2. 設定>セキュリティ>不明なソース>許可して、再度システムを開きます。"
+    }
+  },
+  "piso": {
+    "withdrawalNumber": "銀行カード番号/暗号通貨アドレス",
+    "msgEnterWithdrawalNumber": "銀行カード番号/暗号通貨アドレスを入力してください",
+    "profile": {
+      "fullName": "氏名",
+      "enterFullName": "氏名を入力してください",
+      "documentNumber": "文書番号",
+      "enterDocumentNumber": "文書番号を入力してください"
+    }
+  },
+  "usertype": {
+    "agent": "代理人",
+    "player": "プレイヤー"
+  },
+  "vip": {
+    "birthBenefit": "誕生日特典",
+    "cardGameRebate": "カードゲーム",
+    "level": "プロモーション条件",
+    "levelKeepAccumulateBetAmount": "保持するための月間ベット金額",
+    "levelKeepAccumulateDeposit": "保持するための月間デポジット金額",
+    "levelUpAccumulateBetAmount": "昇格するための当日ベット金額",
+    "levelUpAccumulateDeposit": "昇格するための当日デポジット金額",
+    "liveDealerRebate": "ライブディーラー",
+    "lotteryRebate": "宝くじゲーム",
+    "promotionBenefit": "プロモーション特典",
+    "quarterlyBenefit": "四半期特典",
+    "slotRebate": "スロットゲーム",
+    "sportsRebate": "スポーツ",
+    "virtualSportsRebate": "バーチャルスポーツ",
+    "vipBenefit": "VIPキャッシュバック",
+    "bunny": {
+      "level1": "青銅",
+      "level2": "銀",
+      "level3": "金",
+      "level4": "ルビー",
+      "level5": "プラチナ",
+      "level6": "ダイヤモンド"
+    },
+    "bonus": "ボーナス",
+    "levelUp": "条件を満たす必要があります",
+    "levelUpBonus": "昇格ボーナス",
+    "totalDeposit": "累積デポジット金額",
+    "totalVaildBet": "累積ベット金額"
+  },
+  "custom": {
+    "addcard": {
+      "name": "振込口座名",
+      "msgPlsEnterName": "振込口座名を入力してください",
+      "phoneNumber": "振込口座番号",
+      "msgEnterPhone": "振込口座番号またはメールアドレスを入力してください"
+    }
+  },
+  "depositNotification": {
+    "title": "振込ガイド",
+    "content": "皆様へお願いですが、振込口座に関しては、プラットフォームの口座に基づいて振込を行ってください。古い口座への振込の場合、クレジットの反映に時間がかかることがあり、確認できない場合もあります。この問題については当社は責任を負いかねますのでご了承ください。"
+  },
+  "depositNotificationGMO": {
+    "title": "振込ガイド",
+    "content": "お客様への入出金についてのご案内\nマネーロンダリング防止のため\n通常、お客様の毎日の出金回数は3回です。\n出金は充值アカウントにバインドされているアカウントでなければなりません。\n出金に関する問題はカスタマーサービスにお問い合わせください。"
+  },
+  "mgm": {
+    "msgPlsEnterAccount": "銀行口座/氏名を入力してください",
+    "accountDepositTips": "有効な振込銀行名を記入してください。クレジットを便利にします",
+    "nameDepositTips": "有効な振込口座/氏名を入力してください。クレジットを便利にします"
+  },
+  "t3": {
+    "profile": "ユーザー情報",
+    "transfer": "転送",
+    "deposit": "入金",
+    "withdraw": "引き出し"
+  },
+  "verified": {
+    "yes": "認証済み",
+    "no": "未認証",
+    "rejected": "拒否されました",
+    "verifying": "認証中",
+    "waiting": "カスタマーサービスの確認を待っています",
+    "goVerify": "実際の名前を確認"
+  },
+  "disabledAddCard": {
+    "title": "アカウントにカードが見つかりません",
+    "description": "カスタマーサービスに連絡して、カードを追加して引き出しページにアクセスしてください。"
+  },
+  "hint": {
+    "_099": "(00:00-23:59) の間に使用可能"
+  },
+
+  "idr1": {
+    "pleaseEnterAccountName": "銀行名を入力してください",
+    "msgPlsSelectAccount": "アカウントを選択してください",
+    "eWalletAccount": "電子マネー名",
+    "phone": "電話番号"
+  },
+  "king8": {
+    "EWallet": "電子マネー",
+    "FPS": "轉数快",
+    "ThirdParty": "コンビニ現金"
+  },
+  "pointless": {
+    "download": "アプリのリンク",
+    "copy": "コピー済み",
+    "link": "リンク"
+  },
+  "promoRoulette": {
+    "main": "プロモーションメインページ",
+    "content": "プロモーション内容",
+    "terms": "プロモーション規約",
+    "dialogDARUnavailableTitle": "チャージ抽選は終了しました",
+    "dialogUnavailableTitle1": "1日1回のみプレイ可能です",
+    "dialogUnavailableTitle2": "明日またお越しください",
+    "dialogUnavailableTitle3": "詳細な特典を見る",
+    "dialogRewardTitle1": "おめでとうございます！",
+    "betterluck": "次回はがんばってください！",
+    "dialogErrorTitle1": "抽選できません",
+    "dialogErrorTitle2": "後でもう一度お試しください",
+    "dialogIndexErrorTitle1": "プレイヤーを更新してください",
+    "remainingSpin": "あと {rouletteCount} 回のチャンスがあります！",
+    "history": "当選履歴",
+    "winningID": "当選ID",
+    "dateTime": "日時",
+    "winnings": "当選内容",
+    "outOfCount": "チャンスを使い切りました！"
+  },
+  "idr1HomePage": {
+    "section1": {
+      "live": "ライブカジノ",
+      "slot": "スロットゲーム",
+      "lottery": "ロトゲーム",
+      "fishing": "フィッシュゲーム"
+    },
+    "section2": {
+      "1000game": "1000+ ゲーム",
+      "247support": "24/7 サポート",
+      "fastpay": "迅速な支払い",
+      "secure": "100% 安全",
+      "vip": "VIP特典",
+      "promo": "素晴らしいプロモーション"
+    },
+    "section3": {
+      "title": "モバイルエンターテイメント",
+      "description": "スロットゲーム、ライブカジノ、スポーツベッティングをスマートフォンで簡単にプレイ"
+    },
+    "section4": {
+      "exclusive": "独占",
+      "vip": "VIP特典",
+      "description": "今すぐご参加いただき、特別なVIP特典をお楽しみください"
+    }
+  },
+  "brand": {
+    "KING8": {
+      "title": "Game of KING - 専門エンターテイメントプラットフォーム",
+      "description": "専門エンターテイメントプラットフォーム",
+      "footer": "Game of KING"
+    },
+    "WGHK": {
+      "title": "MGM Sports - 専門エンターテイメントプラットフォーム",
+      "description": "専門エンターテイメントプラットフォーム",
+      "footer": "MGM Sports"
+    }
+  },
+  "t10": {
+    "home": {
+      "section2": {
+        "title": "スーパーウィン"
+      },
+      "section3": {
+        "title": "アジアで最高のカジノ",
+        "content": {
+          "first": "よりプロフェッショナル",
+          "second": "より信頼性が高い",
+          "third": "より安全",
+          "forth": "より迅速"
+        }
+      },
+      "section4": {
+        "title": "誇り高きパートナー"
+      }
+    }
+  },
+  "WGHK": {
+    "loginRegister": "今すぐログイン/登録"
+  },
+  "T2": {
+    "marquee": "最新お知らせ"
+  },
+  "customGPname": {
+    "sport": "スポーツ"
+  },
+  "fees": {
+    "withdraw": "引き出し手数料",
+    "deposit": "入金手数料"
+  },
+  "extended": {
+    "name": "アカウント名",
+    "phone": "電話番号",
+    "eMoneyName": "電子マネー名",
+    "bankAccount": "銀行口座番号",
+    "address": "住所",
+    "fpsId": "FPS ID",
+    "email": "Eメール"
+  },
+  "TIGER": {
+    "login": "ログイン",
+    "cs": "お問い合わせ",
+    "my": "マイアカウント",
+    "promo": "プロモーション",
+    "chess": "チェス",
+    "sport": "スポーツ競技",
+    "fish": "フィッシュゲーム",
+    "lottery": "宝くじ"
+  },
+  "GKX": {
+    "chess": "GKXチェス"
+  },
+  "CP": {
+    "lottery": "CP宝くじ"
+  },
+  "T13": {
+    "footer": {
+      "copyright": "{brand} Copyright© 2020 {brand} Casino Co.Group. ",
+      "rights": "All Rights Reserved."
+    },
+    "socials": {
+      "fb_title": "Facebook",
+      "viber_title": "Viber",
+      "line_title": "LINE",
+      "telegram_title": "Telegram"
+    },
+    "misc": {
+      "msgEnterCode": "認証コードを入力してください",
+      "addBankCard": "銀行カードを追加",
+      "msgAddCardDesc": "ここに銀行カードを追加して引き出しを行います。最大 {maxCardCount} 枚まで。",
+      "branch": "銀行支店名"
+    },
+    "register": {
+      "confirmPassword": "パスワードを再入力",
+      "btn": "今すぐ登録"
+    },
+    "password": {
+      "title": "ログインパスワード",
+      "cp": "現在のパスワード",
+      "cp_label": "現在のパスワード",
+      "cp_placeholder": "現在のパスワードを入力してください",
+      "np": "新しいパスワード",
+      "re_np": "新しいパスワードを再入力してください"
+    },
+    "line": {
+      "line_title": "LINE",
+      "line_label": "LINE アカウント",
+      "line_placeholder": "LINE アカウントを入力してください"
+    },
+    "facebook": {
+      "fb_title": "Facebook",
+      "fb_label": "Facebook アカウント",
+      "fb_placeholder": "Facebook アカウントを入力してください"
+    },
+    "telegram": {
+      "tg_title": "Telegram",
+      "tg_label": "Telegram アカウント",
+      "tg_placeholder": "Telegram アカウントを入力してください"
+    },
+    "viber": {
+      "vb_title": "Viber",
+      "vb_label": "Viber アカウント",
+      "vb_placeholder": "Viber アカウントを入力してください"
+    },
+    "help_footer": {
+      "break1": "ご質問がありますか？",
+      "break2": "お問い合わせ",
+      "break3": "より多くのヘルプを求める"
+    },
+    "dialog": {
+      "confirm": "了解しました！"
+    },
+    "winner": "当選者",
+    "proceedLogin": "すでにアカウントをお持ちですか？",
+    "proceedRegister": "アカウントをお持ちでないですか？",
+    "me": "私",
+    "topGames": "人気ゲーム",
+    "recommeneddGames": "おすすめ",
+    "newGames": "新着ゲーム",
+    "topNews": "トップニュース",
+    "aboutUs": "私たちについて",
+    "quickLink": {
+      "title": "クイックリンク",
+      "247": "24/7 カスタマーサービス",
+      "faq": "よくある質問",
+      "privacy": "プライバシーポリシー",
+      "tnc": "利用規約",
+      "reponsible": "責任あるゲーム",
+      "follow": "フォローする"
+    },
+    "partners": "パートナー",
+    "brandTag": "{brandName}：成功したカジノ！",
+    "brandDescription": "{brandName} はオンラインカジノプレイヤーのための最良の目的地です。一流でエレガントな雰囲気を求めるプレイヤーに最適です。当社のカジノは400種類以上のオンラインカジノゲームを提供しています - 伝統的なものから現代的で斬新なもの、異国情緒あふれるものまで。魅力的な週間ボーナスプロモーションや魅力的な忠誠度およびVIPプログラムで、将来も当社のサービスをご愛顧いただけると信じています。当社のすべてのソフトウェアは、業界で最も重要なオンラインゲームソフトウェア会社であるPegasusによって開発および維持されています。そのため、最高品質と究極の安全性を提供する洗練された魅力的な雰囲気をお楽しみいただけます。",
+    "belongTo": "このウェブサイトはPAGCOR（フィリピンエンターテインメント＆ゲーミング株式会社）によってライセンスされ、監督されています。PGG Copyright© 2020 PGG Casino Co.Group All Rights Reserved Version {version}",
+    "promo": {
+      "join": "ボーナスを受け取る"
+    },
+    "slot": {
+      "search": "検索",
+      "provider": "プロバイダー"
+    },
+    "deposit": {
+      "upload": "アップロード"
+    },
+    "report": {
+      "joinedPromo": {
+        "title": "プロモーション履歴"
+      },
+      "transfer": {
+        "title": "転送履歴"
+      }
+    },
+    "vip": {
+      "level": "VIPプログラム",
+      "levelKeepAccumulateBetAmount": "維持するための今月のベット金額",
+      "levelKeepAccumulateDeposit": "維持するための今月のデポジット金額",
+      "levelUpAccumulateBetAmount": "昇格するための今日のベット金額",
+      "levelUpAccumulateDeposit": "昇格するための今日のデポジット金額",
+      "birthBenefit": "誕生日特典",
+      "promotionBenefit": "プロモーション特典",
+      "quarterlyBenefit": "四半期特典"
+    },
+    "panel": {
+      "im": "インスタントメッセージ"
+    },
+    "header": {
+      "news": "ニュース"
+    },
+    "gamingLicense": "ゲームライセンス"
+  },
+  "rebateRate": {
+    "title": "返水比率",
+    "players": "アクティブプレーヤー",
+    "turnover": "有効ベット",
+    "rebates": "返水比率"
+  },
+  "depositAndWithdrawalStatus": {
+    "depositOrWithdraw": "入出金状況",
+    "updatedTime": "更新時間",
+    "orderNo": "注文番号",
+    "depositMode": "モード",
+    "bankType": "銀行タイプ",
+    "channel": "チャネル",
+    "amount": "金額",
+    "status": "ステータス",
+    "approved": "承認済み",
+    "rejected": "拒否済み",
+    "withdrawal_approved": "支払い待ち",
+    "paid": "成功",
+    "DepositNotify": "入金注文",
+    "WithdrawNotify": "出金注文",
+    "WithdrawalNotify": "出金注文"
+  },
+  "t15": {
+    "notLogin": "ログインしていません！",
+    "logintoCheck": "ログインして確認してください",
+    "serverStatus": "サーバーステータス",
+    "sponsor": "スポンサー",
+    "memberLogin": "メンバーログイン",
+    "memberRegister": "メンバー登録",
+    "sponsor1": "リバプール",
+    "sponsor2": "フィオレンティーナ",
+    "sponsor3": "レアル・ソシエダ",
+    "sponsor4": "リヨン",
+    "sponsor5": "シャルケ04",
+    "sponsorDesc": "アジア公式パートナー"
+  },
+
+  "qq_account": "QQアカウント",
+  "qq_invalid": "QQアカウントの形式が正しくありません",
+  "qq_toEdit": "QQアカウントを変更する場合はこちらをクリックしてください",
+  "wechat_account": "WeChatアカウント",
+  "wechat_invalid": "WeChatアカウントの形式が正しくありません",
+  "wechat_toEdit": "WeChatアカウントを変更する場合はこちらをクリックしてください",
+  "line_account": "LINEアカウント",
+  "line_invalid": "LINEアカウントの形式が正しくありません",
+  "line_toEdit": "LINEアカウントを変更する場合はこちらをクリックしてください",
+  "viber_account": "Viberアカウント",
+  "viber_invalid": "Viberアカウントの形式が正しくありません",
+  "viber_toEdit": "Viberアカウントを変更する場合はこちらをクリックしてください",
+  "telegram_account": "Telegramアカウント",
+  "telegram_invalid": "Telegramアカウントの形式が正しくありません",
+  "telegram_toEdit": "Telegramアカウントを変更する場合はこちらをクリックしてください",
+  "fb_account": "Facebook Messengerアカウント",
+  "fb_invalid": "Facebook Messengerアカウントの形式が正しくありません",
+  "fb_toEdit": "Facebook Messengerアカウントを変更する場合はこちらをクリックしてください",
+  "whatsapp_account": "WhatsAppアカウント",
+  "whatsapp_invalid": "WhatsAppアカウントの形式が正しくありません",
+  "whatsapp_toEdit": "WhatsAppアカウントを変更する場合はこちらをクリックしてください",
+  "zalo_account": "Zaloアカウント",
+  "zalo_invalid": "Zaloアカウントの形式が正しくありません",
+  "zalo_toEdit": "Zaloアカウントを変更する場合はこちらをクリックしてください",
+  "here": "こちら",
+
+  "second": "秒",
+  "platform": "プラットフォーム",
+
+  "security": "セキュリティ",
+  "message": "メッセージ",
+  "announcement": "お知らせ",
+  "changepassword": "パスワード変更",
+  "changemoneypassword": "引き出しパスワードの変更",
+  "betrecord": "ベット履歴",
+  "language": "言語",
+  "signout": "ログアウト",
+  "click_download": "ダウンロードする",
+  "copy_link": "リンクをコピー",
+
+  "pleaseenter": "入力してください",
+  "memo": "メモ",
+  "compose": "新規作成",
+  "memoinbox": "受信トレイ",
+  "sent": "送信済み",
+  "number": "番号",
+  "date": "日付",
+  "subject": "件名",
+  "action": "操作",
+  "reply": "返信",
+  "sendsuccess": "送信成功",
+  "daysago": "日前",
+  "sentBy": "送信者",
+  "yourmessage": "メッセージ内容",
+  "originalmessage": "元のメッセージ",
+
+  "onlinechat": "オンラインチャット",
+  "collect": "お気に入り",
+  "create": "作成",
+  "gameEntrance": "ゲーム入口",
+  "timeToPlay": "プレイの時間です",
+  "showAllGames": "すべてのゲームを表示",
+
+  "news": "ニュース",
+  "myfavorite": "お気に入り",
+  "myfavoriteDescription1": "お気に入りがありません",
+  "myfavoriteDescription2": "お気に入りのゲームをすぐに追加してください！",
+  "mycustomersupport": "カスタマーサポート",
+  "welcometocustomersupport": "カスタマーサポートへようこそ",
+  "membercenter": "メンバーセンター",
+  "vipprivilege": "VIP特典",
+  "accountsafety": "アカウントの安全性",
+  "rewardcenter": "リワードセンター",
+  "joinus": "参加する",
+  "accountrecord": "アカウント記録",
+  "enterGame": "ゲームに入る",
+  "balanceChange": "残高変動履歴",
+  "shortCockfight": "鶏の戦い",
+
+  "confirmSubmit": "確認して送信する",
+
+  "ifsc": "IFSC",
+
+  "selectBank": "銀行を選択",
+
+  "donotshowagainfortoday": "今日はもう表示しない",
+
+  "alltimefavourite": "定番ゲーム",
+  "bestlivecasino": "ライブカジノ",
+  "followus": "フォローする",
+  "downloadapp": "アプリをダウンロード",
+  "justwon": "ゲームに勝ちました",
+
+  "introduction": "はじめに",
+  "introdesc": "{brandName}のモバイルカジノアプリは、ウェブサイトのすべての機能をあなたの指先にもたらします。iOS とAndroidの両方をサポートし、多くのエンターテイメントゲームを提供します。",
+  "compatible": "互換性",
+  "compatibledesc": "アプリはすべてのiOSおよびAndroidデバイスに対応しています",
+  "secure": "セキュリティ",
+  "securedesc": "AndroidとiOSの両方で同じセキュリティ基準を採用しています",
+  "extensive": "幅広い",
+  "extensivedesc": "スポーツベッティングを含む1000を超えるゲームにアクセスできます",
+  "convenient": "便利",
+  "convenientdesc": "使いやすいインターフェースでシンプルで魅力的です",
+
+  "createaccount": "アカウントを作成",
+  "reenterpassword": "パスワードを再入力",
+  "customerservice724": "24時間365日のカスタマーサポート",
+
+  "affiliateprogram": "{brandName} アフィリエイトプログラム",
+  "affiliateprogramdesc": "{brandName} オンラインカジノはその豊富なゲーム選択で知られており、{brandName} アフィリエイトプログラムを通じて、カジノの成功を共有し、収益を増やすことができます。\n無料でアフィリエイトメンバーになり、あなたのカジノへの情熱を共有して収入を増やしましょう。成功はあなたの手の中にあります！",
+  "becomeaffiliatenow": "今すぐアフィリエイトになる",
+
+  "hotgames": "人気ゲーム",
+  "newgames": "新しいゲーム",
+  "recommended": "おすすめ",
+  "todaysspecial": "今日の特別",
+  "more": "もっと見る",
+
+  "addcardsuccesstitle": "銀行カードの追加が成功しました。",
+  "addcardsuccessdesc": "おめでとうございます！銀行カードの追加が完了しました。このカードを使用して引き出しを行うことができます。さらにカードを追加する場合は、「別のカードを追加」をクリックしてください。",
+  "addanothercard": "別のカードを追加",
+
+  "balancechangereport": "残高変動レポート",
+  "activityreport": "アクティビティレポート",
+
+  "undermaintenance": "メンテナンス中",
+
+  "movn2_addcardsuccess": "おめでとうございます！銀行カードの登録が完了しました。これで、このカードを使用して引き出しを行うことができます。\nカードの変更が必要な場合は、カスタマーサポートチームにお問い合わせください。",
+  "t29": {
+    "wagering": "ベッティング",
+    "wageringrequirement": "賭け条件",
+    "main": "賭け条件"
+  },
+  "wagering": {
+    "wageringrequirement": "賭け条件",
+    "main": "賭け条件"
+  },
+  "remark": "備考",
+
+  "sscnapoli": "SSCナポリ",
+  "astonvilla": "アストン・ヴィラ",
+  "laclipper": "ロサンゼルス・クリッパーズ",
+  "officialpartners": "公式パートナー",
+
+  "agent": {
+    "agentInfo": "代理情報",
+    "playerList": "プレイヤーリスト",
+    "agentList": "エージェントリスト",
+    "winlossReport": "勝敗レポート",
+    "profitShareReport": "分配レポート",
+    "profitShareP/T": "分配比率",
+    "cumulativenegativeDividendAmount": "累積マイナス分配金額",
+    "negativeDividend": "マイナス分配",
+    "liable": "責任を負う",
+    "notLiable": "責任を負わない",
+    "platformFee": "プラットフォーム料金",
+    "productCharges": "製品料金",
+    "directAgent": "直属エージェント",
+    "indirectAgent": "間接エージェント",
+    "diectPlayer": "直属プレイヤー",
+    "indirectPlayer": "間接プレイヤー",
+    "referralCode": "紹介コード",
+    "totalDeposit": "総入金額",
+    "totalWithdraw": "総出金額",
+    "playerName": "プレイヤー名",
+    "status": "ステータス",
+    "enabled": "有効",
+    "disabled": "無効",
+    "inBlacklist": "ブラックリスト",
+    "vipLevel": "VIPレベル",
+    "registeredTime": "登録時間",
+    "latestLogin": "最終ログイン時間",
+    "teamSize": "チームサイズ",
+    "formula": {
+      "noOfTickets": "注文数：エージェントチームまたは直属プレイヤーが精算した総注文数。",
+      "turnover": "有効投注：エージェントチームまたは直属プレイヤーの総有効投注額。",
+      "playerWinloss": "プレイヤーの勝敗：下位エージェントチームまたは直属プレイヤーの総勝敗金額。（プレイヤー勝利：正の数を表示；プレイヤー敗北：負の数を表示）。",
+      "bonusAmount": "ボーナス金額：VIP特典 + VIPキャッシュバック + イベントの特典金額。",
+      "agentWinloss": "エージェントの勝敗：（0 - プレイヤーの勝敗金額）× エージェントシェア。",
+      "agentSpecial": "エージェントスペシャル：（0 - プレイヤースペシャル）× エージェントシェア。",
+      "teamContribution": "チーム貢献 = 直属エージェントの純利益 ×（分配比率 - 直属エージェントの分配比率）",
+      "playerPL": "プレイヤーの収支：プレイヤーの勝敗 + プレイヤースペシャル。",
+      "playerSpecial": "プレイヤースペシャル：このエージェントライン全体のプレイヤーの 'ボーナス金額' + '調整'（企業、エージェント、プロモーション）",
+      "agentPL": "エージェントの収支：エージェントの勝敗 + エージェントスペシャル。"
+    },
+    "memberType": "タイプ",
+    "totalOrders": "合計注文数",
+    "validBet": "有効ベット",
+    "winLoss": "勝敗",
+    "special": "スペシャル",
+    "pL": "P/L",
+    "agentSpecial": "エージェントスペシャル",
+    "agentPL": "エージェントP/L",
+    "agentWinLoss": "エージェント勝敗",
+    "bonus": "ボーナス",
+    "adjust": "調整",
+    "total": "合計",
+    "playerSpecial": "プレイヤースペシャル",
+    "settlementPeriod": "精算期間",
+    "daily": "毎日",
+    "weekly": "毎週",
+    "biWeekly": "隔週",
+    "monthly": "毎月",
+    "previousPeriod": "前の期間",
+    "currentPeriod": "現在の期間",
+    "startEndDate": "開始＆終了日",
+    "distributed": "配布済み",
+    "review": "レビュー",
+    "reject": "拒否",
+    "agentCoveredBonus": "エージェントカバードボーナス",
+    "agentCoveredBonusAdjust": "エージェントカバードボーナス調整",
+    "periodPL": "期間P/L",
+    "companyWinLoss": "会社W/L",
+    "netProfit": "純利益",
+    "bonusAdjust": "ボーナス調整",
+    "playerContribution": "プレイヤー貢献",
+    "profitSharePT": "利益分配P/T",
+    "profitShareAmount": "利益分配金額",
+    "teamContribution": "チーム貢献",
+    "cumulativeNegativeDividendAmount": "累積マイナス分配金額",
+    "agentAdjust": "エージェント調整"
+  },
+
+  "JILI_PH": {
+    "addCard": {
+      "phoneError": "11桁の数字。銀行番号は登録番号と一致する必要があります。"
+    }
+  },
+
+  "MOVN2": {
+    "NET": "ネット",
+    "DR": "ダイレクト",
+    "QR": "QR",
+    "MOMO": "MOMO",
+    "VP": "ViettelPay",
+    "USDT": "USDT"
+  },
+
+  "V227": {
+    "sponsor": "スポンサー",
+    "sponsor1": "鹿島アントラーズ",
+    "sponsor2": "アトレティコ・マドリード",
+    "sponsor3": "ゴールデンステート・ウォリアーズ"
+  },
+
+  "369": {
+    "profile": {
+      "title": "個人情報",
+      "emailAddress": "メールアドレス",
+      "notYetSet": "未設定",
+      "notYetVerified": "未認証"
+    }
+  }
+}
