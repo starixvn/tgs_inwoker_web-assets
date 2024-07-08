@@ -648,7 +648,14 @@
     "ratio": "Ratio",
     "totalBetAmount": "Total Bet Amount",
     "totalWinLose": "Total Win Loss",
-    "totalValidBet": "Total Valid Bet"
+    "totalValidBet": "Total Valid Bet",
+    "agentRebateReport": "All Agent Rebate Report",
+    "agentRebate": {
+      "settlementDate": "Settlement Date",
+      "maxActivePlayer": "Max. Active Player",
+      "totalRebates": "Total Rebates",
+      "IntervalDays": "Interval should be less than {maxdays} days"
+    }
   },
   "share": {
     "bottomNote": {

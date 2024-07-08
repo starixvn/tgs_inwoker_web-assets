@@ -640,7 +640,14 @@
     "ratio": "倍率",
     "totalBetAmount": "総ベット額",
     "totalWinLose": "総勝敗",
-    "totalValidBet": "総有効ベット"
+    "totalValidBet": "総有効ベット",
+    "agentRebateReport": "全民代理キャッシュバック",
+    "agentRebate": {
+      "settlementDate": "精算日",
+      "maxActivePlayer": "最大アクティブ人数",
+      "totalRebates": "キャッシュバック金額",
+      "IntervalDays": "間隔は{maxdays}日未満である必要があります"
+    }
   },
   "share": {
     "bottomNote": {

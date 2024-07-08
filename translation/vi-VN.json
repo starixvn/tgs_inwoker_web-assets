@@ -647,7 +647,14 @@
     "ratio": "Tỷ lệ",
     "totalBetAmount": "Tổng số tiền đặt cược",
     "totalWinLose": "Tổng số tiền thắng thua",
-    "totalValidBet": "Tổng cược"
+    "totalValidBet": "Tổng cược",
+    "agentRebateReport": "Đại lý toàn dân hoàn trả",
+    "agentRebate": {
+      "settlementDate": "Ngày tính toán",
+      "maxActivePlayer": "Số người hoạt động tối đa",
+      "totalRebates": "Số tiền hoàn trả",
+      "IntervalDays": "Khoảng cách phải dưới {maxdays} ngày"
+    }
   },
   "share": {
     "bottomNote": {

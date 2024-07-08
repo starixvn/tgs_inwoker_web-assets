@@ -179,7 +179,7 @@
     "qq": "QQ கணக்கு",
     "donotshowagain": "Don't show again",
     "hello": "Hello",
-    "wagering":"Wagering"
+    "wagering": "Wagering"
   },
   "affiliate": {
     "title": "தொடர்புடைய",
@@ -641,7 +641,14 @@
     "ratio": "விகிதம்",
     "totalBetAmount": "மொத்த பந்தயம் தொகை",
     "totalWinLose": "மொத்த வெற்றி தோல்வி",
-    "totalValidBet": "மொத்த செல்லுபடியாகும் பந்தயம்"
+    "totalValidBet": "மொத்த செல்லுபடியாகும் பந்தயம்",
+    "agentRebateReport": "All Agent Rebate Report",
+    "agentRebate": {
+      "settlementDate": "Settlement Date",
+      "maxActivePlayer": "Max. Active Player",
+      "totalRebates": "Total Rebates",
+      "IntervalDays": "Interval should be less than {maxdays} days"
+    }
   },
   "share": {
     "bottomNote": {

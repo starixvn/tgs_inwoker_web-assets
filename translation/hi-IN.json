@@ -641,7 +641,14 @@
     "ratio": "अनुपात",
     "totalBetAmount": "कुल दांव राशि",
     "totalWinLose": "कुल जीत हार",
-    "totalValidBet": "कुल वैध दांव"
+    "totalValidBet": "कुल वैध दांव",
+    "agentRebateReport": "All Agent Rebate Report",
+    "agentRebate": {
+      "settlementDate": "Settlement Date",
+      "maxActivePlayer": "Max. Active Player",
+      "totalRebates": "Total Rebates",
+      "IntervalDays": "Interval should be less than {maxdays} days"
+    }
   },
   "share": {
     "bottomNote": {

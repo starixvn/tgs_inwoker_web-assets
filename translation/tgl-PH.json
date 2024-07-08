@@ -648,7 +648,14 @@
     "ratio": "Ratio",
     "totalBetAmount": "Kabuuang Halaga ng Taya",
     "totalWinLose": "Kabuuang pagkatalo ng panalo",
-    "totalValidBet": "Kabuuang Wastong Taya"
+    "totalValidBet": "Kabuuang Wastong Taya",
+    "agentRebateReport": "Ulat ng Rebate ng Lahat ng Ahente",
+    "agentRebate": {
+      "settlementDate": "Petsa ng Pag-aayos",
+      "maxActivePlayer": "Pinakamataas na Aktibong Manlalaro",
+      "totalRebates": "Kabuuang Rebate",
+      "IntervalDays": "Ang pagitan ay dapat mas mababa sa {maxdays} araw."
+    }
   },
   "share": {
     "bottomNote": {

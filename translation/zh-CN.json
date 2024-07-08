@@ -648,7 +648,14 @@
     "ratio": "赔率",
     "totalBetAmount": "总投注",
     "totalWinLose": "总输赢",
-    "totalValidBet": "总有效投注"
+    "totalValidBet": "总有效投注",
+    "agentRebateReport": "全民代理反水",
+    "agentRebate": {
+      "settlementDate": "结算日期",
+      "maxActivePlayer": "最大活跃人数",
+      "totalRebates": "反水金额",
+      "IntervalDays": "间隔需小于{maxDays}天"
+    }
   },
   "share": {
     "bottomNote": {

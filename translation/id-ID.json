@@ -185,7 +185,7 @@
     "qq": "Akun QQ",
     "donotshowagain": "Jangan tampilkan lagi",
     "hello": "Halo",
-    "wagering":"rollover"
+    "wagering": "rollover"
   },
   "affiliate": {
     "title": "Afiliasi",
@@ -645,7 +645,14 @@
     "ratio": "Rasio",
     "totalBetAmount": "Total Jumlah Taruhan",
     "totalWinLose": "Jumlah Menang Rugi",
-    "totalValidBet": "Total Taruhan yang Sah"
+    "totalValidBet": "Total Taruhan yang Sah",
+    "agentRebateReport": "Semua Agen Rakyat Cashback",
+    "agentRebate": {
+      "settlementDate": "Tanggal Penyelesaian",
+      "maxActivePlayer": "Jumlah Aktif Maksimum",
+      "totalRebates": "Jumlah Cashback",
+      "IntervalDays": "Jarak Waktu Harus Kurang dari {maxdays} Hari"
+    }
   },
   "share": {
     "bottomNote": {

@@ -641,7 +641,14 @@
     "ratio": "อัตราต่อรอง",
     "totalBetAmount": "จำนวนเงินเดิมพันทั้งหมด",
     "totalWinLose": "การสูญเสียการชนะทั้งหมด",
-    "totalValidBet": "เดิมพันที่ถูกต้องทั้งหมด"
+    "totalValidBet": "เดิมพันที่ถูกต้องทั้งหมด",
+    "agentRebateReport": "All Agent Rebate Report",
+    "agentRebate": {
+      "settlementDate": "Settlement Date",
+      "maxActivePlayer": "Max. Active Player",
+      "totalRebates": "Total Rebates",
+      "IntervalDays": "Interval should be less than {maxdays} days"
+    }
   },
   "share": {
     "bottomNote": {
