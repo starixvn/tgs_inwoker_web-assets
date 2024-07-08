@@ -654,7 +654,7 @@
       "settlementDate": "结算日期",
       "maxActivePlayer": "最大活跃人数",
       "totalRebates": "反水金额",
-      "IntervalDays": "间隔需小于{maxDays}天"
+      "intervalDays": "间隔需小于{maxdays}天"
     }
   },
   "share": {

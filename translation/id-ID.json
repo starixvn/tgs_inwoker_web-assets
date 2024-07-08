@@ -651,7 +651,7 @@
       "settlementDate": "Tanggal Penyelesaian",
       "maxActivePlayer": "Jumlah Aktif Maksimum",
       "totalRebates": "Jumlah Cashback",
-      "IntervalDays": "Jarak Waktu Harus Kurang dari {maxdays} Hari"
+      "intervalDays": "Jarak Waktu Harus Kurang dari {maxdays} Hari"
     }
   },
   "share": {

@@ -647,7 +647,7 @@
       "settlementDate": "Settlement Date",
       "maxActivePlayer": "Max. Active Player",
       "totalRebates": "Total Rebates",
-      "IntervalDays": "Interval should be less than {maxdays} days"
+      "intervalDays": "Interval should be less than {maxdays} days"
     }
   },
   "share": {

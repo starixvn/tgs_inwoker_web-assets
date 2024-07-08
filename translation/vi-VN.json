@@ -653,7 +653,7 @@
       "settlementDate": "Ngày tính toán",
       "maxActivePlayer": "Số người hoạt động tối đa",
       "totalRebates": "Số tiền hoàn trả",
-      "IntervalDays": "Khoảng cách phải dưới {maxdays} ngày"
+      "intervalDays": "Khoảng cách phải dưới {maxdays} ngày"
     }
   },
   "share": {

@@ -654,7 +654,7 @@
       "settlementDate": "Petsa ng Pag-aayos",
       "maxActivePlayer": "Pinakamataas na Aktibong Manlalaro",
       "totalRebates": "Kabuuang Rebate",
-      "IntervalDays": "Ang pagitan ay dapat mas mababa sa {maxdays} araw."
+      "intervalDays": "Ang pagitan ay dapat mas mababa sa {maxdays} araw."
     }
   },
   "share": {

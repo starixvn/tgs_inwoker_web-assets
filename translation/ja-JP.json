@@ -646,7 +646,7 @@
       "settlementDate": "精算日",
       "maxActivePlayer": "最大アクティブ人数",
       "totalRebates": "キャッシュバック金額",
-      "IntervalDays": "間隔は{maxdays}日未満である必要があります"
+      "intervalDays": "間隔は{maxdays}日未満である必要があります"
     }
   },
   "share": {
