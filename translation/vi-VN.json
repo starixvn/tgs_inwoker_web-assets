@@ -1865,7 +1865,10 @@
     "profitShareAmount": "Chia sẻ lợi nhuận",
     "teamContribution": "Đóng góp của nhóm",
     "cumulativeNegativeDividendAmount": "số hoa hồng âm tích lũy",
-    "agentAdjust": "Điều chỉnh đại lý"
+    "agentAdjust": "Điều chỉnh đại lý",
+    "companyAdjust": "Công ty điều chỉnh",
+    "pageTotal": "Page total",
+    "contribution": "Dividend Report"
   },
 
   "MOVN2": {

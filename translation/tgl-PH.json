@@ -1907,7 +1907,10 @@
     "profitShareAmount": "Halaga ng Dibidendo",
     "teamContribution": "Kontribusyon ng Koponan",
     "cumulativeNegativeDividendAmount": "pinag sama-samang halaga ng negatibong dibidendo",
-    "agentAdjust": "Adjustment ng Ahente"
+    "agentAdjust": "Adjustment ng Ahente",
+    "companyAdjust": "Pag-aayos ng Kumpanya",
+    "pageTotal": "Page total",
+    "contribution": "Dividend Report"
   },
 
   "JILI_PH": {

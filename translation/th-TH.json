@@ -1876,7 +1876,10 @@
     "profitShareAmount": "Profit Share Amount",
     "teamContribution": "Team Contribution",
     "cumulativeNegativeDividendAmount": "Cumulative negative dividend amount",
-    "agentAdjust": "Agent Adjust"
+    "agentAdjust": "Agent Adjust",
+    "companyAdjust": "Company Adjust",
+    "pageTotal": "Page total",
+    "contribution": "Dividend Report"
   },
 
   "MOVN2": {

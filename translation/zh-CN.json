@@ -1915,7 +1915,10 @@
     "profitShareAmount": "分红金额",
     "teamContribution": "团队贡献",
     "cumulativeNegativeDividendAmount": "累计负分红",
-    "agentAdjust": "代理调帐"
+    "agentAdjust": "代理调帐",
+    "companyAdjust": "公司调帐",
+    "pageTotal": "页总计",
+    "contribution": "代理贡献报表"
   },
 
   "JILI_PH": {
