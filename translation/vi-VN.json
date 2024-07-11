@@ -647,7 +647,7 @@
     "ratio": "Tỷ lệ",
     "totalBetAmount": "Tổng số tiền đặt cược",
     "totalWinLose": "Tổng số tiền thắng thua",
-    "totalValidBet": "Tổng cược",
+    "totalValidBet": "Tổng cược hợp lệ",
     "agentRebateReport": "Đại lý toàn dân hoàn trả",
     "agentRebate": {
       "settlementDate": "Ngày tính toán",
