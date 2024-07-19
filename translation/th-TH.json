@@ -1902,9 +1902,9 @@
     "download": "Download QR Code",
     "notes": "Notes",
     "list1": "1.To quickly update your amount, please enter the 7-digit code shown above",
-    "list2": "2.Do not enter any other letters or characters beyond the 7 available digits (7901513).",
+    "list2": "2.Do not enter any other letters or characters beyond the 7 available digits.",
     "list3": "3.The amount cannot be modified.",
-    "list4": "4.If you do not use QR code scanning for payment, please enter the 7-digit code (7901513) in the transfer description of your bank app.",
+    "list4": "4.If you do not use QR code scanning for payment, please enter the 7-digit code in the transfer description of your bank app.",
     "expired": "The QR code is expired."
   }
 }

@@ -1899,10 +1899,10 @@
     "warn": "Đây là mã QR một lần và chỉ có giá trị cho giao dịch này. Công ty sẽ không bồi thường bất kỳ tổn thất nào nếu bạn sử dụng nó để thanh toán nhiều lần.",
     "download": "Tải xuống mã QR",
     "notes": "GHI CHÚ",
-    "list1": "1.Để số tiền của bạn được cập nhật nhanh chóng, vui lòng nhập mã gồm 7 chữ số(7901513) chính xác như hình trên.",
-    "list2": "2.Không nhập thêm bất kỳ chữ cái hoặc ký tự nào ngoài 7 ký tự có sẵn (7901513).",
+    "list1": "1.Để số tiền của bạn được cập nhật nhanh chóng, vui lòng nhập mã gồm 7 chữ số chính xác như hình trên.",
+    "list2": "2.Không nhập thêm bất kỳ chữ cái hoặc ký tự nào ngoài 7 ký tự có sẵn.",
     "list3": "3.Số tiền không thể được sửa đổi.",
-    "list4": "4.Vui lòng điền mã gồm 7 chữ số (7901513) vào phần mô tả chuyển khoản trong ứng dụng ngân hàng của bạn nếu bạn không sử dụng quét QRcode để thanh toán",
+    "list4": "4.Vui lòng điền mã gồm 7 chữ số vào phần mô tả chuyển khoản trong ứng dụng ngân hàng của bạn nếu bạn không sử dụng quét QRcode để thanh toán",
     "expired": "Mã QR đã hết hạn."
   }
 }
