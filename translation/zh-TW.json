@@ -1928,5 +1928,22 @@
       "notYetSet": "未設定",
       "notYetVerified": "未認證"
     }
+  },
+  "s88pay": {
+    "paymentAmount": "支付金額",
+    "scanToPay": "掃碼支付",
+    "remainingTime": "剩餘時間",
+    "accountNumber": "帳號",
+    "bank": "銀行",
+    "accountName": "帳戶名稱",
+    "recordingContent": "錄製內容（重要）",
+    "warn": "此二維碼為一次性二維碼，僅對本次交易有效。若您使用其多次付款造成任何損失，本公司將不予賠償。",
+    "download": "下載二維碼",
+    "notes": "筆記",
+    "list1": "1.為了快速更新您的金額，請輸入如上所示的 {matchCodeLength} 位數代碼。",
+    "list2": "2.請勿輸入超出 {matchCodeLength} 個可用字元的任何其他字母或字元。",
+    "list3": "3.金額無法修改。",
+    "list4": "4.如果您不使用二維碼掃描付款，請在銀行應用程式的轉帳說明中輸入 {matchCodeLength} 位代碼",
+    "expired": "您的二維碼已過期。"
   }
 }
