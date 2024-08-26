@@ -528,7 +528,7 @@
     },
     "whatsapp": {
       "msgInvalidWhatsapp": "Whatsapp賬號格式不正確",
-      "plsEnterWhatsapp": "請輸入Whatsapp賬號格式不正確賬號",
+      "plsEnterWhatsapp": "請輸入Whatsapp賬號格式",
       "whatsappAccount": "Whatsapp賬號"
     },
     "zalo": {

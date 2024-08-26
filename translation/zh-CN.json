@@ -533,7 +533,7 @@
     },
     "whatsapp": {
       "msgInvalidWhatsapp": "Whatsapp账号格式不正确",
-      "plsEnterWhatsapp": "请输入Whatsapp账号格式不正确账号",
+      "plsEnterWhatsapp": "请输入Whatsapp账号格式",
       "whatsappAccount": "Whatsapp账号",
       "toEdit": "如需修改Whatsapp账号，请点击"
     },
