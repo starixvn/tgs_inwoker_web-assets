@@ -91,6 +91,7 @@
     "msgInvalidConfirmPass": "Kata sandi konfirmasi tidak cocok",
     "msgInvalidOldPass": "Kata Sandi Lama Tidak Valid",
     "msgRegisterUserNameInvalid": "Panjang akun harus antara 6 - 16 karakter dan harus berupa angka atau huruf kecil.",
+	"msgRegisterUserNameInvalidOri": "Panjang akun harus antara 6 dan 16 digit, dan harus terdiri dari angka, huruf, atau kombinasinya.",
     "msgRegisterPassInvalid": "Panjang kata sandi harus antara 6 dan 20 digit",
     "msgRegisterPassMatchInvalid": "Password harus sama dengan password yang dikonfirmasi",
     "msgRegisterTermAndCondition": "Harap konfirmasi bahwa Anda telah membaca syarat dan ketentuan kami",
