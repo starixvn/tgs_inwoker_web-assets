@@ -186,7 +186,8 @@
     "qq": "Akun QQ",
     "donotshowagain": "Jangan tampilkan lagi",
     "hello": "Halo",
-    "wagering": "rollover"
+    "wagering": "rollover",
+    "reward": "Hadiah"
   },
   "affiliate": {
     "title": "Afiliasi",
@@ -1943,5 +1944,12 @@
     "list3": "3.The amount cannot be modified.",
     "list4": "4.If you do not use QR code scanning for payment, please enter the {matchCodeLength}-digit code in the transfer description of your bank app.",
     "expired": "The QR code is expired."
+  },
+  "reward": {
+    "milestone": "Tonggak pencapaian",
+    "rules": "Aturan",
+    "date": "Tanggal",
+    "incompleteMilestones": "Ikhtisar tonggak pencapaian",
+    "incomplete": "Belum selesai"
   }
 }

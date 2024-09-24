@@ -183,7 +183,8 @@
     "qq": "QQ賬號",
     "donotshowagain": "不再顯示",
     "hello": "Hello",
-    "wagering": "流水"
+    "wagering": "流水",
+    "reward": "獎勵"
   },
   "affiliate": {
     "title": "推廣賺錢",
@@ -1945,5 +1946,12 @@
     "list3": "3.金額無法修改。",
     "list4": "4.如果您不使用二維碼掃描付款，請在銀行應用程式的轉帳說明中輸入 {matchCodeLength} 位代碼",
     "expired": "您的二維碼已過期。"
+  },
+  "reward": {
+    "milestone": "里程碑",
+    "rules": "規則",
+    "date": "日期",
+    "incompleteMilestones": "里程碑總攬",
+    "incomplete": "未完成"
   }
 }

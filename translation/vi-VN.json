@@ -186,7 +186,8 @@
     "qq": "Tài khoản QQ",
     "donotshowagain": "Không hiển thị nữa",
     "hello": "Hello",
-    "wagering": "Yêu cầu tiền cược"
+    "wagering": "Yêu cầu tiền cược",
+    "reward": "Phần thưởng"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -1905,5 +1906,12 @@
     "list3": "3.Số tiền không thể được sửa đổi.",
     "list4": "4.Vui lòng điền mã gồm {matchCodeLength} chữ số vào phần mô tả chuyển khoản trong ứng dụng ngân hàng của bạn nếu bạn không sử dụng quét QRcode để thanh toán",
     "expired": "Mã QR đã hết hạn."
+  },
+  "reward": {
+    "milestone": "Cột mốc",
+    "rules": "Quy tắc",
+    "date": "Ngày",
+    "incompleteMilestones": "Các cột mốc chưa hoàn thành",
+    "incomplete": "Chưa hoàn thành"
   }
 }

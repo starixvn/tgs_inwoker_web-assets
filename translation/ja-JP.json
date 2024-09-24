@@ -183,7 +183,8 @@
     "qq": "QQアカウント",
     "donotshowagain": "再表示しない",
     "hello": "こんにちは",
-    "wagering": "ベッティング"
+    "wagering": "ベッティング",
+    "reward": "報酬"
   },
   "affiliate": {
     "title": "紹介でお金を稼ぐ",
@@ -1942,5 +1943,12 @@
     "list3": "3.The amount cannot be modified.",
     "list4": "4.If you do not use QR code scanning for payment, please enter the {matchCodeLength}-digit code in the transfer description of your bank app.",
     "expired": "The QR code is expired."
+  },
+  "reward": {
+    "milestone": "マイルストーン",
+    "rules": "ルール",
+    "date": "日付",
+    "incompleteMilestones": "マイルストーンの概要",
+    "incomplete": "未完了"
   }
 }

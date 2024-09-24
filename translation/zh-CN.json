@@ -182,7 +182,8 @@
     "qq": "QQ账号",
     "donotshowagain": "不再显示",
     "hello": "Hello",
-    "wagering": "流水"
+    "wagering": "流水",
+    "reward": "奖励"
   },
   "affiliate": {
     "title": "推广赚钱",
@@ -1968,5 +1969,12 @@
     "list3": "3. 金额无法修改。",
     "list4": "4. 如果您不使用二维码扫描付款，请在银行应用程式的转帐说明中输入 {matchCodeLength} 位代码",
     "expired": "您的二维码已过期。"
+  },
+  "reward": {
+    "milestone": "里程碑",
+    "rules": "规则",
+    "date": "日期",
+    "incompleteMilestones": "里程碑总览",
+    "incomplete": "未完成"
   }
 }

@@ -180,7 +180,8 @@
     "qq": "QQ கணக்கு",
     "donotshowagain": "Don't show again",
     "hello": "Hello",
-    "wagering": "Wagering"
+    "wagering": "Wagering",
+    "reward": "Reward"
   },
   "affiliate": {
     "title": "தொடர்புடைய",
@@ -1942,5 +1943,12 @@
     "list3": "3.The amount cannot be modified.",
     "list4": "4.If you do not use QR code scanning for payment, please enter the {matchCodeLength}-digit code in the transfer description of your bank app.",
     "expired": "The QR code is expired."
+  },
+  "reward": {
+    "milestone": "Milestone",
+    "rules": "Rules",
+    "date": "Date",
+    "incompleteMilestones": "Incomplete milestones",
+    "incomplete": "Incomplete"
   }
 }
