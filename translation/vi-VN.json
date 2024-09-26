@@ -187,7 +187,8 @@
     "donotshowagain": "Không hiển thị nữa",
     "hello": "Hello",
     "wagering": "Yêu cầu tiền cược",
-    "reward": "Phần thưởng"
+    "reward": "Phần thưởng",
+    "msgRegisterUserNameInvalidOri":"Tài khoản phải có độ dài từ 6 đến 16 chữ số và phải bao gồm số, chữ cái hoặc kết hợp."
   },
   "affiliate": {
     "title": "Khuyến mãi",
