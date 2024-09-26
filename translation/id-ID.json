@@ -1950,6 +1950,7 @@
     "rules": "Aturan",
     "date": "Tanggal",
     "incompleteMilestones": "Ikhtisar tonggak pencapaian",
+    "validBet": "Taruhan Valid",
     "incomplete": "Belum selesai"
   }
 }

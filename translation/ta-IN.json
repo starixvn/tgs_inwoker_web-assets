@@ -1949,6 +1949,7 @@
     "rules": "Rules",
     "date": "Date",
     "incompleteMilestones": "Incomplete milestones",
+    "validBet": "Valid Bet",
     "incomplete": "Incomplete"
   }
 }
