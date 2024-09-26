@@ -90,6 +90,7 @@
     "msgInvalidConfirmPass": "Mật khẩu xác nhận không hợp lệ",
     "msgInvalidOldPass": "Mật khẩu cũ không hợp lệ",
     "msgRegisterUserNameInvalid": "Độ dài tài khoản phải từ 6 đến 16 chữ số và phải là số hoặc chữ thường.",
+	"msgRegisterUserNameInvalidOri":"Độ dài tài khoản phải từ 6 đến 16 chữ số và phải bao gồm số, chữ cái hoặc kết hợp.",
     "msgRegisterPassInvalid": "Độ dài mật khẩu phải từ 6 đến 20 chữ số",
     "msgRegisterPassMatchInvalid": "Mật khẩu phải giống với mật khẩu đã xác nhận",
     "msgRegisterTermAndCondition": "Vui lòng xác nhận rằng bạn đã đọc các điều khoản và điều kiện của chúng tôi",
@@ -187,8 +188,7 @@
     "donotshowagain": "Không hiển thị nữa",
     "hello": "Hello",
     "wagering": "Yêu cầu tiền cược",
-    "reward": "Phần thưởng",
-    "msgRegisterUserNameInvalidOri":"Tài khoản phải có độ dài từ 6 đến 16 chữ số và phải bao gồm số, chữ cái hoặc kết hợp."
+    "reward": "Phần thưởng"
   },
   "affiliate": {
     "title": "Khuyến mãi",
