@@ -85,6 +85,7 @@
     "msgInvalidConfirmPass": "पुष्टि पासवर्ड मेल नहीं खाता",
     "msgInvalidOldPass": "अमान्य पुराना पासवर्ड",
     "msgRegisterUserNameInvalid": "खाते की लंबाई 6 से 16 अंकों के बीच होनी चाहिए और इसमें संख्याएं, अक्षर या संयोजन शामिल होना चाहिए",
+	"msgRegisterUserNameInvalidOri": "खाते की लंबाई 6 से 16 अंकों के बीच होनी चाहिए और इसमें संख्याएं, अक्षर या संयोजन शामिल होना चाहिए",
     "msgRegisterPassInvalid": "पासवर्ड की लंबाई 6 से 20 अंकों के बीच होनी चाहिए",
     "msgRegisterPassMatchInvalid": "पासवर्ड पुष्टि किए गए पासवर्ड के समान ही होना चाहिए",
     "msgRegisterTermAndCondition": "कृपया पुष्टि करें कि आपने हमारे नियम और शर्तें पढ़ ली हैं",

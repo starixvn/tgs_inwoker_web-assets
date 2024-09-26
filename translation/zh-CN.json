@@ -86,6 +86,7 @@
     "msgInvalidConfirmPass": "两次密码要一致",
     "msgInvalidOldPass": "旧密码不正确",
     "msgRegisterUserNameInvalid": "账户长度必须是在6到16位之间，且必须为数字或小写字母",
+	"msgRegisterUserNameInvalidOri": "账户长度必须在6到16位数字之间，且必须由数字、字母或组合组成",
     "msgRegisterPassInvalid": "密码长度必须在6到20位数字之间",
     "msgRegisterPassMatchInvalid": "密码必须与确认密码相同",
     "msgRegisterTermAndCondition": "请确认您已阅读我们的条款和条件",
