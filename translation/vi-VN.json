@@ -51,6 +51,7 @@
     "pleaseEnterAccountName": "Vui lòng nhập tên tài khoản của bạn",
     "noReachMin": "Số điện thoại di động được đặt thành 8 đến {maxlength} chữ số",
     "noReachLength": "Số điện thoại di động được đặt{maxlength} chữ số",
+	"noReachZeroStartPhone": "Trường số điện thoại phải nhập {maxlength} chữ số và chữ số đầu tiên phải là 0.",
     "upload": "tải tệp lên",
     "upload2": "Nhấn để chọn tập tin",
     "title": "{brand} | Sòng bạc trực tuyến lớn nhất & đáng tin cậy nhất",

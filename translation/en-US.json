@@ -49,6 +49,7 @@
     "pleaseEnterAccountName": "Please enter your real name",
     "noReachMin": "The mobile number is set to 8 to {maxlength} digits",
     "noReachLength": "Please enter {maxlength} characters, only numbers allowed.",
+	"noReachZeroStartPhone": "The phone number field must contain {maxlength} digits, and the first digit must be 0.",
     "upload": "Upload document",
     "upload2": "Click to choose file",
     "title": "{brand} | The Biggest & Most Trusted Online Casino",
