@@ -1978,6 +1978,8 @@
     "date": "日期",
     "incompleteMilestones": "里程碑总览",
     "validBet": "有效投注",
-    "incomplete": "未完成"
+    "incomplete": "未完成",
+    "bonus": "奖金"
+
   }
 }

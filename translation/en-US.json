@@ -1971,6 +1971,8 @@
     "date": "Date",
     "incompleteMilestones": "Incomplete milestones",
     "validBet": "Valid Bet",
-    "incomplete": "Incomplete"
+    "incomplete": "Incomplete",
+    "bonus": "Bonus"
+
   }
 }

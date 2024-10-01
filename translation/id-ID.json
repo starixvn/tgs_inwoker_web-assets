@@ -1952,6 +1952,8 @@
     "date": "Tanggal",
     "incompleteMilestones": "Ikhtisar tonggak pencapaian",
     "validBet": "Taruhan Valid",
-    "incomplete": "Belum selesai"
+    "incomplete": "Belum selesai",
+    "bonus": "Bonus"
+
   }
 }
