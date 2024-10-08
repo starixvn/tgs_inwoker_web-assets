@@ -1962,6 +1962,8 @@
     "date": "Petsa",
     "incompleteMilestones": "Mga hindi pa natapos na milestone",
     "validBet": "Wastong taya",
-    "incomplete": "Hindi pa natapos"
+    "incomplete": "Hindi pa natapos",
+    "bonus": "Bonus"
+
   }
 }

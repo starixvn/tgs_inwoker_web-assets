@@ -51,6 +51,7 @@
     "pleaseEnterAccountName": "Vui lòng nhập tên tài khoản của bạn",
     "noReachMin": "Số điện thoại di động được đặt thành 8 đến {maxlength} chữ số",
     "noReachLength": "Số điện thoại di động được đặt{maxlength} chữ số",
+	"noReachZeroStartPhone": "Trường số điện thoại phải nhập {maxlength} chữ số và chữ số đầu tiên phải là 0.",
     "upload": "tải tệp lên",
     "upload2": "Nhấn để chọn tập tin",
     "title": "{brand} | Sòng bạc trực tuyến lớn nhất & đáng tin cậy nhất",
@@ -90,6 +91,7 @@
     "msgInvalidConfirmPass": "Mật khẩu xác nhận không hợp lệ",
     "msgInvalidOldPass": "Mật khẩu cũ không hợp lệ",
     "msgRegisterUserNameInvalid": "Độ dài tài khoản phải từ 6 đến 16 chữ số và phải là số hoặc chữ thường.",
+	"msgRegisterUserNameInvalidOri":"Độ dài tài khoản phải từ 6 đến 16 chữ số và phải bao gồm số, chữ cái hoặc kết hợp.",
     "msgRegisterPassInvalid": "Độ dài mật khẩu phải từ 6 đến 20 chữ số",
     "msgRegisterPassMatchInvalid": "Mật khẩu phải giống với mật khẩu đã xác nhận",
     "msgRegisterTermAndCondition": "Vui lòng xác nhận rằng bạn đã đọc các điều khoản và điều kiện của chúng tôi",
@@ -187,8 +189,7 @@
     "donotshowagain": "Không hiển thị nữa",
     "hello": "Hello",
     "wagering": "Yêu cầu tiền cược",
-    "reward": "Phần thưởng",
-    "msgRegisterUserNameInvalidOri":"Tài khoản phải có độ dài từ 6 đến 16 chữ số và phải bao gồm số, chữ cái hoặc kết hợp."
+    "reward": "Phần thưởng"
   },
   "affiliate": {
     "title": "Khuyến mãi",
@@ -1914,6 +1915,8 @@
     "date": "Ngày",
     "validBet": "Cược hợp lệ",
     "incompleteMilestones": "Các cột mốc chưa hoàn thành",
-    "incomplete": "Chưa hoàn thành"
+    "incomplete": "Chưa hoàn thành",
+    "bonus": "Tiền thưởng"
+
   }
 }
