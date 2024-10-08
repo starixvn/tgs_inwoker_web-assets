@@ -88,7 +88,7 @@
     "msgInvalidConfirmPass": "The confirm password does not match",
     "msgInvalidOldPass": "Invalid Old Password",
     "msgRegisterUserNameInvalid": "The account length must be between 6 to 16 characters with numbers or lowercase letters.",
-	"msgRegisterUserNameInvalidOri": "The account length must be between 6 and 16 digits, and must consist of numbers, letters or a combination.",
+    "msgRegisterUserNameInvalidOri": "The account length must be between 6 and 16 digits, and must consist of numbers, letters or a combination.",
     "msgRegisterPassInvalid": "The password length must be between 6 and 20 digits",
     "msgRegisterPassMatchInvalid": "The password must be the same as the confirmed password",
     "msgRegisterTermAndCondition": "Please confirm you’ve read our terms and conditions",

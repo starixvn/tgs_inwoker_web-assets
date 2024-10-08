@@ -87,6 +87,7 @@
     "msgInvalidConfirmPass": "Hindi tugma ang confirm password",
     "msgInvalidOldPass": "Di-wastong Lumang Password",
     "msgRegisterUserNameInvalid": "Ang haba ng pangalan ay mula 6 hangang 16 na karakter at dapat ito ay naglalaman ng mga maliliit na letra o numero.",
+    "msgRegisterUserNameInvalidOri": "Ang haba ng account ay dapat nasa pagitan ng 6 at 16 na mga digit, at dapat binubuo ng mga numero, letra, o kombinasyon ng dalawa.",
     "msgRegisterPassInvalid": "Ang haba ng password ay dapat nasa pagitan ng 6 at 20 digit",
     "msgRegisterPassMatchInvalid": "Ang password ay dapat na kapareho ng nakumpirma na password",
     "msgRegisterTermAndCondition": "Pakikumpirma na nabasa mo ang aming mga tuntunin at kundisyon",

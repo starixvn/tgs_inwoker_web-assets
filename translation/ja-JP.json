@@ -87,6 +87,7 @@
     "msgInvalidConfirmPass": "パスワードが一致しません",
     "msgInvalidOldPass": "無効な古いパスワード",
     "msgRegisterUserNameInvalid": "アカウント名は6〜16文字で、数字または小文字である必要があります",
+    "msgRegisterUserNameInvalidOri": "アカウント名は6〜16文字で、数字、英字、またはその組み合わせである必要があります",
     "msgRegisterPassInvalid": "パスワードは6〜20文字である必要があります",
     "msgRegisterPassMatchInvalid": "パスワードが一致しません",
     "msgRegisterTermAndCondition": "利用規約をお読みいただく必要があります",
